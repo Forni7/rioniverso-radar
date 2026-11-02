@@ -1,0 +1,38 @@
+{
+ "ed27b2587d": {
+  "titular": "China ya tiene calendario para pisar la Luna: antes de 2030",
+  "resumen": "China ha detallado los pasos hasta su primer alunizaje tripulado, que sigue apuntando a antes de 2030. Primero probará en 2027 su nueva nave Mengzhou sin tripulación en órbita terrestre; en 2028, el cohete Long March 10 y el módulo lunar Lanyue; y en 2029, un ensayo completo sin astronautas en órbita lunar. Bajarán dos taikonautas a la superficie.",
+  "por_que": "Después de 50 años, dos países compiten a la vez por volver a la Luna: Estados Unidos apunta a 2028 con Artemis IV y China a antes de 2030.",
+  "datos_clave": [
+   "Alunizaje tripulado 'antes de 2030' (Global Times, medio oficial chino)",
+   "2 lanzamientos de Long March 10: uno con la nave Mengzhou y otro con el módulo Lanyue, que se juntan en órbita lunar",
+   "Tripulación de 3 taikonautas; 2 bajan a la superficie",
+   "Ensayos previos sin tripulación en 2027, 2028 y 2029 (según la cobertura del simposio del 31 oct)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Global Times",
+    "u": "https://www.globaltimes.cn/page/202610/1373353.shtml"
+   },
+   {
+    "n": "Northeast Times",
+    "u": "https://northeasttimes.com/2026/11/02/china-lays-out-four-missions-leading-to-a-crewed-moon-landing/"
+   },
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+   }
+  ],
+  "potencial": 8,
+  "tono": "noticia",
+  "fotograma1": "La Luna gigante con dos banderas acercándose desde lados opuestos (EE. UU. y China) y un contador '2028 vs 2030'",
+  "gancho": "La carrera a la Luna ha vuelto… y esta vez hay dos corredores.",
+  "guion": "China acaba de enseñar su plan para pisar la Luna antes de 2030. Va por pasos: en 2027 prueba su nave nueva, Mengzhou, sin nadie dentro. En 2028, el cohete gigante y el módulo lunar. En 2029, un ensayo completo en órbita de la Luna, todavía sin astronautas. Y después, dos personas bajarán a la superficie. Mientras tanto, Estados Unidos apunta a 2028 con Artemis IV. Más de 50 años después, vuelve la carrera.",
+  "cierre": "¿Quién crees que llega primero: Estados Unidos o China?",
+  "grafismos": "Luna con dos naves llegando desde lados opuestos; línea temporal 2027 → 2028 → 2029 → ¿2030? con iconos de cada prueba; los dos cohetes despegando y juntándose en órbita lunar; dos astronautas bajando la escalera; marcador final EE. UU. 2028 vs China <2030",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No digas una fecha exacta del alunizaje chino: el anuncio oficial dice 'antes de 2030'. Las fechas de los ensayos (2027-2029) salen de la cobertura del simposio, así que dilas como 'según su plan'.",
+  "analizado": "2026-11-03T00:30:00Z"
+ }
+}

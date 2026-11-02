@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Radar Rioniverso</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛰️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter+Tight:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --fondo:#0e1240; --fondo2:#2a1d7a; --violeta:#7c4dff; --cian:#2ee6d6; --naranja:#ff6b2c;
+  --amarillo:#ffd23f; --rojo:#ff4060; --verde:#2fd27a; --blanco:#f4f6ff; --gris:#8c94b4;
+  --carta:rgba(255,255,255,.96); --tinta:#14173a; --tinta2:#555b80; --borde:rgba(20,23,58,.08);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:"Inter Tight",system-ui,sans-serif;color:var(--blanco);min-height:100vh;
+  background:radial-gradient(1200px 700px at 85% -10%,rgba(46,230,214,.35),transparent 60%),
+             radial-gradient(900px 600px at -10% 20%,rgba(255,107,44,.25),transparent 60%),
+             radial-gradient(1000px 800px at 50% 110%,rgba(124,77,255,.55),transparent 60%),
+             linear-gradient(160deg,var(--fondo),var(--fondo2));background-attachment:fixed}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.55;
+  background-image:radial-gradient(1.2px 1.2px at 20px 30px,#fff,transparent),radial-gradient(1px 1px at 120px 80px,#fff,transparent),
+  radial-gradient(1.5px 1.5px at 200px 160px,#fff,transparent),radial-gradient(1px 1px at 60px 200px,#cfe,transparent);
+  background-size:260px 260px}
+.envoltorio{max-width:1100px;margin:0 auto;padding:20px 16px 80px;position:relative}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px;margin-bottom:18px}
+h1{font-family:Anton,sans-serif;font-weight:400;font-size:clamp(34px,7vw,56px);letter-spacing:.5px;line-height:.95;
+  text-shadow:0 0 30px rgba(46,230,214,.45)}
+h1 span{color:var(--cian)}
+.sub{color:#c9cdf0;font-size:14px;margin-top:6px}
+.vivo{display:inline-flex;align-items:center;gap:6px;font-weight:700;font-size:13px;background:rgba(255,255,255,.12);
+  padding:6px 12px;border-radius:99px;border:1px solid rgba(255,255,255,.18)}
+.vivo i{width:8px;height:8px;border-radius:50%;background:var(--verde);box-shadow:0 0 10px var(--verde);animation:lat 1.6s infinite}
+.vivo.viejo i{background:var(--naranja);box-shadow:0 0 10px var(--naranja)}
+@keyframes lat{50%{opacity:.3}}
+nav.pestanas{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px;margin-bottom:12px;scrollbar-width:none}
+nav.pestanas button{flex:none;font:700 15px "Inter Tight";color:var(--blanco);background:rgba(255,255,255,.1);
+  border:1px solid rgba(255,255,255,.16);padding:10px 16px;border-radius:12px;cursor:pointer}
+nav.pestanas button.on{background:var(--blanco);color:var(--tinta);box-shadow:0 6px 24px rgba(46,230,214,.35)}
+nav.pestanas b{display:inline-block;min-width:20px;margin-left:6px;padding:1px 6px;border-radius:99px;background:var(--violeta);color:#fff;font-size:12px}
+.filtros{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
+.filtros input[type=search]{flex:1 1 220px;font:500 15px "Inter Tight";padding:11px 14px;border-radius:12px;border:none;
+  background:rgba(255,255,255,.95);color:var(--tinta);outline:none}
+.chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;width:100%}
+.chip{flex:none;font:600 13px "Inter Tight";padding:7px 12px;border-radius:99px;cursor:pointer;color:var(--blanco);
+  background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);white-space:nowrap}
+.chip.on{background:var(--cian);color:var(--tinta);border-color:var(--cian)}
+.interruptor{display:flex;align-items:center;gap:6px;font-size:14px;font-weight:600;cursor:pointer;user-select:none}
+.interruptor input{accent-color:var(--naranja);width:18px;height:18px}
+.lista{display:grid;gap:12px}
+.carta{background:var(--carta);color:var(--tinta);border-radius:18px;padding:16px;box-shadow:0 10px 30px rgba(10,10,50,.25);
+  border:1px solid var(--borde);position:relative;scroll-margin-top:20px;transition:transform .2s}
+.carta.destacada{outline:3px solid var(--cian);box-shadow:0 0 0 6px rgba(46,230,214,.25),0 10px 30px rgba(10,10,50,.25)}
+.carta.desc{opacity:.5}
+.fila{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px;color:var(--tinta2);font-weight:600}
+.etq{padding:3px 9px;border-radius:99px;background:#eef0ff;color:#3b2fb0;font-weight:700}
+.etq.fuego{background:#fff0e8;color:#d24a10}
+.etq.of{background:#e6fbf8;color:#0b8a7e}
+.etq.est-hago{background:#ffe9f0;color:#c41d4a}.etq.est-fav{background:#fff7d6;color:#9a6b00}
+.carta h3{font-size:18.5px;line-height:1.25;margin:9px 0 4px;font-weight:800}
+.carta h3 a{color:inherit;text-decoration:none}
+.orig{font-size:13px;color:var(--tinta2);font-style:italic;margin-bottom:6px}
+.resumen{font-size:14.5px;line-height:1.5;color:#2c3060}
+.contenido{display:grid;grid-template-columns:1fr;gap:12px}
+.contenido.con-img{grid-template-columns:1fr 150px}
+.contenido img{width:150px;height:100px;object-fit:cover;border-radius:12px;background:#eef}
+.acciones{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.btn{font:700 13px "Inter Tight";padding:8px 12px;border-radius:10px;border:1px solid var(--borde);background:#f2f3fb;color:var(--tinta);
+  cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:5px}
+.btn.on{background:var(--tinta);color:#fff}
+.btn.primario{background:linear-gradient(135deg,var(--violeta),#5a2fe0);color:#fff;border:none}
+.fuentes{font-size:12.5px;color:var(--tinta2);margin-top:8px}
+.fuentes a{color:#3b2fb0;font-weight:600}
+.analisis{margin-top:12px;border-radius:14px;padding:14px;background:linear-gradient(135deg,#f4f0ff,#e8fdfb);border:1px solid #e0dbff}
+.analisis h4{font-family:Anton,sans-serif;font-weight:400;font-size:17px;letter-spacing:.4px;color:#3b2fb0;margin-bottom:8px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.pot{display:inline-flex;align-items:center;gap:6px;font-family:"Inter Tight";font-weight:800;font-size:13px;color:var(--tinta)}
+.pot .barra{width:80px;height:8px;border-radius:9px;background:#dcdff3;overflow:hidden}
+.pot .barra i{display:block;height:100%;background:linear-gradient(90deg,var(--cian),var(--violeta),var(--naranja))}
+.verif{font-family:"Inter Tight";font-size:12px;font-weight:800;padding:3px 9px;border-radius:99px}
+.verif.confirmado{background:#dcfbe9;color:#0a7a3e}.verif.anunciado{background:#fff4cc;color:#8a6400}.verif.rumor{background:#ffe1e6;color:#b0102f}
+.analisis dl{display:grid;grid-template-columns:110px 1fr;gap:6px 10px;font-size:14px;line-height:1.45}
+.analisis dt{font-weight:800;color:#3b2fb0}
+.analisis dd{color:#22264e}
+.gancho{font-weight:700;font-style:italic}
+.vacio{text-align:center;padding:50px 20px;color:#d7daf5;font-size:16px}
+.lanz{display:grid;grid-template-columns:90px 1fr;gap:14px;align-items:center}
+.lanz img{width:90px;height:90px;object-fit:cover;border-radius:14px;background:#eef}
+.cuenta{font-family:Anton,sans-serif;font-size:24px;color:var(--violeta);letter-spacing:.5px}
+.cuenta.pronto{color:var(--rojo)}
+.mas{display:block;margin:16px auto 0;font:700 15px "Inter Tight";padding:12px 22px;border-radius:12px;border:none;background:var(--blanco);color:var(--tinta);cursor:pointer}
+.aviso{font-size:12.5px;color:#c9cdf0;margin-top:22px;text-align:center;line-height:1.5}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(120px);background:var(--tinta);color:#fff;
+  padding:12px 18px;border-radius:12px;font-weight:700;transition:transform .3s;z-index:9}
+.toast.ver{transform:translateX(-50%) translateY(0)}
+@media (max-width:640px){
+  .contenido.con-img{grid-template-columns:1fr}
+  .contenido img{width:100%;height:160px;order:-1}
+  .analisis dl{grid-template-columns:1fr}
+  .analisis dt{margin-top:4px}
+  .lanz{grid-template-columns:64px 1fr}.lanz img{width:64px;height:64px}
+}
+</style>
+</head>
+<body>
+<div class="envoltorio">
+  <header>
+    <div>
+      <h1>RIONIVERSO <span>RADAR</span></h1>
+      <div class="sub">Noticias del espacio al instante, con la idea de vídeo ya pensada.</div>
+    </div>
+    <div class="vivo" id="vivo"><i></i><span>Cargando…</span></div>
+  </header>
+
+  <nav class="pestanas" id="pestanas">
+    <button data-p="noticias" class="on">📰 Noticias<b id="n-noticias">0</b></button>
+    <button data-p="ideas">🧠 Ideas de vídeo<b id="n-ideas">0</b></button>
+    <button data-p="lanz">🚀 Lanzamientos<b id="n-lanz">0</b></button>
+    <button data-p="lista">🎬 Mi lista<b id="n-lista">0</b></button>
+  </nav>
+
+  <div class="filtros" id="filtros">
+    <input type="search" id="buscar" placeholder="Buscar: Starship, Artemis, PLD, cometa…">
+    <label class="interruptor"><input type="checkbox" id="importantes"> 🔥 Solo importantes</label>
+    <label class="interruptor"><input type="checkbox" id="ocultarDesc" checked> Ocultar descartadas</label>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <main class="lista" id="lista"></main>
+  <button class="mas" id="mas" hidden>Ver más</button>
+  <p class="aviso">El radar revisa más de 20 fuentes cada ~10 minutos. Los titulares se traducen automáticamente: el texto original manda.<br>
+    Las fichas 🧠 las prepara Claude, que verifica los datos. Comprueba siempre las fuentes antes de grabar.</p>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const $ = s => document.querySelector(s);
+const estadoLocal = (() => { try { return JSON.parse(localStorage.getItem("rio-estado") || "{}"); } catch { return {}; } })();
+const guardarLocal = () => { try { localStorage.setItem("rio-estado", JSON.stringify(estadoLocal)); } catch {} };
+let NOT = [], ANA = {}, LANZ = {lista: []}, actualizado = null;
+let pest = "noticias", cat = "todas", visibles = 40, verStarlink = false;
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const hace = iso => {
+  const s = (Date.now() - new Date(iso)) / 1000;
+  if (s < 60) return "ahora mismo";
+  if (s < 3600) return "hace " + Math.round(s / 60) + " min";
+  if (s < 86400) return "hace " + Math.round(s / 3600) + " h";
+  return "hace " + Math.round(s / 86400) + " d";
+};
+const fecha = iso => new Date(iso).toLocaleString("es-ES", {timeZone: "Europe/Madrid", weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit"});
+const estadoDe = n => estadoLocal[n.id] || n.estado || "nuevo";
+function toast(t) { const el = $("#toast"); el.textContent = t; el.classList.add("ver"); setTimeout(() => el.classList.remove("ver"), 1800); }
+
+async function cargar() {
+  const sinCache = "?t=" + Date.now();
+  const leer = async (f, defecto) => { try { const r = await fetch("datos/" + f + sinCache); return r.ok ? await r.json() : defecto; } catch { return defecto; } };
+  [NOT, ANA, LANZ] = await Promise.all([leer("noticias.json", []), leer("analisis.json", {}), leer("lanzamientos.json", {lista: []})]);
+  const est = await leer("estado.json", {});
+  actualizado = est.ultima || null;
+  pintarVivo(); pintarChips(); pintar();
+  if (location.hash.length > 1 && !pintar.saltado) { pintar.saltado = true; saltar(location.hash.slice(1)); }
+}
+
+function pintarVivo() {
+  const el = $("#vivo");
+  if (!actualizado) { el.querySelector("span").textContent = "Sin datos aún"; return; }
+  const min = (Date.now() - new Date(actualizado)) / 60000;
+  el.classList.toggle("viejo", min > 40);
+  el.querySelector("span").textContent = "Radar activo · " + hace(actualizado);
+}
+
+function pintarChips() {
+  const cats = {};
+  NOT.forEach(n => cats[n.cat] = n.cat_txt);
+  const orden = ["es","starship","luna","iss","ciencia","marte","europa","china","empresas","defensa","general"];
+  const claves = Object.keys(cats).sort((a, b) => orden.indexOf(a) - orden.indexOf(b));
+  $("#chips").innerHTML = ['<button class="chip' + (cat === "todas" ? " on" : "") + '" data-c="todas">Todas</button>']
+    .concat(claves.map(c => '<button class="chip' + (cat === c ? " on" : "") + '" data-c="' + c + '">' + esc(cats[c]) + '</button>')).join("");
+}
+
+function filtrar(lista) {
+  const q = $("#buscar").value.trim().toLowerCase();
+  return lista.filter(n => {
+    if (cat !== "todas" && n.cat !== cat) return false;
+    if ($("#importantes").checked && n.imp < 7 && !(ANA[n.id] && ANA[n.id].potencial >= 7)) return false;
+    if ($("#ocultarDesc").checked && estadoDe(n) === "desc" && pest !== "lista") return false;
+    if (q) {
+      const a = ANA[n.id] || {};
+      const t = (n.titulo + " " + n.titulo_es + " " + n.resumen_es + " " + n.fuente + " " + (a.titular || "") + " " + (a.resumen || "")).toLowerCase();
+      if (!t.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function cartaNoticia(n) {
+  const a = ANA[n.id], st = estadoDe(n);
+  const fuego = n.imp >= 7 ? '<span class="etq fuego">🔥 Importante</span>' : "";
+  const of = n.oficial ? '<span class="etq of">Fuente oficial</span>' : "";
+  const est = st !== "nuevo" ? '<span class="etq est-' + st + '">' + ({hago:"🎬 Lo hago",fav:"⭐ Guardada",desc:"🗑️ Descartada"})[st] + '</span>' : "";
+  const img = n.img ? '<img loading="lazy" src="' + esc(n.img) + '" alt="" onerror="this.remove()">' : "";
+  const otras = n.fuentes.length > 1 ? '<div class="fuentes">También en: ' + n.fuentes.slice(1).map(f => '<a target="_blank" rel="noopener" href="' + esc(f.u) + '">' + esc(f.n) + '</a>').join(" · ") + "</div>" : "";
+  const b = (k, t) => '<button class="btn' + (st === k ? " on" : "") + '" data-e="' + k + '" data-id="' + n.id + '">' + t + "</button>";
+  return '<article class="carta' + (st === "desc" ? " desc" : "") + '" id="' + n.id + '">' +
+    '<div class="fila"><span class="etq">' + esc(n.cat_txt) + "</span>" + fuego + of + est + "<span>" + esc(n.fuente) + " · " + hace(n.t) + "</span></div>" +
+    '<div class="contenido' + (img ? " con-img" : "") + '"><div>' +
+    '<h3><a target="_blank" rel="noopener" href="' + esc(n.url) + '">' + esc(a && a.titular || n.titulo_es) + "</a></h3>" +
+    (n.titulo_es !== n.titulo ? '<div class="orig">' + esc(n.titulo) + "</div>" : "") +
+    '<p class="resumen">' + esc(n.resumen_es) + "</p>" + otras + "</div>" + img + "</div>" +
+    (a ? fichaAnalisis(n, a) : "") +
+    '<div class="acciones">' + b("hago", "🎬 Lo hago") + b("fav", "⭐ Guardar") + b("desc", "🗑️ Descartar") +
+    '<a class="btn" target="_blank" rel="noopener" href="' + esc(n.url) + '">🔗 Leer</a>' +
+    (a ? '<button class="btn primario" data-copiar="' + n.id + '">📋 Copiar guion</button>' : "") + "</div></article>";
+}
+
+function fichaAnalisis(n, a) {
+  const v = a.verificacion || "";
+  const fil = (t, x) => x ? "<dt>" + t + "</dt><dd>" + x + "</dd>" : "";
+  const fts = (a.fuentes || []).map(f => '<a target="_blank" rel="noopener" href="' + esc(f.u) + '">' + esc(f.n) + "</a>").join(" · ");
+  return '<div class="analisis"><h4>🧠 Ficha Rioniverso <span class="pot">Potencial ' + (a.potencial || "?") + '/10 <span class="barra"><i style="width:' + (a.potencial || 0) * 10 + '%"></i></span></span>' +
+    (v ? '<span class="verif ' + v + '">' + ({confirmado:"✅ Confirmado",anunciado:"🟡 Anunciado",rumor:"⚠️ Rumor"})[v] + "</span>" : "") + "</h4><dl>" +
+    fil("Resumen", esc(a.resumen)) + fil("Por qué importa", esc(a.por_que)) +
+    fil("Datos clave", (a.datos_clave || []).map(esc).join("<br>")) +
+    fil("Gancho", '<span class="gancho">“' + esc(a.gancho) + '”</span>') + fil("Grafismos", esc(a.grafismos)) +
+    fil("Caducidad", esc(a.caducidad)) + fil("⚠️ Ojo", esc(a.avisos)) + fil("Fuentes", fts) + "</dl></div>";
+}
+
+function guionTexto(n) {
+  const a = ANA[n.id];
+  return "## " + (a.titular || n.titulo_es) + "\n**Duración objetivo:** ~30 s · " + (a.tono || "") + "\n\n" +
+    "**🎬 FOTOGRAMA 1:** " + (a.fotograma1 || "") + "\n💬 **\"" + (a.gancho || "") + "\"**\n\n" +
+    "💬 \"" + (a.guion || "") + "\"\n\n💬 **CIERRE:** \"" + (a.cierre || "") + "\"\n\n" +
+    "**Grafismos:** " + (a.grafismos || "") + "\n**Fuentes:** " + (a.fuentes || []).map(f => f.n + ": " + f.u).join(" · ") + "\n" +
+    (a.avisos ? "> ⚠️ " + a.avisos + "\n" : "");
+}
+
+function cartaLanz(l) {
+  const net = new Date(l.net), ms = net - Date.now();
+  let cuenta = "";
+  if (ms > 0) {
+    const d = Math.floor(ms / 864e5), h = Math.floor(ms % 864e5 / 36e5), m = Math.floor(ms % 36e5 / 6e4);
+    cuenta = '<div class="cuenta' + (ms < 36e5 * 3 ? " pronto" : "") + '">T− ' + (d ? d + "d " : "") + h + "h " + m + "m</div>";
+  } else cuenta = '<div class="cuenta">' + esc(l.estado_txt) + "</div>";
+  const vid = l.videos && l.videos[0] ? '<a class="btn primario" target="_blank" rel="noopener" href="' + esc(l.videos[0]) + '">📺 Directo</a>' : "";
+  const estado = {Go:"🟢 Confirmado",TBC:"🟡 Por confirmar",TBD:"⚪ Sin fecha fija",Hold:"⏸️ En espera",Success:"✅ Éxito",Failure:"❌ Fallo",InFlight:"🔴 En vuelo"}[l.estado] || l.estado_txt;
+  return '<article class="carta lanz">' + (l.img ? '<img loading="lazy" src="' + esc(l.img) + '" alt="" onerror="this.remove()">' : "<div></div>") +
+    "<div>" + cuenta + '<h3 style="margin-top:2px">' + esc(l.nombre) + "</h3>" +
+    '<div class="fila"><span class="etq">' + esc(estado) + "</span><span>" + esc(l.proveedor) + " · " + esc(l.cohete) + "</span></div>" +
+    '<p class="resumen" style="margin-top:6px">🕒 ' + fecha(l.net) + (l.precision && l.precision !== "Minute" && l.precision !== "Second" ? " (aprox.)" : "") + " · 📍 " + esc(l.lugar) +
+    (l.prob ? " · ☀️ " + l.prob + "% meteo" : "") + "</p>" +
+    (l.mision ? '<p class="orig" style="margin-top:6px">' + esc(l.mision.slice(0, 220)) + "</p>" : "") +
+    '<div class="acciones">' + vid + "</div></div></article>";
+}
+
+function pintar() {
+  const cont = $("#lista");
+  const lista = filtrar(NOT);
+  const ideas = filtrar(NOT.filter(n => ANA[n.id])).sort((a, b) => (ANA[b.id].potencial || 0) - (ANA[a.id].potencial || 0));
+  const mia = filtrar(NOT.filter(n => ["hago", "fav"].includes(estadoDe(n))));
+  const lanz = (LANZ.lista || []).filter(l => verStarlink || !l.starlink).filter(l => new Date(l.net) > Date.now() - 6 * 36e5);
+  $("#n-noticias").textContent = NOT.length; $("#n-ideas").textContent = Object.keys(ANA).length;
+  $("#n-lanz").textContent = lanz.length; $("#n-lista").textContent = NOT.filter(n => ["hago", "fav"].includes(estadoDe(n))).length;
+  $("#filtros").style.display = pest === "lanz" ? "none" : "";
+  let html = "", total = 0;
+  if (pest === "lanz") {
+    html = '<label class="interruptor" style="margin-bottom:4px"><input type="checkbox" id="starlink"' + (verStarlink ? " checked" : "") + "> Mostrar lanzamientos de Starlink</label>" +
+      (lanz.map(cartaLanz).join("") || '<div class="vacio">No hay lanzamientos cargados todavía.</div>');
+  } else {
+    const fuente = pest === "ideas" ? ideas : pest === "lista" ? mia : lista;
+    total = fuente.length;
+    html = fuente.slice(0, visibles).map(cartaNoticia).join("") ||
+      '<div class="vacio">' + (pest === "ideas" ? "Todavía no hay fichas de Claude. Aparecerán tras el próximo análisis." :
+        pest === "lista" ? "Marca noticias con 🎬 o ⭐ (aquí o en Telegram) y aparecerán aquí." : "Nada con estos filtros.") + "</div>";
+  }
+  cont.innerHTML = html;
+  $("#mas").hidden = pest === "lanz" || total <= visibles;
+}
+
+function saltar(id) {
+  const n = NOT.find(x => x.id === id);
+  if (!n) return;
+  if (!document.getElementById(id)) { cat = "todas"; $("#buscar").value = ""; visibles = Math.max(visibles, NOT.indexOf(n) + 5); pintarChips(); pintar(); }
+  const el = document.getElementById(id);
+  if (el) { el.classList.add("destacada"); el.scrollIntoView({behavior: "smooth", block: "start"}); }
+}
+
+$("#pestanas").addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  pest = b.dataset.p; visibles = 40;
+  document.querySelectorAll("#pestanas button").forEach(x => x.classList.toggle("on", x === b));
+  pintar();
+});
+$("#chips").addEventListener("click", ev => { const c = ev.target.closest(".chip"); if (!c) return; cat = c.dataset.c; visibles = 40; pintarChips(); pintar(); });
+["#buscar", "#importantes", "#ocultarDesc"].forEach(s => $(s).addEventListener("input", () => { visibles = 40; pintar(); }));
+$("#mas").addEventListener("click", () => { visibles += 40; pintar(); });
+$("#lista").addEventListener("change", ev => { if (ev.target.id === "starlink") { verStarlink = ev.target.checked; pintar(); } });
+$("#lista").addEventListener("click", async ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  if (b.dataset.e) {
+    const n = NOT.find(x => x.id === b.dataset.id);
+    estadoLocal[n.id] = estadoDe(n) === b.dataset.e ? "nuevo" : b.dataset.e;
+    guardarLocal(); pintar();
+    toast(estadoLocal[n.id] === "nuevo" ? "Quitado" : "Guardado en este dispositivo");
+  } else if (b.dataset.copiar) {
+    const n = NOT.find(x => x.id === b.dataset.copiar);
+    try { await navigator.clipboard.writeText(guionTexto(n)); toast("Guion copiado ✨"); } catch { toast("No se pudo copiar"); }
+  }
+});
+window.addEventListener("hashchange", () => saltar(location.hash.slice(1)));
+cargar();
+setInterval(cargar, 5 * 60 * 1000);
+setInterval(() => { pintarVivo(); if (pest === "lanz") pintar(); }, 60 * 1000);
+</script>
+</body>
+</html>
