@@ -1,5 +1,130 @@
 [
  {
+  "id": "10edcb4b65",
+  "t": "2026-11-03T12:56:06+00:00",
+  "visto": "2026-11-03T13:02:22.246957+00:00",
+  "titulo": "GR SIG Seminar, 6 Nov 2026",
+  "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gr-sig-seminar-6-nov-2026/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/gr-sig-seminar-6-nov-2026/"
+   }
+  ],
+  "desc": "Gamma Ray SIG Seminar 12:00pm ET The post GR SIG Seminar, 6 Nov 2026 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Seminario GR SIG, 6 de noviembre de 2026",
+  "resumen_es": "Seminario SIG de rayos gamma 12:00 p.m. ET La publicación Seminario GR SIG, 6 de noviembre de 2026 apareció por primera vez en NASA Science.",
+  "tg": 20
+ },
+ {
+  "id": "ffbfdea562",
+  "t": "2026-11-03T12:53:51+00:00",
+  "visto": "2026-11-03T13:02:22.246151+00:00",
+  "titulo": "AAS Meeting 249, Jan 2027",
+  "url": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/aas-meeting-249-jan-2027/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/aas-meeting-249-jan-2027/"
+   }
+  ],
+  "desc": "AAS Meeting Joint with the Historical Astronomy Division, Salt Lake City, Utah 10-14 Jan 2027 The post AAS Meeting 249, Jan 2027 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Reunión AAS 249, enero de 2027",
+  "resumen_es": "Reunión conjunta de la AAS con la División de Astronomía Histórica, Salt Lake City, Utah, del 10 al 14 de enero de 2027 La publicación Reunión 249 de la AAS, enero de 2027 apareció por primera vez en NASA Science.",
+  "tg": 19
+ },
+ {
+  "id": "7ac9adebee",
+  "t": "2026-11-03T12:40:06+00:00",
+  "visto": "2026-11-03T13:02:22.243785+00:00",
+  "titulo": "Leviathan's sprawling stars challenge idea that dusty giants become compact galaxies",
+  "url": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html"
+   }
+  ],
+  "desc": "Astronomers using the James Webb Space Telescope (JWST) have confirmed a massive, dust-rich galaxy called Leviathan in the early universe. Seen when the universe was roughly 1.5 billion years old, the galaxy has its stars spread out rather than in a concentrated fashion. A paper, describing its strange stellar distribution, was posted to the arXiv preprint server on Oct. 19.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-ancient-dusty-galax.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Las extensas estrellas del Leviatán desafían la idea de que los gigantes polvorientos se convierten en galaxias compactas",
+  "resumen_es": "Los astrónomos que utilizan el Telescopio Espacial James Webb (JWST) han confirmado la existencia de una galaxia masiva y rica en polvo llamada Leviatán en el universo primitivo. Vista cuando el universo tenía aproximadamente 1.500 millones de años, la galaxia tiene sus estrellas dispersas en lugar de concentradas. El 19 de octubre se publicó un artículo que describe su extraña distribución estelar en el servidor de preimpresión arXiv.",
+  "tg": 18
+ },
+ {
+  "id": "91cc53aa85",
+  "t": "2026-11-03T11:00:00+00:00",
+  "visto": "2026-11-03T13:02:22.242870+00:00",
+  "titulo": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+  "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star"
+   }
+  ],
+  "desc": "From stellar pulsations to giant dust clouds and a mysterious companion, astronomers are piecing together why Betelguese keeps changing brightness.",
+  "img": "https://cdn.mos.cms.futurecdn.net/zRZUeNVZ8RwJC45UUuKY95-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "¿Por qué Betelgeuse sigue desapareciendo? El misterio de la estrella gigante de Orión",
+  "resumen_es": "Desde pulsaciones estelares hasta gigantescas nubes de polvo y una misteriosa compañera, los astrónomos están descifrando por qué Betelguese sigue cambiando de brillo.",
+  "tg": 17
+ },
+ {
+  "id": "5a8327c843",
+  "t": "2026-11-03T08:00:00+00:00",
+  "visto": "2026-11-03T13:02:22.240819+00:00",
+  "titulo": "Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle",
+  "url": "https://payloadspace.com/tumbleweed-raises-e6-9m-to-build-its-own-reentry-vehicle/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/tumbleweed-raises-e6-9m-to-build-its-own-reentry-vehicle/"
+   }
+  ],
+  "desc": "Vienna-based startup Tumbleweed is attempting to build an anti-gravity machine. The post Tumbleweed Raises €6.9M to Build its Own Reentry Vehicle appeared first on Payload .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Tumbleweed recauda 6,9 millones de euros para construir su propio vehículo de reentrada",
+  "resumen_es": "La startup Tumbleweed, con sede en Viena, está intentando construir una máquina antigravedad. La publicación Tumbleweed recauda 6,9 millones de euros para construir su propio vehículo de reentrada apareció por primera vez en Payload.",
+  "tg": 16
+ },
+ {
   "id": "dad84c615e",
   "t": "2026-11-03T05:05:00+00:00",
   "visto": "2026-11-03T05:40:39.639616+00:00",
