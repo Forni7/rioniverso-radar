@@ -100,10 +100,22 @@ def fecha_de(s):
 
 def leer_feed(nombre, url, oficial):
     try:
-        raiz = ET.fromstring(descargar(url))
+        crudo = descargar(url)
     except Exception as e:  # una fuente caída no debe parar el radar
         print("  ✗", nombre, url, type(e).__name__, e)
         return []
+    try:
+        raiz = ET.fromstring(crudo)
+    except ET.ParseError:
+        # Algunos feeds traen '&' sueltos, caracteres de control o entidades HTML: se limpian y se reintenta
+        txt = crudo.decode("utf-8", "replace")
+        txt = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", txt)
+        txt = re.sub(r"&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)", "&amp;", txt)
+        try:
+            raiz = ET.fromstring(txt.encode("utf-8"))
+        except ET.ParseError as e:
+            print("  ✗", nombre, url, "formato no válido:", e, "| empieza por:", txt[:80].replace("\n", " "))
+            return []
     items = []
     for el in raiz.iter():
         if local(el.tag) not in ("item", "entry"):
