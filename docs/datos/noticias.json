@@ -1,5 +1,155 @@
 [
  {
+  "id": "dad84c615e",
+  "t": "2026-11-03T05:05:00+00:00",
+  "visto": "2026-11-03T05:40:39.639616+00:00",
+  "titulo": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/"
+   }
+  ],
+  "desc": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "APOD: 3 de noviembre de 2026: cometa PanSTARR y meteorito arcoíris",
+  "resumen_es": "APOD Ciencia APOD APOD: 2026 3 de noviembre -… Archivo APOD de hoy Índice de envíos Buscar Calendario RSS Educación Acerca de Discutir APOD Astronomía Imagen del día ¡Descubre el cosmos! Cada día se presenta una imagen o fotografía diferente de nuestro fascinante universo, junto con una breve explicación escrita por un astrónomo profesional. El cometa PanSTARR y […]",
+  "tg": 14
+ },
+ {
+  "id": "8e21ccbfd5",
+  "t": "2026-11-03T05:01:00+00:00",
+  "visto": "2026-11-03T05:40:39.638568+00:00",
+  "titulo": "The Pacific’s Busy Storm Season",
+  "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/"
+   }
+  ],
+  "desc": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La intensa temporada de tormentas en el Pacífico",
+  "resumen_es": "El súper tifón In-fa desarrolló un ojo inusualmente grande y los restos del tifón Champi se convirtieron en una tormenta extratropical que atacó Alaska.",
+  "tg": 13
+ },
+ {
+  "id": "0020b74aa9",
+  "t": "2026-11-03T04:51:09+00:00",
+  "visto": "2026-11-03T05:40:39.635861+00:00",
+  "titulo": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
+  "url": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon/"
+   }
+  ],
+  "desc": "China is sharing more information about how it plans to land taikonauts on the Moon by 2030. Development of the Long March-10 rocket, Mengzhou crew spacecraft, and Lanyue lunar lander […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "China planea “dos lanzamientos y encuentro en la órbita lunar” para llevar a los taikonautas a la Luna",
+  "resumen_es": "China comparte más información sobre cómo planea llevar taikonautas a la Luna para 2030. Desarrollo del cohete Gran Marcha-10, la nave espacial con tripulación Mengzhou y el módulo de aterrizaje lunar Lanyue […]",
+  "tg": 12
+ },
+ {
+  "id": "f0af5a75b7",
+  "t": "2026-11-03T02:20:01+00:00",
+  "visto": "2026-11-03T05:40:39.635102+00:00",
+  "titulo": "Ceres' water ice can mask massive surface salt deposits",
+  "url": "https://phys.org/news/2026-11-ceres-ice-mask-massive-surface.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-ceres-ice-mask-massive-surface.html"
+   }
+  ],
+  "desc": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the solar system. This could be because while Ceres has the same dwarf planet designation as Pluto, Ceres is largely considered an \"asteroid\" since it resides in the main asteroid belt. However, along with being the largest object in the main asteroid belt, Ceres accounts for between 25% and 30% of the belt's total mass.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/ceres-water-ice-can-ma.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El hielo de agua de Ceres puede enmascarar enormes depósitos de sal en la superficie",
+  "resumen_es": "El planeta enano Ceres es posiblemente uno de los objetos planetarios más pasados ​​por alto y subestimados del sistema solar. Esto podría deberse a que, si bien Ceres tiene la misma designación de planeta enano que Plutón, Ceres se considera en gran medida un \"asteroide\", ya que reside en el cinturón de asteroides principal. Sin embargo, además de ser el objeto más grande del cinturón de asteroides principal, Ceres representa entre el 25% y el 30% de la masa total del cinturón.",
+  "tg": 11
+ },
+ {
+  "id": "98b481e75b",
+  "t": "2026-11-03T01:33:59+00:00",
+  "visto": "2026-11-03T05:40:39.634128+00:00",
+  "titulo": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+  "url": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites"
+   }
+  ],
+  "desc": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of these satellites, our understanding of galaxy growth, and the role dark matter plays in it, will improve.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El Vera Rubin ha encontrado dos satélites más oscuros de la Vía Láctea",
+  "resumen_es": "El Observatorio Vera Rubin ha detectado dos satélites más oscuros y difíciles de ver de la Vía Láctea. Una es una galaxia enana ultra débil y la otra es un cúmulo globular. Cada uno es una pieza faltante del rompecabezas en la historia de la fusión de la Vía Láctea. Al encontrar más satélites de este tipo, mejorará nuestra comprensión del crecimiento de las galaxias y del papel que desempeña la materia oscura en él.",
+  "tg": 10
+ },
+ {
+  "id": "7a9204611a",
+  "t": "2026-11-03T01:00:01+00:00",
+  "visto": "2026-11-03T05:40:39.631288+00:00",
+  "titulo": "Queen's University Belfast students find Neptune's elusive Trojan asteroids",
+  "url": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html"
+   }
+  ],
+  "desc": "An international team led by researchers at Queen's University Belfast has made a discovery that has eluded astronomers for decades. Beginning in 1906, telescope observations revealed a population of asteroids leading and trailing Jupiter, which came to be known as the \"Trojan\" and \"Greek\" populations. Since then, astronomers have discovered similar \"families\" orbiting Saturn and Uranus, but not Neptune. Thanks to the Queen's-led team, the mystery of the missing Trojans has now been resolved.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/queens-university-belf.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Estudiantes de la Queen's University de Belfast encuentran los esquivos asteroides troyanos de Neptuno",
+  "resumen_es": "Un equipo internacional dirigido por investigadores de la Queen's University de Belfast ha realizado un descubrimiento que ha eludido a los astrónomos durante décadas. A partir de 1906, las observaciones con telescopios revelaron una población de asteroides que iban y venían detrás de Júpiter, que llegaron a ser conocidas como las poblaciones \"troyanas\" y \"griegas\". Desde entonces, los astrónomos han descubierto \"familias\" similares orbitando Saturno y Urano, pero no Neptuno. Gracias al equipo liderado por Queen, el misterio",
+  "tg": 9
+ },
+ {
   "id": "0f133d120e",
   "t": "2026-11-02T23:43:02+00:00",
   "visto": "2026-11-03T00:20:59.126917+00:00",
