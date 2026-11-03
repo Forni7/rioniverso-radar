@@ -34,5 +34,63 @@
   "caducidad": "🟡 publicar en 1-2 semanas",
   "avisos": "No digas una fecha exacta del alunizaje chino: el anuncio oficial dice 'antes de 2030'. Las fechas de los ensayos (2027-2029) salen de la cobertura del simposio, así que dilas como 'según su plan'.",
   "analizado": "2026-11-03T00:30:00Z"
+ },
+ "207ddf3d17": {
+  "titular": "El telescopio Swift de la NASA caerá a la Tierra y nadie sabe aún dónde",
+  "resumen": "El observatorio Swift, que lleva más de veinte años cazando explosiones cósmicas, va a caer a la atmósfera. En agosto, la NASA y la empresa Katalyst cancelaron la misión privada que iba a capturarlo y elevar su órbita por un fallo de control de actitud de la nave de rescate. Aún no hay fecha ni lugar confirmados de reentrada. La NASA espera que la mayor parte se desintegre y que el riesgo para las personas sea muy pequeño.",
+  "por_que": "Es un satélite científico real que se va a desintegrar sobre nuestras cabezas, y cualquiera puede preguntarse si le puede caer encima.",
+  "datos_clave": [
+   "Misión de rescate de Katalyst (LINK) cancelada el 19 de agosto por un problema de control de actitud (NASA y Katalyst, según la cobertura)",
+   "Fecha y lugar de reentrada: sin confirmar (Space.com)",
+   "Se espera que la mayor parte se queme en la atmósfera; el riesgo para las personas es muy pequeño (NASA, según la cobertura)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
+   },
+   {
+    "n": "CNN (vía KEYT)",
+    "u": "https://keyt.com/news/national-world/cnn-other/2026/09/30/a-storied-nasa-observatory-could-be-weeks-away-from-falling-to-earth-after-failed-rescue-attempt/"
+   }
+  ],
+  "potencial": 7,
+  "tono": "noticia",
+  "fotograma1": "Un telescopio dorado ardiendo al entrar en la atmósfera sobre un mapa del mundo con un signo de interrogación",
+  "gancho": "Un telescopio de la NASA está a punto de caerse del cielo y nadie sabe dónde.",
+  "guion": "Un telescopio de la NASA va a caer a la Tierra. Se llama Swift y lleva más de veinte años cazando explosiones gigantes en el espacio. Su órbita se ha ido bajando poco a poco, como una bici que pierde velocidad cuesta arriba. Intentaron salvarlo con una nave privada, pero el rescate se canceló en agosto por un fallo en esa nave. Ahora solo queda esperar. ¿Dónde caerá? Todavía nadie lo sabe. Lo normal es que casi todo se queme al entrar en la atmósfera, y el riesgo para las personas es muy pequeño.",
+  "cierre": "¿Intentarías salvar un telescopio así o lo dejarías caer?",
+  "grafismos": "Órbita en espiral descendente alrededor de la Tierra; nave de rescate que gira sin control y se aleja; telescopio entrando en la atmósfera envuelto en llamas; mapa del mundo con zona de caída parpadeando con interrogantes",
+  "caducidad": "🔴 publicar antes de la reentrada (fecha aún sin confirmar)",
+  "avisos": "No decir fecha ni lugar de caída: no están confirmados. No afirmar que habrá restos peligrosos. Antes de publicar, comprobar si ya ha reentrado.",
+  "analizado": "2026-11-03T08:00:00Z"
+ },
+ "b9487f47e6": {
+  "titular": "Cuatro voluntarios salen de un Marte simulado tras más de un año encerrados",
+  "resumen": "La tripulación de la segunda misión CHAPEA de la NASA terminó el 31 de octubre de 2026 su viaje simulado a Marte. Matthew Montgomery, James Spicer, Ross Elder y Ellen Ellis pasaron más de un año en un hábitat que imita la superficie marciana. Posaron fuera por primera vez en más de un año, según la NASA.",
+  "por_que": "Es el ensayo de cómo aguantaría la cabeza y el cuerpo un viaje real a Marte: meses sin salir, sin sol y con poca gente.",
+  "datos_clave": [
+   "Fin de la misión el 31 de octubre de 2026 (NASA)",
+   "4 tripulantes: Montgomery, Spicer, Elder y Ellis (NASA)",
+   "Más de un año de aislamiento simulado (NASA)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Cuatro personas saliendo de una puerta hermética a un paisaje rojo de Marte que se convierte en cielo azul",
+  "gancho": "Llevaban más de un año encerrados en un Marte falso y por fin han salido.",
+  "guion": "Imagina pasar más de un año encerrado con tres personas, sin salir a la calle. Eso han hecho cuatro voluntarios de la NASA en una réplica de Marte construida en Houston. Se llama CHAPEA y simula cómo sería vivir allí: cultivar comida, hacer paseos por un terreno falso y arreglar lo que falle. El 31 de octubre terminaron y por fin pisaron la Tierra de verdad. No es un juego: sirve para saber cómo aguantaríamos un viaje real a Marte.",
+  "cierre": "¿Tú aguantarías un año encerrado con tres desconocidos?",
+  "grafismos": "Hábitat tipo contenedor sobre arena roja; calendario que pasa hojas durante un año; cuatro siluetas en fila; puerta que se abre y entra luz azul",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Duración exacta en días y detalles de la misión no verificados: decir solo 'más de un año'. No afirmar el lugar de forma distinta a lo que diga la NASA (Houston es el de la primera misión).",
+  "analizado": "2026-11-03T08:00:00Z"
  }
 }
