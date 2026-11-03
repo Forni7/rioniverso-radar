@@ -111,6 +111,9 @@ def leer_feed(nombre, url, oficial):
         txt = crudo.decode("utf-8", "replace")
         txt = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", txt)
         txt = re.sub(r"&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)", "&amp;", txt)
+        txt = re.sub(r'"(xmlns:\w+=")', r'" \1', txt)  # NASA Ciencia: atributos pegados
+        # JPL: <content:encoded<![CDATA[ … ]]>/>  →  <content:encoded><![CDATA[ … ]]></content:encoded>
+        txt = re.sub(r"<([\w:]+)<!\[CDATA\[(.*?)\]\]>/>", r"<\1><![CDATA[\2]]></\1>", txt, flags=re.S)
         try:
             raiz = ET.fromstring(txt.encode("utf-8"))
         except ET.ParseError as e:
