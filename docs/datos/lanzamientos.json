@@ -1,25 +1,6 @@
 {
- "actualizado": "2026-11-03T13:02:38.559375+00:00",
+ "actualizado": "2026-11-03T20:05:36.966675+00:00",
  "lista": [
-  {
-   "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
-   "nombre": "Electron | The Sea God Surveys (iQPS Launch 9)",
-   "net": "2026-11-02T16:41:00Z",
-   "precision": "Minute",
-   "estado": "Success",
-   "estado_txt": "Launch Successful",
-   "proveedor": "Rocket Lab",
-   "cohete": "Electron",
-   "lugar": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-   "mision": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-   "orbita": "LEO",
-   "prob": 90,
-   "videos": [
-    "https://www.youtube.com/watch?v=irbPTnpIl9g"
-   ],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193613.jpeg",
-   "starlink": false
-  },
   {
    "id": "f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a",
    "nombre": "Kinetica 2 | SpaceSail Polar Group #17",
@@ -38,23 +19,6 @@
    "starlink": false
   },
   {
-   "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-   "nombre": "Mir | Demo Flight",
-   "net": "2026-11-04T05:00:00Z",
-   "precision": "Hour",
-   "estado": "TBC",
-   "estado_txt": "To Be Confirmed",
-   "proveedor": "Agency for Defense Development",
-   "cohete": "Mir",
-   "lugar": "Sea Launch",
-   "mision": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
-   "starlink": false
-  },
-  {
    "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
    "nombre": "Long March 2C | Unknown Payload",
    "net": "2026-11-05T16:00:00Z",
@@ -69,23 +33,6 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193713.jpeg",
-   "starlink": false
-  },
-  {
-   "id": "a2423132-f965-423f-8b03-6891b775dc54",
-   "nombre": "Long March 12 | SatNet LEO Group TBD?",
-   "net": "2026-11-05T21:15:00Z",
-   "precision": "Hour",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
-   "proveedor": "China Aerospace Science and Technology Corporation",
-   "cohete": "Long March 12",
-   "lugar": "Wenchang Space Launch Site, People's Republic of China",
-   "mision": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_thumbnail_20241128132937.jpeg",
    "starlink": false
   },
   {
@@ -126,9 +73,43 @@
    "starlink": false
   },
   {
+   "id": "a2423132-f965-423f-8b03-6891b775dc54",
+   "nombre": "Long March 12 | SatNet LEO Group TBD?",
+   "net": "2026-11-08T20:25:00Z",
+   "precision": "Hour",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "China Aerospace Science and Technology Corporation",
+   "cohete": "Long March 12",
+   "lugar": "Wenchang Space Launch Site, People's Republic of China",
+   "mision": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_thumbnail_20241128132937.jpeg",
+   "starlink": false
+  },
+  {
    "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
    "nombre": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
-   "net": "2026-11-09T03:17:00Z",
+   "net": "2026-11-10T03:03:00Z",
+   "precision": "Minute",
+   "estado": "TBC",
+   "estado_txt": "To Be Confirmed",
+   "proveedor": "SpaceX",
+   "cohete": "Falcon 9 Block 5",
+   "lugar": "Vandenberg SFB, CA, USA",
+   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+   "nombre": "Falcon 9 Block 5 | USSF-xxx (\"R-6\")",
+   "net": "2026-11-13T04:23:00Z",
    "precision": "Minute",
    "estado": "TBC",
    "estado_txt": "To Be Confirmed",
@@ -145,10 +126,10 @@
   {
    "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
    "nombre": "Vulcan VC6L | Amazon Leo (LV-01)",
-   "net": "2026-11-13T00:00:00Z",
-   "precision": "Day",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
+   "net": "2026-11-13T17:54:00Z",
+   "precision": "Minute",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
    "proveedor": "United Launch Alliance",
    "cohete": "Vulcan VC6L",
    "lugar": "Cape Canaveral SFS, FL, USA",
@@ -364,6 +345,23 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193746.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+   "nombre": "Mir | Demo Flight",
+   "net": "2026-11-30T00:00:00Z",
+   "precision": "Month",
+   "estado": "TBD",
+   "estado_txt": "To Be Determined",
+   "proveedor": "Agency for Defense Development",
+   "cohete": "Mir",
+   "lugar": "Sea Launch",
+   "mision": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
    "starlink": false
   },
   {
