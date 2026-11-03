@@ -1,5 +1,29 @@
 [
  {
+  "id": "0dfcca5dfe",
+  "t": "2026-11-02T23:30:16+00:00",
+  "visto": "2026-11-03T00:15:50.032803+00:00",
+  "titulo": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+  "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/"
+   }
+  ],
+  "desc": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Se inaugura \"At Home in Space\", que culmina la renovación del Museo del Aire y el Espacio",
+  "resumen_es": "El Museo Nacional del Aire y el Espacio del Smithsonian ha vuelto a abrir todo su \"espacio\"."
+ },
+ {
   "id": "f342a26725",
   "t": "2026-11-02T21:35:59+00:00",
   "visto": "2026-11-02T23:10:00.516315+00:00",
