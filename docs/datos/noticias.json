@@ -1,5 +1,30 @@
 [
  {
+  "id": "0f133d120e",
+  "t": "2026-11-02T23:43:02+00:00",
+  "visto": "2026-11-03T00:20:59.126917+00:00",
+  "titulo": "NASA’s Eyes software: October release notes",
+  "url": "https://science.nasa.gov/blogs/eyes/2026/11/02/nasas-eyes-software-october-release-notes/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/blogs/eyes/2026/11/02/nasas-eyes-software-october-release-notes/"
+   }
+  ],
+  "desc": "On October 28, 2026, a new version of Eyes on Exoplanets was released. This release added the new Nancy Grace Roman Space Telescope, which is expected to find thousands of new exoplanets. When accessing Eyes on Exoplanets from your mobile phone, you can use the augmented reality feature to place the spacecraft in your own […] The post NASA’s Eyes software: October release notes appeared first on NASA Science .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Software Eyes de la NASA: notas de la versión de octubre",
+  "resumen_es": "El 28 de octubre de 2026 se lanzó una nueva versión de Eyes on Exoplanets. Este lanzamiento agregó el nuevo Telescopio Espacial Romano Nancy Grace, que se espera que encuentre miles de nuevos exoplanetas. Al acceder a Eyes on Exoplanets desde su teléfono móvil, puede utilizar la función de realidad aumentada para colocar la nave espacial en el suyo […] La publicación Software Eyes de la NASA: notas de la versión de octubre apareció por primera vez en NASA Science.",
+  "tg": 7
+ },
+ {
   "id": "0dfcca5dfe",
   "t": "2026-11-02T23:30:16+00:00",
   "visto": "2026-11-03T00:15:50.032803+00:00",
@@ -22,6 +47,31 @@
   "silencio": false,
   "titulo_es": "Se inaugura \"At Home in Space\", que culmina la renovación del Museo del Aire y el Espacio",
   "resumen_es": "El Museo Nacional del Aire y el Espacio del Smithsonian ha vuelto a abrir todo su \"espacio\"."
+ },
+ {
+  "id": "08dc4ced88",
+  "t": "2026-11-02T22:46:27+00:00",
+  "visto": "2026-11-03T00:20:59.125605+00:00",
+  "titulo": "Hubble’s Galaxies",
+  "url": "https://science.nasa.gov/gallery/hubbles-galaxies/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/gallery/hubbles-galaxies/"
+   }
+  ],
+  "desc": "A collection of galaxy images from the Hubble Space Telescope. The post Hubble’s Galaxies appeared first on NASA Science .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Las galaxias del Hubble",
+  "resumen_es": "Una colección de imágenes de galaxias tomadas por el Telescopio Espacial Hubble. La publicación Las galaxias del Hubble apareció por primera vez en NASA Science.",
+  "tg": 6
  },
  {
   "id": "f342a26725",
@@ -144,6 +194,56 @@
   "resumen_es": "Los astrofísicos creen que los agujeros negros crecen a través de un marco de fusión jerárquico. Pero los esquivos agujeros negros de masa intermedia son el eslabón perdido entre los agujeros negros de masa estelar y los gigantescos agujeros negros supermasivos como el que se encuentra en el centro de la Vía Láctea. Es posible que el JWST haya encontrado las fuentes antiguas de semillas pesadas de IMBH: cúmulos masivos jóvenes en el Universo de alto corrimiento al rojo."
  },
  {
+  "id": "9a04970841",
+  "t": "2026-11-02T19:14:48+00:00",
+  "visto": "2026-11-03T00:20:59.124538+00:00",
+  "titulo": "Week Starts with Spacewalk Preps and Life Science",
+  "url": "https://www.nasa.gov/blogs/spacestation/2026/11/02/week-starts-with-spacewalk-preps-and-life-science/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/blogs/spacestation/2026/11/02/week-starts-with-spacewalk-preps-and-life-science/"
+   }
+  ],
+  "desc": "Preparations continue for the second in the final series of spacewalks to upgrade the International Space Station’s power generation system on Thursday. Meanwhile, the Expedition 75 crew focused its research efforts on life science at the beginning of the week. The post Week Starts with Spacewalk Preps and Life Science appeared first on NASA Science .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La semana comienza con la preparación para la caminata espacial y las ciencias biológicas",
+  "resumen_es": "Continúan los preparativos para la segunda de la serie final de caminatas espaciales para mejorar el sistema de generación de energía de la Estación Espacial Internacional el jueves. Mientras tanto, la tripulación de la Expedición 75 centró sus esfuerzos de investigación en las ciencias de la vida a principios de semana. La publicación La semana comienza con la preparación para caminatas espaciales y las ciencias biológicas apareció por primera vez en Ciencia de la NASA.",
+  "tg": 5
+ },
+ {
+  "id": "c629f6c55b",
+  "t": "2026-11-02T19:11:28+00:00",
+  "visto": "2026-11-03T00:20:59.123339+00:00",
+  "titulo": "NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars",
+  "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
+   }
+  ],
+  "desc": "In a few days, NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) will perform a maneuver that no agency spacecraft has flown before — and do it twice. Each of the two ESCAPADE spacecraft will execute a “powered” flyby of Earth, combining Earth’s gravity with an engine burn, to slingshot itself toward Mars. The […] The post NASA’s Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La nave espacial gemela ESCAPADE de la NASA pasará volando por la Tierra en camino a Marte",
+  "resumen_es": "En unos días, ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) de la NASA realizará una maniobra que ninguna nave espacial de la agencia ha realizado antes, y lo hará dos veces. Cada una de las dos naves espaciales ESCAPADE ejecutará un sobrevuelo “propulsado” de la Tierra, combinando la gravedad de la Tierra con el encendido de un motor, para lanzarse hacia Marte. El […] La publicación La nave espacial Twin ESCAPADE de la NASA pasará volando por la Tierra en camino a Marte apareció por primera vez en NASA Science.",
+  "tg": 4
+ },
+ {
   "id": "b9487f47e6",
   "t": "2026-11-02T18:50:42+00:00",
   "visto": "2026-11-02T23:10:00.511937+00:00",
@@ -240,6 +340,31 @@
   "resumen_es": "Las muestras del asteroide Ryugu y de las condritas carbonosas que se estrellaron en la Tierra presentan una aparente contradicción. Sus matrices de grano fino tienen composiciones muy variadas de sus minerales arcillosos. Esto sugiere que había ambientes acuosos muy diferentes en los mismos cuerpos progenitores, lo que parece poco probable. Pero una nueva investigación puede haber resuelto esa contradicción."
  },
  {
+  "id": "c3823a41cf",
+  "t": "2026-11-02T17:59:53+00:00",
+  "visto": "2026-11-03T00:20:59.119400+00:00",
+  "titulo": "NASA’s Swift Observatory to Re-Enter Atmosphere",
+  "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+   }
+  ],
+  "desc": "NASA’s Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere on Wednesday, Nov. 4, almost 22 years after launch. At launch, Swift was a first-of-its-kind multiwavelength observatory designed to study the most powerful explosions in the cosmos using its three telescopes. As of Monday, the U.S. Space Force predicted that the roughly 3,200-pound spacecraft […] The post NASA’s Swift Observatory to Re-Enter Atmosphere appeared first on NASA Science .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "El Observatorio Swift de la NASA volverá a entrar en la atmósfera",
+  "resumen_es": "Se espera que el Observatorio Swift Neil Gehrels de la NASA vuelva a entrar en la atmósfera de la Tierra el miércoles 4 de noviembre, casi 22 años después de su lanzamiento. En el momento de su lanzamiento, Swift era el primer observatorio de longitudes de onda múltiples, el primero de su tipo, diseñado para estudiar las explosiones más poderosas del cosmos utilizando sus tres telescopios. A partir del lunes, la Fuerza Espacial de EE. UU. predijo que la nave espacial de aproximadamente 3200 libras […] El post El Observatorio Swift de la NASA para reingresar a la atmósfera apareció por primera vez",
+  "tg": 3
+ },
+ {
   "id": "7a17628b8e",
   "t": "2026-11-02T17:33:22+00:00",
   "visto": "2026-11-02T23:10:00.507836+00:00",
@@ -251,6 +376,10 @@
    {
     "n": "NASA",
     "u": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
+   },
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/mission/nasas-northrop-grumman-crs-25/"
    }
   ],
   "desc": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, […]",
@@ -258,7 +387,7 @@
   "cat": "starship",
   "cat_txt": "🚀 SpaceX",
   "estado": "nuevo",
-  "imp": 4,
+  "imp": 5,
   "silencio": false,
   "titulo_es": "La NASA invita a los medios al lanzamiento de reabastecimiento de la estación Northrop Grumman CRS-25",
   "resumen_es": "La acreditación de medios está abierta para el próximo lanzamiento que llevará investigaciones científicas, suministros y equipos de la NASA a la Estación Espacial Internacional. En noviembre se lanzará una nave espacial Northrop Grumman Cygnus XL al laboratorio orbital en un cohete SpaceX Falcon 9 para la NASA. La misión se conoce como Servicios de reabastecimiento comercial Northrop Grumman 25 de la NASA, […]"
