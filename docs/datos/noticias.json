@@ -1,5 +1,655 @@
 [
  {
+  "id": "3285fd735b",
+  "t": "2026-11-04T21:04:10+00:00",
+  "visto": "2026-11-04T21:22:17.469832+00:00",
+  "titulo": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+  "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+   }
+  ],
+  "desc": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "La NASA comparte planes para acelerar Artemisa y regresar a la Luna",
+  "resumen_es": "En una actualización del 23 de octubre, el administrador de la NASA, Jared Isaacman, y otros líderes de la agencia compartieron el camino de la agencia para regresar a los estadounidenses a la superficie lunar en 2028. El liderazgo de la agencia proporcionó actualizaciones sobre los planes de aceleración previamente anunciados para el programa Artemis, avanzando hacia el vuelo de prueba Artemis III de la agencia en 2027 y la Luna Artemis IV […]",
+  "tg": 105
+ },
+ {
+  "id": "afd250b15a",
+  "t": "2026-11-04T21:00:11+00:00",
+  "visto": "2026-11-04T21:22:17.469008+00:00",
+  "titulo": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
+  "url": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html"
+   }
+  ],
+  "desc": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies. Based on what they knew about the early universe, such galaxies should have been far less common in the few hundred million years following the Big Bang.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cosmic-leaf-blower-l.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un 'soplador de hojas' cósmico: los vientos propulsados ​​por la luz ayudan a explicar las galaxias brillantes del universo primitivo",
+  "resumen_es": "Cuando los astrónomos observaron fotografías del universo primitivo tomadas por el telescopio espacial James Webb, encontraron algo extraño: una sobreabundancia de galaxias brillantes. Según lo que sabían sobre el universo primitivo, tales galaxias deberían haber sido mucho menos comunes en los pocos cientos de millones de años posteriores al Big Bang.",
+  "tg": 104
+ },
+ {
+  "id": "cfd8a0a966",
+  "t": "2026-11-04T20:50:16+00:00",
+  "visto": "2026-11-04T21:22:17.467972+00:00",
+  "titulo": "Game Theory Helps SETI Search for Alien Civilizations",
+  "url": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations"
+   }
+  ],
+  "desc": "SETI can be more effective the more the targets in the search are refined. SETI's newest survey effort uses game theory to inform its search. It's based on the idea that other ETIs would almost certainly use the transit method to detect habitable worlds like Earth.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La teoría de juegos ayuda a SETI a buscar civilizaciones alienígenas",
+  "resumen_es": "SETI puede ser más eficaz cuanto más se refinen los objetivos de la búsqueda. El esfuerzo de encuesta más reciente de SETI utiliza la teoría de juegos para informar su búsqueda. Se basa en la idea de que es casi seguro que otros ETI utilizarían el método de tránsito para detectar mundos habitables como la Tierra.",
+  "tg": 103
+ },
+ {
+  "id": "23c572347a",
+  "t": "2026-11-04T20:40:11+00:00",
+  "visto": "2026-11-04T21:22:17.466850+00:00",
+  "titulo": "NASA space telescope plunges to Earth after two decades studying cosmic explosions",
+  "url": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html"
+   }
+  ],
+  "desc": "One of NASA's premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of the universe's biggest explosions.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-telescope-rescue.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El telescopio espacial de la NASA se hunde en la Tierra después de dos décadas de estudiar explosiones cósmicas",
+  "resumen_es": "Uno de los principales telescopios espaciales de la NASA se precipitó a la Tierra el miércoles, poniendo fin a su investigación de 22 años sobre las mayores explosiones del universo.",
+  "tg": 102
+ },
+ {
+  "id": "acf1fc42b6",
+  "t": "2026-11-04T20:36:05+00:00",
+  "visto": "2026-11-04T21:22:17.466028+00:00",
+  "titulo": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+  "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+   }
+  ],
+  "desc": "\"Data centers in space looking pretty appealing right now.\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "Después de la ola azul de Texas, ¿qué pasa con Elon Musk y SpaceX?",
+  "resumen_es": "\"Los centros de datos en el espacio parecen bastante atractivos en este momento\".",
+  "tg": 101
+ },
+ {
+  "id": "997b9b50d9",
+  "t": "2026-11-04T20:14:59+00:00",
+  "visto": "2026-11-04T21:22:17.465321+00:00",
+  "titulo": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+  "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/",
+  "fuente": "Spaceflight Now",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
+   }
+  ],
+  "desc": "NASA’s Neil Gehrels Swift Observatory plummeted back into Earth’s atmosphere Wednesday over western Indonesia, ending nearly 22 years in orbit for the gamma-ray burst hunter after a failed attempt to rescue it.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El Observatorio Swift Neil Gehrels de la NASA vuelve a entrar sobre Indonesia occidental",
+  "resumen_es": "El Observatorio Neil Gehrels Swift de la NASA volvió a caer en la atmósfera de la Tierra el miércoles sobre el oeste de Indonesia, poniendo fin a casi 22 años en órbita para el cazador de explosiones de rayos gamma después de un intento fallido de rescatarlo.",
+  "tg": 100
+ },
+ {
+  "id": "328881e769",
+  "t": "2026-11-04T19:06:36+00:00",
+  "visto": "2026-11-04T21:22:17.464132+00:00",
+  "titulo": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+  "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+   }
+  ],
+  "desc": "Using data from the joint European and Russian ExoMars Trace Gas Orbiter at Mars, an… The post Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Trace Gas Orbiter descubre evidencia potencial de actividad volcánica en Marte a través de observaciones atmosféricas",
+  "resumen_es": "Utilizando datos del ExoMars Trace Gas Orbiter conjunto europeo y ruso en Marte, un… The post Trace Gas Orbiter descubre evidencia potencial de actividad volcánica en Marte a través de observaciones atmosféricas apareció por primera vez en NASASpaceFlight.com.",
+  "tg": 99
+ },
+ {
+  "id": "fe3fb64156",
+  "t": "2026-11-04T19:06:08+00:00",
+  "visto": "2026-11-04T21:22:17.463236+00:00",
+  "titulo": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+  "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth"
+   }
+  ],
+  "desc": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
+  "img": "https://cdn.mos.cms.futurecdn.net/FPZUTd9PY8i9Q9d4pN8f6B-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El telescopio espacial Swift de la NASA se estrella contra la Tierra después de un intento fallido de rescate",
+  "resumen_es": "El telescopio espacial Swift de la NASA se estrelló contra la Tierra hoy (4 de noviembre), tres meses después de que se suponía que una nave espacial privada impulsaría el observatorio a una órbita más alta.",
+  "tg": 98
+ },
+ {
+  "id": "c8d50e4f8a",
+  "t": "2026-11-04T19:00:00+00:00",
+  "visto": "2026-11-04T21:22:17.462365+00:00",
+  "titulo": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
+  "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping"
+   }
+  ],
+  "desc": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
+  "img": "https://cdn.mos.cms.futurecdn.net/H8GVsV7MCBNjGQuBJVBqxn-1920-80.png",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Marte no está muerto: la reciente actividad volcánica revela que simplemente está durmiendo",
+  "resumen_es": "Los científicos han sospechado durante mucho tiempo que Marte está geológicamente \"muerto\", pero nuevas observaciones de naves espaciales sugieren que los volcanes del Planeta Rojo simplemente están durmiendo.",
+  "tg": 97
+ },
+ {
+  "id": "2e62bc2ded",
+  "t": "2026-11-04T18:00:02+00:00",
+  "visto": "2026-11-04T21:22:17.461494+00:00",
+  "titulo": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+  "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+   }
+  ],
+  "desc": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La NASA anuncia premios de retransmisión de satélites en banda Ka para comunicaciones espaciales",
+  "resumen_es": "La NASA seleccionó el miércoles a tres empresas para realizar trabajos de desarrollo de conceptos de capacidad de retransmisión espacial en banda Ka que sean compatibles con las misiones actuales en el espacio, garantizando la continuidad del servicio para las naves espaciales existentes sin requerir modificaciones en sus sistemas a bordo. A través de este trabajo, la NASA tendrá como objetivo adquirir soluciones de extremo a extremo que incluyan espacio, tierra, lanzamiento, operaciones e integración […]",
+  "tg": 96
+ },
+ {
+  "id": "fec32c728e",
+  "t": "2026-11-04T17:30:26+00:00",
+  "visto": "2026-11-04T21:22:17.460145+00:00",
+  "titulo": "Sean Gregory",
+  "url": "https://www.nasa.gov/people/sean-gregory/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/sean-gregory/"
+   }
+  ],
+  "desc": "Sean Gregory is the project manager for NASA’s Satellite Needs Working Group (SNWG) Management Office within the SNWG implementation team. Gregory manages more than 20 SNWG projects that meet Earth observation needs for federal agencies, including Harmonized Landsat and Sentinel-2 and Observation Products for End-Users for Remote Sensing Analysis (OPERA). Prior to joining the Office of Data […] The post Sean Gregory appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Sean Gregorio",
+  "resumen_es": "Sean Gregory es el director de proyectos de la Oficina de Gestión del Grupo de Trabajo de Necesidades de Satélites (SNWG) de la NASA dentro del equipo de implementación del SNWG. Gregory gestiona más de 20 proyectos SNWG que satisfacen las necesidades de observación de la Tierra para agencias federales, incluidos Landsat armonizado y Sentinel-2 y productos de observación para usuarios finales para análisis de detección remota (OPERA). Antes de unirse a la Oficina de Datos […] La publicación Sean Gregory apareció por primera vez en NASA Science",
+  "tg": 95
+ },
+ {
+  "id": "e3be079a7d",
+  "t": "2026-11-04T17:29:52+00:00",
+  "visto": "2026-11-04T21:22:17.458911+00:00",
+  "titulo": "Pontus Olofsson",
+  "url": "https://www.nasa.gov/people/pontus-olofsson/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/pontus-olofsson/"
+   }
+  ],
+  "desc": "Dr. Pontus Olofsson is a research scientist at NASA’s Marshall Space Flight Center in Huntsville, Alabama, where he leads the agency’s contribution to the interagency Satellite Needs Working Group (SNWG) through NASA’s SNWG Implementation Team, known as NSITE. Through the working group, NSITE identifies, communicates, and addresses the Earth observation needs of federal agencies to […] The post Pontus Olofsson appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Pontus Olofsson",
+  "resumen_es": "El Dr. Pontus Olofsson es científico investigador en el Centro Marshall de Vuelos Espaciales de la NASA en Huntsville, Alabama, donde dirige la contribución de la agencia al Grupo de Trabajo Interinstitucional sobre Necesidades de Satélites (SNWG) a través del Equipo de Implementación del SNWG de la NASA, conocido como NSITE. A través del grupo de trabajo, NSITE identifica, comunica y aborda las necesidades de observación de la Tierra de las agencias federales para […] La publicación Pontus Olofsson apareció por primera vez en NASA Science.",
+  "tg": 94
+ },
+ {
+  "id": "4b2ffa3823",
+  "t": "2026-11-04T17:29:19+00:00",
+  "visto": "2026-11-04T21:22:17.458132+00:00",
+  "titulo": "Manil Maskey",
+  "url": "https://www.nasa.gov/people/manil-maskey/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/manil-maskey/"
+   }
+  ],
+  "desc": "Dr. Manil Maskey is a manager and senior research scientist at NASA, specializing in data science, including superintelligence, data systems and visualization. He leads the Office of Data Science and Informatics at NASA’s Marshall Space Flight Center in Huntsville, Alabama, where he drives advanced super intelligence (SI) tools and digital transformation initiatives across scientific domains. […] The post Manil Maskey appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Manil Maskey",
+  "resumen_es": "El Dr. Manil Maskey es gerente y científico investigador senior de la NASA, especializado en ciencia de datos, incluida superinteligencia, sistemas de datos y visualización. Dirige la Oficina de Ciencia de Datos e Informática en el Centro Marshall de Vuelos Espaciales de la NASA en Huntsville, Alabama, donde impulsa herramientas avanzadas de superinteligencia (SI) e iniciativas de transformación digital en todos los dominios científicos. […] La publicación Manil Maskey apareció por primera vez en NASA Scien",
+  "tg": 93
+ },
+ {
+  "id": "396f294d06",
+  "t": "2026-11-04T17:28:34+00:00",
+  "visto": "2026-11-04T21:22:17.457352+00:00",
+  "titulo": "Kaylin Bugbee",
+  "url": "https://www.nasa.gov/people/kaylin-bugbee/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/kaylin-bugbee/"
+   }
+  ],
+  "desc": "Kaylin Bugbee leads the information management focus area within the Office of Data Science and Informatics at NASA’s Marshall Space Flight Center in Huntsville, Alabama. She manages a portfolio of projects aimed at making NASA’s scientific data systems and information resources more discoverable, resilient, and efficient while enabling open science through transparency, reproducibility, and open […] The post Kaylin Bugbee appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Kaylin Bugbee",
+  "resumen_es": "Kaylin Bugbee lidera el área de enfoque de gestión de la información dentro de la Oficina de Ciencia de Datos e Informática del Centro Marshall de Vuelos Espaciales de la NASA en Huntsville, Alabama. Gestiona una cartera de proyectos destinados a hacer que los sistemas de datos científicos y los recursos de información de la NASA sean más detectables, resilientes y eficientes, al tiempo que permiten la ciencia abierta a través de la transparencia, la reproducibilidad y la apertura […] La publicación Kaylin Bugbee apareció por primera vez en la NASA",
+  "tg": 92
+ },
+ {
+  "id": "7f622f97ef",
+  "t": "2026-11-04T17:27:49+00:00",
+  "visto": "2026-11-04T21:22:17.456580+00:00",
+  "titulo": "David Meyer",
+  "url": "https://www.nasa.gov/people/david-meyer/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/david-meyer/"
+   }
+  ],
+  "desc": "David Meyer is the deputy manager of the Office of Data Science and Informatics at NASA’s Marshall Space Flight Center in Huntsville, Alabama. Meyer provides supervision and strategic direction for the office’s development of science informatics and cloud solutions during a period of rapid growth and change. He interfaces with and supports customers at NASA […] The post David Meyer appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "David Meyer",
+  "resumen_es": "David Meyer es subdirector de la Oficina de Ciencia de Datos e Informática del Centro Marshall de Vuelos Espaciales de la NASA en Huntsville, Alabama. Meyer proporciona supervisión y dirección estratégica para el desarrollo de soluciones en la nube y la informática científica de la oficina durante un período de rápido crecimiento y cambio. Él interactúa y apoya a los clientes de la NASA […] La publicación David Meyer apareció por primera vez en NASA Science.",
+  "tg": 91
+ },
+ {
+  "id": "658c58f601",
+  "t": "2026-11-04T17:26:48+00:00",
+  "visto": "2026-11-04T21:22:17.455817+00:00",
+  "titulo": "Elizabeth Fancher",
+  "url": "https://www.nasa.gov/people/elizabeth-fancher/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/elizabeth-fancher/"
+   }
+  ],
+  "desc": "Elizabeth Fancher is a project manager at NASA’s Marshall Space Flight Center in Huntsville, Alabama, where she leads project formulation and implementation activities. She ensures alignment with project requirements while managing documentation, budget development, procurement planning, and resource distribution across the Office of Data Science and Informatics. In her role, Fancher supports the Data and […] The post Elizabeth Fancher appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Elizabeth Fancher",
+  "resumen_es": "Elizabeth Fancher es gerente de proyectos en el Centro Marshall de Vuelos Espaciales de la NASA en Huntsville, Alabama, donde dirige las actividades de formulación e implementación de proyectos. Garantiza la alineación con los requisitos del proyecto mientras gestiona la documentación, el desarrollo presupuestario, la planificación de adquisiciones y la distribución de recursos en toda la Oficina de Ciencia de Datos e Informática. En su función, Fancher apoya a Data y […] La publicación Elizabeth Fancher apareció f",
+  "tg": 90
+ },
+ {
+  "id": "7d1ea89a40",
+  "t": "2026-11-04T17:25:42+00:00",
+  "visto": "2026-11-04T21:22:17.455033+00:00",
+  "titulo": "Brian Freitag",
+  "url": "https://www.nasa.gov/people/brian-freitag/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/brian-freitag/"
+   }
+  ],
+  "desc": "Dr. Brian Freitag leads the Data Systems Evolution team in the Office of Data Science and Informatics at NASA’s Marshall Space Flight Center in Huntsville, Alabama. In this role, he enables scientific exploration and discovery through data visualization techniques and analysis capabilities that lower the barrier to entry for cloud-hosted data. Freitag oversees major initiatives including […] The post Brian Freitag appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Brian Freitag",
+  "resumen_es": "El Dr. Brian Freitag dirige el equipo de Evolución de sistemas de datos en la Oficina de Ciencia de Datos e Informática del Centro Marshall de Vuelos Espaciales de la NASA en Huntsville, Alabama. En este puesto, permite la exploración y el descubrimiento científicos a través de técnicas de visualización de datos y capacidades de análisis que reducen la barrera de entrada para los datos alojados en la nube. Freitag supervisa iniciativas importantes que incluyen […] La publicación Brian Freitag apareció por primera vez en NASA Science.",
+  "tg": 89
+ },
+ {
+  "id": "cc75239375",
+  "t": "2026-11-04T17:20:22+00:00",
+  "visto": "2026-11-04T21:22:17.454293+00:00",
+  "titulo": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
+  "url": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html"
+   }
+  ],
+  "desc": "Less than a decade ago, there were about 2,000 operational satellites orbiting Earth. Today there are more than 15,000. Millions more are planned.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/satellites-leak-noise.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los satélites filtran ruido que interfiere con los telescopios y el GPS. He aquí cómo solucionarlo",
+  "resumen_es": "Hace menos de una década, había alrededor de 2.000 satélites operativos orbitando la Tierra. Hoy son más de 15.000. Están previstos millones más.",
+  "tg": 88
+ },
+ {
+  "id": "c356c30ca7",
+  "t": "2026-11-04T17:00:00+00:00",
+  "visto": "2026-11-04T21:22:17.453012+00:00",
+  "titulo": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals"
+   }
+  ],
+  "desc": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
+  "img": "https://cdn.mos.cms.futurecdn.net/jCTxGyAkTNHDNQViyQuhVj-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "El lanzamiento lunar Artemis II de la NASA abrió un agujero en la atmósfera superior de la Tierra tan grande que interrumpió las señales del GPS",
+  "resumen_es": "\"Podría tener un fuerte impacto no sólo en los vehículos autónomos sino también en el posicionamiento de los drones\".",
+  "tg": 87
+ },
+ {
+  "id": "2c2a12276f",
+  "t": "2026-11-04T16:52:43+00:00",
+  "visto": "2026-11-04T21:22:17.452195+00:00",
+  "titulo": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+  "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+   }
+  ],
+  "desc": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "El experimento de navegación de la NASA es prometedor para los aterrizajes planetarios",
+  "resumen_es": "La NASA demostró con éxito una tecnología diseñada para ayudar a las naves espaciales a navegar de forma autónoma hacia sitios de aterrizaje seguros en la Luna y otros planetas. Un dron Alta-X equipado con la carga útil de guía, navegación y control de Aterrizaje Seguro y Preciso - Evolución de Capacidades Integradas (SPLICE) de la agencia completó maniobras simuladas de descenso y aterrizaje lunar el 27 de agosto. El vuelo tuvo lugar […]",
+  "tg": 86
+ },
+ {
+  "id": "15fa37619d",
+  "t": "2026-11-04T16:30:01+00:00",
+  "visto": "2026-11-04T21:22:17.451431+00:00",
+  "titulo": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+  "url": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html"
+   }
+  ],
+  "desc": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to date, astronomers are unclear as to how they could have grown so large so quickly.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/black-hole-pair.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los púlsares establecen los primeros límites de masa para pares de agujeros negros supermasivos en el universo primitivo",
+  "resumen_es": "Hasta ahora, las observaciones realizadas por instrumentos como el Telescopio Espacial James Webb han revelado la presencia de agujeros negros sorprendentemente masivos en el universo temprano. Incluso menos de mil millones de años después del Big Bang, algunos de estos cuerpos ya pesaban miles de millones de veces la masa del Sol y, hasta la fecha, los astrónomos no tienen claro cómo pudieron haber crecido tanto y tan rápidamente.",
+  "tg": 85
+ },
+ {
+  "id": "5268bd227f",
+  "t": "2026-11-04T16:29:12+00:00",
+  "visto": "2026-11-04T21:22:17.450458+00:00",
+  "titulo": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
+  "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year/"
+   }
+  ],
+  "desc": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the country. The final tally is not […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El “tsunami azul” pone a los demócratas en control de la Cámara y el Senado el próximo año",
+  "resumen_es": "Las victorias demócratas en las elecciones intermedias de ayer no se promocionan como una “ola azul”, sino como un “tsunami azul” mientras se cuentan los votos en todo el país. El recuento final no es […]",
+  "tg": 84
+ },
+ {
+  "id": "225ef2e7db",
+  "t": "2026-11-04T16:16:41+00:00",
+  "visto": "2026-11-04T21:22:17.449320+00:00",
+  "titulo": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+  "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+   }
+  ],
+  "desc": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Los estudiantes de la beca espacial de la NASA impulsan la gira de inspiración de la agencia",
+  "resumen_es": "El Inspiration Tour de la NASA difundió el entusiasmo de la exploración espacial y la innovación aeronáutica conectando al público, la industria y el mundo académico con las personas, las tecnologías y las organizaciones que impulsan el liderazgo estadounidense en el espacio. En casi todas las paradas del país, la Beca Espacial de la NASA ha llevado a los estudiantes al centro de la acción. En Iowa, el administrador de la NASA, Jared […]",
+  "tg": 83
+ },
+ {
+  "id": "0787f0879d",
+  "t": "2026-11-04T16:14:46+00:00",
+  "visto": "2026-11-04T21:22:17.447998+00:00",
+  "titulo": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
+  "url": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres"
+   }
+  ],
+  "desc": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Los impactos gigantes ayudan a los planetas rocosos a retener sus atmósferas",
+  "resumen_es": "Durante mucho tiempo, los científicos planetarios pensaron que los impactos gigantes expulsaban la atmósfera de un planeta joven hacia el espacio con todo el calor que generaban. Pero resulta que podría ser todo lo contrario. La masa que gana un planeta joven a través de un impacto gigante aumenta su influencia gravitacional en su atmósfera.",
+  "tg": 82
+ },
+ {
+  "id": "f3f5d6f8d9",
+  "t": "2026-11-04T16:00:01+00:00",
+  "visto": "2026-11-04T21:22:17.445443+00:00",
+  "titulo": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
+  "url": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html"
+   }
+  ],
+  "desc": "Even the world's most powerful telescopes have their blind spots. Although NASA's James Webb Space Telescope (JWST) can peer billions of years into the past, it still struggles to photograph planets orbiting nearby stars. Stars shine with such extraordinary brightness that their glare overwhelms nearby planets' faint glow.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/hidden-planet-emerges.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un planeta gigante emerge de los datos del JWST de hace dos años gracias a una técnica de eliminación de reflejos",
+  "resumen_es": "Incluso los telescopios más potentes del mundo tienen puntos ciegos. Aunque el Telescopio Espacial James Webb (JWST) de la NASA puede mirar miles de millones de años en el pasado, todavía tiene dificultades para fotografiar planetas que orbitan estrellas cercanas. Las estrellas brillan con un brillo tan extraordinario que su resplandor eclipsa el tenue resplandor de los planetas cercanos.",
+  "tg": 81
+ },
+ {
+  "id": "e199d2bf8a",
+  "t": "2026-11-04T15:59:36+00:00",
+  "visto": "2026-11-04T21:22:17.444490+00:00",
+  "titulo": "Hubble Reveals Cosmic Mystery",
+  "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/"
+   }
+  ],
+  "desc": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Hubble revela misterio cósmico",
+  "resumen_es": "Esta fotografía publicada el 2 de noviembre de 2026 muestra a NGC 4449, un enano irregular. Los investigadores que utilizaron el Telescopio Espacial Hubble de la NASA estudiaron 37 galaxias enanas cercanas (pequeñas galaxias que contienen entre unos pocos miles y cientos de millones de estrellas), incluida NGC 4449, y descubrieron que falta gran parte del oxígeno que esperaban ver. Leer […]",
+  "tg": 80
+ },
+ {
   "id": "08f2a00899",
   "t": "2026-11-04T15:05:17+00:00",
   "visto": "2026-11-04T15:19:29.401235+00:00",
@@ -998,6 +1648,31 @@
   "titulo_es": "La forma de un asteroide influye hacia dónde se debe apuntar una explosión nuclear para desviarlo",
   "resumen_es": "Si un asteroide peligroso se dirigiera hacia la Tierra, una defensa podría ser una detonación nuclear para hacer estallar un lado con rayos X y desviarlo de su curso. Pero nuevas simulaciones sugieren que, en el caso de un asteroide irregular y con grumos, exactamente dónde impactan esos rayos X podría marcar una gran diferencia.",
   "tg": 38
+ },
+ {
+  "id": "a8c5651bf1",
+  "t": "2026-11-03T16:08:54+00:00",
+  "visto": "2026-11-04T21:22:17.442649+00:00",
+  "titulo": "ESA’s Euclid captures the Milky Way’s crowded heart",
+  "url": "https://www.esa.int/articles/about-us/directorates/science/euclid/esa-s-euclid-captures-the-milky-way-s-crowded-heart",
+  "fuente": "ESA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "ESA",
+    "u": "https://www.esa.int/articles/about-us/directorates/science/euclid/esa-s-euclid-captures-the-milky-way-s-crowded-heart"
+   }
+  ],
+  "desc": "For just one day, our dark Universe detective, Euclid, turned its gaze towards the light: the extremely bright inner region of our Milky Way galaxy, known as the galactic bulge. ...",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Euclides de la ESA captura el corazón lleno de gente de la Vía Láctea",
+  "resumen_es": "Por solo un día, nuestro oscuro detective del Universo, Euclides, dirigió su mirada hacia la luz: la extremadamente brillante región interior de nuestra galaxia, la Vía Láctea, conocida como bulbo galáctico. ...",
+  "tg": 79
  },
  {
   "id": "9af8385b8d",
