@@ -1,5 +1,80 @@
 [
  {
+  "id": "4c5ce045bf",
+  "t": "2026-11-04T05:05:00+00:00",
+  "visto": "2026-11-04T06:57:30.644844+00:00",
+  "titulo": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/"
+   }
+  ],
+  "desc": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "APOD: 4 de noviembre de 2026 – La galaxia no tan escondida, IC 342",
+  "resumen_es": "APOD Ciencia APOD APOD: 2026 4 de noviembre - El… Archivo APOD de hoy Índice de envíos Buscar Calendario RSS Educación Acerca de Discutir APOD Astronomía Imagen del día ¡Descubre el cosmos! Cada día se presenta una imagen o fotografía diferente de nuestro fascinante universo, junto con una breve explicación escrita por un astrónomo profesional. Lo no tan escondido […]",
+  "tg": 64
+ },
+ {
+  "id": "31aecbbdf5",
+  "t": "2026-11-04T05:01:00+00:00",
+  "visto": "2026-11-04T06:57:30.643948+00:00",
+  "titulo": "Before the Dawn in America’s Heartland",
+  "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/"
+   }
+  ],
+  "desc": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Antes del amanecer en el corazón de Estados Unidos",
+  "resumen_es": "Sin apenas una nube a la vista, los astronautas tuvieron una vista panorámica de las luces nocturnas en el Medio Oeste de Estados Unidos.",
+  "tg": 63
+ },
+ {
+  "id": "47bc5636c0",
+  "t": "2026-11-04T00:22:38+00:00",
+  "visto": "2026-11-04T06:57:30.642271+00:00",
+  "titulo": "CAR – Publications",
+  "url": "https://www.nasa.gov/ames/earth-science/car-cloud-absorption-radiometer/publications/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/ames/earth-science/car-cloud-absorption-radiometer/publications/"
+   }
+  ],
+  "desc": "CAR Publications Below find publications related to the Cloud Absorption Radiometer (CAR), organized by decade. Back to CAR Home about CAR Publications Publications by Decade 2010-2019 PublicationsPublication List2000-2009 PublicationsPublication List1990-1999 PublicationsPublication List1980-1989 PublicationsPublication List The post CAR – Publications appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "CAR – Publicaciones",
+  "resumen_es": "Publicaciones CAR A continuación encontrará publicaciones relacionadas con el radiómetro de absorción de nubes (CAR), organizadas por década. Volver a Inicio sobre CAR Publicaciones Publicaciones por década 2010-2019 Publicaciones Lista de publicaciones 2000-2009 Publicaciones Lista de publicaciones 1990-1999 Publicaciones Lista de publicaciones 1980-1989 Publicaciones Lista de publicaciones El post CAR – Publicaciones apareció por primera vez en NASA Science.",
+  "tg": 62
+ },
+ {
   "id": "67ffe4d816",
   "t": "2026-11-04T00:10:01+00:00",
   "visto": "2026-11-04T00:34:53.894788+00:00",
