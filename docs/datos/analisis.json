@@ -218,5 +218,41 @@
     "caducidad": "🔴 publicar antes del lanzamiento (previsto a finales de noviembre)",
     "avisos": "La fecha exacta no está confirmada: Northrop Grumman dice 'a finales de noviembre' y otra fuente apunta a diciembre. Altura de la ISS (unos 400 km) y velocidad (unos 28.000 km/h) son cifras generales, comprobar antes de publicar.",
     "analizado": "2026-11-03T13:30:00Z"
+  },
+  "688f60d0f5": {
+    "titular": "Hera llega a Dimorphos: Europa inspecciona el asteroide al que NASA disparó",
+    "resumen": "La sonda Hera de la Agencia Espacial Europea (ESA), la primera misión europea de defensa planetaria, llega este mes de noviembre a su destino: el sistema de asteroides Didymos. Su objetivo es Dimorphos, una luna de unos 151 metros que orbita alrededor de Didymos, de unos 780 metros. En septiembre de 2022 la sonda DART de la NASA se estrelló contra Dimorphos y cambió su órbita. Hera va a estudiar cómo quedó para saber si este método sirve para desviar asteroides peligrosos.",
+    "por_que": "Es el ensayo real de cómo salvar a la Tierra de un asteroide: ahora toca ver con detalle el resultado del único golpe que la humanidad ha dado a un objeto del Sistema Solar.",
+    "datos_clave": [
+      "Llegada a Didymos prevista en noviembre de 2026 (ESA)",
+      "Dimorphos mide unos 151 m y Didymos unos 780 m (ESA)",
+      "DART impactó el 26 de septiembre de 2022 y cambió la órbita de Dimorphos (ESA)",
+      "Hera lleva dos cubesats, Milani y Juventas (Space.com)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "ESA",
+        "u": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
+      },
+      {
+        "n": "ESA",
+        "u": "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids"
+      },
+      {
+        "n": "Space.com",
+        "u": "https://space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage"
+      }
+    ],
+    "potencial": 7,
+    "tono": "explicación",
+    "fotograma1": "Una sonda pequeña acercándose a un asteroide con un cráter recién hecho, con la Tierra diminuta al fondo",
+    "gancho": "Hace cuatro años la NASA le dio un golpe a un asteroide. Ahora Europa va a ver cómo quedó.",
+    "guion": "En 2022, la NASA estrelló una nave contra un asteroide llamado Dimorphos. Y funcionó: cambió su órbita. Fue la primera vez que la humanidad movió un objeto del Sistema Solar. Pero nadie había visto de cerca el resultado. Hasta ahora. Este mes llega la sonda europea Hera, más o menos del tamaño de un coche pequeño. Dimorphos mide unos 150 metros, como un estadio de fútbol grande. Hera medirá su forma y su masa para saber si este método nos salvaría de un asteroide de verdad.",
+    "cierre": "Si apareciera un asteroide rumbo a la Tierra, ¿confiarías en darle un golpe para desviarlo?",
+    "grafismos": "Nave DART chocando contra el asteroide y su órbita alargándose; Hera pequeña comparada con un coche; Dimorphos comparado con un estadio; Hera escaneando el cráter; Tierra con un escudo",
+    "caducidad": "🟡 publicar en 1-2 semanas (mejor al confirmarse la llegada)",
+    "avisos": "No afirmar que Hera ya ha llegado: la fecha exacta de llegada no está confirmada en las fuentes consultadas. No dar el tamaño de la sonda con cifras exactas.",
+    "analizado": "2026-11-04T07:30:00Z"
   }
 }
