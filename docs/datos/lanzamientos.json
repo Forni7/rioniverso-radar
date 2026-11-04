@@ -1,23 +1,6 @@
 {
- "actualizado": "2026-11-03T20:05:36.966675+00:00",
+ "actualizado": "2026-11-04T00:35:13.323171+00:00",
  "lista": [
-  {
-   "id": "f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a",
-   "nombre": "Kinetica 2 | SpaceSail Polar Group #17",
-   "net": "2026-11-03T00:15:00Z",
-   "precision": "Minute",
-   "estado": "Success",
-   "estado_txt": "Launch Successful",
-   "proveedor": "CAS Space",
-   "cohete": "Kinetica 2",
-   "lugar": "Jiuquan Satellite Launch Center, People's Republic of China",
-   "mision": "18 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
-   "orbita": "PO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_firs_image_thumbnail_20260330153456.jpeg",
-   "starlink": false
-  },
   {
    "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
    "nombre": "Long March 2C | Unknown Payload",
@@ -91,35 +74,39 @@
   },
   {
    "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
-   "nombre": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+   "nombre": "Falcon 9 Block 5 | USSF-627",
    "net": "2026-11-10T03:03:00Z",
    "precision": "Minute",
-   "estado": "TBC",
-   "estado_txt": "To Be Confirmed",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
    "proveedor": "SpaceX",
    "cohete": "Falcon 9 Block 5",
    "lugar": "Vandenberg SFB, CA, USA",
    "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
    "orbita": "LEO",
    "prob": null,
-   "videos": [],
+   "videos": [
+    "https://x.com/i/broadcasts/2brkWyolnlBbLM"
+   ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
    "starlink": false
   },
   {
    "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
-   "nombre": "Falcon 9 Block 5 | USSF-xxx (\"R-6\")",
+   "nombre": "Falcon 9 Block 5 | USSF-317",
    "net": "2026-11-13T04:23:00Z",
    "precision": "Minute",
-   "estado": "TBC",
-   "estado_txt": "To Be Confirmed",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
    "proveedor": "SpaceX",
    "cohete": "Falcon 9 Block 5",
    "lugar": "Vandenberg SFB, CA, USA",
    "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
    "orbita": "LEO",
    "prob": null,
-   "videos": [],
+   "videos": [
+    "https://x.com/i/broadcasts/2lgkMvaRVPMdYR"
+   ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
    "starlink": false
   },
@@ -685,6 +672,23 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+   "nombre": "Themis Demonstrator | T1H-1",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Quarter 4",
+   "estado": "TBD",
+   "estado_txt": "To Be Determined",
+   "proveedor": "European Space Agency",
+   "cohete": "Themis Demonstrator",
+   "lugar": "Esrange Space Center",
+   "mision": "First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m.",
+   "orbita": "Sub",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_thumbnail_20250919095336.jpeg",
    "starlink": false
   }
  ]

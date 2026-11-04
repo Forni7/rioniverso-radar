@@ -1,5 +1,230 @@
 [
  {
+  "id": "67ffe4d816",
+  "t": "2026-11-04T00:10:01+00:00",
+  "visto": "2026-11-04T00:34:53.894788+00:00",
+  "titulo": "Using vibrations to reveal what lies beneath other planets' surfaces",
+  "url": "https://phys.org/news/2026-11-vibrations-reveal-beneath-planets-surfaces.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-vibrations-reveal-beneath-planets-surfaces.html"
+   }
+  ],
+  "desc": "Modern space exploration hasn't quite reached \"Star Trek\" levels of boldly going where no one has gone before. But if, like the denizens of the USS Enterprise, astronauts one day want to land on an uncharted planet, they'd first want to know what's on—and under—the surface.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-vibrations-to-re-1.jpg",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Usando vibraciones para revelar lo que hay debajo de la superficie de otros planetas",
+  "resumen_es": "La exploración espacial moderna no ha alcanzado los niveles de \"Star Trek\" de ir audazmente a donde nadie ha ido antes. Pero si, como los habitantes del USS Enterprise, los astronautas algún día quieren aterrizar en un planeta inexplorado, primero querrían saber qué hay sobre y debajo de la superficie.",
+  "tg": 61
+ },
+ {
+  "id": "6787b833c1",
+  "t": "2026-11-03T22:50:01+00:00",
+  "visto": "2026-11-04T00:34:53.893477+00:00",
+  "titulo": "When should we listen for alien signals? Scientists turn to game theory",
+  "url": "https://phys.org/news/2026-11-alien-scientists-game-theory.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-alien-scientists-game-theory.html"
+   }
+  ],
+  "desc": "Finding a signal from an extraterrestrial civilization takes more than just pointing a telescope in the right direction. We may also need to listen at exactly the right time.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-should-we-listen.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "¿Cuándo deberíamos escuchar señales extraterrestres? Los científicos recurren a la teoría de juegos",
+  "resumen_es": "Encontrar una señal de una civilización extraterrestre requiere algo más que apuntar un telescopio en la dirección correcta. Es posible que también necesitemos escuchar exactamente en el momento adecuado.",
+  "tg": 60
+ },
+ {
+  "id": "a087fed778",
+  "t": "2026-11-03T22:18:25+00:00",
+  "visto": "2026-11-04T00:34:53.891939+00:00",
+  "titulo": "NASA-Funded SSPICY Mission Experiences Communications Loss",
+  "url": "https://www.nasa.gov/blogs/smallsatellites/2026/11/03/nasa-funded-sspicy-mission-experiences-communications-loss/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/blogs/smallsatellites/2026/11/03/nasa-funded-sspicy-mission-experiences-communications-loss/"
+   }
+  ],
+  "desc": "A NASA-supported small satellite launched in October as a technology demonstration has lost contact with its owner and operator, Starfish Space. NASA and Starfish have concluded the spacecraft is not recoverable due to an issue preventing communications between the SmallSat and ground operators. Led by Starfish Space, NASA’s Small Spacecraft Propulsion and Inspection Capability (SSPICY) […] The post NASA-Funded SSPICY Mission Experiences Communications Loss appeared first on NASA Science .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La misión SSPICY financiada por la NASA experimenta pérdida de comunicaciones",
+  "resumen_es": "Un pequeño satélite apoyado por la NASA lanzado en octubre como demostración tecnológica perdió contacto con su propietario y operador, Starfish Space. La NASA y Starfish han llegado a la conclusión de que la nave espacial no es recuperable debido a un problema que impide las comunicaciones entre SmallSat y los operadores terrestres. Liderada por Starfish Space, la capacidad de inspección y propulsión de naves espaciales pequeñas de la NASA (SSPICY) […] El comunicado posterior a las experiencias de la misión SSPICY financiada por la NASA",
+  "tg": 59
+ },
+ {
+  "id": "45252c202d",
+  "t": "2026-11-03T22:00:00+00:00",
+  "visto": "2026-11-04T00:34:53.890582+00:00",
+  "titulo": "NASA asks industry for ideas about saving Hubble Space Telescope",
+  "url": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope"
+   }
+  ],
+  "desc": "The Hubble Space Telescope is healthy but is being pulled down toward Earth by atmospheric drag. NASA is considering options to extend the iconic telescope's work.",
+  "img": "https://cdn.mos.cms.futurecdn.net/EKqZZcpMeKzaDib4vuvNpS-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "La NASA pide a la industria ideas para salvar el telescopio espacial Hubble",
+  "resumen_es": "El Telescopio Espacial Hubble está en buen estado, pero está siendo arrastrado hacia la Tierra por la resistencia atmosférica. La NASA está considerando opciones para ampliar el trabajo del icónico telescopio.",
+  "tg": 58
+ },
+ {
+  "id": "7ac4212799",
+  "t": "2026-11-03T21:45:06+00:00",
+  "visto": "2026-11-04T00:34:53.889091+00:00",
+  "titulo": "Students Test Prototype Landing Pad to Make Lunar Operations Safe",
+  "url": "https://www.universetoday.com/articles/students-test-prototype-landing-pad-to-make-lunar-operations-safe",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/students-test-prototype-landing-pad-to-make-lunar-operations-safe"
+   }
+  ],
+  "desc": "This summer, a team of students and researchers at the University of Alabama in Huntsville successfully conducted three rocket-motor firing tests on a prototype lunar landing pad. The tests showed the prototype’s ability to capture and redirect rocket exhaust through an integrated vent system, marking an important milestone in developing landing infrastructure for future Moon base operations.",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Los estudiantes prueban un prototipo de plataforma de aterrizaje para hacer seguras las operaciones lunares",
+  "resumen_es": "Este verano, un equipo de estudiantes e investigadores de la Universidad de Alabama en Huntsville realizó con éxito tres pruebas de disparo de motores de cohetes en un prototipo de plataforma de aterrizaje lunar. Las pruebas demostraron la capacidad del prototipo para capturar y redirigir los gases de escape de los cohetes a través de un sistema de ventilación integrado, lo que marca un hito importante en el desarrollo de infraestructura de aterrizaje para futuras operaciones en bases lunares.",
+  "tg": 57
+ },
+ {
+  "id": "c5b74db307",
+  "t": "2026-11-03T21:00:00+00:00",
+  "visto": "2026-11-04T00:34:53.887796+00:00",
+  "titulo": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
+  "url": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes"
+   }
+  ],
+  "desc": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
+  "img": "https://cdn.mos.cms.futurecdn.net/KckHSz3cKUaFQJHGiYko5E-1920-80.png",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Las colisiones de estrellas antiguas podrían explicar los misteriosos pequeños puntos rojos y los agujeros negros 'imposibles'",
+  "resumen_es": "Las colisiones entre estrellas en el universo temprano eran comunes, y esto podría explicar el crecimiento de agujeros negros supermasivos y la existencia de extraños pequeños puntos rojos vistos por el telescopio espacial James Webb.",
+  "tg": 56
+ },
+ {
+  "id": "0ddc598848",
+  "t": "2026-11-03T20:49:30+00:00",
+  "visto": "2026-11-04T00:34:53.886339+00:00",
+  "titulo": "El rearme también sopla a favor de PLD Space: la ilicitana ya tiene encargos para lanzar satélites de defensa",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3JTNU5tNDFDV1hqb1ZTTTlYQi1zZUFHczZxYVV1Z1pGSkFaTkJLdUhrN0p4QW83QkRUNVFyYWstMnZZb180a1dvVmNBU3lPM09xenlnWXZCQ2FPR1JsWnVmNnAzSS1YZlZKelVhOGtJaWNMeXpubTVxVUtJMnRNcTJzZFRvUG5Dekw1cjFVQXJqeTBq0gGaAUFVX3lxTE41VmE5cEptTGttOXpFSGFfcVFQZFZyaXRMejlNTWlCYWhDTVg5NTh4NUVjVnpDMmMzd3RVWGZkNko0Vmo0RUFNLU1fMVNjRHl6Ujc0VkZ6NkEzRXpHdW9zVmdNN0dyRGlBVC10UFFqMVQ0YmZwRFNmTWRwYzlWVmV4VmFUUEZRWXBXT1h0bGR0YS1hZWk4dHN5OEE?oc=5",
+  "fuente": "Información",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Información",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3JTNU5tNDFDV1hqb1ZTTTlYQi1zZUFHczZxYVV1Z1pGSkFaTkJLdUhrN0p4QW83QkRUNVFyYWstMnZZb180a1dvVmNBU3lPM09xenlnWXZCQ2FPR1JsWnVmNnAzSS1YZlZKelVhOGtJaWNMeXpubTVxVUtJMnRNcTJzZFRvUG5Dekw1cjFVQXJqeTBq0gGaAUFVX3lxTE41VmE5cEptTGttOXpFSGFfcVFQZFZyaXRMejlNTWlCYWhDTVg5NTh4NUVjVnpDMmMzd3RVWGZkNko0Vmo0RUFNLU1fMVNjRHl6Ujc0VkZ6NkEzRXpHdW9zVmdNN0dyRGlBVC10UFFqMVQ0YmZwRFNmTWRwYzlWVmV4VmFUUEZRWXBXT1h0bGR0YS1hZWk4dHN5OEE?oc=5"
+   }
+  ],
+  "desc": "El rearme también sopla a favor de PLD Space: la ilicitana ya tiene encargos para lanzar satélites de defensa Información",
+  "img": "",
+  "cat": "es",
+  "cat_txt": "🇪🇸 España",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "El rearme también sopla a favor de PLD Space: la ilicitana ya tiene encargos para lanzar satélites de defensa",
+  "resumen_es": "El rearme también sopla a favor de PLD Space: la ilicitana ya tiene encargos para lanzar satélites de defensa Información",
+  "tg": 55
+ },
+ {
+  "id": "ddbc083bb1",
+  "t": "2026-11-03T20:46:36+00:00",
+  "visto": "2026-11-04T00:34:53.885112+00:00",
+  "titulo": "Voting in space: NASA astronauts cast ballots from International Space Station",
+  "url": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station"
+   }
+  ],
+  "desc": "The three Americans currently living off Earth made sure their voices were heard, voting in the midterm election from the International Space Station.",
+  "img": "https://cdn.mos.cms.futurecdn.net/byYSzbjGdja3wYE4YsFdn8-1920-80.jpg",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Votación en el espacio: los astronautas de la NASA emitieron sus votos desde la Estación Espacial Internacional",
+  "resumen_es": "Los tres estadounidenses que actualmente viven fuera de la Tierra se aseguraron de que sus voces fueran escuchadas, votando en las elecciones de mitad de período desde la Estación Espacial Internacional.",
+  "tg": 54
+ },
+ {
+  "id": "c34f0b4ff7",
+  "t": "2026-11-03T20:22:19+00:00",
+  "visto": "2026-11-04T00:34:53.881505+00:00",
+  "titulo": "Cosmic Origins Announcements, 3 Nov 2026",
+  "url": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/cosmic-origins-announcements-3-nov-2026/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/cosmic-origins-announcements-3-nov-2026/"
+   }
+  ],
+  "desc": "SAVE THE DATE: Joint PAG and COPAG Activities at AAS 249 The post Cosmic Origins Announcements, 3 Nov 2026 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Anuncios de Cosmic Origins, 3 de noviembre de 2026",
+  "resumen_es": "RESERVE LA FECHA: Actividades conjuntas de PAG y COPAG en AAS 249 La publicación Anuncios de orígenes cósmicos, 3 de noviembre de 2026 apareció por primera vez en NASA Science.",
+  "tg": 53
+ },
+ {
   "id": "6f983b7f3e",
   "t": "2026-11-03T20:00:00+00:00",
   "visto": "2026-11-03T20:04:37.990996+00:00",
