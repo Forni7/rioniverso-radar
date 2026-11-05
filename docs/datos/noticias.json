@@ -1,5 +1,530 @@
 [
  {
+  "id": "99d67370e8",
+  "t": "2026-11-05T16:32:13+00:00",
+  "visto": "2026-11-05T16:49:45.796400+00:00",
+  "titulo": "Amendment 81: New Opportunity: Astrophysics Theory Program",
+  "url": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-81-new-opportunity-astrophysics-theory-program/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-81-new-opportunity-astrophysics-theory-program/"
+   }
+  ],
+  "desc": "The Astrophysics Theory Program (ATP; D.10 of ROSES-25) supports efforts to develop the basic theory for NASA’s space astrophysics programs. The proposed work submitted for this program must both: ATP proposals satisfying both of the above requirements may involve development of data analysis methods for astrophysics missions and may incidentally include actual data analysis as […] The post Amendment 81: New Opportunity: Astrophysics Theory Program appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Enmienda 81: Nueva oportunidad: Programa de teoría de la astrofísica",
+  "resumen_es": "El Programa de Teoría de Astrofísica (ATP; D.10 de ROSES-25) apoya los esfuerzos para desarrollar la teoría básica para los programas de astrofísica espacial de la NASA. El trabajo propuesto presentado para este programa debe: Las propuestas de ATP que satisfagan los dos requisitos anteriores pueden implicar el desarrollo de métodos de análisis de datos para misiones astrofísicas y, de paso, pueden incluir análisis de datos reales como […] La publicación Enmienda 81: Nueva oportunidad: Programa de teoría de la astrofísica",
+  "tg": 144
+ },
+ {
+  "id": "48f805c2f6",
+  "t": "2026-11-05T15:40:14+00:00",
+  "visto": "2026-11-05T16:49:45.793796+00:00",
+  "titulo": "NASA's Swift telescope has burned up, months after a robot sent to save it failed",
+  "url": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html"
+   }
+  ],
+  "desc": "NASA's Neil Gehrels Swift Observatory took its last look at the sky on Oct. 20, 2026, while orbiting about 171 miles (275 kilometers) above Earth. NASA ended the telescope's mission three days later, because Swift had sunk so low that drag from the thin air there meant its telescopes couldn't hold steady.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-swift-telescope.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El telescopio Swift de la NASA se quemó, meses después de que fallara un robot enviado para salvarlo",
+  "resumen_es": "El Observatorio Neil Gehrels Swift de la NASA echó su último vistazo al cielo el 20 de octubre de 2026, mientras orbitaba a unas 171 millas (275 kilómetros) sobre la Tierra. La NASA puso fin a la misión del telescopio tres días después, porque Swift se había hundido tan bajo que la resistencia del aire allí significaba que sus telescopios no podían mantenerse estables.",
+  "tg": 143
+ },
+ {
+  "id": "f22f03895f",
+  "t": "2026-11-05T15:20:06+00:00",
+  "visto": "2026-11-05T16:49:45.791970+00:00",
+  "titulo": "Earth's slowing spin may have shaped its primordial crust",
+  "url": "https://phys.org/news/2026-11-earth-primordial-crust.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-earth-primordial-crust.html"
+   }
+  ],
+  "desc": "Around 4.5 billion years ago, a planet-sized object collided with the newly formed Earth, throwing out the debris that would later form the moon. The collision left Earth spinning extremely fast, with days lasting just two to five hours. Yet existing models of how Earth's first crust formed and evolved have largely overlooked how the planet's later slowdown might have affected it.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/earth-and-moon.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "La desaceleración del giro de la Tierra puede haber dado forma a su corteza primordial",
+  "resumen_es": "Hace unos 4.500 millones de años, un objeto del tamaño de un planeta chocó con la Tierra recién formada, expulsando los escombros que luego formarían la Luna. La colisión dejó a la Tierra girando extremadamente rápido, con días que duraban sólo de dos a cinco horas. Sin embargo, los modelos existentes sobre cómo se formó y evolucionó la primera corteza de la Tierra han pasado por alto en gran medida cómo la desaceleración posterior del planeta podría haberla afectado.",
+  "tg": 142
+ },
+ {
+  "id": "6a18d35c16",
+  "t": "2026-11-05T15:18:15+00:00",
+  "visto": "2026-11-05T16:49:45.790654+00:00",
+  "titulo": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
+  "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space"
+   }
+  ],
+  "desc": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
+  "img": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La sonda Voyager 1 de la NASA se recupera de un problema de comunicaciones en el espacio interestelar",
+  "resumen_es": "La sonda Voyager 1 de la NASA vuelve a estar en comunicación después de que la nave espacial de 49 años se quedara brevemente en silencio el mes pasado, durante su misión espacial interestelar.",
+  "tg": 141
+ },
+ {
+  "id": "3ca8426259",
+  "t": "2026-11-05T15:17:19+00:00",
+  "visto": "2026-11-05T16:49:45.788747+00:00",
+  "titulo": "Midwestern City Lights",
+  "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/midwestern-city-lights/"
+   }
+  ],
+  "desc": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this […]",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Luces de la ciudad del Medio Oeste",
+  "resumen_es": "Las luces de las ciudades desde el medio oeste de los Estados Unidos hasta la costa este brillan en el paisaje un par de horas antes del amanecer del 18 de octubre de 2026. Las principales áreas urbanas visibles en la fotografía incluyen Chicago, Illinois; Detroit, Míchigan; y la región metropolitana de Nueva York. La Estación Espacial Internacional estaba orbitando a 259 millas sobre la Tierra cuando esto […]",
+  "tg": 140
+ },
+ {
+  "id": "28f1c898c6",
+  "t": "2026-11-05T15:11:25+00:00",
+  "visto": "2026-11-05T16:49:45.787371+00:00",
+  "titulo": "NASA Astronauts to Answer Questions from Florida Students",
+  "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/"
+   }
+  ],
+  "desc": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in […]",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Astronautas de la NASA responderán preguntas de estudiantes de Florida",
+  "resumen_es": "Los estudiantes de Florida escucharán a los astronautas de la NASA Jessica Watkins y Luke Delaney mientras responden preguntas STEM pregrabadas mientras están a bordo de la Estación Espacial Internacional. La llamada Tierra-espacio comenzará a las 10:40 a. m. EST del martes 10 de noviembre y se transmitirá en vivo en el canal de YouTube Learn With NASA de la agencia. Este evento es organizado por Freedom Crossing Academy en […]",
+  "tg": 139
+ },
+ {
+  "id": "16369985cb",
+  "t": "2026-11-05T15:08:44+00:00",
+  "visto": "2026-11-05T16:49:45.785894+00:00",
+  "titulo": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+  "url": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems"
+   }
+  ],
+  "desc": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capabilities with the launch of the James Webb Space Telescope (JWST). A new paper from a team of researchers led by Dr. Silvia Protopapa of NASA’s Goddard Space Flight Center and the Southwest Research Institute, and published in The Astrophysical Journal Letters, details JWST’s find",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El visitante interestelar 3I/ATLAS muestra que el hielo de agua se comporta igual en todos los sistemas estelares alienígenas",
+  "resumen_es": "A veces se presentan objetivos de oportunidad en astronomía, y obtuvimos uno importante cuando se descubrió el tercer objeto interestelar, 3I/ATLAS, en julio de 2025. Y sucede que en los años intermedios entre el último visitante interestelar conocido (2I/Borisov en 2019), obtuvimos una mejora importante en nuestras capacidades de observación con el lanzamiento del Telescopio Espacial James Webb (JWST). Un nuevo artículo de un equipo de investigadores dirigido por la Dra. Silvia Protopa",
+  "tg": 138
+ },
+ {
+  "id": "3fe7abe83c",
+  "t": "2026-11-05T15:00:00+00:00",
+  "visto": "2026-11-05T16:49:45.783848+00:00",
+  "titulo": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
+  "url": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026"
+   }
+  ],
+  "desc": "Canadian astronaut Joshua Kutryk poses for a photo mid-spacewalk on Oct. 29, 2026.",
+  "img": "https://cdn.mos.cms.futurecdn.net/8MpHNK2NfStZj8HxcytvaX-1920-80.png",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Fotobombas en la Tierra durante caminata espacial de un astronauta canadiense | Foto espacial del día del 5 de noviembre de 2026",
+  "resumen_es": "El astronauta canadiense Joshua Kutryk posa para una fotografía en medio de una caminata espacial el 29 de octubre de 2026.",
+  "tg": 137
+ },
+ {
+  "id": "37974e11c5",
+  "t": "2026-11-05T14:20:02+00:00",
+  "visto": "2026-11-05T16:49:45.782517+00:00",
+  "titulo": "Webb Space Telescope's little red dots could hold key to first black holes",
+  "url": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html"
+   }
+  ],
+  "desc": "Johns Hopkins researchers searching the expanse of the universe for the existence of the first black holes are zeroing in on little red dots that may hold the key to the theoretical phenomenon.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/webb-space-telescopes.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los pequeños puntos rojos del Telescopio Espacial Webb podrían ser la clave para los primeros agujeros negros",
+  "resumen_es": "Los investigadores de Johns Hopkins que buscan en la extensión del universo la existencia de los primeros agujeros negros se están concentrando en pequeños puntos rojos que pueden contener la clave del fenómeno teórico.",
+  "tg": 136
+ },
+ {
+  "id": "6ea7b54fcc",
+  "t": "2026-11-05T14:15:38+00:00",
+  "visto": "2026-11-05T16:49:45.780867+00:00",
+  "titulo": "Building a ‘highway to the moon and back’ with Winnie Lai",
+  "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
+  "fuente": "SpaceNews",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpaceNews",
+    "u": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
+   }
+  ],
+  "desc": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […] The post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Construyendo una 'autopista a la luna y de regreso' con Winnie Lai",
+  "resumen_es": "En este episodio, Mike Gruss de SpaceNews habla con Winnie Lai, directora ejecutiva de Auriga Space. Hablan de cómo la tecnología de lanzamiento electromagnético que “catapulta” pequeños vehículos de lanzamiento podría reducir […] La publicación Construyendo una ‘autopista a la luna y de regreso’ con Winnie Lai apareció por primera vez en SpaceNews.",
+  "tg": 135
+ },
+ {
+  "id": "04a0782252",
+  "t": "2026-11-05T14:00:10+00:00",
+  "visto": "2026-11-05T16:49:45.779472+00:00",
+  "titulo": "Microbial growth in simulated Mars conditions could guide search for life",
+  "url": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html"
+   }
+  ],
+  "desc": "A new experiment reveals that Earth's microbes can grow in harsh conditions similar to what may exist just below the surface of Mars, suggesting new directions in the search for potential cellular life on the red planet.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/microbes-can-grow-in-m.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El crecimiento microbiano en condiciones simuladas de Marte podría guiar la búsqueda de vida",
+  "resumen_es": "Un nuevo experimento revela que los microbios de la Tierra pueden crecer en condiciones duras similares a las que pueden existir justo debajo de la superficie de Marte, lo que sugiere nuevas direcciones en la búsqueda de vida celular potencial en el planeta rojo.",
+  "tg": 134
+ },
+ {
+  "id": "eb3b18c39a",
+  "t": "2026-11-05T14:00:00+00:00",
+  "visto": "2026-11-05T16:49:45.778083+00:00",
+  "titulo": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+  "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier"
+   }
+  ],
+  "desc": "\"Diversity makes the crew stronger.\"",
+  "img": "https://cdn.mos.cms.futurecdn.net/Z2uqNFHEU4cwXbkWpSae4n-1920-80.png",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "La astronauta de la NASA Jessica Watkins es la primera mujer negra en comandar una misión espacial. ¿Veremos más diversidad en el futuro en la última frontera?",
+  "resumen_es": "\"La diversidad fortalece a la tripulación\".",
+  "tg": 133
+ },
+ {
+  "id": "33e12cb28d",
+  "t": "2026-11-05T14:00:00+00:00",
+  "visto": "2026-11-05T16:49:45.776476+00:00",
+  "titulo": "Exclusive: Orbital Taps Orca Aerospace for Onboard Autonomy Software",
+  "url": "https://payloadspace.com/exclusive-orbital-taps-orca-aerospace-for-onboard-autonomy-software/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/exclusive-orbital-taps-orca-aerospace-for-onboard-autonomy-software/"
+   }
+  ],
+  "desc": "Satellite autonomy startup Orca Aerospace announced a deal worth up to $20M with LA-based Orbital to put its software on Orbital’s planned data-center fleet. The post Exclusive: Orbital Taps Orca Aerospace for Onboard Autonomy Software appeared first on Payload .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Exclusivo: Orbital recurre a Orca Aerospace para el software de autonomía a bordo",
+  "resumen_es": "La startup de autonomía satelital Orca Aerospace anunció un acuerdo por valor de hasta 20 millones de dólares con Orbital, con sede en Los Ángeles, para colocar su software en la flota de centros de datos planificada de Orbital. La publicación Exclusivo: Orbital Taps Orca Aerospace para software de autonomía a bordo apareció por primera vez en Carga útil.",
+  "tg": 132
+ },
+ {
+  "id": "f2fad8b424",
+  "t": "2026-11-05T13:52:57+00:00",
+  "visto": "2026-11-05T16:49:45.774706+00:00",
+  "titulo": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
+  "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/",
+  "fuente": "European Spaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
+   }
+  ],
+  "desc": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union’s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the European industrial consortium developing the first next-generation Sentinel-3 satellite, with the […] The post OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite appeared first on European Spaceflight .",
+  "img": "",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "OHB se adjudica un contrato de 554 millones de euros para el satélite Sentinel-3 de próxima generación",
+  "resumen_es": "El fabricante alemán de satélites OHB ha conseguido un contrato de 554 millones de euros de la Agencia Espacial Europea (ESA) para desarrollar el primer satélite Sentinel-3 de topografía de próxima generación (NGT) para el programa Copernicus de la Unión Europea. En un anuncio del 4 de noviembre, OHB reveló que lideraría el consorcio industrial europeo que desarrollaría el primer satélite Sentinel-3 de próxima generación, con el […] The post OHB obtuvo un contrato de 554 millones de euros para el próximo-",
+  "tg": 131
+ },
+ {
+  "id": "2d884840a6",
+  "t": "2026-11-05T13:44:35+00:00",
+  "visto": "2026-11-05T16:49:45.772414+00:00",
+  "titulo": "Spacewalk Begins to Install Last Roll-Out Solar Array",
+  "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalk-begins-to-install-last-roll-out-solar-array/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/blogs/spacestation/2026/11/05/spacewalk-begins-to-install-last-roll-out-solar-array/"
+   }
+  ],
+  "desc": "CSA (Canadian Space Agency) astronaut Joshua Kutryk and NASA astronaut Anil Menon began a spacewalk at 8:36 a.m. EST outside the International Space Station airlock to install and deploy the eighth and final IROSA on the 3B channel of the space station, completing the power augmentation upgrades, The post Spacewalk Begins to Install Last Roll-Out Solar Array appeared first on NASA Science .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La caminata espacial comienza a instalar el último panel solar implementado",
+  "resumen_es": "El astronauta de la CSA (Agencia Espacial Canadiense) Joshua Kutryk y el astronauta de la NASA Anil Menon comenzaron una caminata espacial a las 8:36 a. m. EST fuera de la esclusa de aire de la Estación Espacial Internacional para instalar y desplegar el octavo y último IROSA en el canal 3B de la estación espacial, completando las actualizaciones de aumento de energía. La publicación La caminata espacial comienza a instalar el último panel solar desplegable apareció por primera vez en NASA Science.",
+  "tg": 130
+ },
+ {
+  "id": "9932266496",
+  "t": "2026-11-05T13:33:52+00:00",
+  "visto": "2026-11-05T16:49:45.771069+00:00",
+  "titulo": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+  "url": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics"
+   }
+  ],
+  "desc": "NASA has announced its next X-plane, known as the X-70 Fractal, designed to test advanced maneuverability and which will feature a rapidly reconfigurable design.",
+  "img": "https://cdn.mos.cms.futurecdn.net/AiaAqXG4pJVCeRwNm9i8jH-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La NASA anuncia el avión experimental X-70 Fractal: un 'nuevo comienzo para la aeronáutica'",
+  "resumen_es": "La NASA ha anunciado su próximo avión X, conocido como X-70 Fractal, diseñado para probar una maniobrabilidad avanzada y que contará con un diseño rápidamente reconfigurable.",
+  "tg": 129
+ },
+ {
+  "id": "f549be7fd5",
+  "t": "2026-11-05T13:00:00+00:00",
+  "visto": "2026-11-05T16:49:45.766182+00:00",
+  "titulo": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
+  "url": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race"
+   }
+  ],
+  "desc": "China has laid out its roadmap for landing astronauts on the moon \"before 2030,\" a milestone that NASA hopes to achieve in 2028.",
+  "img": "https://cdn.mos.cms.futurecdn.net/cTJYivq9mYM2y7WWZFSME7-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "China presenta planes para llevar astronautas a la luna \"antes de 2030\". ¿Aún puede la NASA ganar esta carrera?",
+  "resumen_es": "China ha trazado su hoja de ruta para llevar astronautas a la Luna \"antes de 2030\", un hito que la NASA espera alcanzar en 2028.",
+  "tg": 128
+ },
+ {
+  "id": "1d342b2461",
+  "t": "2026-11-05T12:56:21+00:00",
+  "visto": "2026-11-05T16:49:45.764924+00:00",
+  "titulo": "Hubble Learns Galactic History From Stars",
+  "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+   }
+  ],
+  "desc": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Hubble aprende la historia galáctica de las estrellas",
+  "resumen_es": "Esta imagen del Hubble muestra la brillante colección de estrellas llamada Messier 30 (M30), también llamada NGC 7099.",
+  "tg": 127
+ },
+ {
+  "id": "b06772f2a4",
+  "t": "2026-11-05T12:42:40+00:00",
+  "visto": "2026-11-05T16:49:45.763548+00:00",
+  "titulo": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+  "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin"
+   }
+  ],
+  "desc": "Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that can find dim exoplanets more easily than ever.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los exoplanetas no pueden esconderse del 'gemelo digital' del JWST",
+  "resumen_es": "Encontrar exoplanetas tenues escondidos en el resplandor de sus estrellas es un desafío constante en astronomía. Los telescopios utilizan coronógrafos para bloquear la luz de las estrellas, pero incluso ellos tienen sus limitaciones. Los investigadores han desarrollado una nueva técnica con el JWST que puede encontrar exoplanetas tenues más fácilmente que nunca.",
+  "tg": 126
+ },
+ {
+  "id": "dcaf7d7a44",
+  "t": "2026-11-05T12:02:48+00:00",
+  "visto": "2026-11-05T16:49:45.760601+00:00",
+  "titulo": "Astronauts Suit Up for Final Power Upgrade Spacewalk",
+  "url": "https://www.nasa.gov/blogs/spacestation/2026/11/05/astronauts-suit-up-for-final-power-upgrade-spacewalk/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/blogs/spacestation/2026/11/05/astronauts-suit-up-for-final-power-upgrade-spacewalk/"
+   }
+  ],
+  "desc": "NASA is streaming live coverage as two astronauts prepare for a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 8:30 a.m. EST and last about more than six and a half hours. The post Astronauts Suit Up for Final Power Upgrade Spacewalk appeared first on NASA Science .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los astronautas se preparan para la caminata espacial final para mejorar la energía",
+  "resumen_es": "La NASA está transmitiendo cobertura en vivo mientras dos astronautas se preparan para una caminata espacial fuera de la Estación Espacial Internacional. Está previsto que la caminata espacial comience aproximadamente a las 8:30 a. m. EST y dure aproximadamente más de seis horas y media. La publicación Los astronautas se preparan para la caminata espacial final de mejora de energía apareció por primera vez en Ciencia de la NASA.",
+  "tg": 125
+ },
+ {
+  "id": "54668c9c34",
+  "t": "2026-11-05T10:26:00+00:00",
+  "visto": "2026-11-05T16:49:45.755208+00:00",
+  "titulo": "El Colegio de Economistas aborda los retos de la economía espacial junto a PLD Space",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0VqUVF0Z0hnWi1RODdVeDNBSUxXYkNqQmtranFaMERLSUlzamoxdW1XYkVSTXpad0JTWmYwMmsxZ3BWcENOOEVvQm1mZzdWRDd0a3JreERsZnlmYU9GU1ZKLXVidE93dlA4VW5HNkxEbGZTSGlGM3JENDJzMFp1dEpwMF9wSHJ4QnIxVUxvZEFfQmtBRTZucVFfTVFiZk05dnpxLTBkN2xqZjVlMENVdC04bWZPSFVOaGFZMkU2UXBjUXgyeTFGWDl5MDMwWThPanFNNHNmdm9PZC00RlJGQVlPdUJVUQ?oc=5",
+  "fuente": "Alicante Plaza",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Alicante Plaza",
+    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0VqUVF0Z0hnWi1RODdVeDNBSUxXYkNqQmtranFaMERLSUlzamoxdW1XYkVSTXpad0JTWmYwMmsxZ3BWcENOOEVvQm1mZzdWRDd0a3JreERsZnlmYU9GU1ZKLXVidE93dlA4VW5HNkxEbGZTSGlGM3JENDJzMFp1dEpwMF9wSHJ4QnIxVUxvZEFfQmtBRTZucVFfTVFiZk05dnpxLTBkN2xqZjVlMENVdC04bWZPSFVOaGFZMkU2UXBjUXgyeTFGWDl5MDMwWThPanFNNHNmdm9PZC00RlJGQVlPdUJVUQ?oc=5"
+   }
+  ],
+  "desc": "El Colegio de Economistas aborda los retos de la economía espacial junto a PLD Space Alicante Plaza",
+  "img": "",
+  "cat": "es",
+  "cat_txt": "🇪🇸 España",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "El Colegio de Economistas aborda los retos de la economía espacial junto a PLD Space",
+  "resumen_es": "El Colegio de Economistas aborda los retos de la economía espacial junto a PLD Space Alicante Plaza",
+  "tg": 124
+ },
+ {
   "id": "8422fe2ae8",
   "t": "2026-11-05T08:08:36+00:00",
   "visto": "2026-11-05T08:34:44.786340+00:00",
