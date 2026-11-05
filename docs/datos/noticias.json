@@ -1,5 +1,255 @@
 [
  {
+  "id": "8f20869c2b",
+  "t": "2026-11-05T01:01:18+00:00",
+  "visto": "2026-11-05T01:41:08.071087+00:00",
+  "titulo": "Shine Bright for Voyager’s Light‑Day",
+  "url": "https://science.nasa.gov/mission/voyager/voyager-1/shine-bright-for-voyagers-light-day/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/mission/voyager/voyager-1/shine-bright-for-voyagers-light-day/"
+   }
+  ],
+  "desc": "How to Participate Use our Automated “V-G-R” Flasher to send your signal to Voyager, or if you want to try Morse code yourself, see our “Shine Bright” Step-by-Step instructions below. To amplify this global celebration, we encourage you to capture photos or video of your light‑day signal and share it on social platforms, tagging @NASA. […] The post Shine Bright for Voyager’s Light‑Day appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Brilla intensamente para el día de la luz de la Voyager",
+  "resumen_es": "Cómo participar Utilice nuestro intermitente automático \"V-G-R\" para enviar su señal a la Voyager, o si desea probar el código Morse usted mismo, consulte nuestras instrucciones paso a paso \"Shine Bright\" a continuación. Para amplificar esta celebración global, lo alentamos a capturar fotografías o videos de su señal del día de luz y compartirlos en plataformas sociales, etiquetando a @NASA. […] La publicación Shine Bright for Voyager’s Light-Day apareció por primera vez en NASA Science.",
+  "tg": 118
+ },
+ {
+  "id": "79c507444a",
+  "t": "2026-11-05T00:40:07+00:00",
+  "visto": "2026-11-05T01:41:08.068743+00:00",
+  "titulo": "European orbiter detects fresh hints of volcanic activity on Mars",
+  "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html"
+   }
+  ],
+  "desc": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/european-orbiter-detec-5.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Orbitador europeo detecta nuevos indicios de actividad volcánica en Marte",
+  "resumen_es": "Nuevas evidencias de gas que se filtra por encima de fisuras volcánicas sugieren que Marte no está geológicamente muerto en su interior, sino simplemente durmiendo. Nuevas fisuras a lo largo de la región de Alba Mons insinúan puntos activos debajo de la superficie, donde los gases del interior del planeta pueden estar subiendo a la superficie.",
+  "tg": 117
+ },
+ {
+  "id": "47c521c579",
+  "t": "2026-11-05T00:34:48+00:00",
+  "visto": "2026-11-05T01:41:08.067348+00:00",
+  "titulo": "Redwire Wins $20M DARPA Contract for Second VLEO Demo",
+  "url": "https://payloadspace.com/redwire-wins-20m-darpa-contract-for-second-vleo-demo/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/redwire-wins-20m-darpa-contract-for-second-vleo-demo/"
+   }
+  ],
+  "desc": "A group of otters is called a bevy, and DARPA just ordered another round. The post Redwire Wins $20M DARPA Contract for Second VLEO Demo appeared first on Payload .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Redwire gana un contrato DARPA de 20 millones de dólares para la segunda demostración de VLEO",
+  "resumen_es": "Un grupo de nutrias se llama bandada y DARPA acaba de ordenar otra ronda. La publicación Redwire gana un contrato DARPA de $ 20 millones para la segunda demostración de VLEO apareció por primera vez en Payload.",
+  "tg": 116
+ },
+ {
+  "id": "1f93a3fe6c",
+  "t": "2026-11-05T00:16:40+00:00",
+  "visto": "2026-11-05T01:41:08.065627+00:00",
+  "titulo": "Farewell Swift",
+  "url": "https://spacepolicyonline.com/news/farewell-swift/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/farewell-swift/"
+   }
+  ],
+  "desc": "NASA’s Neil Gehrels Swift Observatory reentered this morning, bringing the 22-year-old mission to an end. NASA contracted with Katalyst Space in September 2025 to revamp an existing system to try […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Adiós veloz",
+  "resumen_es": "El Observatorio Swift Neil Gehrels de la NASA volvió a entrar esta mañana, poniendo fin a la misión de 22 años. La NASA contrató a Katalyst Space en septiembre de 2025 para renovar un sistema existente para intentar […]",
+  "tg": 115
+ },
+ {
+  "id": "059d86435e",
+  "t": "2026-11-04T23:00:36+00:00",
+  "visto": "2026-11-05T01:41:08.063789+00:00",
+  "titulo": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026"
+   }
+  ],
+  "desc": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it failed just after liftoff from Hawaii.",
+  "img": "https://cdn.mos.cms.futurecdn.net/RLwiYvR97AgM2qiaxieDDg-1920-80.jpg",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "¡En este día en el espacio! 4 de noviembre de 2015: Un cohete Super Strypi lanzado sobre rieles que transportaba 13 satélites pequeños falló durante su lanzamiento debut para la Fuerza Aérea de EE. UU.",
+  "resumen_es": "El 4 de noviembre de 2015, la Fuerza Aérea de los Estados Unidos lanzó un cohete experimental Super Strypi lanzado sobre rieles que transportaba 13 pequeños satélites, pero falló justo después del despegue desde Hawaii.",
+  "tg": 114
+ },
+ {
+  "id": "17f6bf4cd3",
+  "t": "2026-11-04T22:34:11+00:00",
+  "visto": "2026-11-05T01:41:08.061449+00:00",
+  "titulo": "Trump Issues “American Declaration of Freedom in Space”",
+  "url": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
+   }
+  ],
+  "desc": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exploration, development, use, and settlement of new frontiers […]",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Trump emite la “Declaración estadounidense de libertad en el espacio”",
+  "resumen_es": "El presidente Trump emitió ayer una proclama espacial. La “Declaración Americana de Libertad en el Espacio” promete que Estados Unidos liderará la exploración, el desarrollo, el uso y la colonización de nuevas fronteras […]",
+  "tg": 113
+ },
+ {
+  "id": "9b1732060b",
+  "t": "2026-11-04T22:20:01+00:00",
+  "visto": "2026-11-05T01:41:08.060045+00:00",
+  "titulo": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
+  "url": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html"
+   }
+  ],
+  "desc": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-cosmic-hy.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La medición del hidrógeno cósmico marca un gran avance en el mapeo del universo",
+  "resumen_es": "Un proyecto de investigación internacional está acercando a los científicos al mapeo del universo. La Colaboración MeerKLASS ha informado de su primera medición de la agrupación a gran escala de hidrógeno cósmico, avanzando en una técnica que podría transformar la forma en que los cosmólogos trazan el universo.",
+  "tg": 112
+ },
+ {
+  "id": "c5ce38c55e",
+  "t": "2026-11-04T22:00:00+00:00",
+  "visto": "2026-11-05T01:41:08.058427+00:00",
+  "titulo": "Trump declares 'American space superiority for all eternity' in election night proclamation",
+  "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation"
+   }
+  ],
+  "desc": "President Trump has declared space a frontier for all humanity, asserting America's right to develop and settle the solar system under U.S. law.",
+  "img": "https://cdn.mos.cms.futurecdn.net/6WMpQATRqvrCoSBmkEZu2Z-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Trump declara la 'superioridad espacial estadounidense para toda la eternidad' en la proclamación de la noche de las elecciones",
+  "resumen_es": "El presidente Trump ha declarado el espacio una frontera para toda la humanidad, afirmando el derecho de Estados Unidos a desarrollar y colonizar el sistema solar según la ley estadounidense.",
+  "tg": 111
+ },
+ {
+  "id": "82dac866c7",
+  "t": "2026-11-04T21:29:39+00:00",
+  "visto": "2026-11-05T01:41:08.056543+00:00",
+  "titulo": "China Unveils Their Plan for a Crewed Moon Landing",
+  "url": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing"
+   }
+  ],
+  "desc": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "China revela su plan para un alunizaje tripulado",
+  "resumen_es": "Ayer, 3 de noviembre, el diseñador jefe adjunto del programa espacial tripulado de China y diseñador jefe del programa de exploración lunar (Wang Xiang) dio a conocer una declaración oficial que detalla sus [planes para una misión tripulada a la Luna] (https://english.spacechina.com/n17212/c4744561/content.html).",
+  "tg": 110
+ },
+ {
+  "id": "91ab0266f1",
+  "t": "2026-11-04T21:21:58+00:00",
+  "visto": "2026-11-05T01:41:08.053447+00:00",
+  "titulo": "NASA Glenn Research Center Shadowing Days",
+  "url": "https://www.nasa.gov/nasa-glenn-research-center-shadowing-days/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/nasa-glenn-research-center-shadowing-days/"
+   }
+  ],
+  "desc": "About the Program The Shadowing Program at NASA Glenn Research Center allows you to step behind the scenes and get a firsthand look at one of the world’s premier research facilities. Throughout the day, you will be paired with a NASA expert to explore state-of-the-art testing facilities and gain insight into what a career at […] The post NASA Glenn Research Center Shadowing Days appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Días de observación del Centro de Investigación Glenn de la NASA",
+  "resumen_es": "Acerca del programa El Programa de seguimiento del Centro de Investigación Glenn de la NASA le permite conocer detrás de escena y ver de primera mano una de las principales instalaciones de investigación del mundo. A lo largo del día, lo emparejarán con un experto de la NASA para explorar las instalaciones de prueba de última generación y obtener una idea de lo que es una carrera en […] The post NASA Glenn Research Center Shadowing Days apareció por primera vez en NASA Science.",
+  "tg": 109
+ },
+ {
   "id": "3285fd735b",
   "t": "2026-11-04T21:04:10+00:00",
   "visto": "2026-11-04T21:22:17.469832+00:00",
@@ -486,6 +736,10 @@
    {
     "n": "NASA",
     "u": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-nasa-planetary.html"
    }
   ],
   "desc": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
@@ -493,7 +747,7 @@
   "cat": "luna",
   "cat_txt": "🌙 Luna / Artemis",
   "estado": "nuevo",
-  "imp": 6,
+  "imp": 7,
   "silencio": false,
   "titulo_es": "El experimento de navegación de la NASA es prometedor para los aterrizajes planetarios",
   "resumen_es": "La NASA demostró con éxito una tecnología diseñada para ayudar a las naves espaciales a navegar de forma autónoma hacia sitios de aterrizaje seguros en la Luna y otros planetas. Un dron Alta-X equipado con la carga útil de guía, navegación y control de Aterrizaje Seguro y Preciso - Evolución de Capacidades Integradas (SPLICE) de la agencia completó maniobras simuladas de descenso y aterrizaje lunar el 27 de agosto. El vuelo tuvo lugar […]",
