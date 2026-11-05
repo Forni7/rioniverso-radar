@@ -1,5 +1,130 @@
 [
  {
+  "id": "8422fe2ae8",
+  "t": "2026-11-05T08:08:36+00:00",
+  "visto": "2026-11-05T08:34:44.786340+00:00",
+  "titulo": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
+  "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live"
+   }
+  ],
+  "desc": "NASA's Anil Menon and Canada Joshua Kutryk will install the International Space Station's final roll-out solar array during a spacewalk today (Nov. 5). Here's how to watch it live.",
+  "img": "https://cdn.mos.cms.futurecdn.net/bscr4douUoKnadZrBT8BT6-1920-80.jpg",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Dos astronautas terminarán de actualizar los paneles solares de la ISS durante la caminata espacial de hoy: mírelo en vivo",
+  "resumen_es": "Anil Menon de la NASA y el canadiense Joshua Kutryk instalarán el último panel solar desplegable de la Estación Espacial Internacional durante una caminata espacial hoy (5 de noviembre). Aquí te explicamos cómo verlo en vivo.",
+  "tg": 123
+ },
+ {
+  "id": "fd6fa58436",
+  "t": "2026-11-05T06:00:31+00:00",
+  "visto": "2026-11-05T08:34:44.784741+00:00",
+  "titulo": "Pedro Duque, el primer astronauta español de la historia, sobre los riesgos de la inteligencia artificial: \"Siempre va a haber alguien que encuentre una manera de ganar dinero rápido sin preocuparle las consecuencias\"",
+  "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQR1JwbWdkM1dYREwybThVNnU2ZzhfZ1I1RmV4aEsyUXc2OTdxZmVldzZKakFuNVFhdWtUQi1pazktSXdmakhkbi1FaVJwbkJRUFhFdEl5Wm5uMEVmQThXcXlWSlhlUmgzbUtoT3JkalJhMDVpYXJ2blRJQVllVGpPUF9DaERTZWs5ODE1dHJWNF80M2NoLUg4cDVHaWhoZzJidWNfeWNDN3BQaUI2ZnhvYVlSajhfU20zUWlrOEFKenhmRk5Hck5VZ01HYXVkdGRXX01RUW5FZEFtR1ZPLWREZndVUi1Cd2t3bzEwR281TUVwTkxaTndhUWJILVJGRzFaN3VmaG9LS0xibjJfbmdWb0Y5TnFYRERKcS03MVZzTHA4QTFsOG1ZZmVEYko1enQxQk93NVZtSjZ2V1BMX243Y9IB1AJBVV95cUxQNW04X3I3NGxobnYzTmxTaUlSXzNvMnVVMGVoS04wMDVaLTZXMnNoVTVmVXZqWTBvX2xqMjk1V29Kbmg0bWRTMVNSbmJSd2hBbFo0R3NWWnhQSUJWU21TLW4zX080dXlraVJreVRienlxOXFva2dXd2U2WWd1Sy1GUzdUSmIwUE9IaElNQTVBdW9RS2VLYmw1OHJUTmExbHdhRnNJNDB5OHotNF9hb0llWWVCWklPNG84YnEySTk3NWtSTlhubXFtZ0NNdG1JOUZHNFBlWUFZVWgyTWo2S2J1aUllRGhPZk9kNTlqdWdXQzVzNW5WT01HUXBkbk5QSVpVcGkzdmg0V2NiNUFpc2g0Z1hKMUJ3cUVKaWRGSzBpazNOdUFBZ0twaU9FLV9OakVOUnNFcW9hUDduXzhnNDBVVEtyMElpU1VtNVdJYjR2SjBjZmJj?oc=5",
+  "fuente": "La Razón",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "La Razón",
+    "u": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQR1JwbWdkM1dYREwybThVNnU2ZzhfZ1I1RmV4aEsyUXc2OTdxZmVldzZKakFuNVFhdWtUQi1pazktSXdmakhkbi1FaVJwbkJRUFhFdEl5Wm5uMEVmQThXcXlWSlhlUmgzbUtoT3JkalJhMDVpYXJ2blRJQVllVGpPUF9DaERTZWs5ODE1dHJWNF80M2NoLUg4cDVHaWhoZzJidWNfeWNDN3BQaUI2ZnhvYVlSajhfU20zUWlrOEFKenhmRk5Hck5VZ01HYXVkdGRXX01RUW5FZEFtR1ZPLWREZndVUi1Cd2t3bzEwR281TUVwTkxaTndhUWJILVJGRzFaN3VmaG9LS0xibjJfbmdWb0Y5TnFYRERKcS03MVZzTHA4QTFsOG1ZZmVEYko1enQxQk93NVZtSjZ2V1BMX243Y9IB1AJBVV95cUxQNW04X3I3NGxobnYzTmxTaUlSXzNvMnVVMGVoS04wMDVaLTZXMnNoVTVmVXZqWTBvX2xqMjk1V29Kbmg0bWRTMVNSbmJSd2hBbFo0R3NWWnhQSUJWU21TLW4zX080dXlraVJreVRienlxOXFva2dXd2U2WWd1Sy1GUzdUSmIwUE9IaElNQTVBdW9RS2VLYmw1OHJUTmExbHdhRnNJNDB5OHotNF9hb0llWWVCWklPNG84YnEySTk3NWtSTlhubXFtZ0NNdG1JOUZHNFBlWUFZVWgyTWo2S2J1aUllRGhPZk9kNTlqdWdXQzVzNW5WT01HUXBkbk5QSVpVcGkzdmg0V2NiNUFpc2g0Z1hKMUJ3cUVKaWRGSzBpazNOdUFBZ0twaU9FLV9OakVOUnNFcW9hUDduXzhnNDBVVEtyMElpU1VtNVdJYjR2SjBjZmJj?oc=5"
+   }
+  ],
+  "desc": "Pedro Duque, el primer astronauta español de la historia, sobre los riesgos de la inteligencia artificial: \"Siempre va a haber alguien que encuentre una manera de ganar dinero rápido sin preocuparle las consecuencias\" La Razón",
+  "img": "",
+  "cat": "es",
+  "cat_txt": "🇪🇸 España",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "Pedro Duque, el primer astronauta español de la historia, sobre los riesgos de la inteligencia artificial: \"Siempre va a haber alguien que encuentre una manera de ganar dinero rápido sin preocuparle las consecuencias\"",
+  "resumen_es": "Pedro Duque, el primer astronauta español de la historia, sobre los riesgos de la inteligencia artificial: \"Siempre va a haber alguien que encuentre una manera de ganar dinero rápido sin preocuparle las consecuencias\" La Razón",
+  "tg": 122
+ },
+ {
+  "id": "67a6209eee",
+  "t": "2026-11-05T05:01:00+00:00",
+  "visto": "2026-11-05T08:34:44.782562+00:00",
+  "titulo": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+  "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+   }
+  ],
+  "desc": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Chipre: isla de serpientes, gatos y ofiolitas",
+  "resumen_es": "La tercera isla más grande del mar Mediterráneo deja al descubierto un antiguo trozo del fondo del océano y alberga una multitud de gatos.",
+  "tg": 121
+ },
+ {
+  "id": "2a50ce8c5a",
+  "t": "2026-11-05T02:53:28+00:00",
+  "visto": "2026-11-05T08:34:44.780854+00:00",
+  "titulo": "Former NASA Chief Economist is New Head of Canadian Space Agency",
+  "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/"
+   }
+  ],
+  "desc": "Alexander MacDonald is the new President of the Canadian Space Agency. Canadian-born MacDonald was NASA’s Chief Economist until December 2024. The Canadian Government announced MacDonald’s selection this evening. He succeeds […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El ex economista jefe de la NASA es el nuevo director de la Agencia Espacial Canadiense",
+  "resumen_es": "Alexander MacDonald es el nuevo presidente de la Agencia Espacial Canadiense. MacDonald, nacido en Canadá, fue economista jefe de la NASA hasta diciembre de 2024. El gobierno canadiense anunció la elección de MacDonald esta tarde. Lo logra […]",
+  "tg": 120
+ },
+ {
+  "id": "32f654e7a5",
+  "t": "2026-11-05T01:43:21+00:00",
+  "visto": "2026-11-05T08:34:44.776305+00:00",
+  "titulo": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+   }
+  ],
+  "desc": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "La NASA anuncia el avión experimental X-70 para avanzar en la investigación de vuelos",
+  "resumen_es": "El miércoles, la NASA presentó su avión experimental más nuevo, el X-70 Fractal, durante la cumbre UP.Summit en el Centro Espacial Kennedy de la agencia en Florida. Esta plataforma de investigación de alto rendimiento y altamente adaptable está diseñada para acelerar el desarrollo y las pruebas de tecnologías de aviación avanzadas. El X-70 tripulado cuenta con tecnología de control de vuelo avanzada y rápidamente reconfigurable que permitirá a la NASA explorar […]",
+  "tg": 119
+ },
+ {
   "id": "8f20869c2b",
   "t": "2026-11-05T01:01:18+00:00",
   "visto": "2026-11-05T01:41:08.071087+00:00",
@@ -36,6 +161,10 @@
    {
     "n": "Phys.org",
     "u": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html"
+   },
+   {
+    "n": "ESA",
+    "u": "https://new.esa.int/articles/news-media/news/european-orbiter-detects-hints-of-volcanic-activity-on-mars"
    }
   ],
   "desc": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
@@ -43,7 +172,7 @@
   "cat": "marte",
   "cat_txt": "🔴 Planetas",
   "estado": "nuevo",
-  "imp": 3,
+  "imp": 4,
   "silencio": false,
   "titulo_es": "Orbitador europeo detecta nuevos indicios de actividad volcánica en Marte",
   "resumen_es": "Nuevas evidencias de gas que se filtra por encima de fisuras volcánicas sugieren que Marte no está geológicamente muerto en su interior, sino simplemente durmiendo. Nuevas fisuras a lo largo de la región de Alba Mons insinúan puntos activos debajo de la superficie, donde los gases del interior del planeta pueden estar subiendo a la superficie.",

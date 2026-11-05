@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T01:41:24.246356+00:00",
+ "actualizado": "2026-11-05T08:34:54.045559+00:00",
  "lista": [
   {
    "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
@@ -89,6 +89,40 @@
     "https://x.com/i/broadcasts/2brkWyolnlBbLM"
    ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+   "nombre": "Mir | Demo Flight",
+   "net": "2026-11-10T06:00:00Z",
+   "precision": "Hour",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "Agency for Defense Development",
+   "cohete": "Mir",
+   "lugar": "Sea Launch",
+   "mision": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
+   "starlink": false
+  },
+  {
+   "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
+   "nombre": "Long March 2D | Unknown Payload",
+   "net": "2026-11-11T11:40:00Z",
+   "precision": "Hour",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "China Aerospace Science and Technology Corporation",
+   "cohete": "Long March 2D",
+   "lugar": "Jiuquan Satellite Launch Center, People's Republic of China",
+   "mision": "Details TBD.",
+   "orbita": "N/A",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193719.jpeg",
    "starlink": false
   },
   {
@@ -332,23 +366,6 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193746.jpeg",
-   "starlink": false
-  },
-  {
-   "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-   "nombre": "Mir | Demo Flight",
-   "net": "2026-11-30T00:00:00Z",
-   "precision": "Month",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
-   "proveedor": "Agency for Defense Development",
-   "cohete": "Mir",
-   "lugar": "Sea Launch",
-   "mision": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
    "starlink": false
   },
   {
@@ -672,23 +689,6 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
-   "starlink": false
-  },
-  {
-   "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-   "nombre": "Themis Demonstrator | T1H-1",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Quarter 4",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
-   "proveedor": "European Space Agency",
-   "cohete": "Themis Demonstrator",
-   "lugar": "Esrange Space Center",
-   "mision": "First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m.",
-   "orbita": "Sub",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_thumbnail_20250919095336.jpeg",
    "starlink": false
   }
  ]
