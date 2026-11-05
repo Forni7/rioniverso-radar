@@ -1,5 +1,580 @@
 [
  {
+  "id": "fd82a7aa8a",
+  "t": "2026-11-05T22:01:01+00:00",
+  "visto": "2026-11-05T22:24:55.104888+00:00",
+  "titulo": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
+  "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays"
+   }
+  ],
+  "desc": "Spacewalkers Anil Menon and Joshua Kutryk installed the final ISS Roll-Out Solar Array on Thursday (Nov. 5), wrapping up a multiyear effort to boost the station's power generation by 30%.",
+  "img": "https://cdn.mos.cms.futurecdn.net/sa2iwygZCxx9riUZGsrX6J-1920-80.jpg",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "'¡Lo logramos!' Los astronautas que realizan caminatas espaciales terminan de instalar paneles solares de próxima generación en la ISS",
+  "resumen_es": "Los caminantes espaciales Anil Menon y Joshua Kutryk instalaron el último panel solar desplegable de la ISS el jueves (5 de noviembre), concluyendo un esfuerzo de varios años para aumentar la generación de energía de la estación en un 30%.",
+  "tg": 167
+ },
+ {
+  "id": "7ad8a3ffe1",
+  "t": "2026-11-05T22:00:07+00:00",
+  "visto": "2026-11-05T22:24:55.103441+00:00",
+  "titulo": "Connecting artificial intelligence with the tools of astrophysical research",
+  "url": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html"
+   }
+  ],
+  "desc": "Investigating a scientific question is often a complex process. As an astrophysicist studying some of the most energetic phenomena in the universe, I know that finding answers requires much more than reading scientific papers or understanding existing theories. Astrophysical research involves collecting observations, analyzing data, building physical models and comparing their predictions with observations. These tasks require different scientific tools, databases and modeling software and can take considerable time even for experienced researchers.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/connecting-artificial.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Conectando la inteligencia artificial con las herramientas de la investigación astrofísica",
+  "resumen_es": "Investigar una cuestión científica suele ser un proceso complejo. Como astrofísico que estudia algunos de los fenómenos más energéticos del universo, sé que encontrar respuestas requiere mucho más que leer artículos científicos o comprender teorías existentes. La investigación astrofísica implica recopilar observaciones, analizar datos, construir modelos físicos y comparar sus predicciones con las observaciones. Estas tareas requieren diferentes conocimientos científicos.",
+  "tg": 166
+ },
+ {
+  "id": "0ad8595742",
+  "t": "2026-11-05T22:00:00+00:00",
+  "visto": "2026-11-05T22:24:55.101556+00:00",
+  "titulo": "Andy Weir says his sci-fi audio drama 'Exoplanet' is a way to 'revive the old art of radio plays' (interview)",
+  "url": "https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview"
+   }
+  ],
+  "desc": "\"Earlier on in my life, even before 'The Martian,' I wanted to bring back audio-only entertainment.\"",
+  "img": "https://cdn.mos.cms.futurecdn.net/PFifpNjubQEwUVm5RvY3wN-1920-80.png",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Andy Weir dice que su audiodrama de ciencia ficción 'Exoplanet' es una forma de 'revivir el antiguo arte de las obras de radio' (entrevista)",
+  "resumen_es": "\"Al principio de mi vida, incluso antes de 'The Martian', quería recuperar el entretenimiento sólo con audio\".",
+  "tg": 165
+ },
+ {
+  "id": "f5110fe297",
+  "t": "2026-11-05T21:45:00+00:00",
+  "visto": "2026-11-05T22:24:55.099680+00:00",
+  "titulo": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+  "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+  "fuente": "SpaceNews",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpaceNews",
+    "u": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
+   }
+  ],
+  "desc": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […] The post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission appeared first on SpaceNews .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "CesiumAstro obtiene 730 millones de dólares en la Serie D liderada por Janus Henderson con una valoración superior a 4.500 millones de dólares; Revela la constelación de satélites Synchronicity luego del éxito total de la misión Element-1",
+  "resumen_es": "CesiumAstro Inc., líder mundial en satélites y sistemas de comunicaciones espaciales y de defensa, anunció hoy el cierre de 730 millones de dólares en financiación Serie D, valorando a la empresa en más de […] The post CesiumAstro obtiene 730 millones de dólares en la Serie D liderada por Janus Henderson con una valoración superior a 4.500 millones de dólares; Revela la constelación de satélites Synchronicity luego de la exitosa misión Element-1 apareció por primera vez en SpaceNews.",
+  "tg": 164
+ },
+ {
+  "id": "fb2c54c601",
+  "t": "2026-11-05T21:12:59+00:00",
+  "visto": "2026-11-05T22:24:55.096308+00:00",
+  "titulo": "TOI-5217 A b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-5217-a-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-5217-a-b/"
+   }
+  ],
+  "desc": "TOI-5217 A b is a gas giant exoplanet that orbits a -type star. Its mass is 1.282 Jupiters, it takes 4.4 days to complete one orbit of its star, and is 0.0604 AU from its star. Its discovery was announced in 2026. The post TOI-5217 A b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-5217 A b",
+  "resumen_es": "TOI-5217 Ab es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 1,282 Júpiter, tarda 4,4 días en completar una órbita de su estrella y está a 0,0604 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-5217 Ab apareció por primera vez en NASA Science.",
+  "tg": 163
+ },
+ {
+  "id": "373b44b7ef",
+  "t": "2026-11-05T21:12:46+00:00",
+  "visto": "2026-11-05T22:24:55.095124+00:00",
+  "titulo": "TOI-7176 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-7176-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-7176-b/"
+   }
+  ],
+  "desc": "TOI-7176 b is a gas giant exoplanet that orbits a -type star. Its mass is 0.632 Jupiters, it takes 47.9 days to complete one orbit of its star, and is 0.2292 AU from its star. Its discovery was announced in 2026. The post TOI-7176 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-7176b",
+  "resumen_es": "TOI-7176 b es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 0,632 Júpiter, tarda 47,9 días en completar una órbita de su estrella y está a 0,2292 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-7176 b apareció por primera vez en NASA Science.",
+  "tg": 162
+ },
+ {
+  "id": "0dd5e171ab",
+  "t": "2026-11-05T21:12:46+00:00",
+  "visto": "2026-11-05T22:24:55.093959+00:00",
+  "titulo": "TOI-7025 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-7025-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-7025-b/"
+   }
+  ],
+  "desc": "TOI-7025 b is a gas giant exoplanet that orbits a -type star. Its mass is 0.873 Jupiters, it takes 67 days to complete one orbit of its star, and is 0.3485 AU from its star. Its discovery was announced in 2026. The post TOI-7025 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-7025b",
+  "resumen_es": "TOI-7025 b es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 0,873 Júpiter, tarda 67 días en completar una órbita de su estrella y está a 0,3485 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-7025 b apareció por primera vez en NASA Science.",
+  "tg": 161
+ },
+ {
+  "id": "6c3027d7a9",
+  "t": "2026-11-05T21:12:45+00:00",
+  "visto": "2026-11-05T22:24:55.092793+00:00",
+  "titulo": "TOI-6842 A b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-6842-a-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-6842-a-b/"
+   }
+  ],
+  "desc": "TOI-6842 A b is a gas giant exoplanet that orbits a -type star. Its mass is 0.302 Jupiters, it takes 5.4 days to complete one orbit of its star, and is 0.06023 AU from its star. Its discovery was announced in 2026. The post TOI-6842 A b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-6842 AB",
+  "resumen_es": "TOI-6842 Ab es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 0,302 Júpiter, tarda 5,4 días en completar una órbita de su estrella y está a 0,06023 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-6842 Ab apareció por primera vez en NASA Science.",
+  "tg": 160
+ },
+ {
+  "id": "0ee8232161",
+  "t": "2026-11-05T21:12:45+00:00",
+  "visto": "2026-11-05T22:24:55.091610+00:00",
+  "titulo": "TOI-6649 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-6649-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-6649-b/"
+   }
+  ],
+  "desc": "TOI-6649 b is a gas giant exoplanet that orbits a -type star. Its mass is 0.645 Jupiters, it takes 6 days to complete one orbit of its star, and is 0.0697 AU from its star. Its discovery was announced in 2026. The post TOI-6649 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-6649 b",
+  "resumen_es": "TOI-6649 b es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 0,645 Júpiter, tarda 6 días en completar una órbita de su estrella y está a 0,0697 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-6649 b apareció por primera vez en NASA Science.",
+  "tg": 159
+ },
+ {
+  "id": "f47a10455b",
+  "t": "2026-11-05T21:12:44+00:00",
+  "visto": "2026-11-05T22:24:55.090450+00:00",
+  "titulo": "TOI-6457 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-6457-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-6457-b/"
+   }
+  ],
+  "desc": "TOI-6457 b is a gas giant exoplanet that orbits a -type star. Its mass is 0.49 Jupiters, it takes 41.4 days to complete one orbit of its star, and is 0.2515 AU from its star. Its discovery was announced in 2026. The post TOI-6457 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-6457 b",
+  "resumen_es": "TOI-6457 b es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 0,49 Júpiter, tarda 41,4 días en completar una órbita de su estrella y está a 0,2515 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-6457 b apareció por primera vez en NASA Science.",
+  "tg": 158
+ },
+ {
+  "id": "556e1282a7",
+  "t": "2026-11-05T21:12:44+00:00",
+  "visto": "2026-11-05T22:24:55.089291+00:00",
+  "titulo": "TOI-5893 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-5893-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-5893-b/"
+   }
+  ],
+  "desc": "TOI-5893 b is a gas giant exoplanet that orbits a -type star. Its mass is 1.012 Jupiters, it takes 40.4 days to complete one orbit of its star, and is 0.2348 AU from its star. Its discovery was announced in 2026. The post TOI-5893 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-5893 b",
+  "resumen_es": "TOI-5893 b es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es de 1,012 Júpiter, tarda 40,4 días en completar una órbita de su estrella y está a 0,2348 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-5893 b apareció por primera vez en NASA Science.",
+  "tg": 157
+ },
+ {
+  "id": "7aa1692b4c",
+  "t": "2026-11-05T21:12:43+00:00",
+  "visto": "2026-11-05T22:24:55.088123+00:00",
+  "titulo": "TOI-1355 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-1355-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-1355-b/"
+   }
+  ],
+  "desc": "TOI-1355 b is a gas giant exoplanet that orbits a -type star. Its mass is Unknown, it takes 2.2 days to complete one orbit of its star, and is 0.04 AU from its star. Its discovery was announced in 2026. The post TOI-1355 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-1355b",
+  "resumen_es": "TOI-1355 b es un exoplaneta gigante gaseoso que orbita una estrella de tipo . Su masa es desconocida, tarda 2,2 días en completar una órbita de su estrella y está a 0,04 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-1355 b apareció por primera vez en NASA Science.",
+  "tg": 156
+ },
+ {
+  "id": "033d068598",
+  "t": "2026-11-05T21:12:43+00:00",
+  "visto": "2026-11-05T22:24:55.086872+00:00",
+  "titulo": "TOI-713 b",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-713-b/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-713-b/"
+   }
+  ],
+  "desc": "TOI-713 b is a super Earth exoplanet that orbits a -type star. Its mass is 1.754 Earths, it takes 1.9 days to complete one orbit of its star, and is 0.026006984526381 AU from its star. Its discovery was announced in 2026. The post TOI-713 b appeared first on NASA Science .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-713b",
+  "resumen_es": "TOI-713 b es un súper exoplaneta terrestre que orbita una estrella de tipo . Su masa es de 1,754 Tierras, tarda 1,9 días en completar una órbita de su estrella y está a 0,026006984526381 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-713 b apareció por primera vez en NASA Science.",
+  "tg": 155
+ },
+ {
+  "id": "b2df8624f0",
+  "t": "2026-11-05T21:12:43+00:00",
+  "visto": "2026-11-05T22:24:55.085598+00:00",
+  "titulo": "TOI-713 c",
+  "url": "https://science.nasa.gov/exoplanet-catalog/toi-713-c/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanet-catalog/toi-713-c/"
+   }
+  ],
+  "desc": "TOI-713 c is a super Earth exoplanet that orbits a -type star. Its mass is 6.521 Earths, it takes 36 days to complete one orbit of its star, and is 0.18670552539177 AU from its star. Its discovery was announced in 2026. The post TOI-713 c appeared first on NASA Science .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "TOI-713c",
+  "resumen_es": "TOI-713 c es un súper exoplaneta terrestre que orbita una estrella de tipo . Su masa es de 6,521 Tierras, tarda 36 días en completar una órbita de su estrella y está a 0,18670552539177 AU de su estrella. Su descubrimiento se anunció en 2026. La publicación TOI-713 c apareció por primera vez en NASA Science.",
+  "tg": 154
+ },
+ {
+  "id": "0976711040",
+  "t": "2026-11-05T21:00:54+00:00",
+  "visto": "2026-11-05T22:24:55.084368+00:00",
+  "titulo": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEsyRjlSaDViMnlSdW02Nnp3TWRLbXYtVnJ4UkFFbFBIUk44cDdjbEtQSWFDRWlrQzM4a1c0Sk5kRjVkLUdQaFhMQ2Q2RUl0cVhtSHZNMFk0dS1IbVFqMUZjUnczRmZQakhXUnViTWY0TjdOWWk5VlVjTDJTRDRJcl9EV3l0NVQtd094U1pvbFNPaFHSAZgBQVVfeXFMT0cxY2plRWdKR2JDejNGczhxeU9YTEkxcjNSdVNrNC1lSXRkeE42c2dJWkxBZ3BfT2NBOFlHbkFGMWVnZF9UdTFqVHRxcWdBN0RhOWlYRWFyeDBkS2JwLVk3US1adXdvYWxtbzc2YUwzSFlrTlp6SldvWC1kSWdXa2NWQ055MW55QUQtUjI4dkJWb1k2MXpwNjc?oc=5",
+  "fuente": "Faro de Vigo",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Faro de Vigo",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEsyRjlSaDViMnlSdW02Nnp3TWRLbXYtVnJ4UkFFbFBIUk44cDdjbEtQSWFDRWlrQzM4a1c0Sk5kRjVkLUdQaFhMQ2Q2RUl0cVhtSHZNMFk0dS1IbVFqMUZjUnczRmZQakhXUnViTWY0TjdOWWk5VlVjTDJTRDRJcl9EV3l0NVQtd094U1pvbFNPaFHSAZgBQVVfeXFMT0cxY2plRWdKR2JDejNGczhxeU9YTEkxcjNSdVNrNC1lSXRkeE42c2dJWkxBZ3BfT2NBOFlHbkFGMWVnZF9UdTFqVHRxcWdBN0RhOWlYRWFyeDBkS2JwLVk3US1adXdvYWxtbzc2YUwzSFlrTlp6SldvWC1kSWdXa2NWQ055MW55QUQtUjI4dkJWb1k2MXpwNjc?oc=5"
+   }
+  ],
+  "desc": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa Faro de Vigo",
+  "img": "",
+  "cat": "es",
+  "cat_txt": "🇪🇸 España",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa",
+  "resumen_es": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa Faro de Vigo",
+  "tg": 153
+ },
+ {
+  "id": "b39966b41d",
+  "t": "2026-11-05T20:55:15+00:00",
+  "visto": "2026-11-05T22:24:55.083106+00:00",
+  "titulo": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine"
+   }
+  ],
+  "desc": "Blue Origin has developed a third stage for its New Glenn rocket, which it says will make the launcher even more flexible and capable. The company has also built a new engine, called Northstar.",
+  "img": "https://cdn.mos.cms.futurecdn.net/nmyuKvA2TBYzza98d3t3BK-1920-80.jpg",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Blue Origin anuncia la tercera etapa de su potente cohete New Glenn y un nuevo motor",
+  "resumen_es": "Blue Origin ha desarrollado una tercera etapa para su cohete New Glenn, que, según afirma, hará que el lanzador sea aún más flexible y capaz. La empresa también ha construido un nuevo motor, llamado Northstar.",
+  "tg": 152
+ },
+ {
+  "id": "832c0862d7",
+  "t": "2026-11-05T20:51:14+00:00",
+  "visto": "2026-11-05T22:24:55.081164+00:00",
+  "titulo": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+  "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
+   }
+  ],
+  "desc": "Blue Origin chief executive Dave Limp has unveiled a third stage for New Glenn and… The post Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Blue Origin presenta la tercera etapa del nuevo Glenn GS3 y el motor propulsor Northstar",
+  "resumen_es": "El director ejecutivo de Blue Origin, Dave Limp, ha presentado una tercera etapa para New Glenn y… La publicación Blue Origin presenta la tercera etapa del New Glenn GS3 y el motor propulsor Northstar apareció por primera vez en NASASpaceFlight.com.",
+  "tg": 151
+ },
+ {
+  "id": "aaf5bed5f5",
+  "t": "2026-11-05T19:26:56+00:00",
+  "visto": "2026-11-05T22:24:55.077937+00:00",
+  "titulo": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
+  "url": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging"
+   }
+  ],
+  "desc": "In a pinch, we could use a stand-off nuclear blast to redirect a dangerous asteroid on short notice. There's no atmospheric shock wave in space, but the x-ray pulse could still deflect the space rock. But asteroids aren't round and uniform, so their weird shapes make it difficult.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Las extrañas formas de los asteroides hacen que desviarlos sea un desafío",
+  "resumen_es": "En caso de necesidad, podríamos utilizar una explosión nuclear para redirigir un asteroide peligroso en poco tiempo. No hay ondas de choque atmosféricas en el espacio, pero el pulso de rayos X aún podría desviar la roca espacial. Pero los asteroides no son redondos ni uniformes, por lo que sus extrañas formas lo hacen difícil.",
+  "tg": 150
+ },
+ {
+  "id": "71794184b4",
+  "t": "2026-11-05T19:00:00+00:00",
+  "visto": "2026-11-05T22:24:55.076589+00:00",
+  "titulo": "Earth has captured a new mini moon — but it won't stick around for long",
+  "url": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
+   }
+  ],
+  "desc": "Earth has caught itself a new mini-moon, and QQ8 is sticking around for Christmas.",
+  "img": "https://cdn.mos.cms.futurecdn.net/WkHd9i7Aj7ZbxURyRsFhMk-1920-80.png",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "La Tierra ha capturado una nueva miniluna, pero no permanecerá por mucho tiempo",
+  "resumen_es": "La Tierra ha atrapado una nueva miniluna y QQ8 se quedará para Navidad.",
+  "tg": 149
+ },
+ {
+  "id": "65d7183557",
+  "t": "2026-11-05T18:27:44+00:00",
+  "visto": "2026-11-05T22:24:55.075309+00:00",
+  "titulo": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Amalthea only to find it's a 'pile of icy rubble less dense than water'",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026"
+   }
+  ],
+  "desc": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
+  "img": "https://cdn.mos.cms.futurecdn.net/sdurotGsCyT4bvayfsvTxb-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "¡En este día en el espacio! 5 de noviembre de 2002: La nave espacial Galileo de la NASA pasa cerca de la luna de Júpiter, Amaltea, sólo para descubrir que es un \"montón de escombros helados menos densos que el agua\".",
+  "resumen_es": "El 5 de noviembre de 2002, la antigua nave espacial Galileo de la NASA pasó cerca de una pequeña luna llamada Amaltea e hizo un hallazgo sorprendente. He aquí por qué importaba.",
+  "tg": 148
+ },
+ {
+  "id": "bd9a2e149b",
+  "t": "2026-11-05T17:11:33+00:00",
+  "visto": "2026-11-05T22:24:55.073754+00:00",
+  "titulo": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
+  "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter"
+   }
+  ],
+  "desc": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured this out: Powerful ultraviolet (Lyman-alpha) radiation produced by dense clusters of young stars acted like a leaf blower, driving light-blocking gas and dust out of the galaxy and thereby making the galaxies appear brighter.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un fuerte viento arrastró el gas e hizo que las primeras galaxias fueran más brillantes",
+  "resumen_es": "Cuando los astrónomos observaron fotografías del universo primitivo tomadas por el telescopio espacial James Webb, encontraron algo extraño: una sobreabundancia de galaxias brillantes entre 400 y 500 millones de años después del Big Bang. Pero estas galaxias deberían haber sido mucho menos comunes tan pronto después del Big Bang. Es posible que los investigadores se hayan dado cuenta de esto: la potente radiación ultravioleta (Lyman-alfa) producida por densos cúmulos de estrellas jóvenes actuaba como un soplador de hojas, impulsando",
+  "tg": 147
+ },
+ {
+  "id": "53cca1146b",
+  "t": "2026-11-05T17:05:59+00:00",
+  "visto": "2026-11-05T22:24:55.071964+00:00",
+  "titulo": "Cork Takes the Heat So DRACO’s Data Can Survive",
+  "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+  "fuente": "SpaceNews",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpaceNews",
+    "u": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
+   }
+  ],
+  "desc": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post Cork Takes the Heat So DRACO’s Data Can Survive appeared first on SpaceNews .",
+  "img": "",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Cork soporta la presión para que los datos de DRACO puedan sobrevivir",
+  "resumen_es": "Mozelos, Portugal, 2 de septiembre de 2026 – Amorim Cork Solutions está contribuyendo con su material de protección térmica a base de corcho P50 a DRACO, una misión de la Agencia Espacial Europea (ESA) diseñada para capturar objetos raros en vuelo […] The post Cork Takes the Heat So DRACO's Data Can Survive apareció por primera vez en SpaceNews.",
+  "tg": 146
+ },
+ {
+  "id": "a423ac1ec3",
+  "t": "2026-11-05T17:00:00+00:00",
+  "visto": "2026-11-05T22:24:55.065359+00:00",
+  "titulo": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
+  "url": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon"
+   }
+  ],
+  "desc": "After a record-breaking journey around the moon, Artemis 2 astronaut Victor Glover explains why you don't need to travel into space to see Earth differently.",
+  "img": "https://cdn.mos.cms.futurecdn.net/U2PDPzZUMVdreB2FZaWuRe-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "No es necesario ir a la luna para ver la Tierra de otra manera: el astronauta de Artemis II Victor Glover sobre lo que realmente importa",
+  "resumen_es": "Después de un viaje récord alrededor de la luna, el astronauta de Artemis 2, Victor Glover, explica por qué no es necesario viajar al espacio para ver la Tierra de otra manera.",
+  "tg": 145
+ },
+ {
   "id": "99d67370e8",
   "t": "2026-11-05T16:32:13+00:00",
   "visto": "2026-11-05T16:49:45.796400+00:00",
@@ -436,6 +1011,10 @@
    {
     "n": "NASA",
     "u": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-hubble-galactic-history-stars.html"
    }
   ],
   "desc": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
@@ -443,7 +1022,7 @@
   "cat": "ciencia",
   "cat_txt": "🔭 Ciencia",
   "estado": "nuevo",
-  "imp": 3,
+  "imp": 4,
   "silencio": false,
   "titulo_es": "Hubble aprende la historia galáctica de las estrellas",
   "resumen_es": "Esta imagen del Hubble muestra la brillante colección de estrellas llamada Messier 30 (M30), también llamada NGC 7099.",
