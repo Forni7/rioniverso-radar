@@ -1,5 +1,530 @@
 [
  {
+  "id": "46bad3520e",
+  "t": "2026-11-06T17:00:00+00:00",
+  "visto": "2026-11-06T17:15:19.761310+00:00",
+  "titulo": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+  "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight"
+   }
+  ],
+  "desc": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+  "img": "https://cdn.mos.cms.futurecdn.net/wBy8Spn5h2GF3fZmTit74h-1920-80.png",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un exoplaneta gigante emerge de la oscuridad cuando el telescopio espacial James Webb capta la luz de las estrellas",
+  "resumen_es": "Los astrónomos han filtrado la luz de las estrellas procedente de las observaciones del Telescopio Espacial James Webb para ver un exoplaneta gigante emerger en la oscuridad.",
+  "tg": 212
+ },
+ {
+  "id": "cc9a1267af",
+  "t": "2026-11-06T16:35:09+00:00",
+  "visto": "2026-11-06T17:15:19.759375+00:00",
+  "titulo": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
+  "url": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars"
+   }
+  ],
+  "desc": "NASA's ESCAPADE mission features a pair of identical spacecraft on their way to Mars. They launched outside of the normal launch window, so they'll perform powered slingshot maneuvers to boost their speed. Once there, they'll \"fly\" in formation and study how the solar wind interacts with what remains of Mars ancient magnetosphere.",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "La nave espacial gemela de la NASA ejecutará maniobras de tirachinas motorizadas en su camino a Marte",
+  "resumen_es": "La misión ESCAPADE de la NASA presenta un par de naves espaciales idénticas en camino a Marte. Se lanzaron fuera de la ventana de lanzamiento normal, por lo que realizarán maniobras de tirachinas motorizadas para aumentar su velocidad. Una vez allí, \"volarán\" en formación y estudiarán cómo interactúa el viento solar con lo que queda de la antigua magnetosfera de Marte.",
+  "tg": 211
+ },
+ {
+  "id": "9ee29b1704",
+  "t": "2026-11-06T16:23:41+00:00",
+  "visto": "2026-11-06T17:15:19.757460+00:00",
+  "titulo": "M30’s Sparkling Stars",
+  "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
+   }
+  ],
+  "desc": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Las estrellas brillantes del M30",
+  "resumen_es": "Esta imagen del Telescopio Espacial Hubble de NASA/ESA publicada el 5 de noviembre de 2026 proporciona una lección de historia galáctica. La brillante colección de estrellas recibe el nombre de Messier 30 (M30) en honor al astrónomo francés Charles Messier, quien catalogó M30 y otros objetos difusos que podrían confundirse con cometas en los primeros telescopios de la época de Messier. M30 miente sobre […]",
+  "tg": 210
+ },
+ {
+  "id": "d54f490be9",
+  "t": "2026-11-06T16:20:04+00:00",
+  "visto": "2026-11-06T17:15:19.755576+00:00",
+  "titulo": "Robot successfully builds space structure in first autonomous construction demo",
+  "url": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html"
+   }
+  ],
+  "desc": "A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) program, consists of an autonomous manipulator that picks up struts and joints held in nearby dispensers to repeatedly assemble identical sections, or bays, of a perimeter truss.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-conceptual-image-sho.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Un robot construye con éxito una estructura espacial en la primera demostración de construcción autónoma",
+  "resumen_es": "Un constructor de armaduras robótico que fue concebido, diseñado y construido por investigadores de Caltech ha construido con éxito una estructura en el espacio, sin la ayuda de astronautas, por primera vez. El constructor de armazones, que forma parte del programa NOM4D (Novel Orbital and Moon Manufacturing, Materials and Mass-ficient Design) de DARPA, consiste en un manipulador autónomo que recoge puntales y uniones sujetas en dispensadores cercanos para ensamblar repetidamente secciones idénticas, o",
+  "tg": 209
+ },
+ {
+  "id": "7a3513031f",
+  "t": "2026-11-06T16:03:52+00:00",
+  "visto": "2026-11-06T17:15:19.753843+00:00",
+  "titulo": "Supercomputing Tech Demo Schedule",
+  "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/"
+   }
+  ],
+  "desc": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Calendario de demostraciones técnicas de supercomputación",
+  "resumen_es": "Supercomputación 2026 Únase a la NASA en la sala de exposiciones (stand n.º 4038) para presentaciones de expertos de la NASA. Calendario completo de demostración técnica a continuación. MARTES 17 DE NOVIEMBRE 10:00 Plantillas con seguridad de escritura en Fortran 2028 Tom Clune 10:30 Plantillas con seguridad de escritura en Fortran 2028 Tom Clune 11:00 Plantillas con seguridad de escritura en Fortran 2028 Tom Clune 13:00 Mezcla y combinación y múltiples versiones, ¡Dios mío! Brad Richardson 13:30 Mezcla y combinación y múltiples […]",
+  "tg": 208
+ },
+ {
+  "id": "3f1a1f67d7",
+  "t": "2026-11-06T15:31:51+00:00",
+  "visto": "2026-11-06T17:15:19.751343+00:00",
+  "titulo": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+  "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+   }
+  ],
+  "desc": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch… The post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "El vuelo 15 de Starship, un intento de captura doble, espera luz verde de la FAA",
+  "resumen_es": "El Booster 22 y el Ship 42 están en las revisiones finales para un lanzamiento no antes del 13 de noviembre... The post Starship Flight 15, un intento de captura doble, espera luz verde de la FAA apareció por primera vez en NASASpaceFlight.com.",
+  "tg": 207
+ },
+ {
+  "id": "8b6af5322e",
+  "t": "2026-11-06T15:30:00+00:00",
+  "visto": "2026-11-06T17:15:19.749207+00:00",
+  "titulo": "Politics, cool space photos, and more politics",
+  "url": "https://www.planetary.org/the-downlink/politics-cool-space-photos-and-more-politics",
+  "fuente": "Planetary Society",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Planetary Society",
+    "u": "https://www.planetary.org/the-downlink/politics-cool-space-photos-and-more-politics"
+   }
+  ],
+  "desc": "What the U.S. election means for space policy and NASA science, voting for the coolest space images, and updates on Society advocacy.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Política, fotos espaciales interesantes y más política.",
+  "resumen_es": "Lo que significan las elecciones estadounidenses para la política espacial y la ciencia de la NASA, la votación por las mejores imágenes espaciales y actualizaciones sobre la defensa de la sociedad.",
+  "tg": 206
+ },
+ {
+  "id": "6d0e914200",
+  "t": "2026-11-06T15:03:08+00:00",
+  "visto": "2026-11-06T17:15:19.747433+00:00",
+  "titulo": "AST SpaceMobile To Build New Blacklift Rocket",
+  "url": "https://payloadspace.com/ast-spacemobile-to-build-new-blacklift-rocket/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/ast-spacemobile-to-build-new-blacklift-rocket/"
+   }
+  ],
+  "desc": "Amid a growing launch crunch, AST SpaceMobile ($ASTS) is building its own ride to space. The post AST SpaceMobile To Build New Blacklift Rocket appeared first on Payload .",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "AST SpaceMobile construirá un nuevo cohete Blacklift",
+  "resumen_es": "En medio de una creciente crisis de lanzamientos, AST SpaceMobile ($ASTS) está construyendo su propio viaje al espacio. La publicación AST SpaceMobile construirá un nuevo cohete Blacklift apareció por primera vez en Carga útil.",
+  "tg": 205
+ },
+ {
+  "id": "3da2b26919",
+  "t": "2026-11-06T15:00:00+00:00",
+  "visto": "2026-11-06T17:15:19.745560+00:00",
+  "titulo": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
+  "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026"
+   }
+  ],
+  "desc": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
+  "img": "https://cdn.mos.cms.futurecdn.net/XzwAXoLgWNRFQYjCaDCG9A-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La sonda Hera obtiene por primera vez una buena visión del sistema de asteroides golpeado por la misión DART de la NASA | Foto espacial del día del 6 de noviembre de 2026",
+  "resumen_es": "La nave espacial Hera de la Agencia Espacial Europea ha podido observar por primera vez de cerca el asteroide binario Didymos, el primer sistema de rocas espaciales \"golpeado\" por la humanidad.",
+  "tg": 204
+ },
+ {
+  "id": "f28bc72617",
+  "t": "2026-11-06T14:42:30+00:00",
+  "visto": "2026-11-06T17:15:19.743452+00:00",
+  "titulo": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
+  "url": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating"
+   }
+  ],
+  "desc": "We typically think of the Moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics - the Moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4.5 billion years ago. But, some lunar material returned from the Chang’e-5 mission was notably formed only around two billion years ago, yet appeared to be volcanic in origin. So how did a world that was supposed to have settled down without volcanism remain hot enough to",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "La gravedad de la Tierra puede haber mantenido latiendo el corazón volcánico de la Luna temprana",
+  "resumen_es": "Normalmente pensamos en la Luna como un objeto estático y flotante que ha permanecido igual prácticamente durante toda su vida, con el impacto ocasional de un asteroide como excepción. Esa comprensión se basa en la física: la Luna debería haberse enfriado rápidamente después de formarse cuando un enorme protoplaneta chocó contra la Tierra primitiva hace unos 4.500 millones de años. Sin embargo, parte del material lunar devuelto por la misión Chang'e-5 se formó en particular solo alrededor de dos mil millones de años.",
+  "tg": 203
+ },
+ {
+  "id": "b04c361821",
+  "t": "2026-11-06T14:30:35+00:00",
+  "visto": "2026-11-06T17:15:19.741599+00:00",
+  "titulo": "The Gunslingers of White Sands",
+  "url": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-gunslingers-of-white-sands/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/the-gunslingers-of-white-sands/"
+   }
+  ],
+  "desc": "NASA’s Houston We Have a Podcast kicks off a new series in collaboration with White Sands Test Facility, introducing series producer and host Kathryn Martinez and exploring the facility’s unique capabilities. Episode 444 The post The Gunslingers of White Sands appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Los pistoleros de arenas blancas",
+  "resumen_es": "Houston We Have a Podcast de la NASA inicia una nueva serie en colaboración con White Sands Test Facility, presentando a la productora y presentadora de la serie Kathryn Martinez y explorando las capacidades únicas de la instalación. Episodio 444 La publicación Los pistoleros de White Sands apareció por primera vez en NASA Science.",
+  "tg": 202
+ },
+ {
+  "id": "20f60f77f1",
+  "t": "2026-11-06T14:25:33+00:00",
+  "visto": "2026-11-06T17:15:19.739557+00:00",
+  "titulo": "Hyerim Kim",
+  "url": "https://www.nasa.gov/people/hyerim-kim/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/hyerim-kim/"
+   }
+  ],
+  "desc": "Hyerim Kim, NASA Postdoctoral Program (NPP) Research Fellow, Science Directorate, NASA Langley Research Center The post Hyerim Kim appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Hyerim Kim",
+  "resumen_es": "Hyerim Kim, investigador del Programa Postdoctoral (NPP) de la NASA, Dirección de Ciencias, Centro de Investigación Langley de la NASA La publicación Hyerim Kim apareció por primera vez en Ciencia de la NASA.",
+  "tg": 201
+ },
+ {
+  "id": "ccbb485393",
+  "t": "2026-11-06T14:00:04+00:00",
+  "visto": "2026-11-06T17:15:19.737932+00:00",
+  "titulo": "Wacky magnetic fields of ice giants may stem from conductivity changes in their deep interiors",
+  "url": "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html"
+   }
+  ],
+  "desc": "When NASA's Voyager 2 robotic probe flew by Uranus and Neptune in the 1980s, it uncovered an anomaly: their magnetic fields are highly disordered, unlike Earth's, which has well-defined north and south poles.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/wacky-magnetic-fields.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los extraños campos magnéticos de los gigantes de hielo pueden deberse a cambios de conductividad en sus interiores profundos",
+  "resumen_es": "Cuando la sonda robótica Voyager 2 de la NASA sobrevoló Urano y Neptuno en la década de 1980, descubrió una anomalía: sus campos magnéticos están muy desordenados, a diferencia de los de la Tierra, que tienen polos norte y sur bien definidos.",
+  "tg": 200
+ },
+ {
+  "id": "f1f43879d0",
+  "t": "2026-11-06T14:00:00+00:00",
+  "visto": "2026-11-06T17:15:19.736193+00:00",
+  "titulo": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
+  "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere"
+   }
+  ],
+  "desc": "How to watch \"Musk\", the new documentary about the World's richest man and CEO of X, SpaceX and Tesla. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
+  "img": "https://cdn.mos.cms.futurecdn.net/QsQGiFTdPubnsXBZpoambP-1920-80.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Cómo ver 'Musk' en línea: transmita la biografía del multimillonario SpaceX desde cualquier lugar",
+  "resumen_es": "Cómo ver \"Musk\", el nuevo documental sobre el hombre más rico del mundo y CEO de X, SpaceX y Tesla. Opciones más baratas, dónde mirar en EE. UU., Reino Unido, Canadá, Australia y más allá.",
+  "tg": 199
+ },
+ {
+  "id": "39c0597c4a",
+  "t": "2026-11-06T13:38:41+00:00",
+  "visto": "2026-11-06T17:15:19.734578+00:00",
+  "titulo": "CERES Radiation Validation Experiment (CRAVE) Program Contacts",
+  "url": "https://science.nasa.gov/mission/crave/contact/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/mission/crave/contact/"
+   }
+  ],
+  "desc": "Dr. Seung-Hee Ham, NASA LaRC Principal Investigator, CERES Radiation Validation Experiment (CRAVE) at Langley Research Center (LRC) and Granite Island, Michigan (GIM) seung-hee.ham@nasa.govFred Denn, NASA LaRC – CONTRACTOR Senior Research Scientist, MPL Site Manager, CRAVE Data Lead, BSRN-LRC and BSRN-GIM Station Scientist frederick.m.denn@nasa.govBryan Fabbri, NASA LaRC – CONTRACTOR Senior Research Scientist,AERONET Site Manager, BSRN-LRC and […] The post CERES Radiation Validation Experiment (CRAVE) Program Contacts appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Contactos del Programa del Experimento de Validación de Radiación CERES (CRAVE)",
+  "resumen_es": "Dr. Seung-Hee Ham, investigador principal de NASA LaRC, experimento de validación de radiación CERES (CRAVE) en el Centro de Investigación Langley (LRC) y Granite Island, Michigan (GIM) seung-hee.ham@nasa.gov Fred Denn, NASA LaRC – CONTRATISTA Científico investigador senior, administrador del sitio MPL, líder de datos CRAVE, BSRN-LRC y científico de la estación BSRN-GIM frederick.m.denn@nasa.govBryan Fabbri, NASA LaRC - Científico investigador senior CONTRATISTA, Gerente del sitio AERONET, BSRN-LRC y […",
+  "tg": 198
+ },
+ {
+  "id": "1d078774c4",
+  "t": "2026-11-06T13:33:20+00:00",
+  "visto": "2026-11-06T17:15:19.731859+00:00",
+  "titulo": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+  "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
+   }
+  ],
+  "desc": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "Informe del cohete: Artemis II literalmente atravesó la atmósfera; Nuevo retraso de Glenn",
+  "resumen_es": "Interstellar Technologies anuncia más financiación gubernamental para el cohete japonés Zero.",
+  "tg": 197
+ },
+ {
+  "id": "c1b935003d",
+  "t": "2026-11-06T13:30:00+00:00",
+  "visto": "2026-11-06T17:15:19.730452+00:00",
+  "titulo": "Op-ed: Why Did Russia Bother with X36?",
+  "url": "https://payloadspace.com/op-ed-why-did-russia-bother-with-x36/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/op-ed-why-did-russia-bother-with-x36/"
+   }
+  ],
+  "desc": "Russia’s recent RPO likely allowed it to characterize ICEYE's radar in enough detail to build a ground-based jammer (or spoofer) to deploy in Ukraine next year. The post Op-ed: Why Did Russia Bother with X36? appeared first on Payload .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Artículo de opinión: ¿Por qué Rusia se molestó con el X36?",
+  "resumen_es": "El reciente RPO de Rusia probablemente le permitió caracterizar el radar de ICEYE con suficiente detalle como para construir un bloqueador (o falsificador) terrestre para desplegar en Ucrania el próximo año. El artículo de opinión posterior: ¿Por qué Rusia se molestó con el X36? apareció por primera vez en Carga útil.",
+  "tg": 196
+ },
+ {
+  "id": "71dbab7aa9",
+  "t": "2026-11-06T13:26:32+00:00",
+  "visto": "2026-11-06T17:15:19.728476+00:00",
+  "titulo": "Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth",
+  "url": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth"
+   }
+  ],
+  "desc": "A colossal coronal hole on the sun is unleashing a stream of high-speed solar wind that could spark impressive auroras Nov. 6-8.",
+  "img": "https://cdn.mos.cms.futurecdn.net/ghX9xAqPn6ZKGtQXbiC2jG-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La aurora boreal podría llegar a Nueva York e Idaho este fin de semana a medida que el rápido viento solar corre hacia la Tierra",
+  "resumen_es": "Un colosal agujero coronal en el sol está desatando una corriente de viento solar de alta velocidad que podría provocar auroras impresionantes del 6 al 8 de noviembre.",
+  "tg": 195
+ },
+ {
+  "id": "35779b1d6e",
+  "t": "2026-11-06T13:00:00+00:00",
+  "visto": "2026-11-06T17:15:19.726693+00:00",
+  "titulo": "Max Power: NASA hosting its 1st air show this weekend on Florida's Space Coast",
+  "url": "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast"
+   }
+  ],
+  "desc": "NASA will host a first-of-its-kind air show and aerospace expo on Florida's Space Coast this weekend —an event that shares its name with one of Homer Simpson's aliases.",
+  "img": "https://cdn.mos.cms.futurecdn.net/wCYN3G8NXUGxytBGf5bC9E-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Max Power: la NASA organiza su primer espectáculo aéreo este fin de semana en la costa espacial de Florida",
+  "resumen_es": "La NASA organizará este fin de semana una exhibición aérea y una exposición aeroespacial, la primera de su tipo, en la Costa Espacial de Florida, un evento que comparte su nombre con uno de los alias de Homer Simpson.",
+  "tg": 194
+ },
+ {
+  "id": "ced2be47e0",
+  "t": "2026-11-06T12:40:10+00:00",
+  "visto": "2026-11-06T17:15:19.720735+00:00",
+  "titulo": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
+  "url": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html"
+   }
+  ],
+  "desc": "Gravitational lensing is one of astronomy's best tricks for seeing the early universe. When a massive galaxy cluster sits in between the observer and a distant object, its gravity bends and magnifies the distant object's light, acting like a giant natural magnifying glass. Galaxies that would otherwise be too faint to spot suddenly come into view because of gravitational lensing.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-galaxy-nicknamed-mis.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "Una galaxia apodada Misty Moons ofrece una visión de la formación estelar temprana",
+  "resumen_es": "Las lentes gravitacionales son uno de los mejores trucos de la astronomía para ver el universo primitivo. Cuando un cúmulo de galaxias masivo se sitúa entre el observador y un objeto distante, su gravedad curva y magnifica la luz del objeto distante, actuando como una lupa natural gigante. Galaxias que de otro modo serían demasiado débiles para detectarse aparecen repentinamente a la vista debido a las lentes gravitacionales.",
+  "tg": 193
+ },
+ {
+  "id": "eeba4f9fc9",
+  "t": "2026-11-06T11:00:00+00:00",
+  "visto": "2026-11-06T17:15:19.716135+00:00",
+  "titulo": "4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars",
+  "url": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars"
+   }
+  ],
+  "desc": "A rock discovered in the Sahara Desert formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found. The ancient space rock offers a rare glimpse into the formation of Mars' early crust and its possible interaction with water.",
+  "img": "https://cdn.mos.cms.futurecdn.net/yoZTmJG3JyS4QNV2dgs3kR-1920-80.png",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La 'piedra Rosetta' de 4 mil millones de años encontrada en el desierto del Sahara podría revelar la historia secreta del agua en Marte",
+  "resumen_es": "Una roca descubierta en el desierto del Sahara se formó hace más de 4.100 millones de años, lo que la convierte en uno de los meteoritos marcianos más antiguos jamás encontrados. La antigua roca espacial ofrece una visión poco común de la formación de la corteza primitiva de Marte y su posible interacción con el agua.",
+  "tg": 192
+ },
+ {
   "id": "93a4d8f73a",
   "t": "2026-11-06T07:39:17+00:00",
   "visto": "2026-11-06T09:56:07.502371+00:00",
@@ -1794,6 +2319,10 @@
    {
     "n": "NASA Ciencia",
     "u": "https://science.nasa.gov/mission/voyager/voyager-1/shine-bright-for-voyagers-light-day/"
+   },
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark"
    }
   ],
   "desc": "How to Participate Use our Automated “V-G-R” Flasher to send your signal to Voyager, or if you want to try Morse code yourself, see our “Shine Bright” Step-by-Step instructions below. To amplify this global celebration, we encourage you to capture photos or video of your light‑day signal and share it on social platforms, tagging @NASA. […] The post Shine Bright for Voyager’s Light‑Day appeared first on NASA Science .",
@@ -1801,7 +2330,7 @@
   "cat": "general",
   "cat_txt": "🌌 Espacio",
   "estado": "nuevo",
-  "imp": 3,
+  "imp": 4,
   "silencio": false,
   "titulo_es": "Brilla intensamente para el día de la luz de la Voyager",
   "resumen_es": "Cómo participar Utilice nuestro intermitente automático \"V-G-R\" para enviar su señal a la Voyager, o si desea probar el código Morse usted mismo, consulte nuestras instrucciones paso a paso \"Shine Bright\" a continuación. Para amplificar esta celebración global, lo alentamos a capturar fotografías o videos de su señal del día de luz y compartirlos en plataformas sociales, etiquetando a @NASA. […] La publicación Shine Bright for Voyager’s Light-Day apareció por primera vez en NASA Science.",

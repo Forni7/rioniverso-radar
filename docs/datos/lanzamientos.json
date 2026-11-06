@@ -1,23 +1,6 @@
 {
- "actualizado": "2026-11-06T09:56:15.539320+00:00",
+ "actualizado": "2026-11-06T17:15:58.787795+00:00",
  "lista": [
-  {
-   "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
-   "nombre": "Long March 2C | Yaogan 51-07 to 09",
-   "net": "2026-11-05T15:58:00Z",
-   "precision": "Minute",
-   "estado": "Success",
-   "estado_txt": "Launch Successful",
-   "proveedor": "China Aerospace Science and Technology Corporation",
-   "cohete": "Long March 2C",
-   "lugar": "Xichang Satellite Launch Center, People's Republic of China",
-   "mision": "3 Chinese military “remote sensing” satellite of unknown purposes.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193713.jpeg",
-   "starlink": false
-  },
   {
    "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
    "nombre": "Ceres-2 | Unknown Payload",
@@ -38,8 +21,8 @@
   {
    "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
    "nombre": "Falcon 9 Block 5 | USSF-432",
-   "net": "2026-11-07T00:46:00Z",
-   "precision": "Minute",
+   "net": "2026-11-07T00:48:42Z",
+   "precision": "Second",
    "estado": "Go",
    "estado_txt": "Go for Launch",
    "proveedor": "SpaceX",
@@ -94,7 +77,7 @@
   {
    "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
    "nombre": "Mir | Demo Flight",
-   "net": "2026-11-10T06:00:00Z",
+   "net": "2026-11-11T05:00:00Z",
    "precision": "Hour",
    "estado": "Go",
    "estado_txt": "Go for Launch",
@@ -174,7 +157,9 @@
    "mision": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
    "orbita": "LEO",
    "prob": null,
-   "videos": [],
+   "videos": [
+    "https://www.youtube.com/watch?v=qM5A1ZO9oh8"
+   ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193955.jpeg",
    "starlink": false
   },
@@ -686,6 +671,23 @@
    "lugar": "Andøya Spaceport",
    "mision": "Payload consists of a single Pelican high-resolution imaging satellite for Planet Labs Germany.",
    "orbita": "SSO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "b48e32c5-3776-4684-a956-5ea4df032e90",
+   "nombre": "Spectrum | ΣYNDEO-3",
+   "net": "2026-12-31T00:00:00Z",
+   "precision": "Quarter 4",
+   "estado": "TBD",
+   "estado_txt": "To Be Determined",
+   "proveedor": "Isar Aerospace",
+   "cohete": "Spectrum",
+   "lugar": "Andøya Spaceport",
+   "mision": "ΣYNDEO-3 is a satellite built by Redwire Corporation for the European Union/European Space Agency (ESA)’s In-Orbit Demonstration and In-Orbit Validation Programme (IOD/IOV), which will carry 10 different technological demonstration payload from institutions of Spain, France, Germany, Italy, Luxembourg and the European Commission. The satellite is built on Redwire's Hammerhead spacecraft platform.",
+   "orbita": "LEO",
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
