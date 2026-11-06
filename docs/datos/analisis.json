@@ -537,5 +537,109 @@
   "caducidad": "🟡 publicar en 1-2 semanas",
   "avisos": "Son anuncios, no hardware probado. No cites el ahorro de masa o piezas del Northstar: solo sale en una red social. No digas fecha del próximo vuelo más allá de 'finales de año'.",
   "analizado": "2026-11-06T07:45:16Z"
+ },
+ "eeba4f9fc9": {
+  "titular": "Un meteorito del Sáhara es un trozo de Marte de 4.100 millones de años",
+  "resumen": "Una roca rosada hallada en el Sáhara en 2022 ha resultado ser un meteorito marciano, Teghaza 001, de unos 4.100 millones de años. Un equipo financiado por la NASA, con Yang Liu como autora principal, lo ha datado con cristales de circón y publicado en la revista Science a finales de octubre de 2026. Sus isótopos indican que ya había agua en la superficie de Marte hace más de 4.100 millones de años y que se filtraba hacia la corteza profunda.",
+  "por_que": "Es como encontrar una foto de Marte de cuando se estaba formando, y sugiere que el planeta rojo tuvo un ciclo del agua más activo de lo que se pensaba.",
+  "datos_clave": [
+   "Edad: más de 4.100 millones de años, datada con circón (CBS News, Smithsonian)",
+   "Hallado en el Sáhara en 2022; se llama Teghaza 001 (CBS News)",
+   "Publicado en Science a finales de octubre de 2026 (CBS News)",
+   "Los isótopos de hidrógeno y oxígeno apuntan a agua en superficie y filtrándose a la corteza (cobertura de la prensa)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "CBS News",
+    "u": "https://www.cbsnews.com/news/mars-meteorite-found-sahara-desert/"
+   },
+   {
+    "n": "Smithsonian Magazine",
+    "u": "https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars"
+   }
+  ],
+  "potencial": 7,
+  "tono": "asombro",
+  "fotograma1": "Una piedra rosada en la arena del desierto que se abre y deja ver un Marte primitivo con océanos",
+  "gancho": "Esta piedra del desierto no es de la Tierra: tiene 4.100 millones de años.",
+  "guion": "Alguien encontró una piedra rosada en el Sáhara en 2022. Parecía una roca más. Pero no lo era. Es un trozo de Marte, lanzado al espacio por un impacto y caído aquí hace quién sabe cuánto. Los científicos la han datado: tiene más de cuatro mil cien millones de años. Es como encontrar una foto de Marte recién nacido. Y dentro guarda una pista enorme: el agua ya estaba allí, en la superficie, y se colaba hacia el interior del planeta. No prueba que hubiera vida, pero sí que Marte tuvo un ciclo del agua más movido de lo que creíamos.",
+  "cierre": "Si pudieras analizar una roca de otro planeta, ¿qué preguntarías primero: agua o vida?",
+  "grafismos": "Piedra rosada en desierto animado que se rompe en cráteres · Línea de tiempo desde hace 4.100 millones de años hasta hoy · Gotas de agua filtrándose por capas de corteza marciana · Trayectoria de la roca de Marte a la Tierra",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que prueba vida en Marte. 'La más antigua' depende del estudio: otras fuentes citan estudios con agua hace 4.400 millones de años. El dato del Sáhara y la edad sí están confirmados.",
+  "analizado": "2026-11-06T18:00:00Z"
+ },
+ "c0daed182c": {
+  "titular": "La Estación Espacial estrena su octavo y último panel solar enrollable",
+  "resumen": "Los astronautas Anil Menon y Joshua Kutryk salieron al exterior de la Estación Espacial Internacional el 5 de noviembre de 2026 para instalar el octavo y último panel solar enrollable (iROSA). Con él se cierra una mejora de la energía de la estación que empezó en 2021. La NASA calcula que los ocho paneles subirán la potencia disponible de 160 a unos 215 kilovatios.",
+  "por_que": "La estación tiene más de 25 años y esta mejora de energía es lo que le permite seguir funcionando hasta su retirada prevista.",
+  "datos_clave": [
+   "8 paneles iROSA en total; el último, instalado el 5 de noviembre de 2026 (Spaceflight Now, Space.com)",
+   "Potencia disponible: de 160 a unos 215 kW (NASA vía Spaceflight Now)",
+   "El séptimo panel se instaló el 29 octubre, en la 100.ª caminata espacial de EE. UU. (Space.com)",
+   "La campaña empezó en 2021 (Spaceflight Now)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronauts-spacewalk-international-space-station-sixth-solar-array-deployed"
+   },
+   {
+    "n": "NASA",
+    "u": "https://nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation"
+   }
+  ],
+  "potencial": 5,
+  "tono": "noticia",
+  "fotograma1": "Un panel solar enorme desenrollándose como una alfombra frente a la Tierra",
+  "gancho": "Han desenrollado una alfombra de energía en el espacio, y es la última.",
+  "guion": "La Estación Espacial Internacional acaba de recibir su último regalo de energía. El 5 de noviembre, dos astronautas salieron al exterior e instalaron el octavo panel solar enrollable. Son paneles que viajan guardados como una esterilla de yoga y se desenrollan en el espacio. Llevan desde 2021 colocándolos, y la NASA calcula que la potencia disponible sube de 160 a unos 215 kilovatios. ¿Por qué importa? Porque la estación ya es veterana y necesita energía fresca para aguantar hasta su retirada.",
+  "cierre": "¿Crees que la Estación llegará a su retirada tal y como está prevista?",
+  "grafismos": "Esterilla de yoga que se desenrolla hasta ser un panel · Barra de potencia que sube de 160 a 215 kW · Astronauta diminuto junto a la estructura · Contador de 8 paneles iluminándose uno a uno",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Las cifras de potencia son la previsión de la NASA, no una medición posterior. No decir que la estación 'queda como nueva'.",
+  "analizado": "2026-11-06T18:00:00Z"
+ },
+ "3f1a1f67d7": {
+  "titular": "Starship intentará atrapar cohete y nave a la vez en su vuelo 15",
+  "resumen": "SpaceX prepara el vuelo 15 de Starship con el propulsor Booster 22 y la nave Ship 42, que ya hicieron sus pruebas de encendido en octubre. Según NASASpaceflight, el lanzamiento apunta como pronto al 13 de noviembre, pero falta la luz verde de la FAA. El plan que se maneja es atrapar con la torre tanto el propulsor como la nave.",
+  "por_que": "Si sale bien, es un paso clave para reutilizar el cohete entero, lo que abarata llegar a la Luna o a Marte.",
+  "datos_clave": [
+   "Booster 22 y Ship 42 en las últimas comprobaciones (NASASpaceflight)",
+   "Lanzamiento no antes del 13 de noviembre (NASASpaceflight)",
+   "Falta licencia modificada de la FAA (cobertura de la prensa especializada)",
+   "Musk dio un 50-60 % de opciones a atrapar la nave en septiembre (estimación suya)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+   },
+   {
+    "n": "Northeast Times",
+    "u": "https://northeasttimes.com/2026/10/21/spacex-plans-to-catch-both-starship-stages-on-its-next-flight/"
+   }
+  ],
+  "potencial": 7,
+  "tono": "asombro",
+  "fotograma1": "La torre de Starbase con dos enormes brazos abiertos esperando un cohete que cae",
+  "gancho": "SpaceX quiere cazar al vuelo dos cohetes gigantes con unos palillos de acero.",
+  "guion": "SpaceX va a intentar algo que parece de ciencia ficción: atrapar con una torre el cohete y la nave de Starship, los dos, en el mismo vuelo. El plan es que vuelvan a casa y los brazos de la torre los agarren al vuelo, como un portero que para un balón. Los dos vehículos ya pasaron sus pruebas de encendido y el despegue apunta a mediados de noviembre, aunque falta el permiso de la FAA. Si sale bien, podrán reutilizarse enteros. Y eso cambia el precio de viajar al espacio.",
+  "cierre": "¿Se la jugarías a que lo logran a la primera, sí o no?",
+  "grafismos": "Torre con brazos que atrapan un cohete como un portero · Dos siluetas, cohete y nave, bajando a la vez · Calendario con el 13 de noviembre marcado y un sello FAA pendiente · Marcador de reutilización: de desechable a reutilizable",
+  "caducidad": "🔴 publicar antes del lanzamiento del vuelo 15 (no antes del 13 nov)",
+  "avisos": "Fecha y plan de doble captura NO confirmados oficialmente por SpaceX; depende de la licencia FAA. Decir 'apunta a', 'según' y no prometer fecha. Las probabilidades son una opinión de Musk.",
+  "analizado": "2026-11-06T18:00:00Z"
  }
 }
