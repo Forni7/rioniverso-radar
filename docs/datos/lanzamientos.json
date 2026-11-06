@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T22:25:44.813493+00:00",
+ "actualizado": "2026-11-06T02:44:01.521020+00:00",
  "lista": [
   {
    "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
@@ -181,10 +181,10 @@
   {
    "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
    "nombre": "Electron | The Mountain God Rises (iQPS Launch 10)",
-   "net": "2026-11-14T00:00:00Z",
-   "precision": "Day",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
+   "net": "2026-11-14T05:30:00Z",
+   "precision": "Minute",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
    "proveedor": "Rocket Lab",
    "cohete": "Electron",
    "lugar": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",

@@ -1,5 +1,430 @@
 [
  {
+  "id": "d9c54b5db0",
+  "t": "2026-11-06T01:43:16+00:00",
+  "visto": "2026-11-06T02:43:31.933489+00:00",
+  "titulo": "CesiumAstro Raises $730M, Reaches Valuation Above $4.5B",
+  "url": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/cesiumastro-raises-730m-reaches-valuation-above-4-5b/"
+   }
+  ],
+  "desc": "CesiumAstro plans to build and deploy a new constellation—called Synchronicity—consisting of 737 satellites, deployed with the help of a recently closed $730M financing round. The post CesiumAstro Raises $730M, Reaches Valuation Above $4.5B appeared first on Payload .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "CesiumAstro recauda 730 millones de dólares y alcanza una valoración superior a 4.500 millones de dólares",
+  "resumen_es": "CesiumAstro planea construir y desplegar una nueva constelación, llamada Synchronicity, que consta de 737 satélites, desplegada con la ayuda de una ronda de financiación de 730 millones de dólares recientemente cerrada. La publicación CesiumAstro recauda 730 millones de dólares y alcanza una valoración superior a 4.500 millones de dólares apareció por primera vez en Carga útil.",
+  "tg": 185
+ },
+ {
+  "id": "c0daed182c",
+  "t": "2026-11-06T01:15:08+00:00",
+  "visto": "2026-11-06T02:43:31.931499+00:00",
+  "titulo": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+  "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
+   }
+  ],
+  "desc": "The International Space Station program completed a critical power upgrade that had been ongoing for… The post ISS astronauts install final iROSA solar panel to augment aging ISS power systems appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los astronautas de la ISS instalan el último panel solar iROSA para aumentar los viejos sistemas de energía de la ISS",
+  "resumen_es": "El programa de la Estación Espacial Internacional completó una actualización de energía crítica que había estado en curso durante... The post Los astronautas de la ISS instalan el último panel solar iROSA para aumentar los viejos sistemas de energía de la ISS apareció por primera vez en NASASpaceFlight.com.",
+  "tg": 184
+ },
+ {
+  "id": "eb015378c5",
+  "t": "2026-11-06T00:40:06+00:00",
+  "visto": "2026-11-06T02:43:31.929961+00:00",
+  "titulo": "Astronomers deliver the sharpest and deepest view yet of the low-frequency radio sky",
+  "url": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html"
+   }
+  ],
+  "desc": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies. The image reveals almost 63,000 radio sources, such as active galactic nuclei and star-forming galaxies, across a patch of sky about 25 times the area of the full moon. The results have been accepted for publication in Astronomy & Astrophysics. The paper is currently available on the arXiv preprint server.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-galaxies-with-ra.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "Los astrónomos ofrecen la vista más nítida y profunda hasta ahora del cielo de radio de baja frecuencia",
+  "resumen_es": "Utilizando Low Frequency Array (LOFAR), un equipo internacional dirigido por la Universidad de Leiden ha producido la imagen de radio del cielo más nítida y sensible jamás obtenida en bajas frecuencias de radio. La imagen revela casi 63.000 fuentes de radio, como núcleos galácticos activos y galaxias con formación de estrellas, en una zona del cielo aproximadamente 25 veces el área de la luna llena. Los resultados han sido aceptados para su publicación en Astronomy & Astrophysics. El papel es cu",
+  "tg": 183
+ },
+ {
+  "id": "e024b4cae3",
+  "t": "2026-11-06T00:17:06+00:00",
+  "visto": "2026-11-06T02:43:31.928617+00:00",
+  "titulo": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+  "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+   }
+  ],
+  "desc": "\"This is going to be a game-changer.\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Blue Origin dice que está construyendo un motor de cohete de mayor rendimiento a 1/4 del costo",
+  "resumen_es": "\"Esto va a cambiar las reglas del juego\".",
+  "tg": 182
+ },
+ {
+  "id": "819621dbf3",
+  "t": "2026-11-06T00:14:41+00:00",
+  "visto": "2026-11-06T02:43:31.927135+00:00",
+  "titulo": "TOI-5217",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-5217/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-5217/"
+   }
+  ],
+  "desc": "The post TOI-5217 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-5217",
+  "resumen_es": "La publicación TOI-5217 apareció por primera vez en NASA Science.",
+  "tg": 181
+ },
+ {
+  "id": "c3d8ce8b64",
+  "t": "2026-11-06T00:14:30+00:00",
+  "visto": "2026-11-06T02:43:31.926078+00:00",
+  "titulo": "TOI-7176",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-7176/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-7176/"
+   }
+  ],
+  "desc": "The post TOI-7176 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-7176",
+  "resumen_es": "La publicación TOI-7176 apareció por primera vez en NASA Science.",
+  "tg": 180
+ },
+ {
+  "id": "6961b10e50",
+  "t": "2026-11-06T00:14:30+00:00",
+  "visto": "2026-11-06T02:43:31.925030+00:00",
+  "titulo": "TOI-7025",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-7025/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-7025/"
+   }
+  ],
+  "desc": "The post TOI-7025 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-7025",
+  "resumen_es": "La publicación TOI-7025 apareció por primera vez en NASA Science.",
+  "tg": 179
+ },
+ {
+  "id": "55c3faf1e6",
+  "t": "2026-11-06T00:14:30+00:00",
+  "visto": "2026-11-06T02:43:31.923985+00:00",
+  "titulo": "TOI-6842",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-6842/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-6842/"
+   }
+  ],
+  "desc": "The post TOI-6842 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-6842",
+  "resumen_es": "La publicación TOI-6842 apareció por primera vez en NASA Science.",
+  "tg": 178
+ },
+ {
+  "id": "30db123caf",
+  "t": "2026-11-06T00:14:29+00:00",
+  "visto": "2026-11-06T02:43:31.922942+00:00",
+  "titulo": "TOI-6649",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-6649/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-6649/"
+   }
+  ],
+  "desc": "The post TOI-6649 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-6649",
+  "resumen_es": "La publicación TOI-6649 apareció por primera vez en NASA Science.",
+  "tg": 177
+ },
+ {
+  "id": "54ffeba8ec",
+  "t": "2026-11-06T00:14:29+00:00",
+  "visto": "2026-11-06T02:43:31.921899+00:00",
+  "titulo": "TOI-6457",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-6457/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-6457/"
+   }
+  ],
+  "desc": "The post TOI-6457 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-6457",
+  "resumen_es": "La publicación TOI-6457 apareció por primera vez en NASA Science.",
+  "tg": 176
+ },
+ {
+  "id": "f034686abe",
+  "t": "2026-11-06T00:14:29+00:00",
+  "visto": "2026-11-06T02:43:31.920856+00:00",
+  "titulo": "TOI-5893",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-5893/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-5893/"
+   }
+  ],
+  "desc": "The post TOI-5893 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-5893",
+  "resumen_es": "La publicación TOI-5893 apareció por primera vez en NASA Science.",
+  "tg": 175
+ },
+ {
+  "id": "e08cdc76f7",
+  "t": "2026-11-06T00:14:29+00:00",
+  "visto": "2026-11-06T02:43:31.919810+00:00",
+  "titulo": "TOI-1355",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-1355/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-1355/"
+   }
+  ],
+  "desc": "The post TOI-1355 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-1355",
+  "resumen_es": "La publicación TOI-1355 apareció por primera vez en NASA Science.",
+  "tg": 174
+ },
+ {
+  "id": "08b81d909f",
+  "t": "2026-11-06T00:14:28+00:00",
+  "visto": "2026-11-06T02:43:31.918762+00:00",
+  "titulo": "TOI-713",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-713/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-713/"
+   }
+  ],
+  "desc": "The post TOI-713 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-713",
+  "resumen_es": "La publicación TOI-713 apareció por primera vez en NASA Science.",
+  "tg": 173
+ },
+ {
+  "id": "8293979b77",
+  "t": "2026-11-06T00:14:28+00:00",
+  "visto": "2026-11-06T02:43:31.917717+00:00",
+  "titulo": "TOI-214",
+  "url": "https://science.nasa.gov/exoplanets/star-catalog/toi-214/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/exoplanets/star-catalog/toi-214/"
+   }
+  ],
+  "desc": "The post TOI-214 appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "TOI-214",
+  "resumen_es": "La publicación TOI-214 apareció por primera vez en NASA Science.",
+  "tg": 172
+ },
+ {
+  "id": "c05ddc0526",
+  "t": "2026-11-05T22:34:58+00:00",
+  "visto": "2026-11-06T02:43:31.916557+00:00",
+  "titulo": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+  "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/",
+  "fuente": "Spaceflight Now",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
+   }
+  ],
+  "desc": "The announcement was made during an invite-only event ahead of the weekend’s, NASA-backed Max Power airshow at the Kennedy Space Center.",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Blue Origin revela nueva etapa de patada y motores para sus cohetes New Glenn",
+  "resumen_es": "El anuncio se hizo durante un evento al que solo se puede acceder con invitación antes del espectáculo aéreo Max Power, respaldado por la NASA, que se celebrará el fin de semana en el Centro Espacial Kennedy.",
+  "tg": 171
+ },
+ {
+  "id": "f8bb8e0059",
+  "t": "2026-11-05T22:30:36+00:00",
+  "visto": "2026-11-06T02:43:31.914899+00:00",
+  "titulo": "As it happened: spacewalkers install space station’s eighth and final upgraded solar array",
+  "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/",
+  "fuente": "Spaceflight Now",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
+   }
+  ],
+  "desc": "During Thursday’s spacewalk, the astronauts will install the eighth and final International Space Station Roll-Out Solar Array, or IROSA.",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Dio la casualidad de que los caminantes espaciales instalan el octavo y último panel solar mejorado de la estación espacial",
+  "resumen_es": "Durante la caminata espacial del jueves, los astronautas instalarán el octavo y último conjunto solar de despliegue de la Estación Espacial Internacional, o IROSA.",
+  "tg": 170
+ },
+ {
+  "id": "7dea4332fd",
+  "t": "2026-11-05T22:28:40+00:00",
+  "visto": "2026-11-06T02:43:31.913383+00:00",
+  "titulo": "Spacewalkers complete five-year effort to upgrade space station power supply",
+  "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/",
+  "fuente": "Spaceflight Now",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
+   }
+  ],
+  "desc": "Spacewalking astronauts Joshua Kutryk and Anil Menon unfurled the last of eight new solar arrays outside the International Space Station Thursday, working through an unexpected power snag to complete a five-year upgrade designed to keep the orbiting laboratory running through its retirement in 2030.",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los caminantes espaciales completan un esfuerzo de cinco años para mejorar el suministro de energía de la estación espacial",
+  "resumen_es": "Los astronautas en caminata espacial Joshua Kutryk y Anil Menon desplegaron el jueves el último de ocho nuevos paneles solares fuera de la Estación Espacial Internacional, trabajando a través de un inesperado problema de energía para completar una actualización de cinco años diseñada para mantener el laboratorio orbital en funcionamiento hasta su retiro en 2030.",
+  "tg": 169
+ },
+ {
   "id": "fd82a7aa8a",
   "t": "2026-11-05T22:01:01+00:00",
   "visto": "2026-11-05T22:24:55.104888+00:00",
@@ -361,6 +786,10 @@
    {
     "n": "Faro de Vigo",
     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEsyRjlSaDViMnlSdW02Nnp3TWRLbXYtVnJ4UkFFbFBIUk44cDdjbEtQSWFDRWlrQzM4a1c0Sk5kRjVkLUdQaFhMQ2Q2RUl0cVhtSHZNMFk0dS1IbVFqMUZjUnczRmZQakhXUnViTWY0TjdOWWk5VlVjTDJTRDRJcl9EV3l0NVQtd094U1pvbFNPaFHSAZgBQVVfeXFMT0cxY2plRWdKR2JDejNGczhxeU9YTEkxcjNSdVNrNC1lSXRkeE42c2dJWkxBZ3BfT2NBOFlHbkFGMWVnZF9UdTFqVHRxcWdBN0RhOWlYRWFyeDBkS2JwLVk3US1adXdvYWxtbzc2YUwzSFlrTlp6SldvWC1kSWdXa2NWQ055MW55QUQtUjI4dkJWb1k2MXpwNjc?oc=5"
+   },
+   {
+    "n": "El Periódico",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUt2bWdIczhwdjljcnFTRTR0elp3STNhdXYyM1JkYnlaay1OMTR2MGlyRTNMek5zbXRyME5zOVUwNm9tX3VsN1psMXByZ3ljVkFKYjI2amdBSXF2RDdZRk9oZkluS0dxenJqUVVWLUpjQXRReURlVkhMR09ER1k0cV9NSC1hcnNUQVNmY2xRV2LSAZABQVVfeXFMT0lIcUdMRkJ5MS1LdWh3WVYyaWpDbk5BRk1hZjhWMXotTEJ4MGEzSFJOTFNEeUd0U3FfMXNyajhJSnZGT3FSSVJBSUxXTVhZanFLM1dRZkN6NGIzcFE5cWIyV1V5eGpLSzZMeGNmdHlDSnJqcXV2bk5HMmNEZExLc25TQUxtYlFsZkd4Y0tqaVpw?oc=5"
    }
   ],
   "desc": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa Faro de Vigo",
@@ -368,7 +797,7 @@
   "cat": "es",
   "cat_txt": "🇪🇸 España",
   "estado": "nuevo",
-  "imp": 4,
+  "imp": 5,
   "silencio": false,
   "titulo_es": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa",
   "resumen_es": "El rearme también sopla a favor de PLD Space, que ya tiene encargos para lanzar satélites de defensa Faro de Vigo",
@@ -1102,6 +1531,31 @@
   "titulo_es": "El Colegio de Economistas aborda los retos de la economía espacial junto a PLD Space",
   "resumen_es": "El Colegio de Economistas aborda los retos de la economía espacial junto a PLD Space Alicante Plaza",
   "tg": 124
+ },
+ {
+  "id": "edf23e895c",
+  "t": "2026-11-05T09:09:00+00:00",
+  "visto": "2026-11-06T02:43:31.909931+00:00",
+  "titulo": "Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets",
+  "url": "https://payloadspace.com/why-we-are-seeing-a-growing-disconnect-between-public-and-private-space-markets/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/why-we-are-seeing-a-growing-disconnect-between-public-and-private-space-markets/"
+   }
+  ],
+  "desc": "Private space markets are hotter than ever. Not a whiff of deceleration. The opposite is happening in public space markets. The post Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets appeared first on Payload Pro. The post Why We Are Seeing a Growing Disconnect Between Public and Private Space Markets appeared first on Payload .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Por qué estamos viendo una creciente desconexión entre los mercados espaciales públicos y privados",
+  "resumen_es": "Los mercados espaciales privados están más calientes que nunca. Ni una pizca de desaceleración. En los mercados del espacio público ocurre lo contrario. La publicación Por qué estamos viendo una creciente desconexión entre los mercados espaciales públicos y privados apareció por primera vez en Payload Pro. La publicación Por qué estamos viendo una creciente desconexión entre los mercados espaciales públicos y privados apareció por primera vez en Payload.",
+  "tg": 168
  },
  {
   "id": "8422fe2ae8",
