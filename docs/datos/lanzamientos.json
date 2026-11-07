@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T15:13:36.747048+00:00",
+ "actualizado": "2026-11-07T19:29:02.843692+00:00",
  "lista": [
   {
    "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
@@ -37,6 +37,23 @@
     "https://www.youtube.com/watch?v=e3oGHhO3xpw"
    ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "c476fea7-7814-4adb-91d1-98918bc2cc57",
+   "nombre": "Soyuz 2.1b/Fregat | Glonass-K1? (Kosmos 2621?)",
+   "net": "2026-11-07T13:30:00Z",
+   "precision": "Hour",
+   "estado": "Success",
+   "estado_txt": "Launch Successful",
+   "proveedor": "Russian Space Forces",
+   "cohete": "Soyuz 2.1b Fregat-M",
+   "lugar": "Plesetsk Cosmodrome, Russian Federation",
+   "mision": "Note: Payload identity uncertain.\r\n\r\nGlonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.",
+   "orbita": "MEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193901.jpeg",
    "starlink": false
   },
   {
@@ -110,23 +127,6 @@
    "starlink": false
   },
   {
-   "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
-   "nombre": "Starship | Flight 15",
-   "net": "2026-11-13T00:00:00Z",
-   "precision": "Day",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
-   "proveedor": "SpaceX",
-   "cohete": "Starship V3",
-   "lugar": "SpaceX Starbase, TX, USA",
-   "mision": "15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20260724044615.jpeg",
-   "starlink": false
-  },
-  {
    "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
    "nombre": "Falcon 9 Block 5 | USSF-317",
    "net": "2026-11-13T04:23:00Z",
@@ -163,6 +163,23 @@
    ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193955.jpeg",
    "starlink": false
+  },
+  {
+   "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+   "nombre": "Starship | Starlink Group 31-2 (Starship Flight 15)",
+   "net": "2026-11-13T22:45:00Z",
+   "precision": "Minute",
+   "estado": "TBC",
+   "estado_txt": "To Be Confirmed",
+   "proveedor": "SpaceX",
+   "cohete": "Starship V3",
+   "lugar": "SpaceX Starbase, TX, USA",
+   "mision": "15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3. Second Starship flight to deploy satellites (a group of Starlink satellites known as Starlink Group 31-2) into stable Low Earth Orbit and first ever to attempt returning the Starship 2nd stage back to the launch site.\r\n\r\nThe ship is expected to fly at an altitude approximately 275 km above Earth and complete approximately 14 orbits around the planet for more than 22 hours, with the ship expected to attempt returning back to Starbase, Texas on its launch pad by pad arms catching.\r\n\r\nThe booster’s primary test objective on Flight 15 will be executing a successful launch, ascent, stage separation, boostback burn, and landing by pad arms catching. This will also be the 1st Starship V3 booster to attempt returning to its launch site.\r\n\r\nStarship will deliver 26 Starlink V3 satellites to orbit for the second time, which aim to greatly expand the network's capacity and user speeds. Each Starlink V3 satellite will add 1 Tbps of capacity to the constellation. 3 of the satellites have been modified with a suite of cameras to scan Starship’s heatshield and transmit imagery down to operators.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_thumbnail_20260724044615.jpeg",
+   "starlink": true
   },
   {
    "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
@@ -672,23 +689,6 @@
    "lugar": "Andøya Spaceport",
    "mision": "Payload consists of a single Pelican high-resolution imaging satellite for Planet Labs Germany.",
    "orbita": "SSO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",
-   "starlink": false
-  },
-  {
-   "id": "b48e32c5-3776-4684-a956-5ea4df032e90",
-   "nombre": "Spectrum | ΣYNDEO-3",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Quarter 4",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
-   "proveedor": "Isar Aerospace",
-   "cohete": "Spectrum",
-   "lugar": "Andøya Spaceport",
-   "mision": "ΣYNDEO-3 is a satellite built by Redwire Corporation for the European Union/European Space Agency (ESA)’s In-Orbit Demonstration and In-Orbit Validation Programme (IOD/IOV), which will carry 10 different technological demonstration payload from institutions of Spain, France, Germany, Italy, Luxembourg and the European Commission. The satellite is built on Redwire's Hammerhead spacecraft platform.",
-   "orbita": "LEO",
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_thumbnail_20250321072643.jpeg",

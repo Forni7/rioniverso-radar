@@ -1,5 +1,80 @@
 [
  {
+  "id": "aff8c97b0b",
+  "t": "2026-11-07T18:11:57+00:00",
+  "visto": "2026-11-07T19:28:56.972829+00:00",
+  "titulo": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+  "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+   }
+  ],
+  "desc": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 8,
+  "silencio": false,
+  "titulo_es": "La NASA busca la próxima generación de exploradores para unirse al cuerpo de astronautas",
+  "resumen_es": "La NASA está buscando exploradores que ayuden a escribir el próximo capítulo de los vuelos espaciales tripulados. Las solicitudes ya están abiertas para la próxima generación de astronautas de la agencia, que se unirán a la NASA cuando Estados Unidos regrese a la Luna, construya la base lunar y siente las bases para las primeras misiones tripuladas a Marte. La próxima generación […]",
+  "tg": 239
+ },
+ {
+  "id": "c9993bff5b",
+  "t": "2026-11-07T18:00:32+00:00",
+  "visto": "2026-11-07T19:28:56.971899+00:00",
+  "titulo": "NASA announces search for new astronauts",
+  "url": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
+   }
+  ],
+  "desc": "For the first time in two years, NASA is opening applications for its next astronaut… The post NASA announces search for new astronauts appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La NASA anuncia la búsqueda de nuevos astronautas",
+  "resumen_es": "Por primera vez en dos años, la NASA está abriendo solicitudes para su próximo astronauta... La publicación La NASA anuncia la búsqueda de nuevos astronautas apareció por primera vez en NASASpaceFlight.com.",
+  "tg": 238
+ },
+ {
+  "id": "c5c4a14fe9",
+  "t": "2026-11-07T16:31:11+00:00",
+  "visto": "2026-11-07T19:28:56.969316+00:00",
+  "titulo": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026"
+   }
+  ],
+  "desc": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
+  "img": "https://cdn.mos.cms.futurecdn.net/cnKGmstwQTYV3pPvcNum4d-1920-80.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "¡En este día en el espacio! 7 de noviembre de 1992: La NASA lanza Mars Global Surveyor, su primera misión a Marte en 20 años, para mapear el Planeta Rojo como nunca antes.",
+  "resumen_es": "El 7 de noviembre de 1996, la NASA lanzó su misión Mars Global Surveyor, la primera misión a Marte en 20 años. He aquí por qué importaba.",
+  "tg": 237
+ },
+ {
   "id": "e574df8b12",
   "t": "2026-11-07T15:00:00+00:00",
   "visto": "2026-11-07T15:13:23.116284+00:00",
@@ -790,6 +865,10 @@
    {
     "n": "Universe Today",
     "u": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-earth-gravity-early-moon-volcanic.html"
    }
   ],
   "desc": "We typically think of the Moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics - the Moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4.5 billion years ago. But, some lunar material returned from the Chang’e-5 mission was notably formed only around two billion years ago, yet appeared to be volcanic in origin. So how did a world that was supposed to have settled down without volcanism remain hot enough to",
@@ -797,7 +876,7 @@
   "cat": "luna",
   "cat_txt": "🌙 Luna / Artemis",
   "estado": "nuevo",
-  "imp": 4,
+  "imp": 5,
   "silencio": false,
   "titulo_es": "La gravedad de la Tierra puede haber mantenido latiendo el corazón volcánico de la Luna temprana",
   "resumen_es": "Normalmente pensamos en la Luna como un objeto estático y flotante que ha permanecido igual prácticamente durante toda su vida, con el impacto ocasional de un asteroide como excepción. Esa comprensión se basa en la física: la Luna debería haberse enfriado rápidamente después de formarse cuando un enorme protoplaneta chocó contra la Tierra primitiva hace unos 4.500 millones de años. Sin embargo, parte del material lunar devuelto por la misión Chang'e-5 se formó en particular solo alrededor de dos mil millones de años.",
