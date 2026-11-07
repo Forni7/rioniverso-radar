@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T02:00:38.941818+00:00",
+ "actualizado": "2026-11-07T08:41:53.134825+00:00",
  "lista": [
   {
    "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
@@ -23,8 +23,8 @@
    "nombre": "Falcon 9 Block 5 | USSF-432",
    "net": "2026-11-07T00:48:42Z",
    "precision": "Second",
-   "estado": "In Flight",
-   "estado_txt": "Launch in Flight",
+   "estado": "Success",
+   "estado_txt": "Launch Successful",
    "proveedor": "SpaceX",
    "cohete": "Falcon 9 Block 5",
    "lugar": "Vandenberg SFB, CA, USA",
