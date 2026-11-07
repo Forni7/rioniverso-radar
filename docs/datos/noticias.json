@@ -1,5 +1,55 @@
 [
  {
+  "id": "8a4cc8d295",
+  "t": "2026-11-07T22:47:03+00:00",
+  "visto": "2026-11-07T22:56:21.479630+00:00",
+  "titulo": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+   }
+  ],
+  "desc": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 8,
+  "silencio": false,
+  "titulo_es": "La NASA premia proyectos de transporte, tecnología y ciencia en bases lunares",
+  "resumen_es": "La NASA anunció el sábado un conjunto de premios y actualizaciones de misiones para ampliar las capacidades de exploración, ciencia e infraestructura de la base lunar de la agencia. Las inversiones impulsarán las entregas robóticas comerciales, un rover de propulsión nuclear llamado PROMISE, servicios de lanzamiento y transferencia orbital e infraestructura de superficie mientras la agencia trabaja con la industria estadounidense para establecer una presencia sostenida en […]",
+  "tg": 242
+ },
+ {
+  "id": "559730a4e5",
+  "t": "2026-11-07T21:05:12+00:00",
+  "visto": "2026-11-07T22:56:21.476002+00:00",
+  "titulo": "PROMISE",
+  "url": "https://www.nasa.gov/mission/promise/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/mission/promise/"
+   }
+  ],
+  "desc": "Explore the PROMISE Lunar Rover’s Payload The PROMISE Payload The PROMISE rover will carry an extensive payload of science instruments and technology demonstrations sponsored by NASA’s Science Mission Directorate, Research and Technology Mission Directorate, and Human Spaceflight Mission Directorate. Data provided by the rover mobility system’s interaction with the Moon’s surface will complement science instrument […] The post PROMISE appeared first on NASA Science .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "PROMESA",
+  "resumen_es": "Explore la carga útil del PROMISE Lunar Rover La carga útil PROMISE El rover PROMISE llevará una amplia carga útil de instrumentos científicos y demostraciones de tecnología patrocinadas por la Dirección de Misiones Científicas, la Dirección de Misiones de Investigación y Tecnología y la Dirección de Misiones de Vuelos Espaciales Tripulados de la NASA. Los datos proporcionados por la interacción del sistema de movilidad del rover con la superficie de la Luna complementarán el instrumento científico […] La publicación PROMISE apareció fi",
+  "tg": 241
+ },
+ {
   "id": "aff8c97b0b",
   "t": "2026-11-07T18:11:57+00:00",
   "visto": "2026-11-07T19:28:56.972829+00:00",
