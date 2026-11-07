@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-06T22:11:03.113492+00:00",
+ "actualizado": "2026-11-07T02:00:38.941818+00:00",
  "lista": [
   {
    "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
-   "nombre": "Ceres-2 | Unknown Payload",
-   "net": "2026-11-06T23:35:00Z",
-   "precision": "Hour",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
+   "nombre": "Ceres-2 | 4 satellites",
+   "net": "2026-11-06T23:37:00Z",
+   "precision": "Minute",
+   "estado": "Success",
+   "estado_txt": "Launch Successful",
    "proveedor": "Galactic Energy",
    "cohete": "Ceres-2",
    "lugar": "Jiuquan Satellite Launch Center, People's Republic of China",
-   "mision": "Details TBD.",
-   "orbita": "N/A",
+   "mision": "Share-ride of 4 commercial Earth observation and technology demonstration satellites to SSO, details TBD.",
+   "orbita": "SSO",
    "prob": null,
    "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_thumbnail_20251210054658.png",
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_y3_lift_image_thumbnail_20261107010856.jpeg",
    "starlink": false
   },
   {
@@ -23,8 +23,8 @@
    "nombre": "Falcon 9 Block 5 | USSF-432",
    "net": "2026-11-07T00:48:42Z",
    "precision": "Second",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
+   "estado": "In Flight",
+   "estado_txt": "Launch in Flight",
    "proveedor": "SpaceX",
    "cohete": "Falcon 9 Block 5",
    "lugar": "Vandenberg SFB, CA, USA",
@@ -32,8 +32,9 @@
    "orbita": "LEO",
    "prob": null,
    "videos": [
-    "https://www.youtube.com/watch?v=cANr44iNjd8",
-    "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
+    "https://www.youtube.com/watch?v=x6z8DpYqTho",
+    "https://www.youtube.com/watch?v=5zPZKJicp0s",
+    "https://www.youtube.com/watch?v=e3oGHhO3xpw"
    ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
    "starlink": false

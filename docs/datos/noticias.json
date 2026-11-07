@@ -1,5 +1,55 @@
 [
  {
+  "id": "b75902b938",
+  "t": "2026-11-07T01:41:58+00:00",
+  "visto": "2026-11-07T02:00:09.495287+00:00",
+  "titulo": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432"
+   }
+  ],
+  "desc": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
+  "img": "https://cdn.mos.cms.futurecdn.net/q9Z9sqFyvcTuBggqZ6hKgV-1920-80.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "SpaceX lanza una misión misteriosa para la Fuerza Espacial de EE. UU. en un hermoso despegue al atardecer desde California (fotos)",
+  "resumen_es": "SpaceX lanzó una misión clasificada para la Fuerza Espacial de EE. UU. desde California esta tarde (6 de noviembre). Fue el despegue número 125 de la compañía en 2026.",
+  "tg": 230
+ },
+ {
+  "id": "39b2529d11",
+  "t": "2026-11-07T00:20:01+00:00",
+  "visto": "2026-11-07T02:00:09.492676+00:00",
+  "titulo": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
+  "url": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html"
+   }
+  ],
+  "desc": "A figure in red trudges across a blanket of white. Snow squeaks under the scientist's feet, too dry to be slick or soft. Only a line of flags and a few large buildings—the scientist's destination—break up the landscape. The sun hovers on the horizon, never quite setting against a blue sky devoid of clouds.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/untangling-the-pattern.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Desenredando los patrones del fondo cósmico de microondas para comprender mejor el universo primitivo",
+  "resumen_es": "Una figura vestida de rojo camina penosamente sobre un manto blanco. La nieve chirría bajo los pies del científico, demasiado seca para ser resbaladiza o blanda. Sólo una hilera de banderas y algunos grandes edificios (el destino del científico) rompen el paisaje. El sol flota en el horizonte, sin llegar a ponerse nunca contra un cielo azul sin nubes.",
+  "tg": 229
+ },
+ {
   "id": "dc8af7c610",
   "t": "2026-11-06T22:06:27+00:00",
   "visto": "2026-11-06T22:10:29.323102+00:00",
