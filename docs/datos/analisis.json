@@ -641,5 +641,77 @@
   "caducidad": "🔴 publicar antes del lanzamiento del vuelo 15 (no antes del 13 nov)",
   "avisos": "Fecha y plan de doble captura NO confirmados oficialmente por SpaceX; depende de la licencia FAA. Decir 'apunta a', 'según' y no prometer fecha. Las probabilidades son una opinión de Musk.",
   "analizado": "2026-11-06T18:00:00Z"
+ },
+ "fd82a7aa8a": {
+  "titular": "La ISS termina su gran mejora eléctrica: ya tiene los 8 paneles nuevos",
+  "resumen": "El 5 de noviembre, los astronautas Anil Menon (NASA) y Joshua Kutryk (CSA) instalaron y desplegaron en un paseo espacial el último de los ocho paneles solares enrollables nuevos de la Estación Espacial Internacional. Con él se cierra una mejora de unos cinco años para que la estación genere más electricidad hasta su retirada. Durante el paseo hubo un contratiempo de energía que lograron resolver.",
+  "por_que": "Es como cambiarle la batería y el cargador a una casa que lleva 25 años en órbita: sin esta energía extra, la ISS no aguantaría hasta su jubilación.",
+  "datos_clave": [
+   "Último de 8 paneles IROSA instalado el 5 de noviembre de 2026 (Space.com, Spaceflight Now)",
+   "Aumento de potencia de hasta un 30 % (Space.com)",
+   "Mejora de unos cinco años; la ISS seguirá operativa hasta su retirada prevista en 2030 (Spaceflight Now)",
+   "El anterior, el séptimo, se instaló el 29 de octubre en la 100.ª caminata espacial estadounidense (Space.com)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays"
+   },
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
+   },
+   {
+    "n": "Aviation Week",
+    "u": "https://aviationweek.com/defense-space/space/nasa-spacewalkers-complete-iss-solar-power-system-upgrade"
+   }
+  ],
+  "potencial": 6,
+  "tono": "noticia",
+  "fotograma1": "Un astronauta diminuto desenrollando un panel solar gigante como una alfombra sobre la Tierra",
+  "gancho": "Han desenrollado una alfombra de energía a 400 kilómetros de altura.",
+  "guion": "La Estación Espacial Internacional acaba de terminar una mejora de cinco años. Dos astronautas, Anil Menon y Joshua Kutryk, salieron al vacío para instalar el último de ocho paneles solares nuevos. Se llevan enrollados, como una esterilla de yoga, y se despliegan fuera. Con ellos, la estación tiene hasta un treinta por ciento más de electricidad. Es como poner placas nuevas a una casa con veinticinco años. Así la ISS aguantará hasta su retirada, prevista para 2030.",
+  "cierre": "¿Crees que la ISS debería retirarse en 2030 o seguir más tiempo?",
+  "grafismos": "Panel enrollado que se despliega como una esterilla; contador de 8 paneles que se iluminan uno a uno; barra de energía que sube hasta +30 %; casa antigua con placas solares nuevas; calendario hasta 2030",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "El '30 %' es 'hasta un 30 %'. No des detalles del contratiempo de energía: no están verificados. No digas altura exacta distinta de 'unos 400 km'.",
+  "analizado": "2026-11-07T06:30:00Z"
+ },
+ "71794184b4": {
+  "titular": "La Tierra tiene una mini-luna nueva: mide como un balón y se irá en Navidad",
+  "resumen": "Un pequeño objeto llamado 2026 QQ8 está atrapado temporalmente por la gravedad de la Tierra. Lo descubrió el astrónomo Krisztián Sárneczky el 20 de agosto de 2026 y el Centro de Planetas Menores lo comunicó el 29 de octubre. Según EarthSky, entró en órbita en abril y se quedará hasta final de año. Aún se debate si es un asteroide o basura espacial.",
+  "por_que": "Tu planeta tiene ahora un segundo satélite natural... aunque minúsculo y de visita corta. Es de esas cosas que ocurren sin que nadie se entere.",
+  "datos_clave": [
+   "Descubierto el 20 de agosto de 2026 por Krisztián Sárneczky (EarthSky, Gizmodo)",
+   "Comunicado por el Minor Planet Center el 29 de octubre de 2026 (EarthSky)",
+   "Tamaño estimado: en torno a 1 metro (Gizmodo)",
+   "Se quedará hasta final de año (EarthSky, Space.com)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
+   },
+   {
+    "n": "EarthSky",
+    "u": "https://earthsky.org/?p=563825"
+   },
+   {
+    "n": "Gizmodo",
+    "u": "https://gizmodo.com/welcome-earths-new-mini-moon-its-adorably-small-and-has-a-loopy-orbit-2000834862"
+   }
+  ],
+  "potencial": 6,
+  "tono": "asombro",
+  "fotograma1": "La Tierra con la Luna grande y una mini-luna diminuta dando vueltas locas alrededor",
+  "gancho": "Ahora mismo, la Tierra tiene dos lunas. La segunda mide como un balón.",
+  "guion": "Ahora mismo la Tierra tiene dos lunas. La nueva se llama 2026 QQ8 y es diminuta: más o menos del tamaño de un balón, un metro aproximadamente. La descubrió en agosto el astrónomo Krisztián Sárneczky. La gravedad de la Tierra la ha atrapado, pero solo de forma temporal: se irá a final de año. Aún no está claro si es un asteroide pequeño o basura espacial. Piensa en un invitado que se queda hasta Navidad y no vuelve.",
+  "cierre": "¿Le pondrías nombre a la mini-luna? Te leo en comentarios.",
+  "grafismos": "Tierra y Luna con una bolita orbitando en bucles raros; comparación de tamaño: balón junto a la Luna; calendario de abril a diciembre; interrogante asteroide vs basura espacial",
+  "caducidad": "🔴 publicar antes de que termine el año (se va a final de 2026)",
+  "avisos": "Tamaño (~1 m) y fecha de salida son estimaciones de medios, no confirmación oficial; el Minor Planet Center no tiene claro si es asteroide o basura espacial. No digas 'segunda luna' sin 'temporal'.",
+  "analizado": "2026-11-07T06:30:00Z"
  }
 }
