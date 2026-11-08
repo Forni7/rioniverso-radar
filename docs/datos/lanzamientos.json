@@ -1,20 +1,23 @@
 {
- "actualizado": "2026-11-08T20:22:41.061326+00:00",
+ "actualizado": "2026-11-08T23:54:14.981225+00:00",
  "lista": [
   {
    "id": "a2423132-f965-423f-8b03-6891b775dc54",
-   "nombre": "Long March 12 | SatNet LEO Group TBD?",
-   "net": "2026-11-08T20:25:00Z",
-   "precision": "Hour",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
+   "nombre": "Long March 12 | SatNet LEO Group 29",
+   "net": "2026-11-08T20:24:00Z",
+   "precision": "Minute",
+   "estado": "Success",
+   "estado_txt": "Launch Successful",
    "proveedor": "China Aerospace Science and Technology Corporation",
    "cohete": "Long March 12",
    "lugar": "Wenchang Space Launch Site, People's Republic of China",
    "mision": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
    "orbita": "LEO",
    "prob": null,
-   "videos": [],
+   "videos": [
+    "https://www.youtube.com/watch?v=rQWLSUjfJ-Q",
+    "https://www.youtube.com/watch?v=LhEjaM500Ek"
+   ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_thumbnail_20241128132937.jpeg",
    "starlink": false
   },

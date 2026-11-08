@@ -1,5 +1,30 @@
 [
  {
+  "id": "d4251fbb9f",
+  "t": "2026-11-08T22:27:24+00:00",
+  "visto": "2026-11-08T23:54:10.889444+00:00",
+  "titulo": "What’s Happening in Space Policy November 8-14, 2026",
+  "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026/"
+   }
+  ],
+  "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Qué está pasando en la política espacial del 8 al 14 de noviembre de 2026",
+  "resumen_es": "Aquí está la lista de SpacePolicyOnline.com de eventos de política espacial para la semana del 8 al 14 de noviembre de 2026 y cualquier información que podamos ofrecer sobre ellos. La Cámara y el Senado están en sesión […]",
+  "tg": 261
+ },
+ {
   "id": "4c8417bb19",
   "t": "2026-11-08T19:20:01+00:00",
   "visto": "2026-11-08T20:22:33.839663+00:00",
@@ -1585,6 +1610,31 @@
   "titulo_es": "Avio reduce el programa de demostración en medio de desafíos técnicos",
   "resumen_es": "El fabricante italiano de cohetes Avio ha reducido sus planes para desarrollar dos demostradores de cohetes de combustible líquido destinados a validar tecnologías para un futuro vehículo de lanzamiento reutilizable. En su informe financiero semestral publicado el 10 de septiembre, Avio reveló que había acordado revisar el alcance y la financiación de su programa Sistema de Transporte Espacial (STS), que originalmente tenía como objetivo […] El programa post Avio reduce el programa de demostración en medio de cambios técnicos",
   "tg": 191
+ },
+ {
+  "id": "81223cc94a",
+  "t": "2026-11-06T07:15:00+00:00",
+  "visto": "2026-11-08T23:54:10.882961+00:00",
+  "titulo": "European Bodyguard Sats are Closer Than You Think",
+  "url": "https://payloadspace.com/european-bodyguard-sats-are-closer-than-you-think/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/european-bodyguard-sats-are-closer-than-you-think/"
+   }
+  ],
+  "desc": "PAVE Space announced plans to launch a demo mission of its IBEX spacecraft—a highly maneuverable platform for commercial and defense payloads. But PAVE isn't the only startup building a security detail. The post European Bodyguard Sats are Closer Than You Think appeared first on Payload .",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Los satélites de guardaespaldas europeos están más cerca de lo que crees",
+  "resumen_es": "PAVE Space anunció planes para lanzar una misión de demostración de su nave espacial IBEX, una plataforma altamente maniobrable para cargas útiles comerciales y de defensa. Pero PAVE no es la única startup que está creando un equipo de seguridad. La publicación Los satélites de guardaespaldas europeos están más cerca de lo que crees apareció por primera vez en Carga útil.",
+  "tg": 260
  },
  {
   "id": "0f40bfa4a8",
