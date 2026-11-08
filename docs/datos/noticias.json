@@ -11,6 +11,10 @@
    {
     "n": "NASA",
     "u": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+   },
+   {
+    "n": "NASA JPL",
+    "u": "https://www.jpl.nasa.gov/news/nasa-awards-moon-base-transportation-technology-science-projects"
    }
   ],
   "desc": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on […]",
@@ -18,7 +22,7 @@
   "cat": "luna",
   "cat_txt": "🌙 Luna / Artemis",
   "estado": "nuevo",
-  "imp": 8,
+  "imp": 9,
   "silencio": false,
   "titulo_es": "La NASA premia proyectos de transporte, tecnología y ciencia en bases lunares",
   "resumen_es": "La NASA anunció el sábado un conjunto de premios y actualizaciones de misiones para ampliar las capacidades de exploración, ciencia e infraestructura de la base lunar de la agencia. Las inversiones impulsarán las entregas robóticas comerciales, un rover de propulsión nuclear llamado PROMISE, servicios de lanzamiento y transferencia orbital e infraestructura de superficie mientras la agencia trabaja con la industria estadounidense para establecer una presencia sostenida en […]",
