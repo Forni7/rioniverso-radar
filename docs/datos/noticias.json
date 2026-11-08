@@ -1,5 +1,105 @@
 [
  {
+  "id": "4c8417bb19",
+  "t": "2026-11-08T19:20:01+00:00",
+  "visto": "2026-11-08T20:22:33.839663+00:00",
+  "titulo": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
+  "url": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html"
+   }
+  ],
+  "desc": "Using the James Webb Space Telescope (JWST), a team of astronomers identified 104 magnified stellar events in a galaxy known as the Dragon, located around 6.5 billion light-years away. This discovery more than doubles the previous record of 44 such detections in the same galaxy. Because these kinds of events reveal some of the most luminous stars and likely the presence of dark matter, this study offers a rare look at the galaxy's stellar population along with a possible hint at the nature of dark matter.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-tracks-more-than.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "JWST rastrea más de 100 eventos estelares magnificados en la galaxia del Dragón",
+  "resumen_es": "Utilizando el Telescopio Espacial James Webb (JWST), un equipo de astrónomos identificó 104 eventos estelares magnificados en una galaxia conocida como el Dragón, ubicada a unos 6.500 millones de años luz de distancia. Este descubrimiento duplica con creces el récord anterior de 44 detecciones de este tipo en la misma galaxia. Debido a que este tipo de eventos revelan algunas de las estrellas más luminosas y probablemente la presencia de materia oscura, este estudio ofrece una mirada poco común a la población estelar de la galaxia.",
+  "tg": 258
+ },
+ {
+  "id": "f5ac726411",
+  "t": "2026-11-08T19:00:01+00:00",
+  "visto": "2026-11-08T20:22:33.838660+00:00",
+  "titulo": "How space weather powers auroras in the sky and threatens power grids on the ground",
+  "url": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html"
+   }
+  ],
+  "desc": "An aurora is one of nature's most spectacular light shows: It looks like green or red curtains rippling across the night sky. When viewed from the ground, this colorful display might seem far away and disconnected from anything happening on Earth's surface.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/an-illustration-of-a-b-1.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Cómo el clima espacial alimenta las auroras en el cielo y amenaza las redes eléctricas en la Tierra",
+  "resumen_es": "Una aurora es uno de los espectáculos de luces más espectaculares de la naturaleza: parecen cortinas verdes o rojas que ondulan en el cielo nocturno. Cuando se ve desde la Tierra, esta colorida exhibición puede parecer lejana y desconectada de todo lo que sucede en la superficie de la Tierra.",
+  "tg": 257
+ },
+ {
+  "id": "4d46fb694e",
+  "t": "2026-11-08T16:13:33+00:00",
+  "visto": "2026-11-08T20:22:33.837352+00:00",
+  "titulo": "NASA Unveils Moon Base Awards at MAX POWER",
+  "url": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/"
+   }
+  ],
+  "desc": "NASA rolled out a stack of Moon Base awards Saturday during MAX POWER, ranging from new lander contracts to a recycled Mars rover. The post NASA Unveils Moon Base Awards at MAX POWER appeared first on Payload .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "La NASA presenta los premios Moon Base Awards en MAX POWER",
+  "resumen_es": "La NASA presentó una serie de premios de Base Lunar el sábado durante MAX POWER, que van desde nuevos contratos de aterrizaje hasta un rover reciclado en Marte. La publicación La NASA presenta los premios Moon Base Awards en MAX POWER apareció por primera vez en Payload.",
+  "tg": 256
+ },
+ {
+  "id": "844d7edef0",
+  "t": "2026-11-08T16:00:00+00:00",
+  "visto": "2026-11-08T20:22:33.834313+00:00",
+  "titulo": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+  "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary"
+   }
+  ],
+  "desc": "Before the rise of online entertainment sites, this is where genre fans got their news",
+  "img": "https://cdn.mos.cms.futurecdn.net/MBikrcgPBN2FSUMYVuKGTk-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La legendaria revista de ciencia ficción 'Starlog' regresa como publicación anual, justo a tiempo para su 50 aniversario",
+  "resumen_es": "Antes del auge de los sitios de entretenimiento online, aquí es donde los fanáticos del género obtenían sus noticias.",
+  "tg": 255
+ },
+ {
   "id": "48ce3ec683",
   "t": "2026-11-08T15:30:06+00:00",
   "visto": "2026-11-08T15:58:21.270878+00:00",
