@@ -841,5 +841,73 @@
     "caducidad": "🟡 publicar en 1-2 semanas",
     "avisos": "No he podido leer el comunicado completo de DARPA; no des medidas exactas ni fechas del montaje. No digas 'la primera construcción en el espacio' a secas: es la primera demo autónoma de este tipo según el medio.",
     "analizado": "2026-11-07T18:55:00Z"
+  },
+  "aff8c97b0b": {
+    "titular": "La NASA abre la convocatoria de astronautas: tienes hasta el 3 de diciembre",
+    "resumen": "La NASA ha abierto la solicitud para su próxima promoción de astronautas, la primera convocatoria en dos años. Los candidatos, que deben ser ciudadanos de EE. UU., pueden presentar su solicitud hasta el 3 de diciembre a través de USAJobs.gov. La agencia prevé anunciar la selección a finales de 2027. Los elegidos se incorporarán mientras la NASA vuelve a la Luna y construye su base lunar.",
+    "por_que": "Es la oportunidad de ver, en directo y sin trucos, qué hay que tener para ser astronauta; y de paso, la NASA prepara a esta gente para vivir en la Luna.",
+    "datos_clave": [
+      "Plazo hasta el 3 de diciembre, 23:59 hora del este de EE. UU. (NASA)",
+      "Requisitos: ciudadanía estadounidense y máster en una disciplina STEM (NASA)",
+      "Selección prevista a finales de 2027 (NASA)",
+      "En la anterior ronda hubo más de 8.000 solicitudes para 10 plazas (medios; NASA)"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "NASA",
+        "u": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+      },
+      {
+        "n": "NASASpaceflight",
+        "u": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
+      },
+      {
+        "n": "NASA Watch",
+        "u": "https://nasawatch.com/2026/11/07/nasa-astronaut-applications-next-class/"
+      }
+    ],
+    "potencial": 6,
+    "tono": "explicación",
+    "fotograma1": "Un casco de astronauta con el reflejo de la Luna y un botón gigante 'Apply' que se pulsa",
+    "gancho": "La NASA busca astronautas… y la oferta de empleo es pública.",
+    "guion": "La NASA acaba de abrir las solicitudes para su próxima promoción de astronautas. Es la primera convocatoria en dos años. Tienes hasta el 3 de diciembre para presentarte, eso sí, solo si eres estadounidense y tienes un máster en ciencias o ingeniería. La última vez se presentaron más de ocho mil personas para solo diez plazas. Es como entrar en una final de la Champions con diez puestos. Los elegidos se anunciarán a finales de 2027 y trabajarán en el regreso a la Luna.",
+    "cierre": "Si pudieras presentarte, ¿te atreverías a mandar la solicitud?",
+    "grafismos": "Anuncio de oferta de empleo con botón 'Apply'; calendario con el 3 de diciembre marcado; 8.000 siluetas reducidas a 10; casco que se cierra; Luna con una base",
+    "caducidad": "🔴 publicar antes del 3 de diciembre de 2026",
+    "avisos": "No decir que se puede presentar cualquiera: exige ciudadanía estadounidense. La cifra de 8.000 solicitudes es de la ronda anterior (2025), según medios.",
+    "analizado": "2026-11-08T08:00:00Z"
+  },
+  "8a4cc8d295": {
+    "titular": "La NASA enviará a la Luna un rover nuclear para sobrevivir a la noche lunar",
+    "resumen": "La NASA ha anunciado nuevos contratos para su base lunar, entre ellos el rover PROMISE, un vehículo de seis ruedas con energía nuclear. Aterrizará cerca del polo sur de la Luna para estudiar la superficie y el subsuelo y buscar recursos. Según la cobertura de la nota de la NASA, se apunta a finales de 2028 con una misión de unos 18 meses y Blue Origin como contratista.",
+    "por_que": "Una noche en la Luna dura unos 14 días terrestres a -170 °C o menos: sin energía nuclear, un rover solar muere. Esto es lo que hará posible vivir allí.",
+    "datos_clave": [
+      "Rover PROMISE de seis ruedas, alimentado por generador nuclear (RTG), para el polo sur lunar (NASA)",
+      "Objetivo de lanzamiento: finales de 2028, misión de unos 18 meses (NASA, según cobertura)",
+      "Contrato base con Blue Origin de unos 94 millones de dólares (por confirmar en la nota oficial)",
+      "La noche lunar dura unos 14 días terrestres (NASA)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "NASA",
+        "u": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+      },
+      {
+        "n": "NASA JPL",
+        "u": "https://www.jpl.nasa.gov/news/nasa-awards-moon-base-transportation-technology-science-projects/"
+      }
+    ],
+    "potencial": 7,
+    "tono": "asombro",
+    "fotograma1": "Un rover brillando en la oscuridad total de la Luna, con un núcleo naranja encendido",
+    "gancho": "En la Luna la noche dura dos semanas. Este rover no se apaga.",
+    "guion": "La NASA va a mandar a la Luna un rover con energía nuclear. Se llama PROMISE y tiene seis ruedas. ¿Por qué nuclear? Porque en la Luna la noche dura unas dos semanas terrestres y hace un frío brutal. Un rover solar se apagaría. Este llevará un generador que produce electricidad con calor, como una pila gigante que no se acaba. Irá al polo sur lunar a buscar agua helada y a elegir dónde se construirá la base. Despegue previsto: finales de 2028.",
+    "cierre": "¿Te irías a vivir a una base lunar con noches de dos semanas?",
+    "grafismos": "Sol poniéndose sobre la Luna con contador de 14 días; rover con ruedas girando; pila nuclear brillando; termómetro bajando; hielo bajo el polo sur",
+    "caducidad": "🟡 publicar en 1-2 semanas",
+    "avisos": "Cifras de contrato (94 M$) y fechas proceden de cobertura secundaria; no darlas como exactas hasta contrastar con la nota de la NASA. No confundir con los 10.000 M$ de techo de CLPS 2, que no es dinero adjudicado.",
+    "analizado": "2026-11-08T08:00:00Z"
   }
 }
