@@ -1,5 +1,80 @@
 [
  {
+  "id": "6662e17f84",
+  "t": "2026-11-08T05:05:00+00:00",
+  "visto": "2026-11-08T09:09:51.931594+00:00",
+  "titulo": "APOD: 2026 November 8 – Major Fireball Meteor",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/"
+   }
+  ],
+  "desc": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "APOD: 8 de noviembre de 2026 – Gran meteorito bola de fuego",
+  "resumen_es": "APOD Ciencia APOD APOD: 2026 8 de noviembre -… Archivo APOD de hoy Índice de envíos Buscar Calendario RSS Educación Acerca de Discutir APOD Astronomía Imagen del día ¡Descubre el cosmos! Cada día se presenta una imagen o fotografía diferente de nuestro fascinante universo, junto con una breve explicación escrita por un astrónomo profesional. Gran meteorito bola de fuego […]",
+  "tg": 246
+ },
+ {
+  "id": "4719ecde88",
+  "t": "2026-11-08T04:43:57+00:00",
+  "visto": "2026-11-08T09:09:51.930194+00:00",
+  "titulo": "NASA’s Moon Base plan gains a PROMISE",
+  "url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"
+   }
+  ],
+  "desc": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar… The post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "El plan de base lunar de la NASA obtiene una PROMESA",
+  "resumen_es": "Como parte de una actualización de amplio alcance, la NASA ha reservado a PROMISE un viaje a la luna... The post El plan de base lunar de la NASA obtiene una PROMISE apareció por primera vez en NASASpaceFlight.com.",
+  "tg": 245
+ },
+ {
+  "id": "8a4cfb246b",
+  "t": "2026-11-08T03:00:00+00:00",
+  "visto": "2026-11-08T09:09:51.927377+00:00",
+  "titulo": "Una empresa alicantina irrumpe en el mercado militar espacial para plantar cara a la industria estadounidense",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX056eWNQZEFtVmNOOXlnOVZXZF8tY2hhZFZNa2xHSUF1dnZDWFc3M0ZNbldhMmN6cGprWlR3WUZZVHR5S3YwNjQ3WWF2SXVyZm5IT1RoRHUwdGhOUmVfMUZ4bVQ2emtZWlIzLXIzdHpUblFlT1ZEWUNVWG9lazQ3TXczUVRJT01kVkhxRjhzbU9oTG92NDRCN2xHNUM0QS1GSjUzZG5wSTJlSmJxXzVyX0pYdkF1NGVadHZrYzQ3dUFYbW1TZWdFZTZCZ2NtZjBHanQza2FLUnM4R2xpcHU1b3dZMHdPT1hRQXNKbGhfZFlXTWh6S0HSAfsBQVVfeXFMUGFjRHZKREtENW9SLWdTU1JUZjBMV1lNeXRvUVEybGdGTFRsX3VUVmV0bVV5M0daM0drXzR4WGNhbFZDWE1BaXBvdFpEX1BnVWNoX21XN1lsbHFieWFBQVRWYXM5NWxnaHREZV9udi1NU3ZURnIyMDMteUZuU3Y2NDZPMU80ZHJJZzEzdi0xeS1hNVJwRkJzR2UtR0dsRmpGbkhrV05HeDMwMzNJbllvQ0RMN3FyZ2dzSW9uMXBGM1NCRWxxU3U3X3ZKem5DWXVaeTloakFzMnNuNW9NZElzM3R2RnlHUkU2SEdEdE5SNXd4VEFXc3laaXNuMVU?oc=5",
+  "fuente": "El Debate",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "El Debate",
+    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX056eWNQZEFtVmNOOXlnOVZXZF8tY2hhZFZNa2xHSUF1dnZDWFc3M0ZNbldhMmN6cGprWlR3WUZZVHR5S3YwNjQ3WWF2SXVyZm5IT1RoRHUwdGhOUmVfMUZ4bVQ2emtZWlIzLXIzdHpUblFlT1ZEWUNVWG9lazQ3TXczUVRJT01kVkhxRjhzbU9oTG92NDRCN2xHNUM0QS1GSjUzZG5wSTJlSmJxXzVyX0pYdkF1NGVadHZrYzQ3dUFYbW1TZWdFZTZCZ2NtZjBHanQza2FLUnM4R2xpcHU1b3dZMHdPT1hRQXNKbGhfZFlXTWh6S0HSAfsBQVVfeXFMUGFjRHZKREtENW9SLWdTU1JUZjBMV1lNeXRvUVEybGdGTFRsX3VUVmV0bVV5M0daM0drXzR4WGNhbFZDWE1BaXBvdFpEX1BnVWNoX21XN1lsbHFieWFBQVRWYXM5NWxnaHREZV9udi1NU3ZURnIyMDMteUZuU3Y2NDZPMU80ZHJJZzEzdi0xeS1hNVJwRkJzR2UtR0dsRmpGbkhrV05HeDMwMzNJbllvQ0RMN3FyZ2dzSW9uMXBGM1NCRWxxU3U3X3ZKem5DWXVaeTloakFzMnNuNW9NZElzM3R2RnlHUkU2SEdEdE5SNXd4VEFXc3laaXNuMVU?oc=5"
+   }
+  ],
+  "desc": "Una empresa alicantina irrumpe en el mercado militar espacial para plantar cara a la industria estadounidense El Debate",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Una empresa alicantina irrumpe en el mercado militar espacial para plantar cara a la industria estadounidense",
+  "resumen_es": "Una empresa alicantina irrumpe en el mercado militar espacial para plantar cara a la industria estadounidense El Debate",
+  "tg": 244
+ },
+ {
   "id": "8a4cc8d295",
   "t": "2026-11-07T22:47:03+00:00",
   "visto": "2026-11-07T22:56:21.479630+00:00",
