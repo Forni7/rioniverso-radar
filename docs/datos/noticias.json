@@ -1,5 +1,180 @@
 [
  {
+  "id": "48ce3ec683",
+  "t": "2026-11-08T15:30:06+00:00",
+  "visto": "2026-11-08T15:58:21.270878+00:00",
+  "titulo": "Game theory helps SETI search for alien civilizations",
+  "url": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html"
+   }
+  ],
+  "desc": "The search for extraterrestrial intelligence (SETI) is mostly concerned with where to look for technosignatures from another civilization. Between 2012 and 2015, SETI's Project Phoenix targeted about 1,000 sun-like stars for signs of intelligent life. But where to look might not be as important as when to look, according to scientists at SETI.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/game-theory-helps-seti.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La teoría de juegos ayuda a SETI a buscar civilizaciones extraterrestres",
+  "resumen_es": "La búsqueda de inteligencia extraterrestre (SETI) se ocupa principalmente de dónde buscar tecnofirmas de otra civilización. Entre 2012 y 2015, el Proyecto Phoenix de SETI apuntó a unas 1.000 estrellas similares al Sol en busca de signos de vida inteligente. Pero dónde mirar podría no ser tan importante como cuándo mirar, según los científicos de SETI.",
+  "tg": 254
+ },
+ {
+  "id": "616c0e5148",
+  "t": "2026-11-08T15:26:38+00:00",
+  "visto": "2026-11-08T15:58:21.269820+00:00",
+  "titulo": "NASA Announces $1 Million to Students for Moon Base Challenge",
+  "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+   }
+  ],
+  "desc": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "La NASA anuncia 1 millón de dólares a estudiantes para el desafío de la base lunar",
+  "resumen_es": "El domingo, la NASA anunció la apertura de su Desafío Estudiantil de la Base Lunar de $1 millón durante un evento MAX POWER en el Complejo de Visitantes del Centro Espacial Kennedy en Florida. Como parte de la Edad de Oro de la Ciencia, la competencia invita a equipos de estudiantes de escuelas secundarias y escuelas postsecundarias de EE. UU. a contribuir con diseños para la Base Lunar. \"Eran […]",
+  "tg": 253
+ },
+ {
+  "id": "1dc21c0331",
+  "t": "2026-11-08T15:25:42+00:00",
+  "visto": "2026-11-08T15:58:21.269146+00:00",
+  "titulo": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026"
+   }
+  ],
+  "desc": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
+  "img": "https://cdn.mos.cms.futurecdn.net/gUQLiwF4A7bRhWYo27zFGg-1920-80.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "¡En este día en el espacio! 8 de noviembre de 2005: Europa lanza Venus Express, su primera misión a Venus",
+  "resumen_es": "El 8 de noviembre de 2005, Europa lanzó su primera misión a Venus. He aquí por qué era importante Venus Express.",
+  "tg": 252
+ },
+ {
+  "id": "2154305b56",
+  "t": "2026-11-08T14:40:01+00:00",
+  "visto": "2026-11-08T15:58:21.268320+00:00",
+  "titulo": "'Stupendously large' primordial black holes ruled out as a dark matter source",
+  "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html"
+   }
+  ],
+  "desc": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"stupendously large\" primordial black holes could account for a significant share of the universe's elusive dark matter.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/stupendously-large-pri.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Los agujeros negros primordiales 'estupendomente grandes' descartados como fuente de materia oscura",
+  "resumen_es": "Los agujeros negros primordiales son objetos hipotéticos que podrían haberse formado directamente a partir de densos grupos de materia en el universo primitivo. Si existen, sus dramáticos orígenes los diferenciarían de los agujeros negros que vemos hoy, que se forman cuando las estrellas masivas colapsan. Algunas teorías sugieren que los agujeros negros primordiales \"estupendomente grandes\" podrían representar una parte significativa de la elusiva materia oscura del universo.",
+  "tg": 251
+ },
+ {
+  "id": "9fdc4c7005",
+  "t": "2026-11-08T13:00:00+00:00",
+  "visto": "2026-11-08T15:58:21.267290+00:00",
+  "titulo": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
+  "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe"
+   }
+  ],
+  "desc": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
+  "img": "https://cdn.mos.cms.futurecdn.net/7gs5MTpM2W22uafGNAsPsX-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "¿Quién es el rey Ghidorah? Las conexiones cósmicas del enemigo de Godzilla Minus Zero",
+  "resumen_es": "Godzilla se enfrentará cara a cara con su antiguo enemigo, el Rey Ghidorah, en Godzilla Minus Zero. Los orígenes de este Kaiju de tres cabezas no se basan sólo en el espacio; una de las estructuras más grandes del universo comparte su nombre.",
+  "tg": 250
+ },
+ {
+  "id": "fbc5e97f98",
+  "t": "2026-11-08T11:45:12+00:00",
+  "visto": "2026-11-08T15:58:21.266378+00:00",
+  "titulo": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+  "url": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html"
+   }
+  ],
+  "desc": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/help-wanted-astronauts.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "¿Quieres volar a la luna? La NASA busca nuevos astronautas para ayudar a hacer crecer su programa Artemis",
+  "resumen_es": "¿Quieres volar a la luna y ayudar a construir una base lunar permanente? La NASA está aceptando solicitudes para una nueva clase de astronautas que ayudará a hacer crecer el programa Artemis.",
+  "tg": 249
+ },
+ {
+  "id": "a812e0dcef",
+  "t": "2026-11-08T11:00:00+00:00",
+  "visto": "2026-11-08T15:58:21.264294+00:00",
+  "titulo": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
+  "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds"
+   }
+  ],
+  "desc": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
+  "img": "https://cdn.mos.cms.futurecdn.net/FekhfbSK6pBTmKaspXHjrh-1920-80.png",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los científicos simulan una Tierra sin vida para ayudar a buscar extraterrestres y mundos habitados",
+  "resumen_es": "Al modelar cómo un planeta sin vida desarrolla su atmósfera, los astrónomos esperan poder distinguir mejor los planetas rocosos sin vida de los que están habitados.",
+  "tg": 248
+ },
+ {
   "id": "6662e17f84",
   "t": "2026-11-08T05:05:00+00:00",
   "visto": "2026-11-08T09:09:51.931594+00:00",
