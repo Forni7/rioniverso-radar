@@ -986,5 +986,133 @@
   "caducidad": "🟡 publicar en 1-2 semanas",
   "avisos": "No decir que está aprobado ni dar fecha de lanzamiento. Diseño y energía nuclear no confirmados por NASA. No se pudo leer la nota de NASASpaceFlight del 8 nov ni la de Payload sobre los anuncios de MAX POWER; no inventar adjudicaciones.",
   "analizado": "2026-11-09T12:00:00Z"
+ },
+ "9192c11ff8": {
+  "titular": "Cuatro personas salen tras 378 días encerradas en un 'Marte' falso",
+  "resumen": "Cuatro voluntarios de la NASA salieron el 31 de octubre del hábitat Mars Dune Alpha, en Houston, tras 378 días sin ventanas, sin sonidos del exterior y sin llamadas en tiempo real con su familia. Son Ross Elder, Ellen Ellis, James Spicer y Matthew Montgomery. Es la segunda simulación de un año de la serie CHAPEA. Los resultados científicos aún no se han publicado.",
+  "por_que": "Quien vaya a Marte tendrá que aguantar más de un año aislado; esto es el ensayo de cómo se lleva en la cabeza y en el cuerpo.",
+  "datos_clave": [
+   "378 días de encierro; salida el 31 de octubre (NASA)",
+   "Hábitat impreso en 3D de unos 160 metros cuadrados (1.700 pies cuadrados, NASA)",
+   "Segunda misión CHAPEA tras la de 2023-2024, también de 378 días (cobertura de prensa)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/"
+   },
+   {
+    "n": "Flying Magazine",
+    "u": "https://flyingmag.com/news/378-days-of-solitude-nasa-volunteers-emerge-from-mars-simulator"
+   }
+  ],
+  "potencial": 6,
+  "tono": "explicación",
+  "fotograma1": "Puerta de un hábitat marciano que se abre sobre un paisaje rojo y entra luz de golpe",
+  "gancho": "Pasaron 378 días sin ver una ventana. Ahora te cuento para qué.",
+  "guion": "Imagina pasar un año y 13 días sin ventanas, sin oír la calle y sin poder llamar a tu familia en directo. Eso han hecho cuatro voluntarios de la NASA en un Marte de mentira en Houston. Salieron el 31 de octubre tras 378 días en un hábitat impreso en 3D. No es un castigo: es un ensayo. Quien viaje a Marte pasará así más de un año, y hay que saber cómo lo lleva la cabeza. Todavía no hay resultados, pero ya tienen los datos. ¿Tú aguantarías?",
+  "cierre": "¿Te encerrarías un año en un hábitat marciano? ¿Qué sería lo que más echarías de menos?",
+  "grafismos": "Contador de días de 1 a 378 acelerado; plano del hábitat con una persona dentro; silueta de Marte con una cuenta atrás de viaje; calendario tachado",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que se han publicado resultados; no inventar cómo se encuentran de salud. Los nombres y la superficie vienen de NASA.",
+  "analizado": "2026-11-09T14:30:00Z"
+ },
+ "33121b8cb4": {
+  "titular": "El agujero de ozono de 2026 fue el séptimo mayor en 48 años de registros",
+  "resumen": "La NASA informa de que el agujero de ozono antártico de 2026 ha sido el séptimo más grande en los 48 años de seguimiento, aunque no tan profundo como otros grandes. Su máximo se registró el 18 de septiembre. La prensa lo describe como el mayor en una década, tras un 2025 muy pequeño. La NASA mantiene que la capa sigue en vías de recuperación a largo plazo.",
+  "por_que": "Es la prueba de que un problema global puede arreglarse: prohibimos unos gases y la capa se está curando, aunque el clima la haga oscilar de un año a otro.",
+  "datos_clave": [
+   "Séptimo mayor en 48 años de seguimiento (NASA)",
+   "Máximo el 18 de septiembre (NASA)",
+   "Sigue en vías de recuperación a largo plazo (NASA)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA Earth Observatory",
+    "u": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/"
+   },
+   {
+    "n": "ABC7",
+    "u": "https://abc7news.com/story/ozone-hole-2026-is-largest-decade-long-term-recovery-remains-track-report/20015972/"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "La Tierra vista desde el polo sur con una mancha azul que se agranda",
+  "gancho": "El agujero de la capa de ozono creció este año. ¿Deberíamos preocuparnos?",
+  "guion": "¿Te acuerdas del agujero de la capa de ozono? Sigue ahí cada año sobre la Antártida. Y en 2026 ha sido el séptimo más grande de los 48 años que lleva medido la NASA. Pero ojo: no es tan profundo como otros grandes. Los científicos lo achacan al tiempo, no a que volvamos a contaminar. La buena noticia es que, a largo plazo, la capa sigue recuperándose gracias a que se prohibieron ciertos gases. Es como una herida que cicatriza con altibajos.",
+  "cierre": "¿Pensabas que el agujero de ozono ya estaba arreglado del todo?",
+  "grafismos": "Globo girando hasta el polo sur; mancha azul que se infla; escalera con siete peldaños; herida que cicatriza",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que es récord ni que la recuperación se haya frenado. 'Mayor en una década' lo dice la prensa, no lo hemos visto en NASA; las cifras de área varían según medio.",
+  "analizado": "2026-11-09T14:30:00Z"
+ },
+ "38fb1b7c42": {
+  "titular": "Un satélite europeo obedece por voz y arranca el videojuego Doom",
+  "resumen": "Radioaficionados noruegos enviaron por radio una frase hablada, 'PRETTY PLAY DOOM', al satélite OPS-SAT PRETTY de la ESA. El satélite captó la señal, la transcribió con un modelo de IA y lanzó el clásico Doom. Los organizadores, Tanagra Space junto a ESA y la Universidad Tecnológica de Graz, lo presentan como la primera orden de voz a un satélite en órbita.",
+  "por_que": "Es una prueba, con gracia, de que algún día hablarás a una nave como a un asistente del móvil, sin esperar a que alguien en la Tierra programe cada paso.",
+  "datos_clave": [
+   "Frase enviada: 'PRETTY PLAY DOOM' (Gizmodo, PC Gamer)",
+   "Satélite OPS-SAT PRETTY de la ESA, lanzado en 2023 (prensa)",
+   "Lo de 'primera vez' lo afirman los organizadores (Space.com)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control"
+   },
+   {
+    "n": "Gizmodo",
+    "u": "https://gizmodo.com/an-amateur-radio-operator-told-a-satellite-to-play-doom-and-it-listened-2000835488"
+   },
+   {
+    "n": "PC Gamer",
+    "u": "https://pcgamer.com/games/fps/doom-played-in-space-by-satellite-computer-ten-times-more-powerful-than-any-current-esa-spacecraft"
+   }
+  ],
+  "potencial": 6,
+  "tono": "asombro",
+  "fotograma1": "Pantalla de Doom con un satélite sobre la Tierra al fondo",
+  "gancho": "Le han hablado a un satélite y ha puesto el Doom.",
+  "guion": "Esto parece un chiste, pero es real. Unos radioaficionados le dijeron por voz a un satélite de la ESA: 'play Doom'. Y el satélite lo entendió. Captó la señal de radio, la pasó a texto con inteligencia artificial y arrancó el videojuego, que está en órbita. Los organizadores dicen que es la primera orden de voz a un satélite. Es como pedirle algo a Alexa, pero a cientos de kilómetros de altura. Y sí, corre el Doom.",
+  "cierre": "¿Qué le pedirías tú por voz a un satélite?",
+  "grafismos": "Onda de voz que sube hasta un satélite; texto 'PLAY DOOM' transcribiéndose; marco de pantalla de Doom en órbita; icono de Alexa junto al satélite",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "'Primera vez' es afirmación de los organizadores, atribuir siempre. La frase se transcribió con ruido y vocabulario limitado; no decir que entiende lenguaje libre. No afirmar altura exacta ni fecha de la prueba.",
+  "analizado": "2026-11-09T14:30:00Z"
+ },
+ "fbc5e97f98": {
+  "titular": "La NASA abre convocatoria para su nueva clase de astronautas Artemis",
+  "resumen": "La NASA acepta solicitudes para su 25.ª clase de astronautas hasta el 3 de diciembre, según la agencia AP. Piden ser ciudadano estadounidense, tener título universitario y experiencia profesional. La selección final se espera a finales de 2027 y el entrenamiento empezaría a principios de 2028. La anterior convocatoria atrajo a más de 8.000 solicitantes y eligió a 10.",
+  "por_que": "Es una oferta de empleo para ir a la Luna, aunque solo para estadounidenses; sirve para entender cuánta gente compite por ese puñado de plazas.",
+  "datos_clave": [
+   "Plazo hasta el 3 de diciembre (AP)",
+   "Selección a finales de 2027; entrenamiento a principios de 2028 (AP)",
+   "La convocatoria anterior: más de 8.000 solicitudes, 10 elegidos (ABC/AP)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "AP vía News4Jax",
+    "u": "https://www.news4jax.com/tech/2026/11/07/want-to-fly-to-the-moon-nasa-is-looking-for-new-astronauts-to-help-grow-its-artemis-program/"
+   },
+   {
+    "n": "ITV News",
+    "u": "https://www.itv.com/news/2026-11-07/nasa-is-advertising-for-new-astronauts-as-it-prepares-to-build-a-moon-base"
+   }
+  ],
+  "potencial": 5,
+  "tono": "noticia",
+  "fotograma1": "Anuncio de empleo con un traje de astronauta y la Luna como oficina",
+  "gancho": "La NASA busca gente para ir a la Luna. ¿Cumples los requisitos?",
+  "guion": "Se busca astronauta. La NASA ha abierto su 25.ª convocatoria y puedes solicitarlo hasta el 3 de diciembre. Piden ser estadounidense, tener un título universitario y experiencia profesional. La última vez se presentaron más de 8.000 personas y eligieron solo a 10. Eso es más difícil que entrar en cualquier carrera. La selección llegará a finales de 2027 y el entrenamiento, a principios de 2028. Es la cola más larga del mundo para un trabajo con vistas a la Luna.",
+  "cierre": "Si pudieras, ¿te presentarías? ¿Qué le pasaría a tu CV?",
+  "grafismos": "Anuncio de empleo con 'Se busca'; contador de 8.000 siluetas reducido a 10; calendario de 2027 a 2028; Luna como destino",
+  "caducidad": "🔴 publicar antes del 3 de diciembre de 2026",
+  "avisos": "No decir que cualquiera puede presentarse: hay que ser estadounidense. El número de astronautas activos varía según la fuente; no usarlo.",
+  "analizado": "2026-11-09T14:30:00Z"
  }
 }
