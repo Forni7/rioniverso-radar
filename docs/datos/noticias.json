@@ -1,5 +1,280 @@
 [
  {
+  "id": "567bed3747",
+  "t": "2026-11-09T13:45:00+00:00",
+  "visto": "2026-11-09T13:46:46.303220+00:00",
+  "titulo": "Apollo and Artemis Astronauts Share the Stage at Gala",
+  "url": "https://payloadspace.com/apollo-and-artemis-astronauts-share-the-stage-at-gala/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/apollo-and-artemis-astronauts-share-the-stage-at-gala/"
+   }
+  ],
+  "desc": "Twenty-eight astronauts—including two Apollo veterans—and one very large Saturn V shared a room at Kennedy Space Center for the Artemis Celebration Gala. The post Apollo and Artemis Astronauts Share the Stage at Gala appeared first on Payload .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Los astronautas Apolo y Artemisa comparten escenario en la gala",
+  "resumen_es": "Veintiocho astronautas, incluidos dos veteranos del Apolo, y un Saturno V muy grande compartieron una habitación en el Centro Espacial Kennedy para la Gala de Celebración de Artemisa. La publicación Los astronautas Apolo y Artemis comparten el escenario en la gala apareció por primera vez en Payload.",
+  "tg": 273
+ },
+ {
+  "id": "6cc6de7053",
+  "t": "2026-11-09T13:30:00+00:00",
+  "visto": "2026-11-09T13:46:46.302386+00:00",
+  "titulo": "Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget",
+  "url": "https://payloadspace.com/canadas-medium-lift-rocket-ambitions-confirmed-in-budget/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/canadas-medium-lift-rocket-ambitions-confirmed-in-budget/"
+   }
+  ],
+  "desc": "Canada will upgrade its rockets as part of its Launch the North initiative, which is aiming to support sovereign rockets flying from at least two new spaceports. The post Canada’s Medium-Lift Rocket Ambitions Confirmed In Budget appeared first on Payload .",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Las ambiciones canadienses de cohetes de mediano alcance confirmadas en el presupuesto",
+  "resumen_es": "Canadá mejorará sus cohetes como parte de su iniciativa Lanzamiento del Norte, cuyo objetivo es apoyar cohetes soberanos que vuelen desde al menos dos nuevos puertos espaciales. La publicación Las ambiciones canadienses de cohetes de elevación media confirmadas en el presupuesto aparecieron por primera vez en Carga útil.",
+  "tg": 272
+ },
+ {
+  "id": "c4d15f95f4",
+  "t": "2026-11-09T13:00:00+00:00",
+  "visto": "2026-11-09T13:46:46.300890+00:00",
+  "titulo": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I I knew we had to do something like this.'",
+  "url": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this"
+   }
+  ],
+  "desc": "\"I promise you, there'll be more to come.\"",
+  "img": "https://cdn.mos.cms.futurecdn.net/cn82GcQHERqoYh2TVVqoN4-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El jefe de la NASA, Jared Isaacman, se lanza en paracaídas en el espectáculo aéreo MAX POWER de la agencia espacial: \"Al comenzar este trabajo, sabía que teníamos que hacer algo como esto\".",
+  "resumen_es": "\"Te lo prometo, habrá más por venir\".",
+  "tg": 271
+ },
+ {
+  "id": "3c7667d892",
+  "t": "2026-11-09T12:00:05+00:00",
+  "visto": "2026-11-09T13:46:46.299358+00:00",
+  "titulo": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+  "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
+   }
+  ],
+  "desc": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2219660369-1152x648-1793989587.jpg",
+  "cat": "defensa",
+  "cat_txt": "🛰️ Defensa",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El nuevo Congreso demócrata probablemente quitará el dorado de la Cúpula Dorada de Trump",
+  "resumen_es": "\"No hay duda de que, como quiera que se llame, no se llamará Golden Dome\".",
+  "tg": 270
+ },
+ {
+  "id": "38fb1b7c42",
+  "t": "2026-11-09T11:00:00+00:00",
+  "visto": "2026-11-09T13:46:46.298210+00:00",
+  "titulo": "Yes, it runs 'Doom': Satellite plays iconic game in world's 1st demonstration of orbital voice control",
+  "url": "https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/satellites/yes-it-runs-doom-satellite-plays-iconic-game-in-worlds-1st-demonstration-of-orbital-voice-control"
+   }
+  ],
+  "desc": "The world's first voice command of a satellite saw an experimental European spacecraft play the iconic video game 'Doom' after operators spoke to it from Earth.",
+  "img": "https://cdn.mos.cms.futurecdn.net/oWcmaWi2LdM5H8pBbzoGpg-1920-80.jpg",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Sí, ejecuta 'Doom': Satellite juega un juego icónico en la primera demostración del mundo de control de voz orbital",
+  "resumen_es": "El primer comando de voz del mundo de un satélite vio a una nave espacial europea experimental jugar el icónico videojuego 'Doom' después de que los operadores le hablaran desde la Tierra.",
+  "tg": 269
+ },
+ {
+  "id": "9192c11ff8",
+  "t": "2026-11-09T11:00:00+00:00",
+  "visto": "2026-11-09T13:46:46.296940+00:00",
+  "titulo": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+  "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/"
+   }
+  ],
+  "desc": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at […]",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La tripulación de la Misión CHAPEA 2 reflexiona después de 378 días en Marte simulado",
+  "resumen_es": "Después de 378 días sin ventanas, sonidos del mundo exterior o llamadas en tiempo real con familiares y amigos, cuatro investigadores voluntarios salieron del hábitat Mars Dune Alpha de la NASA el 31 de octubre, completando la segunda simulación de la superficie de Marte de un año de duración de la agencia. Ross Elder, Ellen Ellis, James Spicer y Matthew Montgomery ingresaron al hábitat impreso en 3D de aproximadamente 1,700 pies cuadrados en […]",
+  "tg": 268
+ },
+ {
+  "id": "2fbc2eb5dd",
+  "t": "2026-11-09T08:11:11+00:00",
+  "visto": "2026-11-09T13:46:46.295897+00:00",
+  "titulo": "Nearby Dwarf Galaxies Show Surprising Lack Of Oxygen, Says Paper",
+  "url": "https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper"
+   }
+  ],
+  "desc": "A new study of more than three dozen dwarf galaxies has surprised researchers with just how little oxygen they have been able to retain over cosmic time. The results reveal that we still have major gaps in our understanding of galaxy evolution.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Las galaxias enanas cercanas muestran una sorprendente falta de oxígeno, dice un artículo",
+  "resumen_es": "Un nuevo estudio de más de tres docenas de galaxias enanas ha sorprendido a los investigadores por lo poco oxígeno que han podido retener durante el tiempo cósmico. Los resultados revelan que todavía tenemos grandes lagunas en nuestra comprensión de la evolución de las galaxias.",
+  "tg": 267
+ },
+ {
+  "id": "0bb15fb8a5",
+  "t": "2026-11-09T07:00:49+00:00",
+  "visto": "2026-11-09T13:46:46.294782+00:00",
+  "titulo": "RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027",
+  "url": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/",
+  "fuente": "European Spaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/rfa-confirms-inaugural-rfa-one-launch-has-slipped-to-2027/"
+   }
+  ],
+  "desc": "German launch company Rocket Factory Augsburg (RFA) has confirmed that it is now targeting 2027 for the inaugural flight of its RFA ONE rocket from a Scottish launch facility. The revised target for the rocket’s inaugural flight was announced in a post published on the company’s LinkedIn page on 3 November. The post detailed a […] The post RFA Confirms Inaugural RFA ONE Launch Has Slipped to 2027 appeared first on European Spaceflight .",
+  "img": "",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "RFA confirma que el lanzamiento inaugural de RFA ONE se ha pospuesto hasta 2027",
+  "resumen_es": "La empresa de lanzamiento alemana Rocket Factory Augsburg (RFA) ha confirmado que ahora tiene como objetivo 2027 el vuelo inaugural de su cohete RFA ONE desde una instalación de lanzamiento escocesa. El objetivo revisado para el vuelo inaugural del cohete se anunció en una publicación publicada en la página de LinkedIn de la compañía el 3 de noviembre. La publicación detalla un […] La publicación RFA confirma que el lanzamiento inaugural de RFA ONE se ha retrasado hasta 2027 apareció por primera vez en Vuelos espaciales europeos.",
+  "tg": 266
+ },
+ {
+  "id": "976e72032c",
+  "t": "2026-11-09T06:52:00+00:00",
+  "visto": "2026-11-09T13:46:46.293289+00:00",
+  "titulo": "Missing Links in Planet Formation: From Embedded Disks to Planets",
+  "url": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/missing-links-in-planet-formation-from-embedded-disks-to-planets/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/astrophysics/programs/exep/resources/exoplanet-meetings/missing-links-in-planet-formation-from-embedded-disks-to-planets/"
+   }
+  ],
+  "desc": "Date: November 9-13, 2026 Location: ASIAA, Taipei The post Missing Links in Planet Formation: From Embedded Disks to Planets appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Eslabones perdidos en la formación de planetas: de discos incrustados a planetas",
+  "resumen_es": "Fecha: 9 al 13 de noviembre de 2026 Ubicación: ASIAA, Taipei La publicación Eslabones perdidos en la formación de planetas: de discos integrados a planetas apareció por primera vez en Ciencia de la NASA.",
+  "tg": 265
+ },
+ {
+  "id": "de7f772dfc",
+  "t": "2026-11-09T05:05:00+00:00",
+  "visto": "2026-11-09T13:46:46.291965+00:00",
+  "titulo": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+  "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/"
+   }
+  ],
+  "desc": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "APOD: 9 de noviembre de 2026 – Rigel y la nebulosa Cabeza de Bruja",
+  "resumen_es": "APOD Ciencia APOD APOD: 2026 9 de noviembre -… Archivo APOD de hoy Índice de envíos Buscar Calendario RSS Educación Acerca de Discutir APOD Astronomía Imagen del día ¡Descubre el cosmos! Cada día se presenta una imagen o fotografía diferente de nuestro fascinante universo, junto con una breve explicación escrita por un astrónomo profesional. Rigel y el […]",
+  "tg": 264
+ },
+ {
+  "id": "33121b8cb4",
+  "t": "2026-11-09T05:00:00+00:00",
+  "visto": "2026-11-09T13:46:46.288405+00:00",
+  "titulo": "Ozone Hole Reaches Its 2026 Maximum",
+  "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/"
+   }
+  ],
+  "desc": "The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El agujero de la capa de ozono alcanza su máximo en 2026",
+  "resumen_es": "El agujero de ozono ocupó el séptimo lugar en tamaño por área en 48 años de seguimiento, pero no era tan profundo como otros grandes agujeros registrados.",
+  "tg": 263
+ },
+ {
   "id": "d4251fbb9f",
   "t": "2026-11-08T22:27:24+00:00",
   "visto": "2026-11-08T23:54:10.889444+00:00",
@@ -336,6 +611,10 @@
    {
     "n": "NASASpaceflight",
     "u": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover"
    }
   ],
   "desc": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar… The post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com .",
@@ -343,7 +622,7 @@
   "cat": "luna",
   "cat_txt": "🌙 Luna / Artemis",
   "estado": "nuevo",
-  "imp": 4,
+  "imp": 5,
   "silencio": false,
   "titulo_es": "El plan de base lunar de la NASA obtiene una PROMESA",
   "resumen_es": "Como parte de una actualización de amplio alcance, la NASA ha reservado a PROMISE un viaje a la luna... The post El plan de base lunar de la NASA obtiene una PROMISE apareció por primera vez en NASASpaceFlight.com.",
