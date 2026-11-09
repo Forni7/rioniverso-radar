@@ -159,7 +159,7 @@ async function cargar() {
   const sinCache = "?t=" + Date.now();
   const leer = async (f, defecto) => { try { const r = await fetch("datos/" + f + sinCache); return r.ok ? await r.json() : defecto; } catch { return defecto; } };
   [NOT, ANA, LANZ] = await Promise.all([leer("noticias.json", []), leer("analisis.json", {}), leer("lanzamientos.json", {lista: []})]);
-  ANA = Object.fromEntries(Object.entries(ANA).filter(([, v]) => !v.duplicado_de));
+  ANA = Object.fromEntries(Object.entries(ANA).filter(([, v]) => !v.duplicado_de && !v.descartado && !(v.caduca && new Date(v.caduca + "T23:59:59") < new Date())));
   const est = await leer("estado.json", {});
   actualizado = est.ultima || null;
   pintarVivo(); pintarChips(); pintar();

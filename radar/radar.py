@@ -372,7 +372,7 @@ def avisar_analisis(estado, noticias, avisar):
         if nid in hechos:
             continue
         hechos.add(nid)
-        if not avisar or a.get("duplicado_de") or (a.get("potencial") or 0) < 7:
+        if not avisar or a.get("duplicado_de") or a.get("descartado") or (a.get("potencial") or 0) < 7:
             continue
         n = por_id.get(nid, {})
         verif = {"confirmado": "✅ Confirmado", "anunciado": "🟡 Anunciado", "rumor": "⚠️ Rumor"}.get(a.get("verificacion"), "")

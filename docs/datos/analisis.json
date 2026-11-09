@@ -28,7 +28,7 @@
   "tono": "noticia",
   "fotograma1": "La Luna gigante con dos banderas acercándose desde lados opuestos (EE. UU. y China) y un contador '2028 vs 2030'",
   "gancho": "La carrera a la Luna ha vuelto… y esta vez hay dos corredores.",
-  "guion": "China acaba de enseñar su plan para pisar la Luna antes de 2030. Va por pasos: en 2027 prueba su nave nueva, Mengzhou, sin nadie dentro. En 2028, el cohete gigante y el módulo lunar. En 2029, un ensayo completo en órbita de la Luna, todavía sin astronautas. Y después, dos personas bajarán a la superficie. Mientras tanto, Estados Unidos apunta a 2028 con Artemis IV. Más de 50 años después, vuelve la carrera.",
+  "guion": "China ha enseñado su plan para pisar la Luna antes de 2030. Va por pasos: en 2027 prueba su nave nueva, Mengzhou, sin nadie dentro. En 2028, el cohete gigante y el módulo lunar. En 2029, un ensayo completo en órbita de la Luna, todavía sin astronautas. Y después, dos personas bajarán a la superficie. Mientras tanto, Estados Unidos apunta a 2028 con Artemis IV. Más de 50 años después, vuelve la carrera.",
   "cierre": "¿Quién crees que llega primero: Estados Unidos o China?",
   "grafismos": "Luna con dos naves llegando desde lados opuestos; línea temporal 2027 → 2028 → 2029 → ¿2030? con iconos de cada prueba; los dos cohetes despegando y juntándose en órbita lunar; dos astronautas bajando la escalera; marcador final EE. UU. 2028 vs China <2030",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -157,7 +157,8 @@
   "grafismos": "Tierra con dos sondas trazando una curva de honda; columpio como comparación; encendido del motor con llama; línea hasta Marte con fecha septiembre 2027",
   "caducidad": "🔴 publicar antes de que acabe el sobrevuelo (esta semana)",
   "avisos": "Fecha exacta del paso y distancia no verificadas; no las menciones. Resultado de la maniobra aún no confirmado.",
-  "analizado": "2026-11-03T06:30:00Z"
+  "analizado": "2026-11-03T06:30:00Z",
+  "descartado": "La maniobra ya se hizo (7 y 9 nov 2026); el guion habla en futuro."
  },
  "7a9204611a": {
   "titular": "Encuentran los asteroides «troyanos» de Neptuno que se resistían",
@@ -183,7 +184,7 @@
   "tono": "explicación",
   "fotograma1": "Neptuno azul con pequeñas rocas brillando delante y detrás en su órbita",
   "gancho": "A Neptuno le faltaba algo que tienen los demás planetas gigantes.",
-  "guion": "Júpiter tiene sus asteroides troyanos. Saturno y Urano también. Pero Neptuno, curiosamente, no se dejaba ver. Hasta ahora. Un equipo liderado por la Queen's University de Belfast ha encontrado asteroides que acompañan a Neptuno en su órbita, como escoltas que van por delante y por detrás. Según la cobertura, serían dos confirmados y un tercer candidato. Pequeñas piezas que ayudan a entender cómo nació nuestro sistema solar.",
+  "guion": "Júpiter tiene sus asteroides troyanos. Saturno y Urano también. Pero Neptuno, curiosamente, no se dejaba ver. Hasta ahora. Un equipo de la Universidad de Queen's, en Belfast, ha encontrado asteroides que acompañan a Neptuno en su órbita, como escoltas que van por delante y por detrás. Son piezas pequeñas, pero ayudan a entender cómo nació nuestro sistema solar.",
   "cierre": "¿Qué otro misterio del sistema solar te gustaría que resolvieran?",
   "grafismos": "Sol y cuatro planetas gigantes con puntos de asteroides; Neptuno con interrogante que se resuelve; rocas apareciendo en la órbita; zoom a un asteroide",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -220,7 +221,8 @@
   "grafismos": "Camión de mudanzas que despega como cohete; cohete Falcon 9 subiendo; cronómetro 2 días; caja abriéndose en la estación con iconos de experimentos, comida y repuestos",
   "caducidad": "🔴 publicar antes del lanzamiento (previsto a finales de noviembre)",
   "avisos": "La fecha exacta no está confirmada: Northrop Grumman dice 'a finales de noviembre' y otra fuente apunta a diciembre. Altura de la ISS (unos 400 km) y velocidad (unos 28.000 km/h) son cifras generales, comprobar antes de publicar.",
-  "analizado": "2026-11-03T13:30:00Z"
+  "analizado": "2026-11-03T13:30:00Z",
+  "descartado": "Dato erróneo: el Cygnus XL (NG-24) ya voló en abril de 2026; no hay lanzamiento en noviembre."
  },
  "688f60d0f5": {
   "titular": "Hera llega a Dimorphos: Europa inspecciona el asteroide al que NASA disparó",
@@ -283,8 +285,8 @@
   "potencial": 7,
   "tono": "explicación",
   "fotograma1": "Un cohete Miura 5 animado en vertical que se parte en pedazos controlados dentro de un recuadro de seguridad",
-  "gancho": "Este cohete español acaba de demostrar que sabe autodestruirse… y es buena señal.",
-  "guion": "Una empresa de Elche acaba de volar en pedazos la estructura de un cohete a propósito. Y es una gran noticia. PLD Space ha probado el botón de autodestrucción de su Miura 5, el cohete que quiere llevar satélites a órbita desde Europa. Es como el cinturón de seguridad de un coche: nadie quiere usarlo, pero sin él no te dejan arrancar. Si algo sale mal en el vuelo, este sistema rompe el cohete para que no ponga en riesgo a nadie. Ya tienen tres cohetes construidos y el primer lanzamiento está previsto para la primera mitad de 2027 desde Kourou.",
+  "gancho": "Este cohete español ha demostrado que sabe autodestruirse… y es buena señal.",
+  "guion": "Una empresa de Elche ha volado en pedazos la estructura de un cohete a propósito. Y es una gran noticia. PLD Space ha probado el botón de autodestrucción de su Miura 5, el cohete que quiere llevar satélites a órbita desde Europa. Es como el cinturón de seguridad de un coche: nadie quiere usarlo, pero sin él no te dejan arrancar. Si algo sale mal en el vuelo, este sistema rompe el cohete para que no ponga en riesgo a nadie. Ya tienen tres cohetes construidos y quieren hacer el primer lanzamiento en la primera mitad de 2027, desde Kourou.",
   "cierre": "¿Crees que veremos un cohete español en órbita en 2027 o se retrasará otra vez?",
   "grafismos": "1) Cohete Miura 5 dibujado en vertical con línea de estructura. 2) Cinturón de seguridad que se abrocha sobre el cohete como comparación. 3) Cargas que se iluminan y la etapa se fragmenta en trozos. 4) Mapa de Elche–Utah–Kourou con trazos. 5) Calendario que pasa a 'primer semestre 2027'.",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -320,7 +322,7 @@
   "tono": "noticia",
   "fotograma1": "El Hubble orbitando mientras su órbita se dibuja descendiendo hacia la atmósfera con un reloj de arena",
   "gancho": "El Hubble se está cayendo… y la NASA pide ayuda para salvarlo.",
-  "guion": "El telescopio Hubble tiene los días contados, y la NASA acaba de pedir ayuda. Lleva más de treinta años dándonos las imágenes más famosas del universo, pero su órbita va bajando poco a poco, como un satélite que pierde altura. Según los cálculos, caería hacia 2033 o 2034. Por eso la agencia ha preguntado a las empresas cómo subirlo a una órbita más alta, repararlo o retirarlo de forma segura. No es un contrato: solo una petición de ideas, con plazo hasta el 30 de noviembre. Cualquier misión tendría que despegar antes de 2032.",
+  "guion": "El telescopio Hubble tiene los días contados, y la NASA ha pedido ayuda. Lleva más de treinta años dándonos las imágenes más famosas del universo, pero su órbita va bajando poco a poco. Según los cálculos, caería hacia 2033 o 2034. Por eso la agencia ha preguntado a las empresas cómo subirlo a una órbita más alta, repararlo o retirarlo de forma segura. Todavía no hay ninguna misión decidida: solo están recogiendo ideas.",
   "cierre": "¿Pagarías con tus impuestos por salvar el Hubble o mejor construir uno nuevo?",
   "grafismos": "1) Hubble animado sobre la Tierra con línea de órbita que baja. 2) Reloj de arena con '2033-2034'. 3) Tres flechas: subir, reparar, retirar. 4) Calendario con marca '30 nov' y '2032'. 5) Collage de fotos famosas del Hubble apagándose.",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -382,8 +384,8 @@
   "potencial": 6,
   "tono": "noticia",
   "fotograma1": "Un punto brillante cruzando el cielo nocturno y deshaciéndose en una estela de fuego",
-  "gancho": "Un telescopio de la NASA acaba de morir quemado… y nadie pudo salvarlo.",
-  "guion": "Swift lleva veintidós años vigilando las explosiones más violentas del universo. Cuando una estrella gigante muere, él era el primero en mirar. Pues bien, esta semana ha caído a la Tierra. Su órbita fue bajando poco a poco, como una moneda que gira en un plato hasta que se para. Una empresa privada intentó subirlo otra vez, pero el rescate se canceló en agosto. Al final, ha ardido al entrar en la atmósfera, y los medios lo sitúan sobre el oeste de Indonesia. Se acabó. Pero sus datos seguirán sirviendo a los astrónomos durante años.",
+  "gancho": "Un telescopio de la NASA ha muerto quemado… y nadie pudo salvarlo.",
+  "guion": "Swift pasó veintidós años vigilando las explosiones más violentas del universo. Cuando una estrella gigante moría, él era el primero en mirar. Pero a principios de noviembre de 2026 cayó a la Tierra. Su órbita fue bajando poco a poco, como una moneda que gira en un plato hasta que se para. Una empresa privada intentó subirlo otra vez, pero no lo consiguió. Al final, ardió al entrar en la atmósfera, sobre el oeste de Indonesia. Se acabó. Pero sus datos seguirán sirviendo a los astrónomos durante años.",
   "cierre": "¿Crees que merece la pena rescatar satélites viejos o es mejor dejarlos caer?",
   "grafismos": [
    "Satélite pequeño bajando en espiral hacia un planeta",
@@ -432,7 +434,8 @@
   ],
   "caducidad": "🔴 publicar antes del 18 de noviembre (hito del día-luz)",
   "avisos": "Hay artículos que mezclan este episodio con el de 2024 (calentador, transmisor S-band): no usarlos. La distancia exacta en km conviene decirla como 'unos 25.900 millones'. No he podido abrir la nota original de la NASA.",
-  "analizado": "2026-11-05T18:45:22Z"
+  "analizado": "2026-11-05T18:45:22Z",
+  "descartado": "Depende del 18 de noviembre y el episodio de la señal no está verificado."
  },
  "16369985cb": {
   "titular": "El Webb mira el hielo del cometa interestelar 3I/ATLAS: muy cargado de polvo",
@@ -502,8 +505,8 @@
   "potencial": 6,
   "tono": "noticia",
   "fotograma1": "Silueta del X-70 saliendo de la sombra con el rótulo X-70 y un contador 'primer vuelo: ~2 años'",
-  "gancho": "La NASA acaba de estrenar avión… y todavía no ha volado.",
-  "guion": "La NASA acaba de presentar un avión nuevo: el X-70 Fractal. No es una nave espacial, es un avión de pruebas con piloto dentro. Pesa unos cuatro mil quinientos kilos, más o menos como un coche grande con alas, y vuela casi a la velocidad del sonido. Su truco es que se pueden cambiar sus sistemas de control con rapidez, para probar ideas nuevas sin construir un avión entero cada vez. Aún no ha despegado: el primer vuelo llegará dentro de unos dos años.",
+  "gancho": "La NASA ha estrenado avión… y todavía no ha volado.",
+  "guion": "La NASA ha presentado un avión nuevo: el X-70 Fractal. No es una nave espacial, es un avión de pruebas con piloto dentro. Pesa unos cuatro mil quinientos kilos, más o menos como un coche grande con alas, y vuela casi a la velocidad del sonido. Su truco es que se pueden cambiar sus sistemas de control con rapidez, para probar ideas nuevas sin construir un avión entero cada vez. Todavía no ha despegado: su primer vuelo está previsto hacia 2028.",
   "cierre": "¿Qué te gustaría que probase la NASA en un avión así?",
   "grafismos": "Silueta del avión que se dibuja con líneas; cifra 4.500 kg junto a un coche; velocímetro hasta Mach 0,75; piezas del avión que se cambian como bloques; calendario que avanza dos años",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -645,7 +648,8 @@
   "grafismos": "Torre con brazos que atrapan un cohete como un portero · Dos siluetas, cohete y nave, bajando a la vez · Calendario con el 13 de noviembre marcado y un sello FAA pendiente · Marcador de reutilización: de desechable a reutilizable",
   "caducidad": "🔴 publicar antes del lanzamiento del vuelo 15 (no antes del 13 nov)",
   "avisos": "Fecha y plan de doble captura NO confirmados oficialmente por SpaceX; depende de la licencia FAA. Decir 'apunta a', 'según' y no prometer fecha. Las probabilidades son una opinión de Musk.",
-  "analizado": "2026-11-06T18:00:00Z"
+  "analizado": "2026-11-06T18:00:00Z",
+  "descartado": "El vuelo 15 apunta al 13 de noviembre: caduca antes de poder publicarlo."
  },
  "fd82a7aa8a": {
   "titular": "La ISS termina su gran mejora eléctrica: ya tiene los 8 paneles nuevos",
@@ -676,7 +680,7 @@
   "tono": "noticia",
   "fotograma1": "Un astronauta diminuto desenrollando un panel solar gigante como una alfombra sobre la Tierra",
   "gancho": "Han desenrollado una alfombra de energía a 400 kilómetros de altura.",
-  "guion": "La Estación Espacial Internacional acaba de terminar una mejora de cinco años. Dos astronautas, Anil Menon y Joshua Kutryk, salieron al vacío para instalar el último de ocho paneles solares nuevos. Se llevan enrollados, como una esterilla de yoga, y se despliegan fuera. Con ellos, la estación tiene hasta un treinta por ciento más de electricidad. Es como poner placas nuevas a una casa con veinticinco años. Así la ISS aguantará hasta su retirada, prevista para 2030.",
+  "guion": "La Estación Espacial Internacional ha terminado una mejora que ha durado cinco años. Dos astronautas, Anil Menon y Joshua Kutryk, salieron al vacío para instalar el último de ocho paneles solares nuevos. Se llevan enrollados, como una esterilla de yoga, y se despliegan fuera. Con ellos, la estación tiene hasta un treinta por ciento más de electricidad. Es como poner placas nuevas a una casa con veinticinco años. Así la ISS aguantará hasta su retirada, prevista para 2030.",
   "cierre": "¿Crees que la ISS debería retirarse en 2030 o seguir más tiempo?",
   "grafismos": "Panel enrollado que se despliega como una esterilla; contador de 8 paneles que se iluminan uno a uno; barra de energía que sube hasta +30 %; casa antigua con placas solares nuevas; calendario hasta 2030",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -711,13 +715,14 @@
   "potencial": 6,
   "tono": "asombro",
   "fotograma1": "La Tierra con la Luna grande y una mini-luna diminuta dando vueltas locas alrededor",
-  "gancho": "Ahora mismo, la Tierra tiene dos lunas. La segunda mide como un balón.",
-  "guion": "Ahora mismo la Tierra tiene dos lunas. La nueva se llama 2026 QQ8 y es diminuta: más o menos del tamaño de un balón, un metro aproximadamente. La descubrió en agosto el astrónomo Krisztián Sárneczky. La gravedad de la Tierra la ha atrapado, pero solo de forma temporal: se irá a final de año. Aún no está claro si es un asteroide pequeño o basura espacial. Piensa en un invitado que se queda hasta Navidad y no vuelve.",
+  "gancho": "La Tierra tiene ahora mismo dos lunas. La segunda mide como un balón.",
+  "guion": "La Tierra tiene una segunda luna, aunque solo de visita. Se llama 2026 QQ8 y es diminuta: más o menos del tamaño de un balón, un metro aproximadamente. La descubrió en agosto el astrónomo Krisztián Sárneczky. La gravedad de la Tierra la ha atrapado, pero solo de forma temporal: se irá a finales de 2026. Aún no está claro si es un asteroide pequeño o basura espacial. Piensa en un invitado que se queda hasta Navidad y no vuelve.",
   "cierre": "¿Le pondrías nombre a la mini-luna? Te leo en comentarios.",
   "grafismos": "Tierra y Luna con una bolita orbitando en bucles raros; comparación de tamaño: balón junto a la Luna; calendario de abril a diciembre; interrogante asteroide vs basura espacial",
   "caducidad": "🔴 publicar antes de que termine el año (se va a final de 2026)",
   "avisos": "Tamaño (~1 m) y fecha de salida son estimaciones de medios, no confirmación oficial; el Minor Planet Center no tiene claro si es asteroide o basura espacial. No digas 'segunda luna' sin 'temporal'.",
-  "analizado": "2026-11-07T06:30:00Z"
+  "analizado": "2026-11-07T06:30:00Z",
+  "caduca": "2026-12-15"
  },
  "8d52434ca2": {
   "titular": "Primer extranjero en la estación espacial china: un astronauta de Pakistán",
@@ -748,7 +753,8 @@
   "grafismos": "Mapa con Pakistán y China unidos por una línea hasta la órbita; Tiangong en 3D con puerta que se abre; etiqueta 'PRIMER EXTRANJERO'; comparación de dos clubes: ISS y Tiangong",
   "caducidad": "🟡 publicar en 1-2 semanas (mejor antes del lanzamiento)",
   "avisos": "Fecha de lanzamiento y duración de la estancia NO confirmadas (las fuentes difieren). No des nombre del astronauta ni fecha sin confirmar. Se basa en medios estatales chinos.",
-  "analizado": "2026-11-07T18:55:00Z"
+  "analizado": "2026-11-07T18:55:00Z",
+  "descartado": "Shenzhou 24 apunta al 25 de noviembre: caduca en días y faltan datos confirmados."
  },
  "e574df8b12": {
   "titular": "La NASA te manda a Titán: apunta tu nombre en el dron Dragonfly",
@@ -778,12 +784,13 @@
   "tono": "asombro",
   "fotograma1": "Un dron gigante sobrevolando las dunas naranjas de Titán con un nombre brillando en su chip",
   "gancho": "Tu nombre puede viajar a una luna de Saturno. Gratis, y en un minuto.",
-  "guion": "Tu nombre puede acabar en otro mundo. La NASA te deja apuntarlo en un chip que viajará a Titán, una luna de Saturno, a bordo de Dragonfly. Es un dron que va a volar sobre un paisaje de dunas con lagos de gas. Es gratis y tienes hasta el 15 de enero. Si todo va según lo previsto, llegará en 2034. Piensa que es mandar una postal, pero a más de mil millones de kilómetros. Tú no vas a ir, pero tu nombre sí podría. Me lo apunto ahora mismo.",
+  "guion": "Tu nombre puede acabar en otro mundo. La NASA te deja apuntarlo en un chip que viajará a Titán, una luna de Saturno, a bordo de Dragonfly. Es un dron que va a volar sobre un paisaje de dunas con lagos de gas. Es gratis y tienes hasta el 15 de enero de 2027. Si todo va según lo previsto, llegará en 2034. Piensa que es mandar una postal, pero a más de mil millones de kilómetros. Tú no vas a ir, pero tu nombre sí podría. Yo ya me he apuntado.",
   "cierre": "¿Vas a mandar tu nombre? ¿Y el de quién más?",
   "grafismos": "Pantalla de formulario con un nombre que se convierte en un chip; chip viajando de la Tierra a Saturno; dron con rotores sobre dunas; cuenta atrás hasta el 15 de enero",
   "caducidad": "🔴 publicar antes del 15 de enero de 2027",
   "avisos": "El año de lanzamiento (2028) y la llegada (2034) dependen de que no haya retrasos. No digas que 'tú' viajas: solo viaja el nombre en un chip. Datos del plazo leídos en medios que citan a la NASA.",
-  "analizado": "2026-11-07T18:55:00Z"
+  "analizado": "2026-11-07T18:55:00Z",
+  "caduca": "2027-01-14"
  },
  "3da2b26919": {
   "titular": "La sonda Hera ya ve el sistema de asteroides al que la NASA disparó una nave",
@@ -814,7 +821,8 @@
   "grafismos": "Punto que se amplía hasta dos rocas; animación del impacto de DART; coche de peritos con Hera; calendario con marca 25 de noviembre",
   "caducidad": "🟡 publicar antes del 25 de noviembre",
   "avisos": "El 25 de noviembre es la fecha prevista, no confirmada por nota oficial leída. No cites tamaños exactos de los asteroides sin consultar la ESA. No digas que 'ya hay fotos del cráter'.",
-  "analizado": "2026-11-07T18:55:00Z"
+  "analizado": "2026-11-07T18:55:00Z",
+  "descartado": "Depende de una fecha (25 nov) no confirmada."
  },
  "d54f490be9": {
   "titular": "Un robot construye una estructura en órbita sin ayuda humana por primera vez",
@@ -839,8 +847,8 @@
   "potencial": 5,
   "tono": "explicación",
   "fotograma1": "Un brazo robótico flotando sobre la Tierra que enlaza vigas hasta formar un aro",
-  "gancho": "Un robot acaba de montar una estructura en el espacio. Solo.",
-  "guion": "Todo lo que mandamos al espacio tiene que caber dentro de un cohete. Es como mudarte con una maleta. Pues eso está cambiando. Un robot de Caltech acaba de construir una estructura en órbita sin que ningún astronauta le echara una mano. Va cogiendo vigas, las une y despliega una malla que haría de antena. Ahora es pequeño, pero la idea es montar piezas enormes, de cientos de metros. Sería como pasar de la maleta a hacer muebles de IKEA en órbita.",
+  "gancho": "Un robot ha montado una estructura en el espacio. Solo.",
+  "guion": "Todo lo que mandamos al espacio tiene que caber dentro de un cohete. Es como mudarte con una maleta. Pues eso está cambiando. Un robot de Caltech ha construido una estructura en órbita sin que ningún astronauta le echara una mano. Va cogiendo vigas, las une y despliega una malla que haría de antena. Ahora es pequeño, pero la idea es montar piezas enormes, de cientos de metros. Sería como pasar de la maleta a hacer muebles de IKEA en órbita.",
   "cierre": "¿Qué construirías tú en el espacio si pudieras? Te leo.",
   "grafismos": "Cohete con maleta que no cabe; brazo robótico animado uniendo vigas; aro que crece; comparación de tamaño con un estadio",
   "caducidad": "🟡 publicar en 1-2 semanas",
@@ -876,12 +884,13 @@
   "tono": "explicación",
   "fotograma1": "Un casco de astronauta con el reflejo de la Luna y un botón gigante 'Apply' que se pulsa",
   "gancho": "La NASA busca astronautas… y la oferta de empleo es pública.",
-  "guion": "La NASA acaba de abrir las solicitudes para su próxima promoción de astronautas. Es la primera convocatoria en dos años. Tienes hasta el 3 de diciembre para presentarte, eso sí, solo si eres estadounidense y tienes un máster en ciencias o ingeniería. La última vez se presentaron más de ocho mil personas para solo diez plazas. Es como entrar en una final de la Champions con diez puestos. Los elegidos se anunciarán a finales de 2027 y trabajarán en el regreso a la Luna.",
+  "guion": "La NASA ha abierto las solicitudes para su próxima promoción de astronautas. Es la primera convocatoria en dos años. Hay plazo hasta el 3 de diciembre de 2026, eso sí, solo si eres estadounidense y tienes un máster en ciencias o ingeniería. La última vez se presentaron más de ocho mil personas para solo diez plazas. Es como entrar en una final de la Champions con diez puestos. Los elegidos se anunciarán a finales de 2027 y trabajarán en el regreso a la Luna.",
   "cierre": "Si pudieras presentarte, ¿te atreverías a mandar la solicitud?",
   "grafismos": "Anuncio de oferta de empleo con botón 'Apply'; calendario con el 3 de diciembre marcado; 8.000 siluetas reducidas a 10; casco que se cierra; Luna con una base",
   "caducidad": "🔴 publicar antes del 3 de diciembre de 2026",
   "avisos": "No decir que se puede presentar cualquiera: exige ciudadanía estadounidense. La cifra de 8.000 solicitudes es de la ronda anterior (2025), según medios.",
-  "analizado": "2026-11-08T08:00:00Z"
+  "analizado": "2026-11-08T08:00:00Z",
+  "caduca": "2026-12-02"
  },
  "8a4cc8d295": {
   "titular": "La NASA enviará a la Luna un rover nuclear para sobrevivir a la noche lunar",
@@ -913,7 +922,8 @@
   "grafismos": "Sol poniéndose sobre la Luna con contador de 14 días; rover con ruedas girando; pila nuclear brillando; termómetro bajando; hielo bajo el polo sur",
   "caducidad": "🟡 publicar en 1-2 semanas",
   "avisos": "Cifras de contrato (94 M$) y fechas proceden de cobertura secundaria; no darlas como exactas hasta contrastar con la nota de la NASA. No confundir con los 10.000 M$ de techo de CLPS 2, que no es dinero adjudicado.",
-  "analizado": "2026-11-08T08:00:00Z"
+  "analizado": "2026-11-08T08:00:00Z",
+  "descartado": "Repetido y contradictorio con el del rover PROMISE gemelo de Perseverance."
  },
  "4c8417bb19": {
   "titular": "El James Webb ve más de 100 estrellas sueltas en una galaxia muy lejana",
@@ -940,7 +950,7 @@
   "tono": "asombro",
   "fotograma1": "Una galaxia curvada y estirada, como un arco, que se rompe en decenas de puntitos brillantes",
   "gancho": "Esto no es una galaxia: son más de cien estrellas sueltas a miles de millones de años luz.",
-  "guion": "Imagina distinguir una a una las farolas de una ciudad que está en otro continente. Imposible, ¿no? Pues el telescopio James Webb acaba de hacer algo parecido. Mira una galaxia llamada Dragón, tan lejana que su luz sale de hace miles de millones de años. Y gracias a un cúmulo de galaxias que actúa como lupa gigante, ha contado más de cien estrellas individuales. El récord anterior eran unas cuarenta y cuatro. Ojo: es un estudio todavía sin revisar por otros científicos. Pero si se confirma, tenemos un mapa de estrellas en una galaxia que parecía una simple mancha.",
+  "guion": "Imagina distinguir una a una las farolas de una ciudad que está en otro continente. Imposible, ¿no? Pues el telescopio James Webb ha hecho algo parecido. Mira una galaxia llamada Dragón, tan lejana que su luz salió hace miles de millones de años. Y gracias a un cúmulo de galaxias que actúa como lupa gigante, ha contado más de cien estrellas individuales. El récord anterior eran unas cuarenta y cuatro. Ojo: es un estudio todavía sin revisar por otros científicos. Pero si se confirma, tenemos un mapa de estrellas en una galaxia que parecía una simple mancha.",
   "cierre": "Si pudieras ponerle nombre a una de esas estrellas, ¿cómo la llamarías?",
   "grafismos": [
    "Lupa que se mueve sobre una mancha borrosa y la convierte en puntos",
@@ -1046,7 +1056,7 @@
   "potencial": 5,
   "tono": "explicación",
   "fotograma1": "La Tierra vista desde el polo sur con una mancha azul que se agranda",
-  "gancho": "El agujero de la capa de ozono creció este año. ¿Deberíamos preocuparnos?",
+  "gancho": "El agujero de la capa de ozono creció en 2026. ¿Deberíamos preocuparnos?",
   "guion": "¿Te acuerdas del agujero de la capa de ozono? Sigue ahí cada año sobre la Antártida. Y en 2026 ha sido el séptimo más grande de los 48 años que lleva medido la NASA. Pero ojo: no es tan profundo como otros grandes. Los científicos lo achacan al tiempo, no a que volvamos a contaminar. La buena noticia es que, a largo plazo, la capa sigue recuperándose gracias a que se prohibieron ciertos gases. Es como una herida que cicatriza con altibajos.",
   "cierre": "¿Pensabas que el agujero de ozono ya estaba arreglado del todo?",
   "grafismos": "Globo girando hasta el polo sur; mancha azul que se infla; escalera con siete peldaños; herida que cicatriza",
