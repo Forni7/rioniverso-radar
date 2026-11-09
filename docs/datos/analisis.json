@@ -1,913 +1,990 @@
 {
-  "ed27b2587d": {
-    "titular": "China ya tiene calendario para pisar la Luna: antes de 2030",
-    "resumen": "China ha detallado los pasos hasta su primer alunizaje tripulado, que sigue apuntando a antes de 2030. Primero probará en 2027 su nueva nave Mengzhou sin tripulación en órbita terrestre; en 2028, el cohete Long March 10 y el módulo lunar Lanyue; y en 2029, un ensayo completo sin astronautas en órbita lunar. Bajarán dos taikonautas a la superficie.",
-    "por_que": "Después de 50 años, dos países compiten a la vez por volver a la Luna: Estados Unidos apunta a 2028 con Artemis IV y China a antes de 2030.",
-    "datos_clave": [
-      "Alunizaje tripulado 'antes de 2030' (Global Times, medio oficial chino)",
-      "2 lanzamientos de Long March 10: uno con la nave Mengzhou y otro con el módulo Lanyue, que se juntan en órbita lunar",
-      "Tripulación de 3 taikonautas; 2 bajan a la superficie",
-      "Ensayos previos sin tripulación en 2027, 2028 y 2029 (según la cobertura del simposio del 31 oct)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Global Times",
-        "u": "https://www.globaltimes.cn/page/202610/1373353.shtml"
-      },
-      {
-        "n": "Northeast Times",
-        "u": "https://northeasttimes.com/2026/11/02/china-lays-out-four-missions-leading-to-a-crewed-moon-landing/"
-      },
-      {
-        "n": "Ars Technica",
-        "u": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
-      }
-    ],
-    "potencial": 8,
-    "tono": "noticia",
-    "fotograma1": "La Luna gigante con dos banderas acercándose desde lados opuestos (EE. UU. y China) y un contador '2028 vs 2030'",
-    "gancho": "La carrera a la Luna ha vuelto… y esta vez hay dos corredores.",
-    "guion": "China acaba de enseñar su plan para pisar la Luna antes de 2030. Va por pasos: en 2027 prueba su nave nueva, Mengzhou, sin nadie dentro. En 2028, el cohete gigante y el módulo lunar. En 2029, un ensayo completo en órbita de la Luna, todavía sin astronautas. Y después, dos personas bajarán a la superficie. Mientras tanto, Estados Unidos apunta a 2028 con Artemis IV. Más de 50 años después, vuelve la carrera.",
-    "cierre": "¿Quién crees que llega primero: Estados Unidos o China?",
-    "grafismos": "Luna con dos naves llegando desde lados opuestos; línea temporal 2027 → 2028 → 2029 → ¿2030? con iconos de cada prueba; los dos cohetes despegando y juntándose en órbita lunar; dos astronautas bajando la escalera; marcador final EE. UU. 2028 vs China <2030",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "No digas una fecha exacta del alunizaje chino: el anuncio oficial dice 'antes de 2030'. Las fechas de los ensayos (2027-2029) salen de la cobertura del simposio, así que dilas como 'según su plan'.",
-    "analizado": "2026-11-03T00:30:00Z"
-  },
-  "207ddf3d17": {
-    "titular": "El telescopio Swift de la NASA caerá a la Tierra y nadie sabe aún dónde",
-    "resumen": "El observatorio Swift, que lleva más de veinte años cazando explosiones cósmicas, va a caer a la atmósfera. En agosto, la NASA y la empresa Katalyst cancelaron la misión privada que iba a capturarlo y elevar su órbita por un fallo de control de actitud de la nave de rescate. Aún no hay fecha ni lugar confirmados de reentrada. La NASA espera que la mayor parte se desintegre y que el riesgo para las personas sea muy pequeño.",
-    "por_que": "Es un satélite científico real que se va a desintegrar sobre nuestras cabezas, y cualquiera puede preguntarse si le puede caer encima.",
-    "datos_clave": [
-      "Misión de rescate de Katalyst (LINK) cancelada el 19 de agosto por un problema de control de actitud (NASA y Katalyst, según la cobertura)",
-      "Fecha y lugar de reentrada: sin confirmar (Space.com)",
-      "Se espera que la mayor parte se queme en la atmósfera; el riesgo para las personas es muy pequeño (NASA, según la cobertura)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
-      },
-      {
-        "n": "CNN (vía KEYT)",
-        "u": "https://keyt.com/news/national-world/cnn-other/2026/09/30/a-storied-nasa-observatory-could-be-weeks-away-from-falling-to-earth-after-failed-rescue-attempt/"
-      }
-    ],
-    "potencial": 7,
-    "tono": "noticia",
-    "fotograma1": "Un telescopio dorado ardiendo al entrar en la atmósfera sobre un mapa del mundo con un signo de interrogación",
-    "gancho": "Un telescopio de la NASA está a punto de caerse del cielo y nadie sabe dónde.",
-    "guion": "Un telescopio de la NASA va a caer a la Tierra. Se llama Swift y lleva más de veinte años cazando explosiones gigantes en el espacio. Su órbita se ha ido bajando poco a poco, como una bici que pierde velocidad cuesta arriba. Intentaron salvarlo con una nave privada, pero el rescate se canceló en agosto por un fallo en esa nave. Ahora solo queda esperar. ¿Dónde caerá? Todavía nadie lo sabe. Lo normal es que casi todo se queme al entrar en la atmósfera, y el riesgo para las personas es muy pequeño.",
-    "cierre": "¿Intentarías salvar un telescopio así o lo dejarías caer?",
-    "grafismos": "Órbita en espiral descendente alrededor de la Tierra; nave de rescate que gira sin control y se aleja; telescopio entrando en la atmósfera envuelto en llamas; mapa del mundo con zona de caída parpadeando con interrogantes",
-    "caducidad": "🔴 publicar antes de la reentrada (fecha aún sin confirmar)",
-    "avisos": "No decir fecha ni lugar de caída: no están confirmados. No afirmar que habrá restos peligrosos. Antes de publicar, comprobar si ya ha reentrado.",
-    "analizado": "2026-11-03T08:00:00Z"
-  },
-  "b9487f47e6": {
-    "titular": "Cuatro voluntarios salen de un Marte simulado tras más de un año encerrados",
-    "resumen": "La tripulación de la segunda misión CHAPEA de la NASA terminó el 31 de octubre de 2026 su viaje simulado a Marte. Matthew Montgomery, James Spicer, Ross Elder y Ellen Ellis pasaron más de un año en un hábitat que imita la superficie marciana. Posaron fuera por primera vez en más de un año, según la NASA.",
-    "por_que": "Es el ensayo de cómo aguantaría la cabeza y el cuerpo un viaje real a Marte: meses sin salir, sin sol y con poca gente.",
-    "datos_clave": [
-      "Fin de la misión el 31 de octubre de 2026 (NASA)",
-      "4 tripulantes: Montgomery, Spicer, Elder y Ellis (NASA)",
-      "Más de un año de aislamiento simulado (NASA)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "NASA",
-        "u": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "Cuatro personas saliendo de una puerta hermética a un paisaje rojo de Marte que se convierte en cielo azul",
-    "gancho": "Llevaban más de un año encerrados en un Marte falso y por fin han salido.",
-    "guion": "Imagina pasar más de un año encerrado con tres personas, sin salir a la calle. Eso han hecho cuatro voluntarios de la NASA en una réplica de Marte construida en Houston. Se llama CHAPEA y simula cómo sería vivir allí: cultivar comida, hacer paseos por un terreno falso y arreglar lo que falle. El 31 de octubre terminaron y por fin pisaron la Tierra de verdad. No es un juego: sirve para saber cómo aguantaríamos un viaje real a Marte.",
-    "cierre": "¿Tú aguantarías un año encerrado con tres desconocidos?",
-    "grafismos": "Hábitat tipo contenedor sobre arena roja; calendario que pasa hojas durante un año; cuatro siluetas en fila; puerta que se abre y entra luz azul",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "Duración exacta en días y detalles de la misión no verificados: decir solo 'más de un año'. No afirmar el lugar de forma distinta a lo que diga la NASA (Houston es el de la primera misión).",
-    "analizado": "2026-11-03T08:00:00Z"
-  },
-  "c3823a41cf": {
-    "titular": "Swift, el cazador de explosiones cósmicas, cae a la Tierra esta semana",
-    "resumen": "El observatorio Swift de la NASA, lanzado en 2004, reentrará en la atmósfera el miércoles 4 de noviembre según la previsión de la Fuerza Espacial de EE. UU. recogida por la NASA. Pesa unos 1.450 kilos (3.200 libras). La misión de rescate privada de Katalyst, de unos 30 millones de dólares, se canceló tras fallar la nave que debía subirlo de órbita. Swift dejó de hacer ciencia el 20 de octubre al caer demasiado bajo.",
-    "por_que": "Es el final de un telescopio que llevaba casi 22 años avisando al mundo de las explosiones más potentes desde el Big Bang, y su caída es incontrolada.",
-    "datos_clave": [
-      "Reentrada prevista el 4 de noviembre de 2026 (NASA, citando a la Fuerza Espacial)",
-      "Unas 3.200 libras, unos 1.450 kg (NASA / medios)",
-      "Lanzado en 2004, casi 22 años de misión (NASA)",
-      "Ciencia terminada el 20 de octubre (medios: Live Science)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "NASA Ciencia",
-        "u": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
-      },
-      {
-        "n": "Live Science",
-        "u": "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang"
-      }
-    ],
-    "potencial": 7,
-    "tono": "serio",
-    "fotograma1": "Swift como una estrella fugaz envuelta en fuego atravesando la atmósfera, con un contador de cuenta atrás",
-    "gancho": "Un telescopio de la NASA va a caer del cielo esta semana.",
-    "guion": "Este miércoles, un telescopio de la NASA caerá del cielo. Se llama Swift y lleva casi 22 años vigilando las explosiones más potentes del universo. Pesa como un coche pequeño: unos 1.450 kilos. Intentaron rescatarlo con una nave privada, pero la misión falló y se canceló. Ya no tiene motor propio, así que la gravedad hará el resto. Se espera que casi todo se queme al entrar en la atmósfera. Es el final de un pequeño gigante.",
-    "cierre": "¿Crees que deberíamos rescatar los telescopios viejos o dejarlos caer?",
-    "grafismos": "Swift orbitando y bajando poco a poco; cuenta atrás hasta el 4 de noviembre; comparación de su peso con un coche pequeño; entrada en la atmósfera en llamas; estrellas con destellos de explosiones cósmicas",
-    "caducidad": "🔴 publicar antes del 4-5 de noviembre (reentrada)",
-    "avisos": "No digas dónde caerá ni la hora exacta: no hay lugar confirmado. La fecha es una previsión. Algunos componentes podrían sobrevivir; no hables de peligro para la gente.",
-    "analizado": "2026-11-03T06:30:00Z"
-  },
-  "c629f6c55b": {
-    "titular": "Dos sondas de la NASA dan un latigazo a la Tierra para volar a Marte",
-    "resumen": "Las dos naves gemelas ESCAPADE de la NASA harán en los próximos días un sobrevuelo propulsado de la Tierra: usarán la gravedad terrestre y un encendido del motor para salir disparadas hacia Marte. La NASA dice que ninguna nave de la agencia ha hecho antes esa maniobra, y que cada sonda la hará. Se lanzaron en noviembre de 2025 con un New Glenn y llevan un año esperando en órbita a que Tierra y Marte se alineen. Está previsto que lleguen a Marte en septiembre de 2027.",
-    "por_que": "Es una forma de ahorrar combustible usando el planeta como catapulta, y servirá para estudiar cómo Marte perdió su atmósfera.",
-    "datos_clave": [
-      "Sobrevuelo propulsado de la Tierra, maniobra nunca volada por una nave de la agencia (NASA)",
-      "Lanzamiento en noviembre de 2025 con New Glenn (medios)",
-      "Llegada a Marte prevista en septiembre de 2027 (medios)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASA Ciencia",
-        "u": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
-      },
-      {
-        "n": "Mars Daily",
-        "u": "https://www.marsdaily.com/reports/NASA_twin_spacecraft_depart_Earth_orbit_to_begin_Mars_mission_999.html"
-      }
-    ],
-    "potencial": 6,
-    "tono": "explicación",
-    "fotograma1": "Dos puntos brillantes rodeando la Tierra como una honda y saliendo disparados hacia Marte",
-    "gancho": "La NASA va a lanzar dos naves usando la Tierra como catapulta.",
-    "guion": "La NASA tiene dos sondas gemelas esperando desde hace un año cerca de la Tierra. Ahora toca salir hacia Marte. ¿Cómo? Pasando muy cerca de nuestro planeta y robándole un poco de velocidad con su gravedad, como cuando coges impulso en un columpio. Además, encenderán el motor en pleno paso. La NASA dice que ninguna de sus naves había hecho esto antes. Si todo sale bien, llegarán a Marte en septiembre de 2027.",
-    "cierre": "¿Te atreverías a viajar a Marte con una maniobra así?",
-    "grafismos": "Tierra con dos sondas trazando una curva de honda; columpio como comparación; encendido del motor con llama; línea hasta Marte con fecha septiembre 2027",
-    "caducidad": "🔴 publicar antes de que acabe el sobrevuelo (esta semana)",
-    "avisos": "Fecha exacta del paso y distancia no verificadas; no las menciones. Resultado de la maniobra aún no confirmado.",
-    "analizado": "2026-11-03T06:30:00Z"
-  },
-  "7a9204611a": {
-    "titular": "Encuentran los asteroides «troyanos» de Neptuno que se resistían",
-    "resumen": "Un equipo internacional liderado por la Queen's University Belfast anuncia un descubrimiento que se escapaba a los astrónomos desde hace décadas. Júpiter, Saturno y Urano tienen familias de asteroides que van delante y detrás de ellos, pero a Neptuno le faltaba. Según la cobertura, con datos del Observatorio Vera Rubin se han confirmado dos troyanos y hay un tercer candidato.",
-    "por_que": "Es un trocito nuevo del rompecabezas de cómo se formó el sistema solar, a más de 4.000 millones de kilómetros del Sol.",
-    "datos_clave": [
-      "Equipo liderado por la Queen's University Belfast (Phys.org)",
-      "Dos asteroides confirmados y un candidato, con datos de Vera Rubin (IFLScience)",
-      "Júpiter, Saturno y Urano ya tenían troyanos (Phys.org)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Phys.org",
-        "u": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html"
-      },
-      {
-        "n": "IFLScience",
-        "u": "https://www.iflscience.com/two-new-trojan-asteroids-and-a-possible-third-discovered-trailing-behind-neptune-with-vera-rubin-observatory-85060"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "Neptuno azul con pequeñas rocas brillando delante y detrás en su órbita",
-    "gancho": "A Neptuno le faltaba algo que tienen los demás planetas gigantes.",
-    "guion": "Júpiter tiene sus asteroides troyanos. Saturno y Urano también. Pero Neptuno, curiosamente, no se dejaba ver. Hasta ahora. Un equipo liderado por la Queen's University de Belfast ha encontrado asteroides que acompañan a Neptuno en su órbita, como escoltas que van por delante y por detrás. Según la cobertura, serían dos confirmados y un tercer candidato. Pequeñas piezas que ayudan a entender cómo nació nuestro sistema solar.",
-    "cierre": "¿Qué otro misterio del sistema solar te gustaría que resolvieran?",
-    "grafismos": "Sol y cuatro planetas gigantes con puntos de asteroides; Neptuno con interrogante que se resuelve; rocas apareciendo en la órbita; zoom a un asteroide",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "Sin acceso al paper ni a nota de prensa de la universidad: cifras exactas y el papel de los estudiantes no verificados; no los menciones. El tercer asteroide es solo candidato.",
-    "analizado": "2026-11-03T06:30:00Z"
-  },
-  "7a17628b8e": {
-    "titular": "Llega a la Estación Espacial el carguero más grande de Northrop Grumman",
-    "resumen": "La NASA ha abierto la acreditación de prensa para la misión NG-25 (CRS-25), el próximo viaje de reabastecimiento a la Estación Espacial Internacional. Una nave Cygnus XL despegará en un cohete Falcon 9 de SpaceX desde Cabo Cañaveral, con fecha prevista a finales de noviembre según Northrop Grumman. Llevará unos 5.000 kg de ciencia y suministros.",
-    "por_que": "Es el 'camión de mudanzas' que mantiene viva la estación donde se hacen experimentos que acaban en medicinas y materiales nuevos, y se puede ver el despegue en directo.",
-    "datos_clave": [
-      "Cygnus XL lanzada en un Falcon 9 desde Cabo Cañaveral, SLC-40 (Northrop Grumman)",
-      "Unas 11.000 libras de carga, unos 5.000 kg (Northrop Grumman)",
-      "Llegada a la estación unos 2 días después del despegue (Northrop Grumman)",
-      "La primera Cygnus XL voló en septiembre de 2025 como NG-23 (Northrop Grumman)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASA",
-        "u": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
-      },
-      {
-        "n": "Northrop Grumman",
-        "u": "https://www.northropgrumman.com/what-we-do/space/missions/nasa-commercial-resupply-mission-ng-25"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "Una nave Cygnus acercándose a la Estación Espacial con la Tierra detrás",
-    "gancho": "Esta nave lleva cinco toneladas de cosas hasta una casa que va a 28.000 km/h.",
-    "guion": "En noviembre sale el camión de mudanzas más especial del mundo. Se llama Cygnus XL y va a la Estación Espacial Internacional con unos cinco mil kilos de material: experimentos científicos, comida y repuestos. Despegará en un Falcon 9 desde Florida y tardará solo dos días en llegar. Es como pedir a domicilio, pero la casa está a 400 kilómetros sobre tu cabeza. Y la puedes ver despegar en directo. Todavía no hay fecha exacta, así que mantente atento.",
-    "cierre": "¿Qué experimento le meterías tú en la caja?",
-    "grafismos": "Camión de mudanzas que despega como cohete; cohete Falcon 9 subiendo; cronómetro 2 días; caja abriéndose en la estación con iconos de experimentos, comida y repuestos",
-    "caducidad": "🔴 publicar antes del lanzamiento (previsto a finales de noviembre)",
-    "avisos": "La fecha exacta no está confirmada: Northrop Grumman dice 'a finales de noviembre' y otra fuente apunta a diciembre. Altura de la ISS (unos 400 km) y velocidad (unos 28.000 km/h) son cifras generales, comprobar antes de publicar.",
-    "analizado": "2026-11-03T13:30:00Z"
-  },
-  "688f60d0f5": {
-    "titular": "Hera llega a Dimorphos: Europa inspecciona el asteroide al que NASA disparó",
-    "resumen": "La sonda Hera de la Agencia Espacial Europea (ESA), la primera misión europea de defensa planetaria, llega este mes de noviembre a su destino: el sistema de asteroides Didymos. Su objetivo es Dimorphos, una luna de unos 151 metros que orbita alrededor de Didymos, de unos 780 metros. En septiembre de 2022 la sonda DART de la NASA se estrelló contra Dimorphos y cambió su órbita. Hera va a estudiar cómo quedó para saber si este método sirve para desviar asteroides peligrosos.",
-    "por_que": "Es el ensayo real de cómo salvar a la Tierra de un asteroide: ahora toca ver con detalle el resultado del único golpe que la humanidad ha dado a un objeto del Sistema Solar.",
-    "datos_clave": [
-      "Llegada a Didymos prevista en noviembre de 2026 (ESA)",
-      "Dimorphos mide unos 151 m y Didymos unos 780 m (ESA)",
-      "DART impactó el 26 de septiembre de 2022 y cambió la órbita de Dimorphos (ESA)",
-      "Hera lleva dos cubesats, Milani y Juventas (Space.com)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "ESA",
-        "u": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
-      },
-      {
-        "n": "ESA",
-        "u": "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids"
-      },
-      {
-        "n": "Space.com",
-        "u": "https://space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage"
-      }
-    ],
-    "potencial": 7,
-    "tono": "explicación",
-    "fotograma1": "Una sonda pequeña acercándose a un asteroide con un cráter recién hecho, con la Tierra diminuta al fondo",
-    "gancho": "Hace cuatro años la NASA le dio un golpe a un asteroide. Ahora Europa va a ver cómo quedó.",
-    "guion": "En 2022, la NASA estrelló una nave contra un asteroide llamado Dimorphos. Y funcionó: cambió su órbita. Fue la primera vez que la humanidad movió un objeto del Sistema Solar. Pero nadie había visto de cerca el resultado. Hasta ahora. Este mes llega la sonda europea Hera, más o menos del tamaño de un coche pequeño. Dimorphos mide unos 150 metros, como un estadio de fútbol grande. Hera medirá su forma y su masa para saber si este método nos salvaría de un asteroide de verdad.",
-    "cierre": "Si apareciera un asteroide rumbo a la Tierra, ¿confiarías en darle un golpe para desviarlo?",
-    "grafismos": "Nave DART chocando contra el asteroide y su órbita alargándose; Hera pequeña comparada con un coche; Dimorphos comparado con un estadio; Hera escaneando el cráter; Tierra con un escudo",
-    "caducidad": "🟡 publicar en 1-2 semanas (mejor al confirmarse la llegada)",
-    "avisos": "No afirmar que Hera ya ha llegado: la fecha exacta de llegada no está confirmada en las fuentes consultadas. No dar el tamaño de la sonda con cifras exactas.",
-    "analizado": "2026-11-04T07:30:00Z"
-  },
-  "b85f13415c": {
-    "titular": "PLD Space prueba el botón de autodestrucción de su cohete Miura 5",
-    "resumen": "PLD Space, la empresa de Elche, ha completado las pruebas de rendimiento del sistema de terminación de vuelo de su cohete orbital Miura 5 y lo anunció el 30 de octubre. Con cargas pirotécnicas, el ensayo demostró que el sistema puede destruir la estructura principal de la etapa si algo falla en pleno vuelo. La prueba se hizo en instalaciones de Delta-V Energetics, en Utah (EE. UU.). La compañía ya tiene tres cohetes fabricados y prevé el primer vuelo desde Kourou en la primera mitad de 2027.",
-    "por_que": "Un cohete español de verdad está cada vez más cerca de despegar, y para que le dejen volar primero tiene que demostrar que puede destruirse de forma segura si se desvía.",
-    "datos_clave": [
-      "Prueba anunciada el 30 de octubre de 2026 (PLD Space)",
-      "Realizada en Delta-V Energetics, Utah, con dispositivos pirotécnicos (European Spaceflight)",
-      "Tres Miura 5 fabricados: dos unidades de cualificación y el de primer vuelo (European Spaceflight)",
-      "Primer lanzamiento previsto desde Kourou en el primer semestre de 2027 (European Spaceflight)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "PLD Space (X)",
-        "u": "https://x.com/PLD_Space/status/2116088911092990386"
-      },
-      {
-        "n": "European Spaceflight",
-        "u": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test"
-      }
-    ],
-    "potencial": 7,
-    "tono": "explicación",
-    "fotograma1": "Un cohete Miura 5 animado en vertical que se parte en pedazos controlados dentro de un recuadro de seguridad",
-    "gancho": "Este cohete español acaba de demostrar que sabe autodestruirse… y es buena señal.",
-    "guion": "Una empresa de Elche acaba de volar en pedazos la estructura de un cohete a propósito. Y es una gran noticia. PLD Space ha probado el botón de autodestrucción de su Miura 5, el cohete que quiere llevar satélites a órbita desde Europa. Es como el cinturón de seguridad de un coche: nadie quiere usarlo, pero sin él no te dejan arrancar. Si algo sale mal en el vuelo, este sistema rompe el cohete para que no ponga en riesgo a nadie. Ya tienen tres cohetes construidos y el primer lanzamiento está previsto para la primera mitad de 2027 desde Kourou.",
-    "cierre": "¿Crees que veremos un cohete español en órbita en 2027 o se retrasará otra vez?",
-    "grafismos": "1) Cohete Miura 5 dibujado en vertical con línea de estructura. 2) Cinturón de seguridad que se abrocha sobre el cohete como comparación. 3) Cargas que se iluminan y la etapa se fragmenta en trozos. 4) Mapa de Elche–Utah–Kourou con trazos. 5) Calendario que pasa a 'primer semestre 2027'.",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "No decir que el primer lanzamiento tiene fecha cerrada: es una previsión. El texto de la prueba se ha contrastado con el anuncio de PLD Space y European Spaceflight; no se ha podido abrir el artículo completo.",
-    "analizado": "2026-11-04T16:30:00Z"
-  },
-  "45252c202d": {
-    "titular": "La NASA pide ideas para rescatar al Hubble antes de que caiga a la Tierra",
-    "resumen": "La NASA publicó el 29 de octubre una solicitud de información para que las empresas propongan cómo elevar la órbita del telescopio Hubble, repararlo o retirarlo de forma controlada. Según los análisis de la agencia recogidos por la prensa, el telescopio reentraría en la atmósfera hacia 2033 o 2034, así que cualquier misión tendría que volar antes de 2032. Las respuestas se podían enviar hasta el 30 de noviembre. El administrador Jared Isaacman ha dicho que no se puede permitir una reentrada descontrolada.",
-    "por_que": "El telescopio que te ha dado las fotos más famosas del universo tiene fecha de caducidad, y una empresa privada podría salvarlo.",
-    "datos_clave": [
-      "Solicitud de información lanzada el 29 de octubre de 2026 (The Next Web, NASASpaceflight)",
-      "Opciones: subirlo a al menos 600 km, repararlo o retirarlo de forma controlada (The Next Web)",
-      "Reentrada estimada en 2033 o 2034 (The Next Web)",
-      "Respuestas hasta el 30 de noviembre (The Next Web)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASASpaceflight",
-        "u": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"
-      },
-      {
-        "n": "The Next Web",
-        "u": "https://thenextweb.com/news/nasa-hubble-reboost-servicing-commercial-request"
-      },
-      {
-        "n": "ExecutiveGov",
-        "u": "https://www.executivegov.com/articles/nasa-hubble-commercial-servicing-rfi-isaacman"
-      }
-    ],
-    "potencial": 7,
-    "tono": "noticia",
-    "fotograma1": "El Hubble orbitando mientras su órbita se dibuja descendiendo hacia la atmósfera con un reloj de arena",
-    "gancho": "El Hubble se está cayendo… y la NASA pide ayuda para salvarlo.",
-    "guion": "El telescopio Hubble tiene los días contados, y la NASA acaba de pedir ayuda. Lleva más de treinta años dándonos las imágenes más famosas del universo, pero su órbita va bajando poco a poco, como un satélite que pierde altura. Según los cálculos, caería hacia 2033 o 2034. Por eso la agencia ha preguntado a las empresas cómo subirlo a una órbita más alta, repararlo o retirarlo de forma segura. No es un contrato: solo una petición de ideas, con plazo hasta el 30 de noviembre. Cualquier misión tendría que despegar antes de 2032.",
-    "cierre": "¿Pagarías con tus impuestos por salvar el Hubble o mejor construir uno nuevo?",
-    "grafismos": "1) Hubble animado sobre la Tierra con línea de órbita que baja. 2) Reloj de arena con '2033-2034'. 3) Tres flechas: subir, reparar, retirar. 4) Calendario con marca '30 nov' y '2032'. 5) Collage de fotos famosas del Hubble apagándose.",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "No decir que hay misión aprobada ni presupuesto: es solo una petición de información. La fecha de reentrada es una estimación. Los detalles proceden de prensa especializada; no se ha podido abrir la nota oficial de NASA. No afirmar quién lo hará (SpaceX u otros).",
-    "analizado": "2026-11-04T16:30:00Z"
-  },
-  "08f2a00899": {
-    "titular": "Cohetes de la NASA estudian una llamarada solar mientras ocurre",
-    "resumen": "Un equipo de la NASA ha usado un sistema de alerta de llamaradas solares para decidir el momento de lanzar sus cohetes de sondeo. El instrumento FOXSI-5 voló el 14 de mayo de 2026 y observó tres llamaradas pequeñas durante el vuelo. El sistema localiza la llamarada y predice cuánto durará a los pocos minutos de que la detecten los satélites, con datos del Observatorio de Dinámica Solar de la NASA, los GOES de NOAA y observatorios en tierra. NASA lo presenta como la primera vez que se estudia así una llamarada en curso.",
-    "por_que": "Las llamaradas solares pueden afectar a satélites, GPS y comunicaciones, y entender cómo funcionan ayuda a proteger la tecnología de la que dependes cada día.",
-    "datos_clave": [
-      "Vuelo del instrumento FOXSI-5 el 14 de mayo de 2026 (NASA Ciencia)",
-      "Tres llamaradas pequeñas observadas en el vuelo (NASA Ciencia)",
-      "El sistema usa datos del SDO, los GOES de NOAA y observatorios terrestres (NASA Ciencia)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "NASA Ciencia",
-        "u": "https://science.nasa.gov/blogs/science-news/2026/11/04/solar-flare-alert-system-helps-nasa-rocket-team-decide-when-to-launch/"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "Una llamarada solar estallando y un cohete diminuto saliendo disparado hacia ella",
-    "gancho": "Lanzaron un cohete hacia el Sol justo cuando estaba estallando.",
-    "guion": "Imagina intentar fotografiar un rayo, pero sin saber cuándo caerá. Eso es lo que hacen los científicos de la NASA con las llamaradas solares. Ahora tienen un sistema de alerta que localiza la llamarada y calcula cuánto va a durar a los pocos minutos de detectarla. Con ese aviso lanzaron cohetes de sondeo justo a tiempo, y su instrumento FOXSI-5 observó tres llamaradas pequeñas durante el vuelo. Estas explosiones pueden afectar a satélites y comunicaciones, así que entenderlas es proteger tu móvil y tu GPS.",
-    "cierre": "¿Qué crees que pasaría si una llamarada gigante apagara los satélites un día?",
-    "grafismos": "1) Sol con llamarada que crece. 2) Reloj de cuenta atrás con 'minutos'. 3) Cohete pequeño que sube con trazo hasta el Sol. 4) Satélites y GPS parpadeando en la Tierra.",
-    "caducidad": "🟢 no caduca",
-    "avisos": "NASA lo llama 'primera vez', pero en abril de 2024 ya se lanzaron cohetes durante una llamarada de clase M desde Alaska: no decir 'primer lanzamiento durante una llamarada' sin matizar. Decir solo que el sistema de alerta es nuevo. No dar más cifras sin confirmar.",
-    "analizado": "2026-11-04T16:30:00Z"
-  },
-  "23c572347a": {
-    "titular": "Swift ya es historia: el telescopio cazaexplosiones cae a la Tierra",
-    "resumen": "El observatorio Swift de la NASA ha reentrado en la atmósfera este 4 de noviembre, según recogen Spaceflight Now (sobre el oeste de Indonesia), Phys.org y Space.com. Cierra más de dos décadas estudiando las mayores explosiones del universo. Su caída llega tras fracasar el intento de rescate privado que se canceló en agosto.",
-    "por_que": "Es el final de un telescopio que ha visto estallar estrellas a miles de millones de años luz, y te enseña que los satélites también mueren si nadie los empuja.",
-    "datos_clave": [
-      "Reentrada el 4 de noviembre de 2026 (Phys.org, Space.com)",
-      "Zona: oeste de Indonesia (Spaceflight Now)",
-      "Unos 22 años de misión dedicados a explosiones cósmicas (Phys.org)",
-      "Misión de rescate de Katalyst cancelada en agosto tras fallos de orientación (prensa especializada)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Spaceflight Now",
-        "u": "https://spaceflightnow.com"
-      },
-      {
-        "n": "Phys.org",
-        "u": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html"
-      },
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com"
-      }
-    ],
-    "potencial": 6,
-    "tono": "noticia",
-    "fotograma1": "Un punto brillante cruzando el cielo nocturno y deshaciéndose en una estela de fuego",
-    "gancho": "Un telescopio de la NASA acaba de morir quemado… y nadie pudo salvarlo.",
-    "guion": "Swift lleva veintidós años vigilando las explosiones más violentas del universo. Cuando una estrella gigante muere, él era el primero en mirar. Pues bien, esta semana ha caído a la Tierra. Su órbita fue bajando poco a poco, como una moneda que gira en un plato hasta que se para. Una empresa privada intentó subirlo otra vez, pero el rescate se canceló en agosto. Al final, ha ardido al entrar en la atmósfera, y los medios lo sitúan sobre el oeste de Indonesia. Se acabó. Pero sus datos seguirán sirviendo a los astrónomos durante años.",
-    "cierre": "¿Crees que merece la pena rescatar satélites viejos o es mejor dejarlos caer?",
-    "grafismos": [
-      "Satélite pequeño bajando en espiral hacia un planeta",
-      "Moneda girando en un plato como comparación",
-      "Estallido de rayos gamma como destello en el fondo",
-      "Mapa con Indonesia señalada",
-      "Contador: 22 años de misión"
-    ],
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "No afirmar punto exacto de impacto ni hora; ni que haya habido restos o daños. Solo Indonesia como zona según Spaceflight Now. No he podido abrir los artículos completos.",
-    "analizado": "2026-11-05T18:45:22Z"
-  },
-  "6a18d35c16": {
-    "titular": "La Voyager 1 se calla dos días y vuelve sola desde 25.900 millones de km",
-    "resumen": "La NASA no detectó la señal de la Voyager 1 los días 18 y 19 de octubre de 2026. La señal volvió el 20 de octubre sin que los ingenieros enviaran ningún comando. La causa sigue en investigación, y el incidente siguió a un cambio de propulsores automático.",
-    "por_que": "Una máquina de 1977, hecha con tecnología de tu abuelo, sigue hablando con la Tierra desde fuera del Sistema Solar, y a veces se recupera sola.",
-    "datos_clave": [
-      "Sin señal el 18 y 19 de octubre; vuelve el 20 (NASA JPL, resumida por prensa)",
-      "Causa sin determinar (NASA)",
-      "Alcanzará una distancia de un día-luz el 18 de noviembre de 2026 (NASA)",
-      "Sonda de 49 años (Space.com)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASA JPL",
-        "u": "https://www.jpl.nasa.gov"
-      },
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space"
-      }
-    ],
-    "potencial": 6,
-    "tono": "asombro",
-    "fotograma1": "Una diminuta sonda en el vacío negro con una señal de radio que se apaga y reaparece",
-    "gancho": "La nave más lejana de la humanidad se apagó… y volvió sola.",
-    "guion": "La Voyager 1 es la nave más lejana que ha construido la humanidad. Se lanzó en 1977, antes de que nacieran muchos de tus padres. Este mes, durante dos días, la NASA dejó de oír su señal. Silencio total. Y entonces, el 20 de octubre, volvió sin que nadie tocara nada. Aún no saben por qué. Imagina que tu móvil se apaga a 25.000 millones de kilómetros y se reinicia solo. El 18 de noviembre alcanzará un día-luz de distancia: su señal tarda ya veinticuatro horas en llegar hasta aquí.",
-    "cierre": "¿Qué crees que le pasó a la Voyager esos dos días?",
-    "grafismos": [
-      "Línea de señal que se corta y reaparece",
-      "Mapa del Sistema Solar con la sonda saliendo",
-      "Reloj de 24 horas como luz viajando",
-      "Calendario 18-20 octubre",
-      "Móvil que se reinicia como comparación"
-    ],
-    "caducidad": "🔴 publicar antes del 18 de noviembre (hito del día-luz)",
-    "avisos": "Hay artículos que mezclan este episodio con el de 2024 (calentador, transmisor S-band): no usarlos. La distancia exacta en km conviene decirla como 'unos 25.900 millones'. No he podido abrir la nota original de la NASA.",
-    "analizado": "2026-11-05T18:45:22Z"
-  },
-  "16369985cb": {
-    "titular": "El Webb mira el hielo del cometa interestelar 3I/ATLAS: muy cargado de polvo",
-    "resumen": "Un estudio con el telescopio James Webb, liderado por Silvia Protopapa y publicado en The Astrophysical Journal Letters, analizó el hielo de agua de 3I/ATLAS en tres momentos entre agosto de 2025 y abril de 2026. Los granos de hielo son diminutos y están mezclados con material rocoso. Los autores sostienen que encajan en un continuo con los hielos de cometas de nuestro Sistema Solar.",
-    "por_que": "Un trozo de otro sistema estelar está hecho de algo muy parecido a lo que hay en nuestros cometas: el agua parece ser algo normal en el universo.",
-    "datos_clave": [
-      "Observaciones del 6 de agosto y 22 de diciembre de 2025 y 1 de abril de 2026 (estudio de Protopapa et al.)",
-      "Granos de hielo de pocas micras mezclados con material refractario (estudio)",
-      "Es el tercer objeto interestelar conocido, descubierto en julio de 2025 (Universe Today)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "arXiv (Protopapa et al.)",
-        "u": "https://arxiv.org/pdf/2609.19286"
-      },
-      {
-        "n": "Sci.News",
-        "u": "https://sci.news/astronomy/webb-dust-rich-water-ice-interstellar-comet-3i-atlas-15153.html"
-      },
-      {
-        "n": "Universe Today",
-        "u": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "El cometa 3I/ATLAS con su cola brillante cruzando el Sistema Solar",
-    "gancho": "Un visitante de otra estrella trae hielo… igual que el nuestro.",
-    "guion": "Hace poco más de un año descubrimos un cometa que no es de aquí: viene de otra estrella. Se llama 3I/ATLAS. El telescopio James Webb lo ha mirado tres veces y ha analizado su hielo de agua. Resultado: son granos minúsculos, como arena fina, mezclados con polvo, como un helado con mucho cacao. Y lo interesante es que se parece al hielo de los cometas de nuestro propio Sistema Solar. Es decir, el agua de otros sistemas estelares podría ser muy parecida a la nuestra.",
-    "cierre": "Si el agua es tan común, ¿crees que hay vida en otros sistemas?",
-    "grafismos": [
-      "Cometa cruzando de izquierda a derecha con trayectoria abierta",
-      "Zoom a granos de hielo mezclados con polvo",
-      "Tres fechas de observación en línea de tiempo",
-      "Helado con cacao como comparación"
-    ],
-    "caducidad": "🟢 no caduca",
-    "avisos": "No decir 'idéntico': los autores hablan de un continuo, con 3I en el extremo rico en polvo. No sugerir origen artificial. Datos del paper no revisados en la nota de Universe Today.",
-    "analizado": "2026-11-05T18:45:22Z"
-  },
-  "32f654e7a5": {
-    "titular": "La NASA presenta el X-70 Fractal, un avión experimental con piloto",
-    "resumen": "El 4 de noviembre de 2026, el administrador de la NASA, Jared Isaacman, presentó el X-70 Fractal en la cumbre UP.Summit del Centro Espacial Kennedy. Es un avión experimental con piloto para probar sistemas de control de vuelo que se pueden reconfigurar con rapidez. La NASA espera su primer vuelo en unos dos años.",
-    "por_que": "Es el primer avión X nuevo en años y se presenta como el comienzo de otra etapa de la aeronáutica: así se prueban hoy los aviones que volarán mañana.",
-    "datos_clave": [
-      "Presentado el 4 de noviembre de 2026 en el UP.Summit, Centro Espacial Kennedy (NASA)",
-      "Unos 4.500 kg de peso al despegue (10.000 libras), crucero a Mach 0,75 y hasta 13.700 m (45.000 pies) (NASA, según Aviation Week y The War Zone)",
-      "Puede llevar hasta unos 900 kg (2.000 libras) de equipos experimentales (NASA)",
-      "Primer vuelo previsto en unos dos años (NASA)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "NASA",
-        "u": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
-      },
-      {
-        "n": "Aviation Week",
-        "u": "https://aviationweek.com/aerospace/emerging-technologies/nasa-announces-x-70-program-promises-more-coming"
-      },
-      {
-        "n": "The War Zone",
-        "u": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft"
-      }
-    ],
-    "potencial": 6,
-    "tono": "noticia",
-    "fotograma1": "Silueta del X-70 saliendo de la sombra con el rótulo X-70 y un contador 'primer vuelo: ~2 años'",
-    "gancho": "La NASA acaba de estrenar avión… y todavía no ha volado.",
-    "guion": "La NASA acaba de presentar un avión nuevo: el X-70 Fractal. No es una nave espacial, es un avión de pruebas con piloto dentro. Pesa unos cuatro mil quinientos kilos, más o menos como un coche grande con alas, y vuela casi a la velocidad del sonido. Su truco es que se pueden cambiar sus sistemas de control con rapidez, para probar ideas nuevas sin construir un avión entero cada vez. Aún no ha despegado: el primer vuelo llegará dentro de unos dos años.",
-    "cierre": "¿Qué te gustaría que probase la NASA en un avión así?",
-    "grafismos": "Silueta del avión que se dibuja con líneas; cifra 4.500 kg junto a un coche; velocímetro hasta Mach 0,75; piezas del avión que se cambian como bloques; calendario que avanza dos años",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "El nombre 'Fractal' y las cifras vienen de la presentación; no digas que ya ha volado ni inventes su misión concreta. Se habló de otro X-plane más, sin confirmar.",
-    "analizado": "2026-11-06T07:45:16Z"
-  },
-  "832c0862d7": {
-    "titular": "Blue Origin añade una tercera etapa y un motor nuevo al New Glenn",
-    "resumen": "El 5 de noviembre de 2026, el consejero delegado de Blue Origin, Dave Limp, presentó la tercera etapa GS3 y un nuevo motor de primera etapa, el Northstar. La GS3 está pensada para dejar cargas directamente en órbita geoestacionaria o rumbo fuera de la Tierra. Una misión con GS3 ya está prevista hacia el entorno lunar en 2028.",
-    "por_que": "Es la apuesta de Blue Origin para competir en lanzamientos exigentes y para sus planes lunares, justo cuando se recupera de la explosión de mayo.",
-    "datos_clave": [
-      "GS3 usa el motor BE-7, de hidrógeno y oxígeno líquidos (Space.com, NASASpaceflight)",
-      "Northstar: motor de oxígeno y metano líquidos con unas 715.000 libras de empuje, unos 3.180 kilonewtons (cobertura de la presentación)",
-      "Primera misión con GS3 en el espacio cislunar en 2028",
-      "New Glenn se recupera de la explosión del 28 de mayo; cuarto vuelo previsto a finales de año"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASASpaceflight",
-        "u": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
-      },
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "Cohete New Glenn que crece con un tercer tramo que se encaja en la punta",
-    "gancho": "Blue Origin le pone un piso más a su cohete gigante.",
-    "guion": "Blue Origin quiere que su cohete New Glenn llegue más lejos. Su jefe, Dave Limp, ha presentado una tercera etapa, la GS3. Es como añadir un último tramo que da el empujón final para dejar satélites muy lejos de la Tierra, directamente en su órbita definitiva. También ha enseñado un motor nuevo para la base, el Northstar. Y ya hay una misión prevista en 2028 cerca de la Luna. Eso sí, todavía son anuncios: falta construirlo y volarlo.",
-    "cierre": "¿Crees que Blue Origin puede alcanzar a SpaceX?",
-    "grafismos": "Cohete en tres bloques que se apilan; flecha que sube hasta órbita geoestacionaria; motor Northstar girando con cifra de empuje; calendario hasta 2028 con la Luna",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "Son anuncios, no hardware probado. No cites el ahorro de masa o piezas del Northstar: solo sale en una red social. No digas fecha del próximo vuelo más allá de 'finales de año'.",
-    "analizado": "2026-11-06T07:45:16Z"
-  },
-  "eeba4f9fc9": {
-    "titular": "Un meteorito del Sáhara es un trozo de Marte de 4.100 millones de años",
-    "resumen": "Una roca rosada hallada en el Sáhara en 2022 ha resultado ser un meteorito marciano, Teghaza 001, de unos 4.100 millones de años. Un equipo financiado por la NASA, con Yang Liu como autora principal, lo ha datado con cristales de circón y publicado en la revista Science a finales de octubre de 2026. Sus isótopos indican que ya había agua en la superficie de Marte hace más de 4.100 millones de años y que se filtraba hacia la corteza profunda.",
-    "por_que": "Es como encontrar una foto de Marte de cuando se estaba formando, y sugiere que el planeta rojo tuvo un ciclo del agua más activo de lo que se pensaba.",
-    "datos_clave": [
-      "Edad: más de 4.100 millones de años, datada con circón (CBS News, Smithsonian)",
-      "Hallado en el Sáhara en 2022; se llama Teghaza 001 (CBS News)",
-      "Publicado en Science a finales de octubre de 2026 (CBS News)",
-      "Los isótopos de hidrógeno y oxígeno apuntan a agua en superficie y filtrándose a la corteza (cobertura de la prensa)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "CBS News",
-        "u": "https://www.cbsnews.com/news/mars-meteorite-found-sahara-desert/"
-      },
-      {
-        "n": "Smithsonian Magazine",
-        "u": "https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/"
-      },
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars"
-      }
-    ],
-    "potencial": 7,
-    "tono": "asombro",
-    "fotograma1": "Una piedra rosada en la arena del desierto que se abre y deja ver un Marte primitivo con océanos",
-    "gancho": "Esta piedra del desierto no es de la Tierra: tiene 4.100 millones de años.",
-    "guion": "Alguien encontró una piedra rosada en el Sáhara en 2022. Parecía una roca más. Pero no lo era. Es un trozo de Marte, lanzado al espacio por un impacto y caído aquí hace quién sabe cuánto. Los científicos la han datado: tiene más de cuatro mil cien millones de años. Es como encontrar una foto de Marte recién nacido. Y dentro guarda una pista enorme: el agua ya estaba allí, en la superficie, y se colaba hacia el interior del planeta. No prueba que hubiera vida, pero sí que Marte tuvo un ciclo del agua más movido de lo que creíamos.",
-    "cierre": "Si pudieras analizar una roca de otro planeta, ¿qué preguntarías primero: agua o vida?",
-    "grafismos": "Piedra rosada en desierto animado que se rompe en cráteres · Línea de tiempo desde hace 4.100 millones de años hasta hoy · Gotas de agua filtrándose por capas de corteza marciana · Trayectoria de la roca de Marte a la Tierra",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "No decir que prueba vida en Marte. 'La más antigua' depende del estudio: otras fuentes citan estudios con agua hace 4.400 millones de años. El dato del Sáhara y la edad sí están confirmados.",
-    "analizado": "2026-11-06T18:00:00Z"
-  },
-  "c0daed182c": {
-    "titular": "La Estación Espacial estrena su octavo y último panel solar enrollable",
-    "resumen": "Los astronautas Anil Menon y Joshua Kutryk salieron al exterior de la Estación Espacial Internacional el 5 de noviembre de 2026 para instalar el octavo y último panel solar enrollable (iROSA). Con él se cierra una mejora de la energía de la estación que empezó en 2021. La NASA calcula que los ocho paneles subirán la potencia disponible de 160 a unos 215 kilovatios.",
-    "por_que": "La estación tiene más de 25 años y esta mejora de energía es lo que le permite seguir funcionando hasta su retirada prevista.",
-    "datos_clave": [
-      "8 paneles iROSA en total; el último, instalado el 5 de noviembre de 2026 (Spaceflight Now, Space.com)",
-      "Potencia disponible: de 160 a unos 215 kW (NASA vía Spaceflight Now)",
-      "El séptimo panel se instaló el 29 octubre, en la 100.ª caminata espacial de EE. UU. (Space.com)",
-      "La campaña empezó en 2021 (Spaceflight Now)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Spaceflight Now",
-        "u": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
-      },
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/astronauts-spacewalk-international-space-station-sixth-solar-array-deployed"
-      },
-      {
-        "n": "NASA",
-        "u": "https://nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation"
-      }
-    ],
-    "potencial": 5,
-    "tono": "noticia",
-    "fotograma1": "Un panel solar enorme desenrollándose como una alfombra frente a la Tierra",
-    "gancho": "Han desenrollado una alfombra de energía en el espacio, y es la última.",
-    "guion": "La Estación Espacial Internacional acaba de recibir su último regalo de energía. El 5 de noviembre, dos astronautas salieron al exterior e instalaron el octavo panel solar enrollable. Son paneles que viajan guardados como una esterilla de yoga y se desenrollan en el espacio. Llevan desde 2021 colocándolos, y la NASA calcula que la potencia disponible sube de 160 a unos 215 kilovatios. ¿Por qué importa? Porque la estación ya es veterana y necesita energía fresca para aguantar hasta su retirada.",
-    "cierre": "¿Crees que la Estación llegará a su retirada tal y como está prevista?",
-    "grafismos": "Esterilla de yoga que se desenrolla hasta ser un panel · Barra de potencia que sube de 160 a 215 kW · Astronauta diminuto junto a la estructura · Contador de 8 paneles iluminándose uno a uno",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "Las cifras de potencia son la previsión de la NASA, no una medición posterior. No decir que la estación 'queda como nueva'.",
-    "analizado": "2026-11-06T18:00:00Z"
-  },
-  "3f1a1f67d7": {
-    "titular": "Starship intentará atrapar cohete y nave a la vez en su vuelo 15",
-    "resumen": "SpaceX prepara el vuelo 15 de Starship con el propulsor Booster 22 y la nave Ship 42, que ya hicieron sus pruebas de encendido en octubre. Según NASASpaceflight, el lanzamiento apunta como pronto al 13 de noviembre, pero falta la luz verde de la FAA. El plan que se maneja es atrapar con la torre tanto el propulsor como la nave.",
-    "por_que": "Si sale bien, es un paso clave para reutilizar el cohete entero, lo que abarata llegar a la Luna o a Marte.",
-    "datos_clave": [
-      "Booster 22 y Ship 42 en las últimas comprobaciones (NASASpaceflight)",
-      "Lanzamiento no antes del 13 de noviembre (NASASpaceflight)",
-      "Falta licencia modificada de la FAA (cobertura de la prensa especializada)",
-      "Musk dio un 50-60 % de opciones a atrapar la nave en septiembre (estimación suya)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASASpaceflight",
-        "u": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
-      },
-      {
-        "n": "Northeast Times",
-        "u": "https://northeasttimes.com/2026/10/21/spacex-plans-to-catch-both-starship-stages-on-its-next-flight/"
-      }
-    ],
-    "potencial": 7,
-    "tono": "asombro",
-    "fotograma1": "La torre de Starbase con dos enormes brazos abiertos esperando un cohete que cae",
-    "gancho": "SpaceX quiere cazar al vuelo dos cohetes gigantes con unos palillos de acero.",
-    "guion": "SpaceX va a intentar algo que parece de ciencia ficción: atrapar con una torre el cohete y la nave de Starship, los dos, en el mismo vuelo. El plan es que vuelvan a casa y los brazos de la torre los agarren al vuelo, como un portero que para un balón. Los dos vehículos ya pasaron sus pruebas de encendido y el despegue apunta a mediados de noviembre, aunque falta el permiso de la FAA. Si sale bien, podrán reutilizarse enteros. Y eso cambia el precio de viajar al espacio.",
-    "cierre": "¿Se la jugarías a que lo logran a la primera, sí o no?",
-    "grafismos": "Torre con brazos que atrapan un cohete como un portero · Dos siluetas, cohete y nave, bajando a la vez · Calendario con el 13 de noviembre marcado y un sello FAA pendiente · Marcador de reutilización: de desechable a reutilizable",
-    "caducidad": "🔴 publicar antes del lanzamiento del vuelo 15 (no antes del 13 nov)",
-    "avisos": "Fecha y plan de doble captura NO confirmados oficialmente por SpaceX; depende de la licencia FAA. Decir 'apunta a', 'según' y no prometer fecha. Las probabilidades son una opinión de Musk.",
-    "analizado": "2026-11-06T18:00:00Z"
-  },
-  "fd82a7aa8a": {
-    "titular": "La ISS termina su gran mejora eléctrica: ya tiene los 8 paneles nuevos",
-    "resumen": "El 5 de noviembre, los astronautas Anil Menon (NASA) y Joshua Kutryk (CSA) instalaron y desplegaron en un paseo espacial el último de los ocho paneles solares enrollables nuevos de la Estación Espacial Internacional. Con él se cierra una mejora de unos cinco años para que la estación genere más electricidad hasta su retirada. Durante el paseo hubo un contratiempo de energía que lograron resolver.",
-    "por_que": "Es como cambiarle la batería y el cargador a una casa que lleva 25 años en órbita: sin esta energía extra, la ISS no aguantaría hasta su jubilación.",
-    "datos_clave": [
-      "Último de 8 paneles IROSA instalado el 5 de noviembre de 2026 (Space.com, Spaceflight Now)",
-      "Aumento de potencia de hasta un 30 % (Space.com)",
-      "Mejora de unos cinco años; la ISS seguirá operativa hasta su retirada prevista en 2030 (Spaceflight Now)",
-      "El anterior, el séptimo, se instaló el 29 de octubre en la 100.ª caminata espacial estadounidense (Space.com)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays"
-      },
-      {
-        "n": "Spaceflight Now",
-        "u": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
-      },
-      {
-        "n": "Aviation Week",
-        "u": "https://aviationweek.com/defense-space/space/nasa-spacewalkers-complete-iss-solar-power-system-upgrade"
-      }
-    ],
-    "potencial": 6,
-    "tono": "noticia",
-    "fotograma1": "Un astronauta diminuto desenrollando un panel solar gigante como una alfombra sobre la Tierra",
-    "gancho": "Han desenrollado una alfombra de energía a 400 kilómetros de altura.",
-    "guion": "La Estación Espacial Internacional acaba de terminar una mejora de cinco años. Dos astronautas, Anil Menon y Joshua Kutryk, salieron al vacío para instalar el último de ocho paneles solares nuevos. Se llevan enrollados, como una esterilla de yoga, y se despliegan fuera. Con ellos, la estación tiene hasta un treinta por ciento más de electricidad. Es como poner placas nuevas a una casa con veinticinco años. Así la ISS aguantará hasta su retirada, prevista para 2030.",
-    "cierre": "¿Crees que la ISS debería retirarse en 2030 o seguir más tiempo?",
-    "grafismos": "Panel enrollado que se despliega como una esterilla; contador de 8 paneles que se iluminan uno a uno; barra de energía que sube hasta +30 %; casa antigua con placas solares nuevas; calendario hasta 2030",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "El '30 %' es 'hasta un 30 %'. No des detalles del contratiempo de energía: no están verificados. No digas altura exacta distinta de 'unos 400 km'.",
-    "analizado": "2026-11-07T06:30:00Z"
-  },
-  "71794184b4": {
-    "titular": "La Tierra tiene una mini-luna nueva: mide como un balón y se irá en Navidad",
-    "resumen": "Un pequeño objeto llamado 2026 QQ8 está atrapado temporalmente por la gravedad de la Tierra. Lo descubrió el astrónomo Krisztián Sárneczky el 20 de agosto de 2026 y el Centro de Planetas Menores lo comunicó el 29 de octubre. Según EarthSky, entró en órbita en abril y se quedará hasta final de año. Aún se debate si es un asteroide o basura espacial.",
-    "por_que": "Tu planeta tiene ahora un segundo satélite natural... aunque minúsculo y de visita corta. Es de esas cosas que ocurren sin que nadie se entere.",
-    "datos_clave": [
-      "Descubierto el 20 de agosto de 2026 por Krisztián Sárneczky (EarthSky, Gizmodo)",
-      "Comunicado por el Minor Planet Center el 29 de octubre de 2026 (EarthSky)",
-      "Tamaño estimado: en torno a 1 metro (Gizmodo)",
-      "Se quedará hasta final de año (EarthSky, Space.com)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
-      },
-      {
-        "n": "EarthSky",
-        "u": "https://earthsky.org/?p=563825"
-      },
-      {
-        "n": "Gizmodo",
-        "u": "https://gizmodo.com/welcome-earths-new-mini-moon-its-adorably-small-and-has-a-loopy-orbit-2000834862"
-      }
-    ],
-    "potencial": 6,
-    "tono": "asombro",
-    "fotograma1": "La Tierra con la Luna grande y una mini-luna diminuta dando vueltas locas alrededor",
-    "gancho": "Ahora mismo, la Tierra tiene dos lunas. La segunda mide como un balón.",
-    "guion": "Ahora mismo la Tierra tiene dos lunas. La nueva se llama 2026 QQ8 y es diminuta: más o menos del tamaño de un balón, un metro aproximadamente. La descubrió en agosto el astrónomo Krisztián Sárneczky. La gravedad de la Tierra la ha atrapado, pero solo de forma temporal: se irá a final de año. Aún no está claro si es un asteroide pequeño o basura espacial. Piensa en un invitado que se queda hasta Navidad y no vuelve.",
-    "cierre": "¿Le pondrías nombre a la mini-luna? Te leo en comentarios.",
-    "grafismos": "Tierra y Luna con una bolita orbitando en bucles raros; comparación de tamaño: balón junto a la Luna; calendario de abril a diciembre; interrogante asteroide vs basura espacial",
-    "caducidad": "🔴 publicar antes de que termine el año (se va a final de 2026)",
-    "avisos": "Tamaño (~1 m) y fecha de salida son estimaciones de medios, no confirmación oficial; el Minor Planet Center no tiene claro si es asteroide o basura espacial. No digas 'segunda luna' sin 'temporal'.",
-    "analizado": "2026-11-07T06:30:00Z"
-  },
-  "8d52434ca2": {
-    "titular": "Primer extranjero en la estación espacial china: un astronauta de Pakistán",
-    "resumen": "La televisión estatal china ha informado de que un astronauta paquistaní viajará en la nave Shenzhou 24 y será el primer ciudadano extranjero en subir a la estación espacial Tiangong. Es fruto de un acuerdo de 2025 entre la agencia china CMSA y la paquistaní SUPARCO para seleccionar y entrenar astronautas. Se le describe como especialista de carga útil, con experimentos propios de Pakistán. No está confirmada la duración de la estancia.",
-    "por_que": "Hasta ahora, para ir al espacio con otro país tenías que pasar por la ISS. China abre su estación a invitados y el mapa de quién llega al espacio empieza a cambiar.",
-    "datos_clave": [
-      "Será el primer extranjero en la estación Tiangong (Phys.org, medios estatales chinos)",
-      "Acuerdo CMSA–SUPARCO firmado en 2025 (China in Space)",
-      "Viaja en la nave Shenzhou 24 (Phys.org)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Phys.org (AFP)",
-        "u": "https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html"
-      },
-      {
-        "n": "China in Space",
-        "u": "https://www.china-in-space.com/p/pakistani-astronaut-to-be-tiangongs"
-      }
-    ],
-    "potencial": 6,
-    "tono": "noticia",
-    "fotograma1": "La estación Tiangong con una bandera de Pakistán que se ilumina en un módulo",
-    "gancho": "Hasta hoy, la estación espacial china no había dejado entrar a nadie de fuera.",
-    "guion": "Hasta ahora, solo los chinos habían vivido en su estación espacial. Eso se acaba. China ha anunciado que un astronauta de Pakistán viajará en la nave Shenzhou 24 y será el primer extranjero en pisar la estación Tiangong. Va a hacer experimentos de su país. Es como si hasta ahora tu vecino no te hubiera dejado pasar del recibidor y, de repente, te invitase a cenar. El espacio tenía un club principal, la ISS. Ahora hay un segundo club, y con sus propias normas.",
-    "cierre": "¿Crees que China acabará siendo la anfitriona de más países que la ISS? Te leo.",
-    "grafismos": "Mapa con Pakistán y China unidos por una línea hasta la órbita; Tiangong en 3D con puerta que se abre; etiqueta 'PRIMER EXTRANJERO'; comparación de dos clubes: ISS y Tiangong",
-    "caducidad": "🟡 publicar en 1-2 semanas (mejor antes del lanzamiento)",
-    "avisos": "Fecha de lanzamiento y duración de la estancia NO confirmadas (las fuentes difieren). No des nombre del astronauta ni fecha sin confirmar. Se basa en medios estatales chinos.",
-    "analizado": "2026-11-07T18:55:00Z"
-  },
-  "e574df8b12": {
-    "titular": "La NASA te manda a Titán: apunta tu nombre en el dron Dragonfly",
-    "resumen": "La NASA permite al público mandar su nombre a Titán, la mayor luna de Saturno, en un chip a bordo de la misión Dragonfly. La campaña se anunció el 29 de octubre de 2026 y el plazo termina el 15 de enero de 2027. Dragonfly es un dron que volará por Titán; Space.com sitúa la exploración en 2034 si todo sale según lo previsto. Se está montando en el laboratorio APL de Johns Hopkins.",
-    "por_que": "Es gratis, tarda un minuto y es la única forma de que algo tuyo llegue a más de mil millones de kilómetros de casa.",
-    "datos_clave": [
-      "Plazo hasta el 15 de enero de 2027 (NASA, vía medios)",
-      "Campaña anunciada el 29 de octubre de 2026 (APL Johns Hopkins)",
-      "Misión a Titán prevista para 2034 si todo va según lo planeado (Space.com)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission"
-      },
-      {
-        "n": "Johns Hopkins APL",
-        "u": "https://www.jhuapl.edu/news/news-releases/261029-send-name-to-titan"
-      },
-      {
-        "n": "NASA",
-        "u": "https://nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission"
-      }
-    ],
-    "potencial": 7,
-    "tono": "asombro",
-    "fotograma1": "Un dron gigante sobrevolando las dunas naranjas de Titán con un nombre brillando en su chip",
-    "gancho": "Tu nombre puede viajar a una luna de Saturno. Gratis, y en un minuto.",
-    "guion": "Tu nombre puede acabar en otro mundo. La NASA te deja apuntarlo en un chip que viajará a Titán, una luna de Saturno, a bordo de Dragonfly. Es un dron que va a volar sobre un paisaje de dunas con lagos de gas. Es gratis y tienes hasta el 15 de enero. Si todo va según lo previsto, llegará en 2034. Piensa que es mandar una postal, pero a más de mil millones de kilómetros. Tú no vas a ir, pero tu nombre sí podría. Me lo apunto ahora mismo.",
-    "cierre": "¿Vas a mandar tu nombre? ¿Y el de quién más?",
-    "grafismos": "Pantalla de formulario con un nombre que se convierte en un chip; chip viajando de la Tierra a Saturno; dron con rotores sobre dunas; cuenta atrás hasta el 15 de enero",
-    "caducidad": "🔴 publicar antes del 15 de enero de 2027",
-    "avisos": "El año de lanzamiento (2028) y la llegada (2034) dependen de que no haya retrasos. No digas que 'tú' viajas: solo viaja el nombre en un chip. Datos del plazo leídos en medios que citan a la NASA.",
-    "analizado": "2026-11-07T18:55:00Z"
-  },
-  "3da2b26919": {
-    "titular": "La sonda Hera ya ve el sistema de asteroides al que la NASA disparó una nave",
-    "resumen": "La sonda europea Hera, de la ESA, ha obtenido las primeras imágenes del sistema binario de asteroides Didymos, el primero que la humanidad ha 'golpeado' al estrellar la misión DART de la NASA contra Dimorphos. La ESA publicó un primer atisbo a unos 236.500 km, cuando aún era menos de un píxel. Después, Hera resolvió la pareja desde unos 1.280 km. Las imágenes detalladas de Dimorphos se esperan para el 25 de noviembre.",
-    "por_que": "Es el seguimiento del primer experimento real de defensa planetaria: saber si podríamos desviar un asteroide si uno viniera hacia aquí.",
-    "datos_clave": [
-      "Primer atisbo a unos 236.500 km, menos de un píxel (ESA)",
-      "Pareja separada desde unos 1.280 km el 18 de octubre (ESA)",
-      "Primeras imágenes detalladas de Dimorphos previstas el 25 de noviembre (ESA, según informes)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "Space.com",
-        "u": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026"
-      },
-      {
-        "n": "ESA",
-        "u": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Destination_in_sight_Hera_s_first_glimpse_of_Didymos"
-      }
-    ],
-    "potencial": 6,
-    "tono": "explicación",
-    "fotograma1": "Un punto de luz que crece hasta mostrar dos asteroides, uno grande y otro pequeño",
-    "gancho": "Hace unos años chocamos contra un asteroide. Ahora vamos a ver cómo quedó.",
-    "guion": "En 2022 la NASA estrelló una nave contra un asteroide a propósito. Y ahora llega la inspección. La sonda europea Hera ya ve la pareja de asteroides desde lejos. Al principio era menos de un píxel, un puntito. Ahora ya se distinguen los dos. Es como el perito del seguro que llega a mirar el golpe, pero a millones de kilómetros. Las fotos detalladas de Dimorphos, el asteroide golpeado, están previstas para el 25 de noviembre.",
-    "cierre": "¿Crees que algún día desviaremos un asteroide de verdad? Dime en comentarios.",
-    "grafismos": "Punto que se amplía hasta dos rocas; animación del impacto de DART; coche de peritos con Hera; calendario con marca 25 de noviembre",
-    "caducidad": "🟡 publicar antes del 25 de noviembre",
-    "avisos": "El 25 de noviembre es la fecha prevista, no confirmada por nota oficial leída. No cites tamaños exactos de los asteroides sin consultar la ESA. No digas que 'ya hay fotos del cráter'.",
-    "analizado": "2026-11-07T18:55:00Z"
-  },
-  "d54f490be9": {
-    "titular": "Un robot construye una estructura en órbita sin ayuda humana por primera vez",
-    "resumen": "Un robot diseñado por Caltech, dentro del programa NOM4D de la agencia DARPA, ha ensamblado en órbita una estructura de vigas sin intervención de astronautas. El brazo robótico pone las piezas y las une mientras despliega una malla reflectante que simula una antena. La carga viajó en la misión Transporter-16 de SpaceX, a finales de marzo. Es una prueba a pequeña escala de una idea mucho mayor.",
-    "por_que": "Hoy todo lo que se pone en órbita tiene que caber en un cohete. Si los robots pueden montar piezas en el espacio, podremos hacer cosas mucho más grandes.",
-    "datos_clave": [
-      "Estructura autónoma montada en órbita por una carga de Caltech (DARPA, Phys.org)",
-      "Lanzada en Transporter-16 de SpaceX a finales de marzo (DARPA)",
-      "El objetivo de NOM4D es construir estructuras enormes, de cientos de metros (DARPA)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "DARPA",
-        "u": "https://www.darpa.mil/news/2026/nom4d-program-demonstrates-automated-in-space-assembly"
-      },
-      {
-        "n": "Phys.org",
-        "u": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html"
-      }
-    ],
-    "potencial": 5,
-    "tono": "explicación",
-    "fotograma1": "Un brazo robótico flotando sobre la Tierra que enlaza vigas hasta formar un aro",
-    "gancho": "Un robot acaba de montar una estructura en el espacio. Solo.",
-    "guion": "Todo lo que mandamos al espacio tiene que caber dentro de un cohete. Es como mudarte con una maleta. Pues eso está cambiando. Un robot de Caltech acaba de construir una estructura en órbita sin que ningún astronauta le echara una mano. Va cogiendo vigas, las une y despliega una malla que haría de antena. Ahora es pequeño, pero la idea es montar piezas enormes, de cientos de metros. Sería como pasar de la maleta a hacer muebles de IKEA en órbita.",
-    "cierre": "¿Qué construirías tú en el espacio si pudieras? Te leo.",
-    "grafismos": "Cohete con maleta que no cabe; brazo robótico animado uniendo vigas; aro que crece; comparación de tamaño con un estadio",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "No he podido leer el comunicado completo de DARPA; no des medidas exactas ni fechas del montaje. No digas 'la primera construcción en el espacio' a secas: es la primera demo autónoma de este tipo según el medio.",
-    "analizado": "2026-11-07T18:55:00Z"
-  },
-  "aff8c97b0b": {
-    "titular": "La NASA abre la convocatoria de astronautas: tienes hasta el 3 de diciembre",
-    "resumen": "La NASA ha abierto la solicitud para su próxima promoción de astronautas, la primera convocatoria en dos años. Los candidatos, que deben ser ciudadanos de EE. UU., pueden presentar su solicitud hasta el 3 de diciembre a través de USAJobs.gov. La agencia prevé anunciar la selección a finales de 2027. Los elegidos se incorporarán mientras la NASA vuelve a la Luna y construye su base lunar.",
-    "por_que": "Es la oportunidad de ver, en directo y sin trucos, qué hay que tener para ser astronauta; y de paso, la NASA prepara a esta gente para vivir en la Luna.",
-    "datos_clave": [
-      "Plazo hasta el 3 de diciembre, 23:59 hora del este de EE. UU. (NASA)",
-      "Requisitos: ciudadanía estadounidense y máster en una disciplina STEM (NASA)",
-      "Selección prevista a finales de 2027 (NASA)",
-      "En la anterior ronda hubo más de 8.000 solicitudes para 10 plazas (medios; NASA)"
-    ],
-    "verificacion": "confirmado",
-    "fuentes": [
-      {
-        "n": "NASA",
-        "u": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
-      },
-      {
-        "n": "NASASpaceflight",
-        "u": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
-      },
-      {
-        "n": "NASA Watch",
-        "u": "https://nasawatch.com/2026/11/07/nasa-astronaut-applications-next-class/"
-      }
-    ],
-    "potencial": 6,
-    "tono": "explicación",
-    "fotograma1": "Un casco de astronauta con el reflejo de la Luna y un botón gigante 'Apply' que se pulsa",
-    "gancho": "La NASA busca astronautas… y la oferta de empleo es pública.",
-    "guion": "La NASA acaba de abrir las solicitudes para su próxima promoción de astronautas. Es la primera convocatoria en dos años. Tienes hasta el 3 de diciembre para presentarte, eso sí, solo si eres estadounidense y tienes un máster en ciencias o ingeniería. La última vez se presentaron más de ocho mil personas para solo diez plazas. Es como entrar en una final de la Champions con diez puestos. Los elegidos se anunciarán a finales de 2027 y trabajarán en el regreso a la Luna.",
-    "cierre": "Si pudieras presentarte, ¿te atreverías a mandar la solicitud?",
-    "grafismos": "Anuncio de oferta de empleo con botón 'Apply'; calendario con el 3 de diciembre marcado; 8.000 siluetas reducidas a 10; casco que se cierra; Luna con una base",
-    "caducidad": "🔴 publicar antes del 3 de diciembre de 2026",
-    "avisos": "No decir que se puede presentar cualquiera: exige ciudadanía estadounidense. La cifra de 8.000 solicitudes es de la ronda anterior (2025), según medios.",
-    "analizado": "2026-11-08T08:00:00Z"
-  },
-  "8a4cc8d295": {
-    "titular": "La NASA enviará a la Luna un rover nuclear para sobrevivir a la noche lunar",
-    "resumen": "La NASA ha anunciado nuevos contratos para su base lunar, entre ellos el rover PROMISE, un vehículo de seis ruedas con energía nuclear. Aterrizará cerca del polo sur de la Luna para estudiar la superficie y el subsuelo y buscar recursos. Según la cobertura de la nota de la NASA, se apunta a finales de 2028 con una misión de unos 18 meses y Blue Origin como contratista.",
-    "por_que": "Una noche en la Luna dura unos 14 días terrestres a -170 °C o menos: sin energía nuclear, un rover solar muere. Esto es lo que hará posible vivir allí.",
-    "datos_clave": [
-      "Rover PROMISE de seis ruedas, alimentado por generador nuclear (RTG), para el polo sur lunar (NASA)",
-      "Objetivo de lanzamiento: finales de 2028, misión de unos 18 meses (NASA, según cobertura)",
-      "Contrato base con Blue Origin de unos 94 millones de dólares (por confirmar en la nota oficial)",
-      "La noche lunar dura unos 14 días terrestres (NASA)"
-    ],
-    "verificacion": "anunciado",
-    "fuentes": [
-      {
-        "n": "NASA",
-        "u": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
-      },
-      {
-        "n": "NASA JPL",
-        "u": "https://www.jpl.nasa.gov/news/nasa-awards-moon-base-transportation-technology-science-projects/"
-      }
-    ],
-    "potencial": 7,
-    "tono": "asombro",
-    "fotograma1": "Un rover brillando en la oscuridad total de la Luna, con un núcleo naranja encendido",
-    "gancho": "En la Luna la noche dura dos semanas. Este rover no se apaga.",
-    "guion": "La NASA va a mandar a la Luna un rover con energía nuclear. Se llama PROMISE y tiene seis ruedas. ¿Por qué nuclear? Porque en la Luna la noche dura unas dos semanas terrestres y hace un frío brutal. Un rover solar se apagaría. Este llevará un generador que produce electricidad con calor, como una pila gigante que no se acaba. Irá al polo sur lunar a buscar agua helada y a elegir dónde se construirá la base. Despegue previsto: finales de 2028.",
-    "cierre": "¿Te irías a vivir a una base lunar con noches de dos semanas?",
-    "grafismos": "Sol poniéndose sobre la Luna con contador de 14 días; rover con ruedas girando; pila nuclear brillando; termómetro bajando; hielo bajo el polo sur",
-    "caducidad": "🟡 publicar en 1-2 semanas",
-    "avisos": "Cifras de contrato (94 M$) y fechas proceden de cobertura secundaria; no darlas como exactas hasta contrastar con la nota de la NASA. No confundir con los 10.000 M$ de techo de CLPS 2, que no es dinero adjudicado.",
-    "analizado": "2026-11-08T08:00:00Z"
-  }
+ "ed27b2587d": {
+  "titular": "China ya tiene calendario para pisar la Luna: antes de 2030",
+  "resumen": "China ha detallado los pasos hasta su primer alunizaje tripulado, que sigue apuntando a antes de 2030. Primero probará en 2027 su nueva nave Mengzhou sin tripulación en órbita terrestre; en 2028, el cohete Long March 10 y el módulo lunar Lanyue; y en 2029, un ensayo completo sin astronautas en órbita lunar. Bajarán dos taikonautas a la superficie.",
+  "por_que": "Después de 50 años, dos países compiten a la vez por volver a la Luna: Estados Unidos apunta a 2028 con Artemis IV y China a antes de 2030.",
+  "datos_clave": [
+   "Alunizaje tripulado 'antes de 2030' (Global Times, medio oficial chino)",
+   "2 lanzamientos de Long March 10: uno con la nave Mengzhou y otro con el módulo Lanyue, que se juntan en órbita lunar",
+   "Tripulación de 3 taikonautas; 2 bajan a la superficie",
+   "Ensayos previos sin tripulación en 2027, 2028 y 2029 (según la cobertura del simposio del 31 oct)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Global Times",
+    "u": "https://www.globaltimes.cn/page/202610/1373353.shtml"
+   },
+   {
+    "n": "Northeast Times",
+    "u": "https://northeasttimes.com/2026/11/02/china-lays-out-four-missions-leading-to-a-crewed-moon-landing/"
+   },
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/"
+   }
+  ],
+  "potencial": 8,
+  "tono": "noticia",
+  "fotograma1": "La Luna gigante con dos banderas acercándose desde lados opuestos (EE. UU. y China) y un contador '2028 vs 2030'",
+  "gancho": "La carrera a la Luna ha vuelto… y esta vez hay dos corredores.",
+  "guion": "China acaba de enseñar su plan para pisar la Luna antes de 2030. Va por pasos: en 2027 prueba su nave nueva, Mengzhou, sin nadie dentro. En 2028, el cohete gigante y el módulo lunar. En 2029, un ensayo completo en órbita de la Luna, todavía sin astronautas. Y después, dos personas bajarán a la superficie. Mientras tanto, Estados Unidos apunta a 2028 con Artemis IV. Más de 50 años después, vuelve la carrera.",
+  "cierre": "¿Quién crees que llega primero: Estados Unidos o China?",
+  "grafismos": "Luna con dos naves llegando desde lados opuestos; línea temporal 2027 → 2028 → 2029 → ¿2030? con iconos de cada prueba; los dos cohetes despegando y juntándose en órbita lunar; dos astronautas bajando la escalera; marcador final EE. UU. 2028 vs China <2030",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No digas una fecha exacta del alunizaje chino: el anuncio oficial dice 'antes de 2030'. Las fechas de los ensayos (2027-2029) salen de la cobertura del simposio, así que dilas como 'según su plan'.",
+  "analizado": "2026-11-03T00:30:00Z"
+ },
+ "207ddf3d17": {
+  "titular": "El telescopio Swift de la NASA caerá a la Tierra y nadie sabe aún dónde",
+  "resumen": "El observatorio Swift, que lleva más de veinte años cazando explosiones cósmicas, va a caer a la atmósfera. En agosto, la NASA y la empresa Katalyst cancelaron la misión privada que iba a capturarlo y elevar su órbita por un fallo de control de actitud de la nave de rescate. Aún no hay fecha ni lugar confirmados de reentrada. La NASA espera que la mayor parte se desintegre y que el riesgo para las personas sea muy pequeño.",
+  "por_que": "Es un satélite científico real que se va a desintegrar sobre nuestras cabezas, y cualquiera puede preguntarse si le puede caer encima.",
+  "datos_clave": [
+   "Misión de rescate de Katalyst (LINK) cancelada el 19 de agosto por un problema de control de actitud (NASA y Katalyst, según la cobertura)",
+   "Fecha y lugar de reentrada: sin confirmar (Space.com)",
+   "Se espera que la mayor parte se queme en la atmósfera; el riesgo para las personas es muy pequeño (NASA, según la cobertura)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
+   },
+   {
+    "n": "CNN (vía KEYT)",
+    "u": "https://keyt.com/news/national-world/cnn-other/2026/09/30/a-storied-nasa-observatory-could-be-weeks-away-from-falling-to-earth-after-failed-rescue-attempt/"
+   }
+  ],
+  "potencial": 7,
+  "tono": "noticia",
+  "fotograma1": "Un telescopio dorado ardiendo al entrar en la atmósfera sobre un mapa del mundo con un signo de interrogación",
+  "gancho": "Un telescopio de la NASA está a punto de caerse del cielo y nadie sabe dónde.",
+  "guion": "Un telescopio de la NASA va a caer a la Tierra. Se llama Swift y lleva más de veinte años cazando explosiones gigantes en el espacio. Su órbita se ha ido bajando poco a poco, como una bici que pierde velocidad cuesta arriba. Intentaron salvarlo con una nave privada, pero el rescate se canceló en agosto por un fallo en esa nave. Ahora solo queda esperar. ¿Dónde caerá? Todavía nadie lo sabe. Lo normal es que casi todo se queme al entrar en la atmósfera, y el riesgo para las personas es muy pequeño.",
+  "cierre": "¿Intentarías salvar un telescopio así o lo dejarías caer?",
+  "grafismos": "Órbita en espiral descendente alrededor de la Tierra; nave de rescate que gira sin control y se aleja; telescopio entrando en la atmósfera envuelto en llamas; mapa del mundo con zona de caída parpadeando con interrogantes",
+  "caducidad": "🔴 publicar antes de la reentrada (fecha aún sin confirmar)",
+  "avisos": "No decir fecha ni lugar de caída: no están confirmados. No afirmar que habrá restos peligrosos. Antes de publicar, comprobar si ya ha reentrado.",
+  "analizado": "2026-11-03T08:00:00Z"
+ },
+ "b9487f47e6": {
+  "titular": "Cuatro voluntarios salen de un Marte simulado tras más de un año encerrados",
+  "resumen": "La tripulación de la segunda misión CHAPEA de la NASA terminó el 31 de octubre de 2026 su viaje simulado a Marte. Matthew Montgomery, James Spicer, Ross Elder y Ellen Ellis pasaron más de un año en un hábitat que imita la superficie marciana. Posaron fuera por primera vez en más de un año, según la NASA.",
+  "por_que": "Es el ensayo de cómo aguantaría la cabeza y el cuerpo un viaje real a Marte: meses sin salir, sin sol y con poca gente.",
+  "datos_clave": [
+   "Fin de la misión el 31 de octubre de 2026 (NASA)",
+   "4 tripulantes: Montgomery, Spicer, Elder y Ellis (NASA)",
+   "Más de un año de aislamiento simulado (NASA)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Cuatro personas saliendo de una puerta hermética a un paisaje rojo de Marte que se convierte en cielo azul",
+  "gancho": "Llevaban más de un año encerrados en un Marte falso y por fin han salido.",
+  "guion": "Imagina pasar más de un año encerrado con tres personas, sin salir a la calle. Eso han hecho cuatro voluntarios de la NASA en una réplica de Marte construida en Houston. Se llama CHAPEA y simula cómo sería vivir allí: cultivar comida, hacer paseos por un terreno falso y arreglar lo que falle. El 31 de octubre terminaron y por fin pisaron la Tierra de verdad. No es un juego: sirve para saber cómo aguantaríamos un viaje real a Marte.",
+  "cierre": "¿Tú aguantarías un año encerrado con tres desconocidos?",
+  "grafismos": "Hábitat tipo contenedor sobre arena roja; calendario que pasa hojas durante un año; cuatro siluetas en fila; puerta que se abre y entra luz azul",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Duración exacta en días y detalles de la misión no verificados: decir solo 'más de un año'. No afirmar el lugar de forma distinta a lo que diga la NASA (Houston es el de la primera misión).",
+  "analizado": "2026-11-03T08:00:00Z"
+ },
+ "c3823a41cf": {
+  "titular": "Swift, el cazador de explosiones cósmicas, cae a la Tierra esta semana",
+  "resumen": "El observatorio Swift de la NASA, lanzado en 2004, reentrará en la atmósfera el miércoles 4 de noviembre según la previsión de la Fuerza Espacial de EE. UU. recogida por la NASA. Pesa unos 1.450 kilos (3.200 libras). La misión de rescate privada de Katalyst, de unos 30 millones de dólares, se canceló tras fallar la nave que debía subirlo de órbita. Swift dejó de hacer ciencia el 20 de octubre al caer demasiado bajo.",
+  "por_que": "Es el final de un telescopio que llevaba casi 22 años avisando al mundo de las explosiones más potentes desde el Big Bang, y su caída es incontrolada.",
+  "datos_clave": [
+   "Reentrada prevista el 4 de noviembre de 2026 (NASA, citando a la Fuerza Espacial)",
+   "Unas 3.200 libras, unos 1.450 kg (NASA / medios)",
+   "Lanzado en 2004, casi 22 años de misión (NASA)",
+   "Ciencia terminada el 20 de octubre (medios: Live Science)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+   },
+   {
+    "n": "Live Science",
+    "u": "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang"
+   }
+  ],
+  "potencial": 7,
+  "tono": "serio",
+  "fotograma1": "Swift como una estrella fugaz envuelta en fuego atravesando la atmósfera, con un contador de cuenta atrás",
+  "gancho": "Un telescopio de la NASA va a caer del cielo esta semana.",
+  "guion": "Este miércoles, un telescopio de la NASA caerá del cielo. Se llama Swift y lleva casi 22 años vigilando las explosiones más potentes del universo. Pesa como un coche pequeño: unos 1.450 kilos. Intentaron rescatarlo con una nave privada, pero la misión falló y se canceló. Ya no tiene motor propio, así que la gravedad hará el resto. Se espera que casi todo se queme al entrar en la atmósfera. Es el final de un pequeño gigante.",
+  "cierre": "¿Crees que deberíamos rescatar los telescopios viejos o dejarlos caer?",
+  "grafismos": "Swift orbitando y bajando poco a poco; cuenta atrás hasta el 4 de noviembre; comparación de su peso con un coche pequeño; entrada en la atmósfera en llamas; estrellas con destellos de explosiones cósmicas",
+  "caducidad": "🔴 publicar antes del 4-5 de noviembre (reentrada)",
+  "avisos": "No digas dónde caerá ni la hora exacta: no hay lugar confirmado. La fecha es una previsión. Algunos componentes podrían sobrevivir; no hables de peligro para la gente.",
+  "analizado": "2026-11-03T06:30:00Z"
+ },
+ "c629f6c55b": {
+  "titular": "Dos sondas de la NASA dan un latigazo a la Tierra para volar a Marte",
+  "resumen": "Las dos naves gemelas ESCAPADE de la NASA harán en los próximos días un sobrevuelo propulsado de la Tierra: usarán la gravedad terrestre y un encendido del motor para salir disparadas hacia Marte. La NASA dice que ninguna nave de la agencia ha hecho antes esa maniobra, y que cada sonda la hará. Se lanzaron en noviembre de 2025 con un New Glenn y llevan un año esperando en órbita a que Tierra y Marte se alineen. Está previsto que lleguen a Marte en septiembre de 2027.",
+  "por_que": "Es una forma de ahorrar combustible usando el planeta como catapulta, y servirá para estudiar cómo Marte perdió su atmósfera.",
+  "datos_clave": [
+   "Sobrevuelo propulsado de la Tierra, maniobra nunca volada por una nave de la agencia (NASA)",
+   "Lanzamiento en noviembre de 2025 con New Glenn (medios)",
+   "Llegada a Marte prevista en septiembre de 2027 (medios)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
+   },
+   {
+    "n": "Mars Daily",
+    "u": "https://www.marsdaily.com/reports/NASA_twin_spacecraft_depart_Earth_orbit_to_begin_Mars_mission_999.html"
+   }
+  ],
+  "potencial": 6,
+  "tono": "explicación",
+  "fotograma1": "Dos puntos brillantes rodeando la Tierra como una honda y saliendo disparados hacia Marte",
+  "gancho": "La NASA va a lanzar dos naves usando la Tierra como catapulta.",
+  "guion": "La NASA tiene dos sondas gemelas esperando desde hace un año cerca de la Tierra. Ahora toca salir hacia Marte. ¿Cómo? Pasando muy cerca de nuestro planeta y robándole un poco de velocidad con su gravedad, como cuando coges impulso en un columpio. Además, encenderán el motor en pleno paso. La NASA dice que ninguna de sus naves había hecho esto antes. Si todo sale bien, llegarán a Marte en septiembre de 2027.",
+  "cierre": "¿Te atreverías a viajar a Marte con una maniobra así?",
+  "grafismos": "Tierra con dos sondas trazando una curva de honda; columpio como comparación; encendido del motor con llama; línea hasta Marte con fecha septiembre 2027",
+  "caducidad": "🔴 publicar antes de que acabe el sobrevuelo (esta semana)",
+  "avisos": "Fecha exacta del paso y distancia no verificadas; no las menciones. Resultado de la maniobra aún no confirmado.",
+  "analizado": "2026-11-03T06:30:00Z"
+ },
+ "7a9204611a": {
+  "titular": "Encuentran los asteroides «troyanos» de Neptuno que se resistían",
+  "resumen": "Un equipo internacional liderado por la Queen's University Belfast anuncia un descubrimiento que se escapaba a los astrónomos desde hace décadas. Júpiter, Saturno y Urano tienen familias de asteroides que van delante y detrás de ellos, pero a Neptuno le faltaba. Según la cobertura, con datos del Observatorio Vera Rubin se han confirmado dos troyanos y hay un tercer candidato.",
+  "por_que": "Es un trocito nuevo del rompecabezas de cómo se formó el sistema solar, a más de 4.000 millones de kilómetros del Sol.",
+  "datos_clave": [
+   "Equipo liderado por la Queen's University Belfast (Phys.org)",
+   "Dos asteroides confirmados y un candidato, con datos de Vera Rubin (IFLScience)",
+   "Júpiter, Saturno y Urano ya tenían troyanos (Phys.org)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html"
+   },
+   {
+    "n": "IFLScience",
+    "u": "https://www.iflscience.com/two-new-trojan-asteroids-and-a-possible-third-discovered-trailing-behind-neptune-with-vera-rubin-observatory-85060"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Neptuno azul con pequeñas rocas brillando delante y detrás en su órbita",
+  "gancho": "A Neptuno le faltaba algo que tienen los demás planetas gigantes.",
+  "guion": "Júpiter tiene sus asteroides troyanos. Saturno y Urano también. Pero Neptuno, curiosamente, no se dejaba ver. Hasta ahora. Un equipo liderado por la Queen's University de Belfast ha encontrado asteroides que acompañan a Neptuno en su órbita, como escoltas que van por delante y por detrás. Según la cobertura, serían dos confirmados y un tercer candidato. Pequeñas piezas que ayudan a entender cómo nació nuestro sistema solar.",
+  "cierre": "¿Qué otro misterio del sistema solar te gustaría que resolvieran?",
+  "grafismos": "Sol y cuatro planetas gigantes con puntos de asteroides; Neptuno con interrogante que se resuelve; rocas apareciendo en la órbita; zoom a un asteroide",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Sin acceso al paper ni a nota de prensa de la universidad: cifras exactas y el papel de los estudiantes no verificados; no los menciones. El tercer asteroide es solo candidato.",
+  "analizado": "2026-11-03T06:30:00Z"
+ },
+ "7a17628b8e": {
+  "titular": "Llega a la Estación Espacial el carguero más grande de Northrop Grumman",
+  "resumen": "La NASA ha abierto la acreditación de prensa para la misión NG-25 (CRS-25), el próximo viaje de reabastecimiento a la Estación Espacial Internacional. Una nave Cygnus XL despegará en un cohete Falcon 9 de SpaceX desde Cabo Cañaveral, con fecha prevista a finales de noviembre según Northrop Grumman. Llevará unos 5.000 kg de ciencia y suministros.",
+  "por_que": "Es el 'camión de mudanzas' que mantiene viva la estación donde se hacen experimentos que acaban en medicinas y materiales nuevos, y se puede ver el despegue en directo.",
+  "datos_clave": [
+   "Cygnus XL lanzada en un Falcon 9 desde Cabo Cañaveral, SLC-40 (Northrop Grumman)",
+   "Unas 11.000 libras de carga, unos 5.000 kg (Northrop Grumman)",
+   "Llegada a la estación unos 2 días después del despegue (Northrop Grumman)",
+   "La primera Cygnus XL voló en septiembre de 2025 como NG-23 (Northrop Grumman)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
+   },
+   {
+    "n": "Northrop Grumman",
+    "u": "https://www.northropgrumman.com/what-we-do/space/missions/nasa-commercial-resupply-mission-ng-25"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Una nave Cygnus acercándose a la Estación Espacial con la Tierra detrás",
+  "gancho": "Esta nave lleva cinco toneladas de cosas hasta una casa que va a 28.000 km/h.",
+  "guion": "En noviembre sale el camión de mudanzas más especial del mundo. Se llama Cygnus XL y va a la Estación Espacial Internacional con unos cinco mil kilos de material: experimentos científicos, comida y repuestos. Despegará en un Falcon 9 desde Florida y tardará solo dos días en llegar. Es como pedir a domicilio, pero la casa está a 400 kilómetros sobre tu cabeza. Y la puedes ver despegar en directo. Todavía no hay fecha exacta, así que mantente atento.",
+  "cierre": "¿Qué experimento le meterías tú en la caja?",
+  "grafismos": "Camión de mudanzas que despega como cohete; cohete Falcon 9 subiendo; cronómetro 2 días; caja abriéndose en la estación con iconos de experimentos, comida y repuestos",
+  "caducidad": "🔴 publicar antes del lanzamiento (previsto a finales de noviembre)",
+  "avisos": "La fecha exacta no está confirmada: Northrop Grumman dice 'a finales de noviembre' y otra fuente apunta a diciembre. Altura de la ISS (unos 400 km) y velocidad (unos 28.000 km/h) son cifras generales, comprobar antes de publicar.",
+  "analizado": "2026-11-03T13:30:00Z"
+ },
+ "688f60d0f5": {
+  "titular": "Hera llega a Dimorphos: Europa inspecciona el asteroide al que NASA disparó",
+  "resumen": "La sonda Hera de la Agencia Espacial Europea (ESA), la primera misión europea de defensa planetaria, llega este mes de noviembre a su destino: el sistema de asteroides Didymos. Su objetivo es Dimorphos, una luna de unos 151 metros que orbita alrededor de Didymos, de unos 780 metros. En septiembre de 2022 la sonda DART de la NASA se estrelló contra Dimorphos y cambió su órbita. Hera va a estudiar cómo quedó para saber si este método sirve para desviar asteroides peligrosos.",
+  "por_que": "Es el ensayo real de cómo salvar a la Tierra de un asteroide: ahora toca ver con detalle el resultado del único golpe que la humanidad ha dado a un objeto del Sistema Solar.",
+  "datos_clave": [
+   "Llegada a Didymos prevista en noviembre de 2026 (ESA)",
+   "Dimorphos mide unos 151 m y Didymos unos 780 m (ESA)",
+   "DART impactó el 26 de septiembre de 2022 y cambió la órbita de Dimorphos (ESA)",
+   "Hera lleva dos cubesats, Milani y Juventas (Space.com)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "ESA",
+    "u": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore"
+   },
+   {
+    "n": "ESA",
+    "u": "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://space.com/space-exploration/asteroid-comet-missions/four-years-ago-nasa-punched-an-asteroid-europes-hera-probe-arrives-this-month-to-inspect-the-wreckage"
+   }
+  ],
+  "potencial": 7,
+  "tono": "explicación",
+  "fotograma1": "Una sonda pequeña acercándose a un asteroide con un cráter recién hecho, con la Tierra diminuta al fondo",
+  "gancho": "Hace cuatro años la NASA le dio un golpe a un asteroide. Ahora Europa va a ver cómo quedó.",
+  "guion": "En 2022, la NASA estrelló una nave contra un asteroide llamado Dimorphos. Y funcionó: cambió su órbita. Fue la primera vez que la humanidad movió un objeto del Sistema Solar. Pero nadie había visto de cerca el resultado. Hasta ahora. Este mes llega la sonda europea Hera, más o menos del tamaño de un coche pequeño. Dimorphos mide unos 150 metros, como un estadio de fútbol grande. Hera medirá su forma y su masa para saber si este método nos salvaría de un asteroide de verdad.",
+  "cierre": "Si apareciera un asteroide rumbo a la Tierra, ¿confiarías en darle un golpe para desviarlo?",
+  "grafismos": "Nave DART chocando contra el asteroide y su órbita alargándose; Hera pequeña comparada con un coche; Dimorphos comparado con un estadio; Hera escaneando el cráter; Tierra con un escudo",
+  "caducidad": "🟡 publicar en 1-2 semanas (mejor al confirmarse la llegada)",
+  "avisos": "No afirmar que Hera ya ha llegado: la fecha exacta de llegada no está confirmada en las fuentes consultadas. No dar el tamaño de la sonda con cifras exactas.",
+  "analizado": "2026-11-04T07:30:00Z"
+ },
+ "b85f13415c": {
+  "titular": "PLD Space prueba el botón de autodestrucción de su cohete Miura 5",
+  "resumen": "PLD Space, la empresa de Elche, ha completado las pruebas de rendimiento del sistema de terminación de vuelo de su cohete orbital Miura 5 y lo anunció el 30 de octubre. Con cargas pirotécnicas, el ensayo demostró que el sistema puede destruir la estructura principal de la etapa si algo falla en pleno vuelo. La prueba se hizo en instalaciones de Delta-V Energetics, en Utah (EE. UU.). La compañía ya tiene tres cohetes fabricados y prevé el primer vuelo desde Kourou en la primera mitad de 2027.",
+  "por_que": "Un cohete español de verdad está cada vez más cerca de despegar, y para que le dejen volar primero tiene que demostrar que puede destruirse de forma segura si se desvía.",
+  "datos_clave": [
+   "Prueba anunciada el 30 de octubre de 2026 (PLD Space)",
+   "Realizada en Delta-V Energetics, Utah, con dispositivos pirotécnicos (European Spaceflight)",
+   "Tres Miura 5 fabricados: dos unidades de cualificación y el de primer vuelo (European Spaceflight)",
+   "Primer lanzamiento previsto desde Kourou en el primer semestre de 2027 (European Spaceflight)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "PLD Space (X)",
+    "u": "https://x.com/PLD_Space/status/2116088911092990386"
+   },
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test"
+   }
+  ],
+  "potencial": 7,
+  "tono": "explicación",
+  "fotograma1": "Un cohete Miura 5 animado en vertical que se parte en pedazos controlados dentro de un recuadro de seguridad",
+  "gancho": "Este cohete español acaba de demostrar que sabe autodestruirse… y es buena señal.",
+  "guion": "Una empresa de Elche acaba de volar en pedazos la estructura de un cohete a propósito. Y es una gran noticia. PLD Space ha probado el botón de autodestrucción de su Miura 5, el cohete que quiere llevar satélites a órbita desde Europa. Es como el cinturón de seguridad de un coche: nadie quiere usarlo, pero sin él no te dejan arrancar. Si algo sale mal en el vuelo, este sistema rompe el cohete para que no ponga en riesgo a nadie. Ya tienen tres cohetes construidos y el primer lanzamiento está previsto para la primera mitad de 2027 desde Kourou.",
+  "cierre": "¿Crees que veremos un cohete español en órbita en 2027 o se retrasará otra vez?",
+  "grafismos": "1) Cohete Miura 5 dibujado en vertical con línea de estructura. 2) Cinturón de seguridad que se abrocha sobre el cohete como comparación. 3) Cargas que se iluminan y la etapa se fragmenta en trozos. 4) Mapa de Elche–Utah–Kourou con trazos. 5) Calendario que pasa a 'primer semestre 2027'.",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que el primer lanzamiento tiene fecha cerrada: es una previsión. El texto de la prueba se ha contrastado con el anuncio de PLD Space y European Spaceflight; no se ha podido abrir el artículo completo.",
+  "analizado": "2026-11-04T16:30:00Z"
+ },
+ "45252c202d": {
+  "titular": "La NASA pide ideas para rescatar al Hubble antes de que caiga a la Tierra",
+  "resumen": "La NASA publicó el 29 de octubre una solicitud de información para que las empresas propongan cómo elevar la órbita del telescopio Hubble, repararlo o retirarlo de forma controlada. Según los análisis de la agencia recogidos por la prensa, el telescopio reentraría en la atmósfera hacia 2033 o 2034, así que cualquier misión tendría que volar antes de 2032. Las respuestas se podían enviar hasta el 30 de noviembre. El administrador Jared Isaacman ha dicho que no se puede permitir una reentrada descontrolada.",
+  "por_que": "El telescopio que te ha dado las fotos más famosas del universo tiene fecha de caducidad, y una empresa privada podría salvarlo.",
+  "datos_clave": [
+   "Solicitud de información lanzada el 29 de octubre de 2026 (The Next Web, NASASpaceflight)",
+   "Opciones: subirlo a al menos 600 km, repararlo o retirarlo de forma controlada (The Next Web)",
+   "Reentrada estimada en 2033 o 2034 (The Next Web)",
+   "Respuestas hasta el 30 de noviembre (The Next Web)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/uncontrolled-reentry-boost-hubble-science-isaacman/"
+   },
+   {
+    "n": "The Next Web",
+    "u": "https://thenextweb.com/news/nasa-hubble-reboost-servicing-commercial-request"
+   },
+   {
+    "n": "ExecutiveGov",
+    "u": "https://www.executivegov.com/articles/nasa-hubble-commercial-servicing-rfi-isaacman"
+   }
+  ],
+  "potencial": 7,
+  "tono": "noticia",
+  "fotograma1": "El Hubble orbitando mientras su órbita se dibuja descendiendo hacia la atmósfera con un reloj de arena",
+  "gancho": "El Hubble se está cayendo… y la NASA pide ayuda para salvarlo.",
+  "guion": "El telescopio Hubble tiene los días contados, y la NASA acaba de pedir ayuda. Lleva más de treinta años dándonos las imágenes más famosas del universo, pero su órbita va bajando poco a poco, como un satélite que pierde altura. Según los cálculos, caería hacia 2033 o 2034. Por eso la agencia ha preguntado a las empresas cómo subirlo a una órbita más alta, repararlo o retirarlo de forma segura. No es un contrato: solo una petición de ideas, con plazo hasta el 30 de noviembre. Cualquier misión tendría que despegar antes de 2032.",
+  "cierre": "¿Pagarías con tus impuestos por salvar el Hubble o mejor construir uno nuevo?",
+  "grafismos": "1) Hubble animado sobre la Tierra con línea de órbita que baja. 2) Reloj de arena con '2033-2034'. 3) Tres flechas: subir, reparar, retirar. 4) Calendario con marca '30 nov' y '2032'. 5) Collage de fotos famosas del Hubble apagándose.",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que hay misión aprobada ni presupuesto: es solo una petición de información. La fecha de reentrada es una estimación. Los detalles proceden de prensa especializada; no se ha podido abrir la nota oficial de NASA. No afirmar quién lo hará (SpaceX u otros).",
+  "analizado": "2026-11-04T16:30:00Z"
+ },
+ "08f2a00899": {
+  "titular": "Cohetes de la NASA estudian una llamarada solar mientras ocurre",
+  "resumen": "Un equipo de la NASA ha usado un sistema de alerta de llamaradas solares para decidir el momento de lanzar sus cohetes de sondeo. El instrumento FOXSI-5 voló el 14 de mayo de 2026 y observó tres llamaradas pequeñas durante el vuelo. El sistema localiza la llamarada y predice cuánto durará a los pocos minutos de que la detecten los satélites, con datos del Observatorio de Dinámica Solar de la NASA, los GOES de NOAA y observatorios en tierra. NASA lo presenta como la primera vez que se estudia así una llamarada en curso.",
+  "por_que": "Las llamaradas solares pueden afectar a satélites, GPS y comunicaciones, y entender cómo funcionan ayuda a proteger la tecnología de la que dependes cada día.",
+  "datos_clave": [
+   "Vuelo del instrumento FOXSI-5 el 14 de mayo de 2026 (NASA Ciencia)",
+   "Tres llamaradas pequeñas observadas en el vuelo (NASA Ciencia)",
+   "El sistema usa datos del SDO, los GOES de NOAA y observatorios terrestres (NASA Ciencia)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://science.nasa.gov/blogs/science-news/2026/11/04/solar-flare-alert-system-helps-nasa-rocket-team-decide-when-to-launch/"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Una llamarada solar estallando y un cohete diminuto saliendo disparado hacia ella",
+  "gancho": "Lanzaron un cohete hacia el Sol justo cuando estaba estallando.",
+  "guion": "Imagina intentar fotografiar un rayo, pero sin saber cuándo caerá. Eso es lo que hacen los científicos de la NASA con las llamaradas solares. Ahora tienen un sistema de alerta que localiza la llamarada y calcula cuánto va a durar a los pocos minutos de detectarla. Con ese aviso lanzaron cohetes de sondeo justo a tiempo, y su instrumento FOXSI-5 observó tres llamaradas pequeñas durante el vuelo. Estas explosiones pueden afectar a satélites y comunicaciones, así que entenderlas es proteger tu móvil y tu GPS.",
+  "cierre": "¿Qué crees que pasaría si una llamarada gigante apagara los satélites un día?",
+  "grafismos": "1) Sol con llamarada que crece. 2) Reloj de cuenta atrás con 'minutos'. 3) Cohete pequeño que sube con trazo hasta el Sol. 4) Satélites y GPS parpadeando en la Tierra.",
+  "caducidad": "🟢 no caduca",
+  "avisos": "NASA lo llama 'primera vez', pero en abril de 2024 ya se lanzaron cohetes durante una llamarada de clase M desde Alaska: no decir 'primer lanzamiento durante una llamarada' sin matizar. Decir solo que el sistema de alerta es nuevo. No dar más cifras sin confirmar.",
+  "analizado": "2026-11-04T16:30:00Z"
+ },
+ "23c572347a": {
+  "titular": "Swift ya es historia: el telescopio cazaexplosiones cae a la Tierra",
+  "resumen": "El observatorio Swift de la NASA ha reentrado en la atmósfera este 4 de noviembre, según recogen Spaceflight Now (sobre el oeste de Indonesia), Phys.org y Space.com. Cierra más de dos décadas estudiando las mayores explosiones del universo. Su caída llega tras fracasar el intento de rescate privado que se canceló en agosto.",
+  "por_que": "Es el final de un telescopio que ha visto estallar estrellas a miles de millones de años luz, y te enseña que los satélites también mueren si nadie los empuja.",
+  "datos_clave": [
+   "Reentrada el 4 de noviembre de 2026 (Phys.org, Space.com)",
+   "Zona: oeste de Indonesia (Spaceflight Now)",
+   "Unos 22 años de misión dedicados a explosiones cósmicas (Phys.org)",
+   "Misión de rescate de Katalyst cancelada en agosto tras fallos de orientación (prensa especializada)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com"
+   }
+  ],
+  "potencial": 6,
+  "tono": "noticia",
+  "fotograma1": "Un punto brillante cruzando el cielo nocturno y deshaciéndose en una estela de fuego",
+  "gancho": "Un telescopio de la NASA acaba de morir quemado… y nadie pudo salvarlo.",
+  "guion": "Swift lleva veintidós años vigilando las explosiones más violentas del universo. Cuando una estrella gigante muere, él era el primero en mirar. Pues bien, esta semana ha caído a la Tierra. Su órbita fue bajando poco a poco, como una moneda que gira en un plato hasta que se para. Una empresa privada intentó subirlo otra vez, pero el rescate se canceló en agosto. Al final, ha ardido al entrar en la atmósfera, y los medios lo sitúan sobre el oeste de Indonesia. Se acabó. Pero sus datos seguirán sirviendo a los astrónomos durante años.",
+  "cierre": "¿Crees que merece la pena rescatar satélites viejos o es mejor dejarlos caer?",
+  "grafismos": [
+   "Satélite pequeño bajando en espiral hacia un planeta",
+   "Moneda girando en un plato como comparación",
+   "Estallido de rayos gamma como destello en el fondo",
+   "Mapa con Indonesia señalada",
+   "Contador: 22 años de misión"
+  ],
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No afirmar punto exacto de impacto ni hora; ni que haya habido restos o daños. Solo Indonesia como zona según Spaceflight Now. No he podido abrir los artículos completos.",
+  "analizado": "2026-11-05T18:45:22Z"
+ },
+ "6a18d35c16": {
+  "titular": "La Voyager 1 se calla dos días y vuelve sola desde 25.900 millones de km",
+  "resumen": "La NASA no detectó la señal de la Voyager 1 los días 18 y 19 de octubre de 2026. La señal volvió el 20 de octubre sin que los ingenieros enviaran ningún comando. La causa sigue en investigación, y el incidente siguió a un cambio de propulsores automático.",
+  "por_que": "Una máquina de 1977, hecha con tecnología de tu abuelo, sigue hablando con la Tierra desde fuera del Sistema Solar, y a veces se recupera sola.",
+  "datos_clave": [
+   "Sin señal el 18 y 19 de octubre; vuelve el 20 (NASA JPL, resumida por prensa)",
+   "Causa sin determinar (NASA)",
+   "Alcanzará una distancia de un día-luz el 18 de noviembre de 2026 (NASA)",
+   "Sonda de 49 años (Space.com)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASA JPL",
+    "u": "https://www.jpl.nasa.gov"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space"
+   }
+  ],
+  "potencial": 6,
+  "tono": "asombro",
+  "fotograma1": "Una diminuta sonda en el vacío negro con una señal de radio que se apaga y reaparece",
+  "gancho": "La nave más lejana de la humanidad se apagó… y volvió sola.",
+  "guion": "La Voyager 1 es la nave más lejana que ha construido la humanidad. Se lanzó en 1977, antes de que nacieran muchos de tus padres. Este mes, durante dos días, la NASA dejó de oír su señal. Silencio total. Y entonces, el 20 de octubre, volvió sin que nadie tocara nada. Aún no saben por qué. Imagina que tu móvil se apaga a 25.000 millones de kilómetros y se reinicia solo. El 18 de noviembre alcanzará un día-luz de distancia: su señal tarda ya veinticuatro horas en llegar hasta aquí.",
+  "cierre": "¿Qué crees que le pasó a la Voyager esos dos días?",
+  "grafismos": [
+   "Línea de señal que se corta y reaparece",
+   "Mapa del Sistema Solar con la sonda saliendo",
+   "Reloj de 24 horas como luz viajando",
+   "Calendario 18-20 octubre",
+   "Móvil que se reinicia como comparación"
+  ],
+  "caducidad": "🔴 publicar antes del 18 de noviembre (hito del día-luz)",
+  "avisos": "Hay artículos que mezclan este episodio con el de 2024 (calentador, transmisor S-band): no usarlos. La distancia exacta en km conviene decirla como 'unos 25.900 millones'. No he podido abrir la nota original de la NASA.",
+  "analizado": "2026-11-05T18:45:22Z"
+ },
+ "16369985cb": {
+  "titular": "El Webb mira el hielo del cometa interestelar 3I/ATLAS: muy cargado de polvo",
+  "resumen": "Un estudio con el telescopio James Webb, liderado por Silvia Protopapa y publicado en The Astrophysical Journal Letters, analizó el hielo de agua de 3I/ATLAS en tres momentos entre agosto de 2025 y abril de 2026. Los granos de hielo son diminutos y están mezclados con material rocoso. Los autores sostienen que encajan en un continuo con los hielos de cometas de nuestro Sistema Solar.",
+  "por_que": "Un trozo de otro sistema estelar está hecho de algo muy parecido a lo que hay en nuestros cometas: el agua parece ser algo normal en el universo.",
+  "datos_clave": [
+   "Observaciones del 6 de agosto y 22 de diciembre de 2025 y 1 de abril de 2026 (estudio de Protopapa et al.)",
+   "Granos de hielo de pocas micras mezclados con material refractario (estudio)",
+   "Es el tercer objeto interestelar conocido, descubierto en julio de 2025 (Universe Today)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "arXiv (Protopapa et al.)",
+    "u": "https://arxiv.org/pdf/2609.19286"
+   },
+   {
+    "n": "Sci.News",
+    "u": "https://sci.news/astronomy/webb-dust-rich-water-ice-interstellar-comet-3i-atlas-15153.html"
+   },
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "El cometa 3I/ATLAS con su cola brillante cruzando el Sistema Solar",
+  "gancho": "Un visitante de otra estrella trae hielo… igual que el nuestro.",
+  "guion": "Hace poco más de un año descubrimos un cometa que no es de aquí: viene de otra estrella. Se llama 3I/ATLAS. El telescopio James Webb lo ha mirado tres veces y ha analizado su hielo de agua. Resultado: son granos minúsculos, como arena fina, mezclados con polvo, como un helado con mucho cacao. Y lo interesante es que se parece al hielo de los cometas de nuestro propio Sistema Solar. Es decir, el agua de otros sistemas estelares podría ser muy parecida a la nuestra.",
+  "cierre": "Si el agua es tan común, ¿crees que hay vida en otros sistemas?",
+  "grafismos": [
+   "Cometa cruzando de izquierda a derecha con trayectoria abierta",
+   "Zoom a granos de hielo mezclados con polvo",
+   "Tres fechas de observación en línea de tiempo",
+   "Helado con cacao como comparación"
+  ],
+  "caducidad": "🟢 no caduca",
+  "avisos": "No decir 'idéntico': los autores hablan de un continuo, con 3I en el extremo rico en polvo. No sugerir origen artificial. Datos del paper no revisados en la nota de Universe Today.",
+  "analizado": "2026-11-05T18:45:22Z"
+ },
+ "32f654e7a5": {
+  "titular": "La NASA presenta el X-70 Fractal, un avión experimental con piloto",
+  "resumen": "El 4 de noviembre de 2026, el administrador de la NASA, Jared Isaacman, presentó el X-70 Fractal en la cumbre UP.Summit del Centro Espacial Kennedy. Es un avión experimental con piloto para probar sistemas de control de vuelo que se pueden reconfigurar con rapidez. La NASA espera su primer vuelo en unos dos años.",
+  "por_que": "Es el primer avión X nuevo en años y se presenta como el comienzo de otra etapa de la aeronáutica: así se prueban hoy los aviones que volarán mañana.",
+  "datos_clave": [
+   "Presentado el 4 de noviembre de 2026 en el UP.Summit, Centro Espacial Kennedy (NASA)",
+   "Unos 4.500 kg de peso al despegue (10.000 libras), crucero a Mach 0,75 y hasta 13.700 m (45.000 pies) (NASA, según Aviation Week y The War Zone)",
+   "Puede llevar hasta unos 900 kg (2.000 libras) de equipos experimentales (NASA)",
+   "Primer vuelo previsto en unos dos años (NASA)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+   },
+   {
+    "n": "Aviation Week",
+    "u": "https://aviationweek.com/aerospace/emerging-technologies/nasa-announces-x-70-program-promises-more-coming"
+   },
+   {
+    "n": "The War Zone",
+    "u": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft"
+   }
+  ],
+  "potencial": 6,
+  "tono": "noticia",
+  "fotograma1": "Silueta del X-70 saliendo de la sombra con el rótulo X-70 y un contador 'primer vuelo: ~2 años'",
+  "gancho": "La NASA acaba de estrenar avión… y todavía no ha volado.",
+  "guion": "La NASA acaba de presentar un avión nuevo: el X-70 Fractal. No es una nave espacial, es un avión de pruebas con piloto dentro. Pesa unos cuatro mil quinientos kilos, más o menos como un coche grande con alas, y vuela casi a la velocidad del sonido. Su truco es que se pueden cambiar sus sistemas de control con rapidez, para probar ideas nuevas sin construir un avión entero cada vez. Aún no ha despegado: el primer vuelo llegará dentro de unos dos años.",
+  "cierre": "¿Qué te gustaría que probase la NASA en un avión así?",
+  "grafismos": "Silueta del avión que se dibuja con líneas; cifra 4.500 kg junto a un coche; velocímetro hasta Mach 0,75; piezas del avión que se cambian como bloques; calendario que avanza dos años",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "El nombre 'Fractal' y las cifras vienen de la presentación; no digas que ya ha volado ni inventes su misión concreta. Se habló de otro X-plane más, sin confirmar.",
+  "analizado": "2026-11-06T07:45:16Z"
+ },
+ "832c0862d7": {
+  "titular": "Blue Origin añade una tercera etapa y un motor nuevo al New Glenn",
+  "resumen": "El 5 de noviembre de 2026, el consejero delegado de Blue Origin, Dave Limp, presentó la tercera etapa GS3 y un nuevo motor de primera etapa, el Northstar. La GS3 está pensada para dejar cargas directamente en órbita geoestacionaria o rumbo fuera de la Tierra. Una misión con GS3 ya está prevista hacia el entorno lunar en 2028.",
+  "por_que": "Es la apuesta de Blue Origin para competir en lanzamientos exigentes y para sus planes lunares, justo cuando se recupera de la explosión de mayo.",
+  "datos_clave": [
+   "GS3 usa el motor BE-7, de hidrógeno y oxígeno líquidos (Space.com, NASASpaceflight)",
+   "Northstar: motor de oxígeno y metano líquidos con unas 715.000 libras de empuje, unos 3.180 kilonewtons (cobertura de la presentación)",
+   "Primera misión con GS3 en el espacio cislunar en 2028",
+   "New Glenn se recupera de la explosión del 28 de mayo; cuarto vuelo previsto a finales de año"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Cohete New Glenn que crece con un tercer tramo que se encaja en la punta",
+  "gancho": "Blue Origin le pone un piso más a su cohete gigante.",
+  "guion": "Blue Origin quiere que su cohete New Glenn llegue más lejos. Su jefe, Dave Limp, ha presentado una tercera etapa, la GS3. Es como añadir un último tramo que da el empujón final para dejar satélites muy lejos de la Tierra, directamente en su órbita definitiva. También ha enseñado un motor nuevo para la base, el Northstar. Y ya hay una misión prevista en 2028 cerca de la Luna. Eso sí, todavía son anuncios: falta construirlo y volarlo.",
+  "cierre": "¿Crees que Blue Origin puede alcanzar a SpaceX?",
+  "grafismos": "Cohete en tres bloques que se apilan; flecha que sube hasta órbita geoestacionaria; motor Northstar girando con cifra de empuje; calendario hasta 2028 con la Luna",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Son anuncios, no hardware probado. No cites el ahorro de masa o piezas del Northstar: solo sale en una red social. No digas fecha del próximo vuelo más allá de 'finales de año'.",
+  "analizado": "2026-11-06T07:45:16Z"
+ },
+ "eeba4f9fc9": {
+  "titular": "Un meteorito del Sáhara es un trozo de Marte de 4.100 millones de años",
+  "resumen": "Una roca rosada hallada en el Sáhara en 2022 ha resultado ser un meteorito marciano, Teghaza 001, de unos 4.100 millones de años. Un equipo financiado por la NASA, con Yang Liu como autora principal, lo ha datado con cristales de circón y publicado en la revista Science a finales de octubre de 2026. Sus isótopos indican que ya había agua en la superficie de Marte hace más de 4.100 millones de años y que se filtraba hacia la corteza profunda.",
+  "por_que": "Es como encontrar una foto de Marte de cuando se estaba formando, y sugiere que el planeta rojo tuvo un ciclo del agua más activo de lo que se pensaba.",
+  "datos_clave": [
+   "Edad: más de 4.100 millones de años, datada con circón (CBS News, Smithsonian)",
+   "Hallado en el Sáhara en 2022; se llama Teghaza 001 (CBS News)",
+   "Publicado en Science a finales de octubre de 2026 (CBS News)",
+   "Los isótopos de hidrógeno y oxígeno apuntan a agua en superficie y filtrándose a la corteza (cobertura de la prensa)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "CBS News",
+    "u": "https://www.cbsnews.com/news/mars-meteorite-found-sahara-desert/"
+   },
+   {
+    "n": "Smithsonian Magazine",
+    "u": "https://www.smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars"
+   }
+  ],
+  "potencial": 7,
+  "tono": "asombro",
+  "fotograma1": "Una piedra rosada en la arena del desierto que se abre y deja ver un Marte primitivo con océanos",
+  "gancho": "Esta piedra del desierto no es de la Tierra: tiene 4.100 millones de años.",
+  "guion": "Alguien encontró una piedra rosada en el Sáhara en 2022. Parecía una roca más. Pero no lo era. Es un trozo de Marte, lanzado al espacio por un impacto y caído aquí hace quién sabe cuánto. Los científicos la han datado: tiene más de cuatro mil cien millones de años. Es como encontrar una foto de Marte recién nacido. Y dentro guarda una pista enorme: el agua ya estaba allí, en la superficie, y se colaba hacia el interior del planeta. No prueba que hubiera vida, pero sí que Marte tuvo un ciclo del agua más movido de lo que creíamos.",
+  "cierre": "Si pudieras analizar una roca de otro planeta, ¿qué preguntarías primero: agua o vida?",
+  "grafismos": "Piedra rosada en desierto animado que se rompe en cráteres · Línea de tiempo desde hace 4.100 millones de años hasta hoy · Gotas de agua filtrándose por capas de corteza marciana · Trayectoria de la roca de Marte a la Tierra",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que prueba vida en Marte. 'La más antigua' depende del estudio: otras fuentes citan estudios con agua hace 4.400 millones de años. El dato del Sáhara y la edad sí están confirmados.",
+  "analizado": "2026-11-06T18:00:00Z"
+ },
+ "c0daed182c": {
+  "titular": "La Estación Espacial estrena su octavo y último panel solar enrollable",
+  "resumen": "Los astronautas Anil Menon y Joshua Kutryk salieron al exterior de la Estación Espacial Internacional el 5 de noviembre de 2026 para instalar el octavo y último panel solar enrollable (iROSA). Con él se cierra una mejora de la energía de la estación que empezó en 2021. La NASA calcula que los ocho paneles subirán la potencia disponible de 160 a unos 215 kilovatios.",
+  "por_que": "La estación tiene más de 25 años y esta mejora de energía es lo que le permite seguir funcionando hasta su retirada prevista.",
+  "datos_clave": [
+   "8 paneles iROSA en total; el último, instalado el 5 de noviembre de 2026 (Spaceflight Now, Space.com)",
+   "Potencia disponible: de 160 a unos 215 kW (NASA vía Spaceflight Now)",
+   "El séptimo panel se instaló el 29 octubre, en la 100.ª caminata espacial de EE. UU. (Space.com)",
+   "La campaña empezó en 2021 (Spaceflight Now)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronauts-spacewalk-international-space-station-sixth-solar-array-deployed"
+   },
+   {
+    "n": "NASA",
+    "u": "https://nasa.gov/blogs/spacestation/2026/10/29/spacewalkers-install-roll-out-solar-arrays-for-power-generation"
+   }
+  ],
+  "potencial": 5,
+  "tono": "noticia",
+  "fotograma1": "Un panel solar enorme desenrollándose como una alfombra frente a la Tierra",
+  "gancho": "Han desenrollado una alfombra de energía en el espacio, y es la última.",
+  "guion": "La Estación Espacial Internacional acaba de recibir su último regalo de energía. El 5 de noviembre, dos astronautas salieron al exterior e instalaron el octavo panel solar enrollable. Son paneles que viajan guardados como una esterilla de yoga y se desenrollan en el espacio. Llevan desde 2021 colocándolos, y la NASA calcula que la potencia disponible sube de 160 a unos 215 kilovatios. ¿Por qué importa? Porque la estación ya es veterana y necesita energía fresca para aguantar hasta su retirada.",
+  "cierre": "¿Crees que la Estación llegará a su retirada tal y como está prevista?",
+  "grafismos": "Esterilla de yoga que se desenrolla hasta ser un panel · Barra de potencia que sube de 160 a 215 kW · Astronauta diminuto junto a la estructura · Contador de 8 paneles iluminándose uno a uno",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Las cifras de potencia son la previsión de la NASA, no una medición posterior. No decir que la estación 'queda como nueva'.",
+  "analizado": "2026-11-06T18:00:00Z"
+ },
+ "3f1a1f67d7": {
+  "titular": "Starship intentará atrapar cohete y nave a la vez en su vuelo 15",
+  "resumen": "SpaceX prepara el vuelo 15 de Starship con el propulsor Booster 22 y la nave Ship 42, que ya hicieron sus pruebas de encendido en octubre. Según NASASpaceflight, el lanzamiento apunta como pronto al 13 de noviembre, pero falta la luz verde de la FAA. El plan que se maneja es atrapar con la torre tanto el propulsor como la nave.",
+  "por_que": "Si sale bien, es un paso clave para reutilizar el cohete entero, lo que abarata llegar a la Luna o a Marte.",
+  "datos_clave": [
+   "Booster 22 y Ship 42 en las últimas comprobaciones (NASASpaceflight)",
+   "Lanzamiento no antes del 13 de noviembre (NASASpaceflight)",
+   "Falta licencia modificada de la FAA (cobertura de la prensa especializada)",
+   "Musk dio un 50-60 % de opciones a atrapar la nave en septiembre (estimación suya)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+   },
+   {
+    "n": "Northeast Times",
+    "u": "https://northeasttimes.com/2026/10/21/spacex-plans-to-catch-both-starship-stages-on-its-next-flight/"
+   }
+  ],
+  "potencial": 7,
+  "tono": "asombro",
+  "fotograma1": "La torre de Starbase con dos enormes brazos abiertos esperando un cohete que cae",
+  "gancho": "SpaceX quiere cazar al vuelo dos cohetes gigantes con unos palillos de acero.",
+  "guion": "SpaceX va a intentar algo que parece de ciencia ficción: atrapar con una torre el cohete y la nave de Starship, los dos, en el mismo vuelo. El plan es que vuelvan a casa y los brazos de la torre los agarren al vuelo, como un portero que para un balón. Los dos vehículos ya pasaron sus pruebas de encendido y el despegue apunta a mediados de noviembre, aunque falta el permiso de la FAA. Si sale bien, podrán reutilizarse enteros. Y eso cambia el precio de viajar al espacio.",
+  "cierre": "¿Se la jugarías a que lo logran a la primera, sí o no?",
+  "grafismos": "Torre con brazos que atrapan un cohete como un portero · Dos siluetas, cohete y nave, bajando a la vez · Calendario con el 13 de noviembre marcado y un sello FAA pendiente · Marcador de reutilización: de desechable a reutilizable",
+  "caducidad": "🔴 publicar antes del lanzamiento del vuelo 15 (no antes del 13 nov)",
+  "avisos": "Fecha y plan de doble captura NO confirmados oficialmente por SpaceX; depende de la licencia FAA. Decir 'apunta a', 'según' y no prometer fecha. Las probabilidades son una opinión de Musk.",
+  "analizado": "2026-11-06T18:00:00Z"
+ },
+ "fd82a7aa8a": {
+  "titular": "La ISS termina su gran mejora eléctrica: ya tiene los 8 paneles nuevos",
+  "resumen": "El 5 de noviembre, los astronautas Anil Menon (NASA) y Joshua Kutryk (CSA) instalaron y desplegaron en un paseo espacial el último de los ocho paneles solares enrollables nuevos de la Estación Espacial Internacional. Con él se cierra una mejora de unos cinco años para que la estación genere más electricidad hasta su retirada. Durante el paseo hubo un contratiempo de energía que lograron resolver.",
+  "por_que": "Es como cambiarle la batería y el cargador a una casa que lleva 25 años en órbita: sin esta energía extra, la ISS no aguantaría hasta su jubilación.",
+  "datos_clave": [
+   "Último de 8 paneles IROSA instalado el 5 de noviembre de 2026 (Space.com, Spaceflight Now)",
+   "Aumento de potencia de hasta un 30 % (Space.com)",
+   "Mejora de unos cinco años; la ISS seguirá operativa hasta su retirada prevista en 2030 (Spaceflight Now)",
+   "El anterior, el séptimo, se instaló el 29 de octubre en la 100.ª caminata espacial estadounidense (Space.com)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays"
+   },
+   {
+    "n": "Spaceflight Now",
+    "u": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
+   },
+   {
+    "n": "Aviation Week",
+    "u": "https://aviationweek.com/defense-space/space/nasa-spacewalkers-complete-iss-solar-power-system-upgrade"
+   }
+  ],
+  "potencial": 6,
+  "tono": "noticia",
+  "fotograma1": "Un astronauta diminuto desenrollando un panel solar gigante como una alfombra sobre la Tierra",
+  "gancho": "Han desenrollado una alfombra de energía a 400 kilómetros de altura.",
+  "guion": "La Estación Espacial Internacional acaba de terminar una mejora de cinco años. Dos astronautas, Anil Menon y Joshua Kutryk, salieron al vacío para instalar el último de ocho paneles solares nuevos. Se llevan enrollados, como una esterilla de yoga, y se despliegan fuera. Con ellos, la estación tiene hasta un treinta por ciento más de electricidad. Es como poner placas nuevas a una casa con veinticinco años. Así la ISS aguantará hasta su retirada, prevista para 2030.",
+  "cierre": "¿Crees que la ISS debería retirarse en 2030 o seguir más tiempo?",
+  "grafismos": "Panel enrollado que se despliega como una esterilla; contador de 8 paneles que se iluminan uno a uno; barra de energía que sube hasta +30 %; casa antigua con placas solares nuevas; calendario hasta 2030",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "El '30 %' es 'hasta un 30 %'. No des detalles del contratiempo de energía: no están verificados. No digas altura exacta distinta de 'unos 400 km'.",
+  "analizado": "2026-11-07T06:30:00Z"
+ },
+ "71794184b4": {
+  "titular": "La Tierra tiene una mini-luna nueva: mide como un balón y se irá en Navidad",
+  "resumen": "Un pequeño objeto llamado 2026 QQ8 está atrapado temporalmente por la gravedad de la Tierra. Lo descubrió el astrónomo Krisztián Sárneczky el 20 de agosto de 2026 y el Centro de Planetas Menores lo comunicó el 29 de octubre. Según EarthSky, entró en órbita en abril y se quedará hasta final de año. Aún se debate si es un asteroide o basura espacial.",
+  "por_que": "Tu planeta tiene ahora un segundo satélite natural... aunque minúsculo y de visita corta. Es de esas cosas que ocurren sin que nadie se entere.",
+  "datos_clave": [
+   "Descubierto el 20 de agosto de 2026 por Krisztián Sárneczky (EarthSky, Gizmodo)",
+   "Comunicado por el Minor Planet Center el 29 de octubre de 2026 (EarthSky)",
+   "Tamaño estimado: en torno a 1 metro (Gizmodo)",
+   "Se quedará hasta final de año (EarthSky, Space.com)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long"
+   },
+   {
+    "n": "EarthSky",
+    "u": "https://earthsky.org/?p=563825"
+   },
+   {
+    "n": "Gizmodo",
+    "u": "https://gizmodo.com/welcome-earths-new-mini-moon-its-adorably-small-and-has-a-loopy-orbit-2000834862"
+   }
+  ],
+  "potencial": 6,
+  "tono": "asombro",
+  "fotograma1": "La Tierra con la Luna grande y una mini-luna diminuta dando vueltas locas alrededor",
+  "gancho": "Ahora mismo, la Tierra tiene dos lunas. La segunda mide como un balón.",
+  "guion": "Ahora mismo la Tierra tiene dos lunas. La nueva se llama 2026 QQ8 y es diminuta: más o menos del tamaño de un balón, un metro aproximadamente. La descubrió en agosto el astrónomo Krisztián Sárneczky. La gravedad de la Tierra la ha atrapado, pero solo de forma temporal: se irá a final de año. Aún no está claro si es un asteroide pequeño o basura espacial. Piensa en un invitado que se queda hasta Navidad y no vuelve.",
+  "cierre": "¿Le pondrías nombre a la mini-luna? Te leo en comentarios.",
+  "grafismos": "Tierra y Luna con una bolita orbitando en bucles raros; comparación de tamaño: balón junto a la Luna; calendario de abril a diciembre; interrogante asteroide vs basura espacial",
+  "caducidad": "🔴 publicar antes de que termine el año (se va a final de 2026)",
+  "avisos": "Tamaño (~1 m) y fecha de salida son estimaciones de medios, no confirmación oficial; el Minor Planet Center no tiene claro si es asteroide o basura espacial. No digas 'segunda luna' sin 'temporal'.",
+  "analizado": "2026-11-07T06:30:00Z"
+ },
+ "8d52434ca2": {
+  "titular": "Primer extranjero en la estación espacial china: un astronauta de Pakistán",
+  "resumen": "La televisión estatal china ha informado de que un astronauta paquistaní viajará en la nave Shenzhou 24 y será el primer ciudadano extranjero en subir a la estación espacial Tiangong. Es fruto de un acuerdo de 2025 entre la agencia china CMSA y la paquistaní SUPARCO para seleccionar y entrenar astronautas. Se le describe como especialista de carga útil, con experimentos propios de Pakistán. No está confirmada la duración de la estancia.",
+  "por_que": "Hasta ahora, para ir al espacio con otro país tenías que pasar por la ISS. China abre su estación a invitados y el mapa de quién llega al espacio empieza a cambiar.",
+  "datos_clave": [
+   "Será el primer extranjero en la estación Tiangong (Phys.org, medios estatales chinos)",
+   "Acuerdo CMSA–SUPARCO firmado en 2025 (China in Space)",
+   "Viaja en la nave Shenzhou 24 (Phys.org)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Phys.org (AFP)",
+    "u": "https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html"
+   },
+   {
+    "n": "China in Space",
+    "u": "https://www.china-in-space.com/p/pakistani-astronaut-to-be-tiangongs"
+   }
+  ],
+  "potencial": 6,
+  "tono": "noticia",
+  "fotograma1": "La estación Tiangong con una bandera de Pakistán que se ilumina en un módulo",
+  "gancho": "Hasta hoy, la estación espacial china no había dejado entrar a nadie de fuera.",
+  "guion": "Hasta ahora, solo los chinos habían vivido en su estación espacial. Eso se acaba. China ha anunciado que un astronauta de Pakistán viajará en la nave Shenzhou 24 y será el primer extranjero en pisar la estación Tiangong. Va a hacer experimentos de su país. Es como si hasta ahora tu vecino no te hubiera dejado pasar del recibidor y, de repente, te invitase a cenar. El espacio tenía un club principal, la ISS. Ahora hay un segundo club, y con sus propias normas.",
+  "cierre": "¿Crees que China acabará siendo la anfitriona de más países que la ISS? Te leo.",
+  "grafismos": "Mapa con Pakistán y China unidos por una línea hasta la órbita; Tiangong en 3D con puerta que se abre; etiqueta 'PRIMER EXTRANJERO'; comparación de dos clubes: ISS y Tiangong",
+  "caducidad": "🟡 publicar en 1-2 semanas (mejor antes del lanzamiento)",
+  "avisos": "Fecha de lanzamiento y duración de la estancia NO confirmadas (las fuentes difieren). No des nombre del astronauta ni fecha sin confirmar. Se basa en medios estatales chinos.",
+  "analizado": "2026-11-07T18:55:00Z"
+ },
+ "e574df8b12": {
+  "titular": "La NASA te manda a Titán: apunta tu nombre en el dron Dragonfly",
+  "resumen": "La NASA permite al público mandar su nombre a Titán, la mayor luna de Saturno, en un chip a bordo de la misión Dragonfly. La campaña se anunció el 29 de octubre de 2026 y el plazo termina el 15 de enero de 2027. Dragonfly es un dron que volará por Titán; Space.com sitúa la exploración en 2034 si todo sale según lo previsto. Se está montando en el laboratorio APL de Johns Hopkins.",
+  "por_que": "Es gratis, tarda un minuto y es la única forma de que algo tuyo llegue a más de mil millones de kilómetros de casa.",
+  "datos_clave": [
+   "Plazo hasta el 15 de enero de 2027 (NASA, vía medios)",
+   "Campaña anunciada el 29 de octubre de 2026 (APL Johns Hopkins)",
+   "Misión a Titán prevista para 2034 si todo va según lo planeado (Space.com)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission"
+   },
+   {
+    "n": "Johns Hopkins APL",
+    "u": "https://www.jhuapl.edu/news/news-releases/261029-send-name-to-titan"
+   },
+   {
+    "n": "NASA",
+    "u": "https://nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission"
+   }
+  ],
+  "potencial": 7,
+  "tono": "asombro",
+  "fotograma1": "Un dron gigante sobrevolando las dunas naranjas de Titán con un nombre brillando en su chip",
+  "gancho": "Tu nombre puede viajar a una luna de Saturno. Gratis, y en un minuto.",
+  "guion": "Tu nombre puede acabar en otro mundo. La NASA te deja apuntarlo en un chip que viajará a Titán, una luna de Saturno, a bordo de Dragonfly. Es un dron que va a volar sobre un paisaje de dunas con lagos de gas. Es gratis y tienes hasta el 15 de enero. Si todo va según lo previsto, llegará en 2034. Piensa que es mandar una postal, pero a más de mil millones de kilómetros. Tú no vas a ir, pero tu nombre sí podría. Me lo apunto ahora mismo.",
+  "cierre": "¿Vas a mandar tu nombre? ¿Y el de quién más?",
+  "grafismos": "Pantalla de formulario con un nombre que se convierte en un chip; chip viajando de la Tierra a Saturno; dron con rotores sobre dunas; cuenta atrás hasta el 15 de enero",
+  "caducidad": "🔴 publicar antes del 15 de enero de 2027",
+  "avisos": "El año de lanzamiento (2028) y la llegada (2034) dependen de que no haya retrasos. No digas que 'tú' viajas: solo viaja el nombre en un chip. Datos del plazo leídos en medios que citan a la NASA.",
+  "analizado": "2026-11-07T18:55:00Z"
+ },
+ "3da2b26919": {
+  "titular": "La sonda Hera ya ve el sistema de asteroides al que la NASA disparó una nave",
+  "resumen": "La sonda europea Hera, de la ESA, ha obtenido las primeras imágenes del sistema binario de asteroides Didymos, el primero que la humanidad ha 'golpeado' al estrellar la misión DART de la NASA contra Dimorphos. La ESA publicó un primer atisbo a unos 236.500 km, cuando aún era menos de un píxel. Después, Hera resolvió la pareja desde unos 1.280 km. Las imágenes detalladas de Dimorphos se esperan para el 25 de noviembre.",
+  "por_que": "Es el seguimiento del primer experimento real de defensa planetaria: saber si podríamos desviar un asteroide si uno viniera hacia aquí.",
+  "datos_clave": [
+   "Primer atisbo a unos 236.500 km, menos de un píxel (ESA)",
+   "Pareja separada desde unos 1.280 km el 18 de octubre (ESA)",
+   "Primeras imágenes detalladas de Dimorphos previstas el 25 de noviembre (ESA, según informes)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026"
+   },
+   {
+    "n": "ESA",
+    "u": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Destination_in_sight_Hera_s_first_glimpse_of_Didymos"
+   }
+  ],
+  "potencial": 6,
+  "tono": "explicación",
+  "fotograma1": "Un punto de luz que crece hasta mostrar dos asteroides, uno grande y otro pequeño",
+  "gancho": "Hace unos años chocamos contra un asteroide. Ahora vamos a ver cómo quedó.",
+  "guion": "En 2022 la NASA estrelló una nave contra un asteroide a propósito. Y ahora llega la inspección. La sonda europea Hera ya ve la pareja de asteroides desde lejos. Al principio era menos de un píxel, un puntito. Ahora ya se distinguen los dos. Es como el perito del seguro que llega a mirar el golpe, pero a millones de kilómetros. Las fotos detalladas de Dimorphos, el asteroide golpeado, están previstas para el 25 de noviembre.",
+  "cierre": "¿Crees que algún día desviaremos un asteroide de verdad? Dime en comentarios.",
+  "grafismos": "Punto que se amplía hasta dos rocas; animación del impacto de DART; coche de peritos con Hera; calendario con marca 25 de noviembre",
+  "caducidad": "🟡 publicar antes del 25 de noviembre",
+  "avisos": "El 25 de noviembre es la fecha prevista, no confirmada por nota oficial leída. No cites tamaños exactos de los asteroides sin consultar la ESA. No digas que 'ya hay fotos del cráter'.",
+  "analizado": "2026-11-07T18:55:00Z"
+ },
+ "d54f490be9": {
+  "titular": "Un robot construye una estructura en órbita sin ayuda humana por primera vez",
+  "resumen": "Un robot diseñado por Caltech, dentro del programa NOM4D de la agencia DARPA, ha ensamblado en órbita una estructura de vigas sin intervención de astronautas. El brazo robótico pone las piezas y las une mientras despliega una malla reflectante que simula una antena. La carga viajó en la misión Transporter-16 de SpaceX, a finales de marzo. Es una prueba a pequeña escala de una idea mucho mayor.",
+  "por_que": "Hoy todo lo que se pone en órbita tiene que caber en un cohete. Si los robots pueden montar piezas en el espacio, podremos hacer cosas mucho más grandes.",
+  "datos_clave": [
+   "Estructura autónoma montada en órbita por una carga de Caltech (DARPA, Phys.org)",
+   "Lanzada en Transporter-16 de SpaceX a finales de marzo (DARPA)",
+   "El objetivo de NOM4D es construir estructuras enormes, de cientos de metros (DARPA)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "DARPA",
+    "u": "https://www.darpa.mil/news/2026/nom4d-program-demonstrates-automated-in-space-assembly"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html"
+   }
+  ],
+  "potencial": 5,
+  "tono": "explicación",
+  "fotograma1": "Un brazo robótico flotando sobre la Tierra que enlaza vigas hasta formar un aro",
+  "gancho": "Un robot acaba de montar una estructura en el espacio. Solo.",
+  "guion": "Todo lo que mandamos al espacio tiene que caber dentro de un cohete. Es como mudarte con una maleta. Pues eso está cambiando. Un robot de Caltech acaba de construir una estructura en órbita sin que ningún astronauta le echara una mano. Va cogiendo vigas, las une y despliega una malla que haría de antena. Ahora es pequeño, pero la idea es montar piezas enormes, de cientos de metros. Sería como pasar de la maleta a hacer muebles de IKEA en órbita.",
+  "cierre": "¿Qué construirías tú en el espacio si pudieras? Te leo.",
+  "grafismos": "Cohete con maleta que no cabe; brazo robótico animado uniendo vigas; aro que crece; comparación de tamaño con un estadio",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No he podido leer el comunicado completo de DARPA; no des medidas exactas ni fechas del montaje. No digas 'la primera construcción en el espacio' a secas: es la primera demo autónoma de este tipo según el medio.",
+  "analizado": "2026-11-07T18:55:00Z"
+ },
+ "aff8c97b0b": {
+  "titular": "La NASA abre la convocatoria de astronautas: tienes hasta el 3 de diciembre",
+  "resumen": "La NASA ha abierto la solicitud para su próxima promoción de astronautas, la primera convocatoria en dos años. Los candidatos, que deben ser ciudadanos de EE. UU., pueden presentar su solicitud hasta el 3 de diciembre a través de USAJobs.gov. La agencia prevé anunciar la selección a finales de 2027. Los elegidos se incorporarán mientras la NASA vuelve a la Luna y construye su base lunar.",
+  "por_que": "Es la oportunidad de ver, en directo y sin trucos, qué hay que tener para ser astronauta; y de paso, la NASA prepara a esta gente para vivir en la Luna.",
+  "datos_clave": [
+   "Plazo hasta el 3 de diciembre, 23:59 hora del este de EE. UU. (NASA)",
+   "Requisitos: ciudadanía estadounidense y máster en una disciplina STEM (NASA)",
+   "Selección prevista a finales de 2027 (NASA)",
+   "En la anterior ronda hubo más de 8.000 solicitudes para 10 plazas (medios; NASA)"
+  ],
+  "verificacion": "confirmado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+   },
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
+   },
+   {
+    "n": "NASA Watch",
+    "u": "https://nasawatch.com/2026/11/07/nasa-astronaut-applications-next-class/"
+   }
+  ],
+  "potencial": 6,
+  "tono": "explicación",
+  "fotograma1": "Un casco de astronauta con el reflejo de la Luna y un botón gigante 'Apply' que se pulsa",
+  "gancho": "La NASA busca astronautas… y la oferta de empleo es pública.",
+  "guion": "La NASA acaba de abrir las solicitudes para su próxima promoción de astronautas. Es la primera convocatoria en dos años. Tienes hasta el 3 de diciembre para presentarte, eso sí, solo si eres estadounidense y tienes un máster en ciencias o ingeniería. La última vez se presentaron más de ocho mil personas para solo diez plazas. Es como entrar en una final de la Champions con diez puestos. Los elegidos se anunciarán a finales de 2027 y trabajarán en el regreso a la Luna.",
+  "cierre": "Si pudieras presentarte, ¿te atreverías a mandar la solicitud?",
+  "grafismos": "Anuncio de oferta de empleo con botón 'Apply'; calendario con el 3 de diciembre marcado; 8.000 siluetas reducidas a 10; casco que se cierra; Luna con una base",
+  "caducidad": "🔴 publicar antes del 3 de diciembre de 2026",
+  "avisos": "No decir que se puede presentar cualquiera: exige ciudadanía estadounidense. La cifra de 8.000 solicitudes es de la ronda anterior (2025), según medios.",
+  "analizado": "2026-11-08T08:00:00Z"
+ },
+ "8a4cc8d295": {
+  "titular": "La NASA enviará a la Luna un rover nuclear para sobrevivir a la noche lunar",
+  "resumen": "La NASA ha anunciado nuevos contratos para su base lunar, entre ellos el rover PROMISE, un vehículo de seis ruedas con energía nuclear. Aterrizará cerca del polo sur de la Luna para estudiar la superficie y el subsuelo y buscar recursos. Según la cobertura de la nota de la NASA, se apunta a finales de 2028 con una misión de unos 18 meses y Blue Origin como contratista.",
+  "por_que": "Una noche en la Luna dura unos 14 días terrestres a -170 °C o menos: sin energía nuclear, un rover solar muere. Esto es lo que hará posible vivir allí.",
+  "datos_clave": [
+   "Rover PROMISE de seis ruedas, alimentado por generador nuclear (RTG), para el polo sur lunar (NASA)",
+   "Objetivo de lanzamiento: finales de 2028, misión de unos 18 meses (NASA, según cobertura)",
+   "Contrato base con Blue Origin de unos 94 millones de dólares (por confirmar en la nota oficial)",
+   "La noche lunar dura unos 14 días terrestres (NASA)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+   },
+   {
+    "n": "NASA JPL",
+    "u": "https://www.jpl.nasa.gov/news/nasa-awards-moon-base-transportation-technology-science-projects/"
+   }
+  ],
+  "potencial": 7,
+  "tono": "asombro",
+  "fotograma1": "Un rover brillando en la oscuridad total de la Luna, con un núcleo naranja encendido",
+  "gancho": "En la Luna la noche dura dos semanas. Este rover no se apaga.",
+  "guion": "La NASA va a mandar a la Luna un rover con energía nuclear. Se llama PROMISE y tiene seis ruedas. ¿Por qué nuclear? Porque en la Luna la noche dura unas dos semanas terrestres y hace un frío brutal. Un rover solar se apagaría. Este llevará un generador que produce electricidad con calor, como una pila gigante que no se acaba. Irá al polo sur lunar a buscar agua helada y a elegir dónde se construirá la base. Despegue previsto: finales de 2028.",
+  "cierre": "¿Te irías a vivir a una base lunar con noches de dos semanas?",
+  "grafismos": "Sol poniéndose sobre la Luna con contador de 14 días; rover con ruedas girando; pila nuclear brillando; termómetro bajando; hielo bajo el polo sur",
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Cifras de contrato (94 M$) y fechas proceden de cobertura secundaria; no darlas como exactas hasta contrastar con la nota de la NASA. No confundir con los 10.000 M$ de techo de CLPS 2, que no es dinero adjudicado.",
+  "analizado": "2026-11-08T08:00:00Z"
+ },
+ "4c8417bb19": {
+  "titular": "El James Webb ve más de 100 estrellas sueltas en una galaxia muy lejana",
+  "resumen": "Un equipo liderado por J. M. Palencia ha identificado más de 100 'eventos estelares' ampliados en la galaxia Dragón, que se ve a través del cúmulo de galaxias Abell 370. Antes se habían contado unos 44, así que es la primera vez que se estudia un conjunto tan grande. Es un artículo en arXiv (preprint, publicado por primera vez en abril de 2026), aún sin revisión por pares confirmada. Además, los eventos sirven para dibujar las zonas de mayor aumento del cúmulo.",
+  "por_que": "Es como distinguir una por una las farolas de una ciudad a la que miras desde otro continente: una galaxia enorme se convierte en un puñado de estrellas contables gracias a una lupa cósmica natural.",
+  "datos_clave": [
+   "Más de 100 eventos estelares ampliados en la galaxia Dragón (preprint arXiv 2604.22702)",
+   "Corrimiento al rojo z≈0,725, galaxia vista tras el cúmulo Abell 370 (arXiv)",
+   "El récord anterior era de 44 eventos (Fudamoto et al. 2025, según el propio preprint)",
+   "Las estrellas anteriores eran supergigantes rojas similares a Betelgeuse (estudio de 2025)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "arXiv (preprint 2604.22702)",
+    "u": "https://arxiv.org/abs/2604.22702"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html"
+   }
+  ],
+  "potencial": 6,
+  "tono": "asombro",
+  "fotograma1": "Una galaxia curvada y estirada, como un arco, que se rompe en decenas de puntitos brillantes",
+  "gancho": "Esto no es una galaxia: son más de cien estrellas sueltas a miles de millones de años luz.",
+  "guion": "Imagina distinguir una a una las farolas de una ciudad que está en otro continente. Imposible, ¿no? Pues el telescopio James Webb acaba de hacer algo parecido. Mira una galaxia llamada Dragón, tan lejana que su luz sale de hace miles de millones de años. Y gracias a un cúmulo de galaxias que actúa como lupa gigante, ha contado más de cien estrellas individuales. El récord anterior eran unas cuarenta y cuatro. Ojo: es un estudio todavía sin revisar por otros científicos. Pero si se confirma, tenemos un mapa de estrellas en una galaxia que parecía una simple mancha.",
+  "cierre": "Si pudieras ponerle nombre a una de esas estrellas, ¿cómo la llamarías?",
+  "grafismos": [
+   "Lupa que se mueve sobre una mancha borrosa y la convierte en puntos",
+   "Contador animado de 44 a más de 100",
+   "Cúmulo de galaxias como lente que curva la luz",
+   "Escala comparando farolas de una ciudad lejana"
+  ],
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "Es un preprint sin revisión por pares confirmada. No decir 'estrellas fotografiadas una a una' como hecho cerrado. No se ha verificado la distancia en años luz; no dar cifra exacta. No consultada la nota de Phys.org por falta de acceso.",
+  "analizado": "2026-11-09T12:00:00Z"
+ },
+ "4719ecde88": {
+  "titular": "La NASA sopesa llevar a la Luna un rover gemelo de Perseverance",
+  "resumen": "La NASA estudia enviar a la Luna, como parte de su plan de Moon Base, un rover de pruebas gemelo de Perseverance, llamado PROMISE. Según la cobertura, su energía nuclear le permitiría explorar cráteres siempre en sombra donde se cree que hay hielo de agua. El diseño y la fuente de energía no son definitivos. NASASpaceFlight titula el 8 de noviembre que el plan 'gana un PROMISE', pero no hemos podido leer el detalle de esa actualización.",
+  "por_que": "Reutilizar un rover que ya existe en la Tierra sería la forma más barata de tener un explorador en la Luna, el sitio donde se quiere construir la primera base.",
+  "datos_clave": [
+   "PROMISE sería un rover de pruebas gemelo de Perseverance (Space.com, GeekWire)",
+   "NASA no ha confirmado el diseño ni la fuente de energía final (cobertura de junio de 2026)",
+   "Objetivo: cráteres en sombra permanente con posible hielo de agua (Space.com)"
+  ],
+  "verificacion": "anunciado",
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/moon/promise-me-the-moon-nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-lunar-surface"
+   },
+   {
+    "n": "GeekWire",
+    "u": "https://www.geekwire.com/2026/nasa-spare-mars-rover-to-moon-base/"
+   },
+   {
+    "n": "NASASpaceFlight",
+    "u": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/"
+   }
+  ],
+  "potencial": 6,
+  "tono": "noticia",
+  "fotograma1": "Perseverance duplicado y el duplicado aterrizando en el polo sur lunar",
+  "gancho": "La NASA tiene un rover sobrante y quiere mandarlo a la Luna.",
+  "guion": "En un hangar de la NASA hay un rover que es el gemelo de Perseverance, el que explora Marte. Lo usan para probar cosas en la Tierra. Y ahora la agencia estudia mandarlo a la Luna. Se llama PROMISE. La idea es que funcione con energía nuclear, para sobrevivir a las noches lunares y entrar en cráteres donde nunca da el sol, con posible hielo de agua. Es como reciclar el coche de pruebas de una fábrica y mandarlo al fin del mundo. Ojo: el diseño aún no es definitivo. Pero sería el primer paso del explorador de la futura base lunar.",
+  "cierre": "¿Reciclarías un rover o prefieres uno nuevo para la Luna?",
+  "grafismos": [
+   "Dos rovers idénticos, uno en Marte y uno en un hangar",
+   "Rover entrando en un cráter oscuro con linterna",
+   "Hielo de agua brillando en el fondo",
+   "Mapa del polo sur lunar con un punto"
+  ],
+  "caducidad": "🟡 publicar en 1-2 semanas",
+  "avisos": "No decir que está aprobado ni dar fecha de lanzamiento. Diseño y energía nuclear no confirmados por NASA. No se pudo leer la nota de NASASpaceFlight del 8 nov ni la de Payload sobre los anuncios de MAX POWER; no inventar adjudicaciones.",
+  "analizado": "2026-11-09T12:00:00Z"
+ }
 }
