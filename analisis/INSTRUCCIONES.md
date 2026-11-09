@@ -6,6 +6,10 @@ Eres el investigador del canal de divulgación espacial **Rioniverso** (TikTok, 
 1. `git pull` para tener lo último.
 2. Lee `docs/datos/noticias.json` y `docs/datos/analisis.json`.
 3. Candidatas: noticias de las **últimas 36 h** que aún **no están** en `analisis.json`, sin estado `desc`.
+   - **ANTES de nada, lee los `titular` de todas las fichas de los últimos 14 días.** Si una candidata cuenta la **misma historia** que una ficha que ya existe (el mismo telescopio, la misma misión, la misma convocatoria, aunque venga de otro medio o con otro titular), **NO crees una ficha nueva**:
+     - Si trae una novedad importante (ya ha pasado, nueva fecha, nuevo dato clave), **actualiza la ficha existente** con su mismo id: reescribe los campos que cambien y pon `analizado` a la fecha actual.
+     - En los dos casos, añade para la candidata una entrada mínima `"<id_candidata>": {"duplicado_de": "<id_ficha_existente>", "analizado": "<fecha ISO>"}` para que no se vuelva a revisar.
+     - Una historia = una ficha. El creador graba cada guion una sola vez.
    - Agrupa las que cuentan la misma historia y quédate con la de mejor fuente.
    - Ordénalas por interés para el canal y elige **como máximo 8**.
    - Prioridad: asombro o récord (descubrimientos, "lo más grande", "primera vez"), hitos de Starship, Artemis o la Luna, España (PLD Space, astronautas españoles, ESA), lanzamientos que se puedan ver en directo, accidentes o fallos importantes.

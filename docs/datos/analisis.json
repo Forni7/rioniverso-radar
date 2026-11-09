@@ -64,7 +64,8 @@
   "grafismos": "Órbita en espiral descendente alrededor de la Tierra; nave de rescate que gira sin control y se aleja; telescopio entrando en la atmósfera envuelto en llamas; mapa del mundo con zona de caída parpadeando con interrogantes",
   "caducidad": "🔴 publicar antes de la reentrada (fecha aún sin confirmar)",
   "avisos": "No decir fecha ni lugar de caída: no están confirmados. No afirmar que habrá restos peligrosos. Antes de publicar, comprobar si ya ha reentrado.",
-  "analizado": "2026-11-03T08:00:00Z"
+  "analizado": "2026-11-03T08:00:00Z",
+  "duplicado_de": "23c572347a"
  },
  "b9487f47e6": {
   "titular": "Cuatro voluntarios salen de un Marte simulado tras más de un año encerrados",
@@ -91,7 +92,8 @@
   "grafismos": "Hábitat tipo contenedor sobre arena roja; calendario que pasa hojas durante un año; cuatro siluetas en fila; puerta que se abre y entra luz azul",
   "caducidad": "🟡 publicar en 1-2 semanas",
   "avisos": "Duración exacta en días y detalles de la misión no verificados: decir solo 'más de un año'. No afirmar el lugar de forma distinta a lo que diga la NASA (Houston es el de la primera misión).",
-  "analizado": "2026-11-03T08:00:00Z"
+  "analizado": "2026-11-03T08:00:00Z",
+  "duplicado_de": "9192c11ff8"
  },
  "c3823a41cf": {
   "titular": "Swift, el cazador de explosiones cósmicas, cae a la Tierra esta semana",
@@ -123,7 +125,8 @@
   "grafismos": "Swift orbitando y bajando poco a poco; cuenta atrás hasta el 4 de noviembre; comparación de su peso con un coche pequeño; entrada en la atmósfera en llamas; estrellas con destellos de explosiones cósmicas",
   "caducidad": "🔴 publicar antes del 4-5 de noviembre (reentrada)",
   "avisos": "No digas dónde caerá ni la hora exacta: no hay lugar confirmado. La fecha es una previsión. Algunos componentes podrían sobrevivir; no hables de peligro para la gente.",
-  "analizado": "2026-11-03T06:30:00Z"
+  "analizado": "2026-11-03T06:30:00Z",
+  "duplicado_de": "23c572347a"
  },
  "c629f6c55b": {
   "titular": "Dos sondas de la NASA dan un latigazo a la Tierra para volar a Marte",
@@ -253,7 +256,8 @@
   "grafismos": "Nave DART chocando contra el asteroide y su órbita alargándose; Hera pequeña comparada con un coche; Dimorphos comparado con un estadio; Hera escaneando el cráter; Tierra con un escudo",
   "caducidad": "🟡 publicar en 1-2 semanas (mejor al confirmarse la llegada)",
   "avisos": "No afirmar que Hera ya ha llegado: la fecha exacta de llegada no está confirmada en las fuentes consultadas. No dar el tamaño de la sonda con cifras exactas.",
-  "analizado": "2026-11-04T07:30:00Z"
+  "analizado": "2026-11-04T07:30:00Z",
+  "duplicado_de": "3da2b26919"
  },
  "b85f13415c": {
   "titular": "PLD Space prueba el botón de autodestrucción de su cohete Miura 5",
@@ -608,7 +612,8 @@
   "grafismos": "Esterilla de yoga que se desenrolla hasta ser un panel · Barra de potencia que sube de 160 a 215 kW · Astronauta diminuto junto a la estructura · Contador de 8 paneles iluminándose uno a uno",
   "caducidad": "🟡 publicar en 1-2 semanas",
   "avisos": "Las cifras de potencia son la previsión de la NASA, no una medición posterior. No decir que la estación 'queda como nueva'.",
-  "analizado": "2026-11-06T18:00:00Z"
+  "analizado": "2026-11-06T18:00:00Z",
+  "duplicado_de": "fd82a7aa8a"
  },
  "3f1a1f67d7": {
   "titular": "Starship intentará atrapar cohete y nave a la vez en su vuelo 15",
@@ -1113,6 +1118,7 @@
   "grafismos": "Anuncio de empleo con 'Se busca'; contador de 8.000 siluetas reducido a 10; calendario de 2027 a 2028; Luna como destino",
   "caducidad": "🔴 publicar antes del 3 de diciembre de 2026",
   "avisos": "No decir que cualquiera puede presentarse: hay que ser estadounidense. El número de astronautas activos varía según la fuente; no usarlo.",
-  "analizado": "2026-11-09T14:30:00Z"
+  "analizado": "2026-11-09T14:30:00Z",
+  "duplicado_de": "aff8c97b0b"
  }
 }
