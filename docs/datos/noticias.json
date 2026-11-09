@@ -1,5 +1,888 @@
 [
  {
+  "id": "2efbd66871",
+  "t": "2026-11-09T22:27:12+00:00",
+  "visto": "2026-11-09T23:11:32.099718+00:00",
+  "titulo": "Rubies on Mars?",
+  "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/blog/rubies-on-mars/"
+   }
+  ],
+  "desc": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of […]",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "¿Rubíes en Marte?",
+  "resumen_es": "Escrito por Roger C. Wiens, investigador principal de SuperCam para el rover Perseverance de la NASA en la Universidad Purdue el 4 de noviembre de 2026 La exploración en Marte revela lo inesperado. Perseverance está equipado con un fantástico conjunto de instrumentos para estudiar el registro de rocas de este antiguo planeta. Tanto PIXL como SuperCam tienen grandes capacidades para detectar todo tipo de […]",
+  "tg": 308
+ },
+ {
+  "id": "28ce724ae8",
+  "t": "2026-11-09T22:25:52+00:00",
+  "visto": "2026-11-09T23:11:32.097277+00:00",
+  "titulo": "Newest Sample, Oldest Rock?",
+  "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
+   }
+  ],
+  "desc": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "¿La muestra más nueva, la roca más antigua?",
+  "resumen_es": "Escrito por Tasha Coelho, estudiante colaboradora de Mastcam-Z en la Universidad Estatal de Arizona el 1 de noviembre de 2026 La abrasión más reciente de Perseverance, “Pumbe”, tiene un parecido sorprendente con una abrasión anterior, “Badger Peak”. Eso no es una coincidencia. Como se informó anteriormente, esa roca tenía una dureza demasiado alta para extraer el núcleo. Sin embargo, el equipo sintió firmemente que valía la pena el esfuerzo […]",
+  "tg": 307
+ },
+ {
+  "id": "ef6b82d493",
+  "t": "2026-11-09T22:11:05+00:00",
+  "visto": "2026-11-09T23:11:32.094673+00:00",
+  "titulo": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/on-this-day-in-space-november-9-2026"
+   }
+  ],
+  "desc": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard",
+  "img": "https://cdn.mos.cms.futurecdn.net/orAzf53VhdczZhcDoz3Th4-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "¡En este día en el espacio! 9 de noviembre de 1967: La NASA lanza el cohete lunar Saturno V por primera vez en el Apolo 4, pero no había astronautas a bordo.",
+  "resumen_es": "¡En este día en el espacio! 9 de noviembre de 1967: La NASA lanza el cohete lunar Saturno V por primera vez en el Apolo 4, pero no había astronautas a bordo.",
+  "tg": 306
+ },
+ {
+  "id": "1897c5b62d",
+  "t": "2026-11-09T22:10:04+00:00",
+  "visto": "2026-11-09T23:11:32.090974+00:00",
+  "titulo": "Subaru Telescope reveals the shape and temperature of Comet Encke's nucleus",
+  "url": "https://phys.org/news/2026-11-subaru-telescope-reveals-temperature-comet.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-subaru-telescope-reveals-temperature-comet.html"
+   }
+  ],
+  "desc": "Mid-infrared observations with the Subaru Telescope have revealed the shape and surface temperature of the nucleus of Comet 2P/Encke. By analyzing how the nucleus's thermal emission changed as it rotated, the researchers found that the nucleus is elongated, with a long axis of about 7 kilometers and a short axis of about 3 kilometers. They also determined that the surface temperature at the time of observation was 328 ± 7 Kelvin (about 55°C).",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/subaru-telescope-revea.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El Telescopio Subaru revela la forma y temperatura del núcleo del cometa Encke",
+  "resumen_es": "Las observaciones en el infrarrojo medio realizadas con el telescopio Subaru han revelado la forma y la temperatura de la superficie del núcleo del cometa 2P/Encke. Al analizar cómo cambiaba la emisión térmica del núcleo a medida que giraba, los investigadores descubrieron que el núcleo es alargado, con un eje largo de unos 7 kilómetros y un eje corto de unos 3 kilómetros. También determinaron que la temperatura de la superficie en el momento de la observación era de 328 ± 7 Kelvin (aproximadamente 55°C).",
+  "tg": 305
+ },
+ {
+  "id": "8567e4cdf3",
+  "t": "2026-11-09T22:00:00+00:00",
+  "visto": "2026-11-09T23:11:32.087742+00:00",
+  "titulo": "Jupiter and Mars are set for a breathtaking close approach later this week: Here's how to see it",
+  "url": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it"
+   }
+  ],
+  "desc": "Jupiter and Mars will appear incredibly close as they shine in the constellation Leo on Nov. 15.",
+  "img": "https://cdn.mos.cms.futurecdn.net/vKVKLnjKxh8SEh5Q7MUwpk-1920-80.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Júpiter y Marte están listos para un acercamiento impresionante a finales de esta semana: aquí se explica cómo verlo",
+  "resumen_es": "Júpiter y Marte aparecerán increíblemente cerca cuando brillen en la constelación de Leo el 15 de noviembre.",
+  "tg": 304
+ },
+ {
+  "id": "f21c70b8de",
+  "t": "2026-11-09T21:44:00+00:00",
+  "visto": "2026-11-09T23:11:32.084459+00:00",
+  "titulo": "Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously",
+  "url": "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar"
+   }
+  ],
+  "desc": "Mechanical engineering assistant professor Erik Komendera developed a method that combines vibrations and AI to determine how deeply a rock is buried, helping robots clear terrain more efficiently.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Utilizando vibraciones e inteligencia artificial, futuras misiones robóticas podrían manejar rocas enterradas de forma autónoma",
+  "resumen_es": "El profesor asistente de ingeniería mecánica Erik Komendera desarrolló un método que combina vibraciones e inteligencia artificial para determinar a qué profundidad está enterrada una roca, lo que ayuda a los robots a limpiar el terreno de manera más eficiente.",
+  "tg": 303
+ },
+ {
+  "id": "c7c5f959ed",
+  "t": "2026-11-09T21:25:39+00:00",
+  "visto": "2026-11-09T23:11:32.077183+00:00",
+  "titulo": "Mars' Molten Heart is Long Gone, but Some Magma Chambers May Persist",
+  "url": "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist"
+   }
+  ],
+  "desc": "Mars may be more volcanically active than we thought, according to new research. The Trace Gas Orbiter detected HCl, a chemical associated with magma, at a time of year that's difficult except by volcanic origins. The new research also identified new surface fissures on Mars that could be the source of the chemical.",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El corazón fundido de Marte desapareció hace mucho tiempo, pero algunas cámaras de magma pueden persistir",
+  "resumen_es": "Según una nueva investigación, Marte puede tener más actividad volcánica de lo que pensábamos. El Trace Gas Orbiter detectó HCl, una sustancia química asociada con el magma, en una época del año difícil excepto por su origen volcánico. La nueva investigación también identificó nuevas fisuras en la superficie de Marte que podrían ser la fuente de la sustancia química.",
+  "tg": 302
+ },
+ {
+  "id": "6ca4a6e76d",
+  "t": "2026-11-09T21:20:40+00:00",
+  "visto": "2026-11-09T23:11:32.074246+00:00",
+  "titulo": "RUMMBLE",
+  "url": "https://www.nasa.gov/ames/earth-science/rummble/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/ames/earth-science/rummble/"
+   }
+  ],
+  "desc": "Overview RUMMBLE, which stands for Remote-sensing Underground Magma Movement Before Large Eruptions, investigates how magma movement beneath volcanoes can be detected using space-based observations. The project focuses on measuring volcanic gas emissions and improving remote-sensing techniques to identify early warning signs of eruptions. What is RUMMBLE? The goal of RUMMBLE is to improve the detection […] The post RUMMBLE appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "RUMBO",
+  "resumen_es": "RUMMBLE, que significa Movimiento de Magma Subterráneo por Teledetección Antes de Grandes Erupciones, investiga cómo se puede detectar el movimiento de magma debajo de los volcanes mediante observaciones espaciales. El proyecto se centra en medir las emisiones de gases volcánicos y mejorar las técnicas de teledetección para identificar señales tempranas de alerta de erupciones. ¿Qué es RUMMBLE? El objetivo de RUMMBLE es mejorar la detección […] La publicación RUMMBLE apareció por primera vez en NASA",
+  "tg": 301
+ },
+ {
+  "id": "4bcbf6775f",
+  "t": "2026-11-09T21:20:20+00:00",
+  "visto": "2026-11-09T23:11:32.071172+00:00",
+  "titulo": "First known 'disappearing planet' has a neighbor that makes it wobble like a top",
+  "url": "https://phys.org/news/2026-11-planet-neighbor.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-planet-neighbor.html"
+   }
+  ],
+  "desc": "UCLA-led astronomers have discovered the first known \"disappearing planet\" about 1,000 light-years away. The planet, TOI-2535 b, is a \"hot Jupiter,\" a gas giant that orbits extremely close to its host star. TOI-2535 b whips around its star in only 8.25 days—10 times faster than the 88 days that Mercury takes to go around our sun once.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/ten-colorful-gas-giant.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El primer 'planeta en desaparición' conocido tiene un vecino que lo hace tambalearse como una peonza",
+  "resumen_es": "Los astrónomos dirigidos por la UCLA han descubierto el primer \"planeta en desaparición\" conocido a unos 1.000 años luz de distancia. El planeta, TOI-2535 b, es un \"Júpiter caliente\", un gigante gaseoso que orbita extremadamente cerca de su estrella anfitriona. TOI-2535 b gira alrededor de su estrella en sólo 8,25 días, 10 veces más rápido que los 88 días que tarda Mercurio en dar una vuelta alrededor de nuestro sol.",
+  "tg": 300
+ },
+ {
+  "id": "f40d8bf906",
+  "t": "2026-11-09T21:03:23+00:00",
+  "visto": "2026-11-09T23:11:32.068082+00:00",
+  "titulo": "SeaSTAR",
+  "url": "https://www.nasa.gov/ames/earth-science/seastar/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/ames/earth-science/seastar/"
+   }
+  ],
+  "desc": "Overview SeaSTAR, which stands for Sea-going Sky-Scanning Sun-tracking Atmospheric Research Radiometer, is a robotic ship-mounted instrument designed to measure aerosol optical depth and aerosol optical properties across multiple wavelengths. The instrument will collect high-resolution atmospheric measurements at sea to support validation of observations from the PACE satellite. What is SeaSTAR? SeaSTAR aims to provide precise […] The post SeaSTAR appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "SeaSTAR",
+  "resumen_es": "Descripción general SeaSTAR, que significa Sea-going Sky-Scanning Sun-tracking Atmospheric Research Radiometer, es un instrumento robótico montado en un barco diseñado para medir la profundidad óptica de los aerosoles y sus propiedades ópticas en múltiples longitudes de onda. El instrumento recopilará mediciones atmosféricas de alta resolución en el mar para respaldar la validación de las observaciones del satélite PACE. ¿Qué es SeaSTAR? SeaSTAR tiene como objetivo proporcionar información precisa […] El post SeaSTA",
+  "tg": 299
+ },
+ {
+  "id": "0f36a522f2",
+  "t": "2026-11-09T19:56:35+00:00",
+  "visto": "2026-11-09T23:11:32.063420+00:00",
+  "titulo": "A Perseverance Experiment Could Help Astronauts Prepare for Dust Storms on Mars",
+  "url": "https://www.universetoday.com/articles/a-perseverance-experiment-could-help-astronauts-prepare-for-dust-storms-on-mars",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/a-perseverance-experiment-could-help-astronauts-prepare-for-dust-storms-on-mars"
+   }
+  ],
+  "desc": "Researchers at Washington University examined how dust interacts with the spacesuit swatches on the Perseverance Rover. Future missions to Mars require that planners account for the effects of dust exposure on humans and materials.",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un experimento de perseverancia podría ayudar a los astronautas a prepararse para las tormentas de polvo en Marte",
+  "resumen_es": "Investigadores de la Universidad de Washington examinaron cómo interactúa el polvo con las muestras del traje espacial del Perseverance Rover. Las futuras misiones a Marte requerirán que los planificadores tengan en cuenta los efectos de la exposición al polvo en los seres humanos y los materiales.",
+  "tg": 298
+ },
+ {
+  "id": "524a15d402",
+  "t": "2026-11-09T19:45:10+00:00",
+  "visto": "2026-11-09T23:11:32.060535+00:00",
+  "titulo": "Neyda Abreu",
+  "url": "https://www.nasa.gov/people/neyda-abreu/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/people/neyda-abreu/"
+   }
+  ],
+  "desc": "Neyda Abreu is Chief Scientist at NASA’s Langley Research Center in Hampton, Virginia. She advises center leadership on research and development in aeronautics, space exploration, Earth science, and technology development. She also serves as Center Science Integrity Officer, manages the Emeriti Langley Associates program, and is the Center POC for the NASA Postdoctoral Program. Abreu […] The post Neyda Abreu appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Neyda Abreu",
+  "resumen_es": "Neyda Abreu es científica jefa del Centro de Investigación Langley de la NASA en Hampton, Virginia. Asesora a los líderes del centro en investigación y desarrollo en aeronáutica, exploración espacial, ciencias de la Tierra y desarrollo tecnológico. También se desempeña como Oficial de Integridad Científica del Centro, administra el programa Emeriti Langley Associates y es la POC del Centro para el Programa Postdoctoral de la NASA. Abreu […] El post Neyda Abreu apareció primero en NASA Science.",
+  "tg": 297
+ },
+ {
+  "id": "601959929e",
+  "t": "2026-11-09T19:43:40+00:00",
+  "visto": "2026-11-09T23:11:32.057353+00:00",
+  "titulo": "Crew Packing Dragon for Return with Experiments and a Spacesuit",
+  "url": "https://www.nasa.gov/blogs/general-blog/2026/11/09/crew-packing-dragon-for-return-with-experiments-and-a-spacesuit/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/blogs/general-blog/2026/11/09/crew-packing-dragon-for-return-with-experiments-and-a-spacesuit/"
+   }
+  ],
+  "desc": "Expedition 75 kicked off the week processing microbe samples and swapping spacesuits for return to Earth soon inside a U.S. cargo craft. The International Space Station crew members also studied breathing in microgravity and photographed Earth landmarks. The post Crew Packing Dragon for Return with Experiments and a Spacesuit appeared first on NASA Science .",
+  "img": "",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Tripulación empacando a Dragon para regresar con experimentos y un traje espacial",
+  "resumen_es": "La Expedición 75 inició la semana procesando muestras de microbios e intercambiando trajes espaciales para regresar pronto a la Tierra dentro de una nave de carga estadounidense. Los miembros de la tripulación de la Estación Espacial Internacional también estudiaron la respiración en microgravedad y fotografiaron puntos de referencia de la Tierra. La publicación Crew Packing Dragon para el regreso con experimentos y un traje espacial apareció por primera vez en NASA Science.",
+  "tg": 296
+ },
+ {
+  "id": "422fb850b0",
+  "t": "2026-11-09T19:27:20+00:00",
+  "visto": "2026-11-09T23:11:32.054642+00:00",
+  "titulo": "La NASA busca a la próxima generación de astronautas",
+  "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/"
+   }
+  ],
+  "desc": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La NASA busca a la próxima generación de astronautas",
+  "resumen_es": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]",
+  "tg": 295
+ },
+ {
+  "id": "7041b445d8",
+  "t": "2026-11-09T19:20:23+00:00",
+  "visto": "2026-11-09T23:11:32.051971+00:00",
+  "titulo": "Long-lived mineral grains can be invaluable for reconstructing impact events, but the stories are complex",
+  "url": "https://phys.org/news/2026-11-mineral-grains-invaluable-reconstructing-impact.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-mineral-grains-invaluable-reconstructing-impact.html"
+   }
+  ],
+  "desc": "Reconstructing impact events on Earth and other planetary bodies, including the moon, is crucial for understanding how the solar system evolved and how planets develop.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/long-lived-mineral-gra.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "Los granos minerales de larga vida pueden ser invaluables para reconstruir eventos de impacto, pero las historias son complejas",
+  "resumen_es": "Reconstruir los impactos en la Tierra y otros cuerpos planetarios, incluida la Luna, es crucial para comprender cómo evolucionó el sistema solar y cómo se desarrollan los planetas.",
+  "tg": 294
+ },
+ {
+  "id": "04df3a9aa5",
+  "t": "2026-11-09T19:08:37+00:00",
+  "visto": "2026-11-09T23:11:32.049210+00:00",
+  "titulo": "Pentagon mulls placing fleet of military satellites around the Moon",
+  "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/"
+   }
+  ],
+  "desc": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "El Pentágono analiza colocar una flota de satélites militares alrededor de la Luna",
+  "resumen_es": "\"Por favor, súbete a mi carro cislunar porque necesito más amigos aquí\".",
+  "tg": 293
+ },
+ {
+  "id": "20bbba1d19",
+  "t": "2026-11-09T19:00:00+00:00",
+  "visto": "2026-11-09T23:11:32.046715+00:00",
+  "titulo": "NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm",
+  "url": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm"
+   }
+  ],
+  "desc": "Well, this should be a nice distraction from the real AI apocalypse.",
+  "img": "https://cdn.mos.cms.futurecdn.net/GxMwLxC7pUUV5a8DwMtrcX-1920-80.png",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El bestseller del NYT 'Robopocalypse' tendrá una serie de televisión con los ganadores del Oscar Ron Howard y Akiva Goldsman al mando",
+  "resumen_es": "Bueno, esto debería ser una buena distracción del verdadero apocalipsis de la IA.",
+  "tg": 292
+ },
+ {
+  "id": "d544226bf8",
+  "t": "2026-11-09T18:55:50+00:00",
+  "visto": "2026-11-09T23:11:32.042822+00:00",
+  "titulo": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+  "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-supernova-impostor-chandra-source-giant.html"
+   }
+  ],
+  "desc": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 8,
+  "silencio": false,
+  "titulo_es": "Chandra de la NASA encuentra la fuente de los misteriosos estallidos de una estrella",
+  "resumen_es": "Utilizando el Observatorio de rayos X Chandra de la NASA, los astrónomos han descubierto qué está provocando repetidos estallidos de una estrella gigante e inestable. Un nuevo estudio, publicado el lunes en el último número de The Astrophysical Journal, detalla el descubrimiento de un objeto compañero previamente oculto que sigue extrayendo material de la estrella masiva cada 113 días mientras orbita […]",
+  "tg": 291
+ },
+ {
+  "id": "49f90bf9ae",
+  "t": "2026-11-09T18:36:51+00:00",
+  "visto": "2026-11-09T23:11:32.039865+00:00",
+  "titulo": "An Artificial CORTEX to Guide Satellite Rescue Missions",
+  "url": "https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions"
+   }
+  ],
+  "desc": "Thousands of so-called zombie satellites orbit Earth in the critical Low-Earth Orbit regime. They're either inactive or have stopped alerting other satellites to their presence. Researchers are building a system called CORTEX that can guide a repair satellite to autonomously dock with these zombies.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Una CORTEX artificial para guiar las misiones de rescate por satélite",
+  "resumen_es": "Miles de los llamados satélites zombis orbitan la Tierra en el crítico régimen de órbita terrestre baja. Están inactivos o han dejado de alertar a otros satélites sobre su presencia. Los investigadores están construyendo un sistema llamado CORTEX que puede guiar a un satélite de reparación para que se acople de forma autónoma con estos zombis.",
+  "tg": 290
+ },
+ {
+  "id": "451624b9fc",
+  "t": "2026-11-09T18:00:00+00:00",
+  "visto": "2026-11-09T23:11:32.034758+00:00",
+  "titulo": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission"
+   }
+  ],
+  "desc": "Starfish Space's first Otter servicing spacecraft suffered a glitch in orbit recently, ending its technology-demonstrating mission for NASA.",
+  "img": "https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Starfish Space pierde contacto con la primera nave espacial de servicio 'Otter', poniendo fin a la misión de demostración técnica de la NASA",
+  "resumen_es": "La primera nave espacial de servicio Otter de Starfish Space sufrió una falla en órbita recientemente, poniendo fin a su misión de demostración de tecnología para la NASA.",
+  "tg": 289
+ },
+ {
+  "id": "1ade761a8a",
+  "t": "2026-11-09T17:42:42+00:00",
+  "visto": "2026-11-09T23:11:32.031627+00:00",
+  "titulo": "NASA Advanced Mid-Power Electric Rocket Challenge",
+  "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/"
+   }
+  ],
+  "desc": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Desafío avanzado de cohetes eléctricos de potencia media de la NASA",
+  "resumen_es": "Los sistemas de propulsores de efecto Hall de potencia media (3-7 kW) han sido identificados por el gobierno y las partes interesadas de la industria como capacidades críticas para misiones satelitales, de defensa y de exploración. Dada la necesidad de esta capacidad, la NASA está lanzando el Desafío Cohete Eléctrico Avanzado de Potencia Media (AMPERE). El Desafío AMPERE de la NASA invita a empresas comerciales estadounidenses a desarrollar y demostrar el efecto Hall de potencia media […]",
+  "tg": 288
+ },
+ {
+  "id": "be388fca73",
+  "t": "2026-11-09T17:40:07+00:00",
+  "visto": "2026-11-09T23:11:32.028127+00:00",
+  "titulo": "Two nearby rocky worlds could offer alien astronomers views of planets appearing to reverse course",
+  "url": "https://phys.org/news/2026-11-nearby-rocky-worlds-alien-astronomers.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-nearby-rocky-worlds-alien-astronomers.html"
+   }
+  ],
+  "desc": "Aliens have long been a staple of science fiction. Yet the possibility of intelligent life beyond Earth is more than a matter of imagination—it is also a subject of serious scientific inquiry. Professor Woong-bae Zee of Sejong University's School of Liberal Studies has recently published an astronomy paper that places the word \"alien\" front and center.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-nearby-rocky-world.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Dos mundos rocosos cercanos podrían ofrecer a los astrónomos extraterrestres vistas de planetas que parecen invertir su curso",
+  "resumen_es": "Los extraterrestres han sido durante mucho tiempo un elemento básico de la ciencia ficción. Sin embargo, la posibilidad de vida inteligente más allá de la Tierra es más que una cuestión de imaginación: también es un tema de investigación científica seria. El profesor Woong-bae Zee de la Escuela de Estudios Liberales de la Universidad Sejong ha publicado recientemente un artículo de astronomía que sitúa la palabra \"alienígena\" al frente y al centro.",
+  "tg": 287
+ },
+ {
+  "id": "f78cfd6f34",
+  "t": "2026-11-09T17:36:33+00:00",
+  "visto": "2026-11-09T23:11:32.024343+00:00",
+  "titulo": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+  "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/"
+   }
+  ],
+  "desc": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+  "resumen_es": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]",
+  "tg": 286
+ },
+ {
+  "id": "ed2b13d1a0",
+  "t": "2026-11-09T17:22:56+00:00",
+  "visto": "2026-11-09T23:11:32.021513+00:00",
+  "titulo": "A Common Food Emulsifier Could Solve One of Rocketry’s Oldest Fuel Problems",
+  "url": "https://www.universetoday.com/articles/a-common-food-emulsifier-could-solve-one-of-rocketrys-oldest-fuel-problems",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/a-common-food-emulsifier-could-solve-one-of-rocketrys-oldest-fuel-problems"
+   }
+  ],
+  "desc": "In propulsion system design, engineers have long faced a trade-off between solid and liquid rocket fuels. Each has advantages and disadvantages, and in an effort to try to min/max the efficacy of different types of fuel, researchers have long placed an emphasis on a hybrid between solids and liquids - in other words they’ve been working with gels. Unfortunately, gels have their own sets of problems to deal with. But a new paper published by Pranay Mudaliar and Jerin John of Concordia in the journal Langmuir uses an uncommon ingredient to elegantly solve some of those problems, but which is typ",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un emulsionante alimentario común podría resolver uno de los problemas de combustible más antiguos de los cohetes",
+  "resumen_es": "En el diseño de sistemas de propulsión, los ingenieros se han enfrentado durante mucho tiempo a un equilibrio entre combustibles sólidos y líquidos para cohetes. Cada uno tiene ventajas y desventajas, y en un esfuerzo por tratar de minimizar/maximizar la eficacia de diferentes tipos de combustible, los investigadores han puesto énfasis durante mucho tiempo en un híbrido entre sólidos y líquidos; en otras palabras, han estado trabajando con geles. Desafortunadamente, los geles tienen sus propios problemas con los que lidiar. Pero un nuevo artículo publicado por Prana",
+  "tg": 285
+ },
+ {
+  "id": "08d0a4416e",
+  "t": "2026-11-09T16:53:47+00:00",
+  "visto": "2026-11-09T23:11:32.016939+00:00",
+  "titulo": "Netflix announces 'Stranger Things' spin-off 'Other Worlds', and it's already teasing a trip to Area 51 (video)",
+  "url": "https://www.space.com/entertainment/space-movies-shows/netflix-announces-stranger-things-spin-off-other-worlds-and-its-already-teasing-a-trip-to-area-51-video",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/space-movies-shows/netflix-announces-stranger-things-spin-off-other-worlds-and-its-already-teasing-a-trip-to-area-51-video"
+   }
+  ],
+  "desc": "The first trailer for Other World: A Stranger Things Adventure doesn't show much, but there are enough clues for fans to figure out what it's about here.",
+  "img": "https://cdn.mos.cms.futurecdn.net/eFymxXpMDLti4TrivUdAk5-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Netflix anuncia el spin-off de 'Stranger Things' 'Otros mundos' y ya adelanta un viaje al Área 51 (vídeo)",
+  "resumen_es": "El primer avance de Other World: A Stranger Things Adventure no muestra mucho, pero hay suficientes pistas para que los fanáticos descubran de qué se trata aquí.",
+  "tg": 284
+ },
+ {
+  "id": "e8a054613f",
+  "t": "2026-11-09T16:07:10+00:00",
+  "visto": "2026-11-09T23:11:32.013251+00:00",
+  "titulo": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+  "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
+   }
+  ],
+  "desc": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "MÁXIMA POTENCIA: La exposición aeroespacial inaugural de la NASA enciende el futuro de Estados Unidos",
+  "resumen_es": "Miles de personas se reunieron durante varios días a principios de noviembre para experimentar MAX POWER, la primera exhibición de la NASA de la superioridad de Estados Unidos en el espacio, la aeronáutica y la tecnología en el Centro Espacial Kennedy de la agencia en Florida y sus alrededores. El evento familiar de varios días de duración honró el 250 aniversario de la nación y sirvió como culminación del Inspiration Tour de la agencia. Entre los […]",
+  "tg": 283
+ },
+ {
+  "id": "98a2827a46",
+  "t": "2026-11-09T16:01:47+00:00",
+  "visto": "2026-11-09T23:11:32.009471+00:00",
+  "titulo": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+  "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
+   }
+  ],
+  "desc": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
+  "img": "",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "ESCAPADE de la NASA completa sobrevuelos propulsados ​​por la Tierra, ahora en ruta a Marte",
+  "resumen_es": "Las dos naves espaciales ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) de la NASA han completado con éxito un sobrevuelo propulsado por la Tierra, utilizando la gravedad de la Tierra en combinación con un encendido sostenido del motor para lanzarse hacia Marte. Una vez completadas estas maniobras exitosas, las naves espaciales gemelas están en camino de llegar al Planeta Rojo en septiembre de 2027. “Esto es […]",
+  "tg": 282
+ },
+ {
+  "id": "7c49f78f2c",
+  "t": "2026-11-09T16:00:00+00:00",
+  "visto": "2026-11-09T23:11:32.006514+00:00",
+  "titulo": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3",
+  "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3"
+   }
+  ],
+  "desc": "On Saturday (Nov. 7), NASA put out the call for applications for a new class of astronauts. Applications are due by Dec. 3.",
+  "img": "https://cdn.mos.cms.futurecdn.net/uKcp2YwMdfHRKw3V3tyPb-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "La NASA necesita más astronautas para misiones a la luna y más allá. Puede presentar su solicitud ahora, pero solo hasta el 3 de diciembre.",
+  "resumen_es": "El sábado (7 de noviembre), la NASA lanzó la convocatoria de solicitudes para una nueva clase de astronautas. Las solicitudes deben presentarse antes del 3 de diciembre.",
+  "tg": 281
+ },
+ {
+  "id": "8af7bc60b8",
+  "t": "2026-11-09T15:39:21+00:00",
+  "visto": "2026-11-09T23:11:32.003853+00:00",
+  "titulo": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+  "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+   }
+  ],
+  "desc": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Flight_15_Website_Desktop_1_7111645b6d-1152x648.png",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "SpaceX ahora es fundamentalmente una \"empresa de infraestructura\", dice un alto funcionario",
+  "resumen_es": "\"Grok analiza el mismo vídeo y es 99,9 por ciento perfecto\".",
+  "tg": 280
+ },
+ {
+  "id": "e23b64ef1e",
+  "t": "2026-11-09T15:30:00+00:00",
+  "visto": "2026-11-09T23:11:32.001542+00:00",
+  "titulo": "The Vera C. Rubin Observatory, making a 10-year time-lapse of the night sky",
+  "url": "https://www.planetary.org/space-missions/the-vera-c-rubin-observatory",
+  "fuente": "Planetary Society",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Planetary Society",
+    "u": "https://www.planetary.org/space-missions/the-vera-c-rubin-observatory"
+   }
+  ],
+  "desc": "The Vera C. Rubin Observatory is a ground-based telescope that is creating a 10-year time-lapse video of the night sky to study dark matter, dark energy, the Milky Way, and Solar System objects.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El Observatorio Vera C. Rubin, haciendo un lapso de tiempo de 10 años del cielo nocturno",
+  "resumen_es": "El Observatorio Vera C. Rubin es un telescopio terrestre que está creando un vídeo de lapso de tiempo de 10 años del cielo nocturno para estudiar la materia oscura, la energía oscura, la Vía Láctea y los objetos del Sistema Solar.",
+  "tg": 279
+ },
+ {
+  "id": "2baf50870b",
+  "t": "2026-11-09T14:39:00+00:00",
+  "visto": "2026-11-09T23:11:31.997989+00:00",
+  "titulo": "A Stellar Odd Couple at an Unusual Stage of Evolution",
+  "url": "https://www.universetoday.com/articles/a-stellar-odd-couple-at-an-unusual-stage-of-evolution",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/a-stellar-odd-couple-at-an-unusual-stage-of-evolution"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-stellar-odd-couple-unusual-stage.html"
+   }
+  ],
+  "desc": "Millisecond pulsars are fascinating objects that serve as natural clocks in the Universe. They form by drawing material and angular momentum from a companion. This mass transfer can rapidly accelerate the companion's evolution to a white dwarf. Astronomers have detected a millisecond pulsar's white dwarf companion that appears to be observed just as the mass transfer completed. They can still see some of the debris.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "Una extraña pareja estelar en una etapa inusual de evolución",
+  "resumen_es": "Los púlsares de milisegundos son objetos fascinantes que sirven como relojes naturales en el Universo. Se forman extrayendo material y momento angular de un compañero. Esta transferencia de masa puede acelerar rápidamente la evolución de su compañera hacia una enana blanca. Los astrónomos han detectado la compañera enana blanca de un púlsar de milisegundos que parece observarse justo cuando se completa la transferencia de masa. Todavía pueden ver algunos de los escombros.",
+  "tg": 278
+ },
+ {
+  "id": "f6c90fad2f",
+  "t": "2026-11-09T14:30:00+00:00",
+  "visto": "2026-11-09T23:11:31.994994+00:00",
+  "titulo": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13"
+   }
+  ],
+  "desc": "SpaceX's next Starship test flight will take place on Friday (Nov. 13), and it will be epic: The company will try to catch both of the vehicle's stages when they return to Earth.",
+  "img": "https://cdn.mos.cms.futurecdn.net/sffkFhsSvZteVyVhHrKG77-1920-80.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "SpaceX lanzará la épica misión de prueba Starship Flight 15 de doble captura el 13 de noviembre",
+  "resumen_es": "El próximo vuelo de prueba de Starship de SpaceX tendrá lugar el viernes (13 de noviembre) y será épico: la compañía intentará capturar ambas etapas del vehículo cuando regresen a la Tierra.",
+  "tg": 277
+ },
+ {
+  "id": "b05c5d9bbd",
+  "t": "2026-11-09T14:29:42+00:00",
+  "visto": "2026-11-09T23:11:31.992331+00:00",
+  "titulo": "UK Government Investment Secures More Than 25% Stake in SaxaVord",
+  "url": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/",
+  "fuente": "European Spaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/uk-government-investment-secures-more-than-25-stake-in-saxavord/"
+   }
+  ],
+  "desc": "The UK Government has secured a stake of more than 25% in SaxaVord Spaceport following the completion of a £60 million public-private investment agreement in late October. According to a filing submitted to Companies House on 6 November, the Department for Science, Innovation and Technology (DSIT) became a “person” with significant control of Shetland Space […] The post UK Government Investment Secures More Than 25% Stake in SaxaVord appeared first on European Spaceflight .",
+  "img": "",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "La inversión del gobierno del Reino Unido asegura más del 25% de participación en SaxaVord",
+  "resumen_es": "El Gobierno del Reino Unido se ha asegurado una participación de más del 25% en SaxaVord Spaceport tras la finalización de un acuerdo de inversión público-privada de £60 millones a finales de octubre. Según una presentación presentada ante Companies House el 6 de noviembre, el Departamento de Ciencia, Innovación y Tecnología (DSIT) se convirtió en una “persona” con un control significativo de Shetland Space […] La publicación La inversión del gobierno del Reino Unido asegura más del 25% de la participación en SaxaVord apareció por primera vez",
+  "tg": 276
+ },
+ {
+  "id": "955671ded3",
+  "t": "2026-11-09T14:00:00+00:00",
+  "visto": "2026-11-09T23:11:31.989152+00:00",
+  "titulo": "Meteorite that landed in Cape Cod was a 'lone wolf' from the outer solar system, scientists find",
+  "url": "https://www.space.com/stargazing/meteor-showers/meteorite-that-landed-in-cape-cod-was-a-lone-wolf-from-beyond-jupiter-scientists-find",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/stargazing/meteor-showers/meteorite-that-landed-in-cape-cod-was-a-lone-wolf-from-beyond-jupiter-scientists-find"
+   }
+  ],
+  "desc": "A meteor that exploded into fragments that fell into Cape Cod Bay was once part of the asteroid belt between Mars and Jupiter, scientists found.",
+  "img": "https://cdn.mos.cms.futurecdn.net/EDSLPgQe5gCsFs72XukEyF-1920-80.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El meteorito que aterrizó en Cape Cod era un 'lobo solitario' del sistema solar exterior, según descubren los científicos",
+  "resumen_es": "Los científicos descubrieron que un meteoro que explotó en fragmentos y cayó en la bahía de Cape Cod alguna vez fue parte del cinturón de asteroides entre Marte y Júpiter.",
+  "tg": 275
+ },
+ {
+  "id": "b6905a080f",
+  "t": "2026-11-09T14:00:00+00:00",
+  "visto": "2026-11-09T23:11:31.984166+00:00",
+  "titulo": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+  "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
+  "fuente": "SpaceNews",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpaceNews",
+    "u": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
+   }
+  ],
+  "desc": "Washington — The Computer & Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technology can expand internet access, […] The post CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth appeared first on SpaceNews .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Informe de la CCIA destaca el potencial de la conectividad satelital para ampliar el acceso a Internet e impulsar el crecimiento económico",
+  "resumen_es": "Washington - La Asociación de la Industria de Computación y Comunicaciones publicó hoy Conectando el mundo: desbloqueando el potencial de la conectividad satelital, un nuevo informe que examina cómo la tecnología satelital puede expandir el acceso a Internet, [...] El informe posterior de la CCIA destaca el potencial de la conectividad satelital para expandir el acceso a Internet e impulsar el crecimiento económico apareció por primera vez en SpaceNews.",
+  "tg": 274
+ },
+ {
   "id": "567bed3747",
   "t": "2026-11-09T13:45:00+00:00",
   "visto": "2026-11-09T13:46:46.303220+00:00",
@@ -11,6 +894,10 @@
    {
     "n": "Payload",
     "u": "https://payloadspace.com/apollo-and-artemis-astronauts-share-the-stage-at-gala/"
+   },
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
    }
   ],
   "desc": "Twenty-eight astronauts—including two Apollo veterans—and one very large Saturn V shared a room at Kennedy Space Center for the Artemis Celebration Gala. The post Apollo and Artemis Astronauts Share the Stage at Gala appeared first on Payload .",
@@ -18,7 +905,7 @@
   "cat": "luna",
   "cat_txt": "🌙 Luna / Artemis",
   "estado": "nuevo",
-  "imp": 4,
+  "imp": 5,
   "silencio": false,
   "titulo_es": "Los astronautas Apolo y Artemisa comparten escenario en la gala",
   "resumen_es": "Veintiocho astronautas, incluidos dos veteranos del Apolo, y un Saturno V muy grande compartieron una habitación en el Centro Espacial Kennedy para la Gala de Celebración de Artemisa. La publicación Los astronautas Apolo y Artemis comparten el escenario en la gala apareció por primera vez en Payload.",
@@ -436,6 +1323,10 @@
    {
     "n": "NASA",
     "u": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems"
    }
   ],
   "desc": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re […]",
@@ -443,7 +1334,7 @@
   "cat": "luna",
   "cat_txt": "🌙 Luna / Artemis",
   "estado": "nuevo",
-  "imp": 6,
+  "imp": 7,
   "silencio": false,
   "titulo_es": "La NASA anuncia 1 millón de dólares a estudiantes para el desafío de la base lunar",
   "resumen_es": "El domingo, la NASA anunció la apertura de su Desafío Estudiantil de la Base Lunar de $1 millón durante un evento MAX POWER en el Complejo de Visitantes del Centro Espacial Kennedy en Florida. Como parte de la Edad de Oro de la Ciencia, la competencia invita a equipos de estudiantes de escuelas secundarias y escuelas postsecundarias de EE. UU. a contribuir con diseños para la Base Lunar. \"Eran […]",
@@ -894,6 +1785,10 @@
    {
     "n": "Universe Today",
     "u": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-sun-undiscovered-stellar-nemesis-physicist.html"
    }
   ],
   "desc": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record. Or so says a well known physicist who has long championed this idea.",
@@ -901,7 +1796,7 @@
   "cat": "ciencia",
   "cat_txt": "🔭 Ciencia",
   "estado": "nuevo",
-  "imp": 3,
+  "imp": 4,
   "silencio": false,
   "titulo_es": "La némesis estelar no descubierta de nuestro Sol todavía está ahí fuera, dice un físico",
   "resumen_es": "La idea de hace décadas de que la Nube de Oort de nuestro sistema solar está continuamente perturbada por una estrella enana roja de baja masa no detectada hasta ahora sigue siendo la mejor explicación para las periodicidades encontradas en el registro de impactos de la Tierra. O eso dice un conocido físico que ha defendido durante mucho tiempo esta idea.",
@@ -1169,6 +2064,10 @@
    {
     "n": "Universe Today",
     "u": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html"
    }
   ],
   "desc": "Ultra-Diffuse Galaxies are strange because they're as large as the Milky Way, but have far fewer stars. It's as if they're puffed up for some reason. Determining what's going on with them could help confirm the Lambda-CDM model. A new proposed instrument for the Extremely Large Telescope could give astronomers their best look yet at these strange galaxies.",
@@ -1176,7 +2075,7 @@
   "cat": "ciencia",
   "cat_txt": "🔭 Ciencia",
   "estado": "nuevo",
-  "imp": 3,
+  "imp": 4,
   "silencio": false,
   "titulo_es": "El ELT puede sondear galaxias ultradifusas y sus misterios de la materia oscura",
   "resumen_es": "Las galaxias ultradifusas son extrañas porque son tan grandes como la Vía Láctea, pero tienen muchas menos estrellas. Es como si por alguna razón estuvieran hinchados. Determinar qué está pasando con ellos podría ayudar a confirmar el modelo Lambda-CDM. Un nuevo instrumento propuesto para el Telescopio Extremadamente Grande podría brindar a los astrónomos la mejor visión hasta el momento de estas extrañas galaxias.",
@@ -3206,6 +4105,10 @@
    {
     "n": "Phys.org",
     "u": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html"
+   },
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era"
    }
   ],
   "desc": "Johns Hopkins researchers searching the expanse of the universe for the existence of the first black holes are zeroing in on little red dots that may hold the key to the theoretical phenomenon.",
@@ -3213,7 +4116,7 @@
   "cat": "ciencia",
   "cat_txt": "🔭 Ciencia",
   "estado": "nuevo",
-  "imp": 3,
+  "imp": 4,
   "silencio": false,
   "titulo_es": "Los pequeños puntos rojos del Telescopio Espacial Webb podrían ser la clave para los primeros agujeros negros",
   "resumen_es": "Los investigadores de Johns Hopkins que buscan en la extensión del universo la existencia de los primeros agujeros negros se están concentrando en pequeños puntos rojos que pueden contener la clave del fenómeno teórico.",

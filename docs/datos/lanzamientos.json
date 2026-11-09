@@ -1,30 +1,10 @@
 {
- "actualizado": "2026-11-09T13:47:09.499881+00:00",
+ "actualizado": "2026-11-09T23:12:29.316787+00:00",
  "lista": [
-  {
-   "id": "a2423132-f965-423f-8b03-6891b775dc54",
-   "nombre": "Long March 12 | SatNet LEO Group 29",
-   "net": "2026-11-08T20:24:00Z",
-   "precision": "Minute",
-   "estado": "Success",
-   "estado_txt": "Launch Successful",
-   "proveedor": "China Aerospace Science and Technology Corporation",
-   "cohete": "Long March 12",
-   "lugar": "Wenchang Space Launch Site, People's Republic of China",
-   "mision": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [
-    "https://www.youtube.com/watch?v=rQWLSUjfJ-Q",
-    "https://www.youtube.com/watch?v=LhEjaM500Ek"
-   ],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_thumbnail_20241128132937.jpeg",
-   "starlink": false
-  },
   {
    "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
    "nombre": "Falcon 9 Block 5 | USSF-627",
-   "net": "2026-11-10T03:03:00Z",
+   "net": "2026-11-11T02:49:00Z",
    "precision": "Minute",
    "estado": "Go",
    "estado_txt": "Go for Launch",
@@ -35,6 +15,7 @@
    "orbita": "LEO",
    "prob": null,
    "videos": [
+    "https://www.youtube.com/watch?v=1jhH0mR5ICA",
     "https://x.com/i/broadcasts/2brkWyolnlBbLM"
    ],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
@@ -75,22 +56,20 @@
    "starlink": false
   },
   {
-   "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
-   "nombre": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-13T04:23:00Z",
-   "precision": "Minute",
+   "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+   "nombre": "Kuaizhou 11 | Unknown Payload",
+   "net": "2026-11-12T19:50:00Z",
+   "precision": "Hour",
    "estado": "Go",
    "estado_txt": "Go for Launch",
-   "proveedor": "SpaceX",
-   "cohete": "Falcon 9 Block 5",
-   "lugar": "Vandenberg SFB, CA, USA",
-   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-   "orbita": "LEO",
+   "proveedor": "ExPace",
+   "cohete": "Kuaizhou 11",
+   "lugar": "Jiuquan Satellite Launch Center, People's Republic of China",
+   "mision": "Details TBD.",
+   "orbita": "N/A",
    "prob": null,
-   "videos": [
-    "https://x.com/i/broadcasts/2lgkMvaRVPMdYR"
-   ],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_thumbnail_20240520155835.jpeg",
    "starlink": false
   },
   {
@@ -130,6 +109,25 @@
    "starlink": true
   },
   {
+   "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+   "nombre": "Falcon 9 Block 5 | USSF-317",
+   "net": "2026-11-14T04:09:00Z",
+   "precision": "Minute",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "SpaceX",
+   "cohete": "Falcon 9 Block 5",
+   "lugar": "Vandenberg SFB, CA, USA",
+   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [
+    "https://x.com/i/broadcasts/2lgkMvaRVPMdYR"
+   ],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "starlink": false
+  },
+  {
    "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
    "nombre": "Electron | The Mountain God Rises (iQPS Launch 10)",
    "net": "2026-11-14T05:30:00Z",
@@ -144,6 +142,25 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193613.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
+   "nombre": "Falcon 9 Block 5 | USSF-266",
+   "net": "2026-11-17T16:58:00Z",
+   "precision": "Minute",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "SpaceX",
+   "cohete": "Falcon 9 Block 5",
+   "lugar": "Vandenberg SFB, CA, USA",
+   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of ascent rocket stage drop zones being fits with previous SDA Transport Layer launches.",
+   "orbita": "PO",
+   "prob": null,
+   "videos": [
+    "https://x.com/i/broadcasts/2JQXBjLyYOQrpX"
+   ],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
    "starlink": false
   },
   {
@@ -674,23 +691,6 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_thumbnail_20250919095336.jpeg",
-   "starlink": false
-  },
-  {
-   "id": "a67b40f9-cfcc-4614-a355-a156280b4bb3",
-   "nombre": "Vulcan VC4L | Dream Chaser CRS 2 Flight 1",
-   "net": "2026-12-31T00:00:00Z",
-   "precision": "Quarter 4",
-   "estado": "TBD",
-   "estado_txt": "To Be Determined",
-   "proveedor": "United Launch Alliance",
-   "cohete": "Vulcan VC4L",
-   "lugar": "Cape Canaveral SFS, FL, USA",
-   "mision": "First flight of the Dream Chaser Spaceplane, on a free-flying mission in Low Earth Orbit.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": null,
    "starlink": false
   }
  ]
