@@ -129,36 +129,35 @@
   "duplicado_de": "23c572347a"
  },
  "c629f6c55b": {
-  "titular": "Dos sondas de la NASA dan un latigazo a la Tierra para volar a Marte",
-  "resumen": "Las dos naves gemelas ESCAPADE de la NASA harán en los próximos días un sobrevuelo propulsado de la Tierra: usarán la gravedad terrestre y un encendido del motor para salir disparadas hacia Marte. La NASA dice que ninguna nave de la agencia ha hecho antes esa maniobra, y que cada sonda la hará. Se lanzaron en noviembre de 2025 con un New Glenn y llevan un año esperando en órbita a que Tierra y Marte se alineen. Está previsto que lleguen a Marte en septiembre de 2027.",
+  "titular": "Las dos sondas ESCAPADE ya usan la Tierra de catapulta rumbo a Marte",
+  "resumen": "Las dos naves gemelas ESCAPADE de la NASA han completado con éxito un sobrevuelo propulsado de la Tierra: usaron la gravedad terrestre junto con un encendido sostenido del motor para salir disparadas hacia Marte. Se lanzaron en noviembre de 2025 con un New Glenn y esperaron cerca de la Tierra a que los planetas se alinearan. Según la NASA, ya están en ruta para llegar al Planeta Rojo en septiembre de 2027.",
   "por_que": "Es una forma de ahorrar combustible usando el planeta como catapulta, y servirá para estudiar cómo Marte perdió su atmósfera.",
   "datos_clave": [
-   "Sobrevuelo propulsado de la Tierra, maniobra nunca volada por una nave de la agencia (NASA)",
+   "Las dos naves han completado un sobrevuelo propulsado de la Tierra (NASA)",
    "Lanzamiento en noviembre de 2025 con New Glenn (medios)",
-   "Llegada a Marte prevista en septiembre de 2027 (medios)"
+   "Llegada a Marte prevista en septiembre de 2027 (NASA)"
   ],
-  "verificacion": "anunciado",
+  "verificacion": "confirmado",
   "fuentes": [
    {
-    "n": "NASA Ciencia",
-    "u": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
+    "n": "NASA",
+    "u": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
    },
    {
-    "n": "Mars Daily",
-    "u": "https://www.marsdaily.com/reports/NASA_twin_spacecraft_depart_Earth_orbit_to_begin_Mars_mission_999.html"
+    "n": "NASA Ciencia (aviso previo)",
+    "u": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
    }
   ],
   "potencial": 6,
   "tono": "explicación",
   "fotograma1": "Dos puntos brillantes rodeando la Tierra como una honda y saliendo disparados hacia Marte",
-  "gancho": "La NASA va a lanzar dos naves usando la Tierra como catapulta.",
-  "guion": "La NASA tiene dos sondas gemelas esperando desde hace un año cerca de la Tierra. Ahora toca salir hacia Marte. ¿Cómo? Pasando muy cerca de nuestro planeta y robándole un poco de velocidad con su gravedad, como cuando coges impulso en un columpio. Además, encenderán el motor en pleno paso. La NASA dice que ninguna de sus naves había hecho esto antes. Si todo sale bien, llegarán a Marte en septiembre de 2027.",
+  "gancho": "Dos naves de la NASA han usado la Tierra como una honda gigante.",
+  "guion": "Dos sondas de la NASA llevaban un año esperando cerca de la Tierra. Ahora ya han salido hacia Marte, y lo han hecho con un truco de ahorro: pasar muy cerca de nuestro planeta y robarle un poco de velocidad con su gravedad, como cuando coges impulso en un columpio. Además, encendieron el motor en pleno paso, y ha salido bien. Las dos gemelas ESCAPADE están ya en ruta y, según la NASA, llegarán a Marte en septiembre de 2027.",
   "cierre": "¿Te atreverías a viajar a Marte con una maniobra así?",
   "grafismos": "Tierra con dos sondas trazando una curva de honda; columpio como comparación; encendido del motor con llama; línea hasta Marte con fecha septiembre 2027",
-  "caducidad": "🔴 publicar antes de que acabe el sobrevuelo (esta semana)",
-  "avisos": "Fecha exacta del paso y distancia no verificadas; no las menciones. Resultado de la maniobra aún no confirmado.",
-  "analizado": "2026-11-03T06:30:00Z",
-  "descartado": "La maniobra ya se hizo (7 y 9 nov 2026); el guion habla en futuro."
+  "caducidad": "🟢 no caduca",
+  "avisos": "No des fecha ni distancia exacta del paso: no verificadas. No digas que es la primera vez en la historia de la NASA sin confirmarlo.",
+  "analizado": "2026-11-10T06:00:00Z"
  },
  "7a9204611a": {
   "titular": "Encuentran los asteroides «troyanos» de Neptuno que se resistían",
@@ -1131,5 +1130,13 @@
   "avisos": "No decir que cualquiera puede presentarse: hay que ser estadounidense. El número de astronautas activos varía según la fuente; no usarlo.",
   "analizado": "2026-11-09T14:30:00Z",
   "duplicado_de": "aff8c97b0b"
+ },
+ "98a2827a46": {
+  "duplicado_de": "c629f6c55b",
+  "analizado": "2026-11-10T06:00:00Z"
+ },
+ "f6c90fad2f": {
+  "duplicado_de": "3f1a1f67d7",
+  "analizado": "2026-11-10T06:00:00Z"
  }
 }
