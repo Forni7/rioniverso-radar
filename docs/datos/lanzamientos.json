@@ -1,43 +1,6 @@
 {
- "actualizado": "2026-11-10T13:04:03.571425+00:00",
+ "actualizado": "2026-11-10T20:27:39.736570+00:00",
  "lista": [
-  {
-   "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
-   "nombre": "Falcon 9 Block 5 | USSF-627",
-   "net": "2026-11-11T02:49:00Z",
-   "precision": "Minute",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
-   "proveedor": "SpaceX",
-   "cohete": "Falcon 9 Block 5",
-   "lugar": "Vandenberg SFB, CA, USA",
-   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [
-    "https://www.youtube.com/watch?v=1jhH0mR5ICA",
-    "https://x.com/i/broadcasts/2brkWyolnlBbLM"
-   ],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
-   "starlink": false
-  },
-  {
-   "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-   "nombre": "Mir | Demo Flight",
-   "net": "2026-11-11T05:00:00Z",
-   "precision": "Hour",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
-   "proveedor": "Agency for Defense Development",
-   "cohete": "Mir",
-   "lugar": "Sea Launch",
-   "mision": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
-   "starlink": false
-  },
   {
    "id": "d66590ab-b273-47ff-b85a-608b62851b4b",
    "nombre": "Long March 2D | Unknown Payload",
@@ -56,6 +19,26 @@
    "starlink": false
   },
   {
+   "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
+   "nombre": "Falcon 9 Block 5 | USSF-627",
+   "net": "2026-11-12T02:35:00Z",
+   "precision": "Minute",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "SpaceX",
+   "cohete": "Falcon 9 Block 5",
+   "lugar": "Vandenberg SFB, CA, USA",
+   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [
+    "https://www.youtube.com/watch?v=1jhH0mR5ICA",
+    "https://x.com/i/broadcasts/2brkWyolnlBbLM"
+   ],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "starlink": false
+  },
+  {
    "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
    "nombre": "Kuaizhou 11 | Unknown Payload",
    "net": "2026-11-12T19:50:00Z",
@@ -70,6 +53,23 @@
    "prob": null,
    "videos": [],
    "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_thumbnail_20240520155835.jpeg",
+   "starlink": false
+  },
+  {
+   "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+   "nombre": "Mir | Demo Flight",
+   "net": "2026-11-13T05:00:00Z",
+   "precision": "Hour",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "Agency for Defense Development",
+   "cohete": "Mir",
+   "lugar": "Sea Launch",
+   "mision": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192440.png",
    "starlink": false
   },
   {
@@ -109,25 +109,6 @@
    "starlink": true
   },
   {
-   "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
-   "nombre": "Falcon 9 Block 5 | USSF-317",
-   "net": "2026-11-14T04:09:00Z",
-   "precision": "Minute",
-   "estado": "Go",
-   "estado_txt": "Go for Launch",
-   "proveedor": "SpaceX",
-   "cohete": "Falcon 9 Block 5",
-   "lugar": "Vandenberg SFB, CA, USA",
-   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-   "orbita": "LEO",
-   "prob": null,
-   "videos": [
-    "https://x.com/i/broadcasts/2lgkMvaRVPMdYR"
-   ],
-   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
-   "starlink": false
-  },
-  {
    "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
    "nombre": "Electron | The Mountain God Rises (iQPS Launch 10)",
    "net": "2026-11-14T05:30:00Z",
@@ -145,9 +126,28 @@
    "starlink": false
   },
   {
+   "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+   "nombre": "Falcon 9 Block 5 | USSF-317",
+   "net": "2026-11-15T03:55:00Z",
+   "precision": "Minute",
+   "estado": "Go",
+   "estado_txt": "Go for Launch",
+   "proveedor": "SpaceX",
+   "cohete": "Falcon 9 Block 5",
+   "lugar": "Vandenberg SFB, CA, USA",
+   "mision": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX’s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+   "orbita": "LEO",
+   "prob": null,
+   "videos": [
+    "https://x.com/i/broadcasts/2lgkMvaRVPMdYR"
+   ],
+   "img": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_thumbnail_20260816171423.jpeg",
+   "starlink": false
+  },
+  {
    "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
    "nombre": "Falcon 9 Block 5 | USSF-266",
-   "net": "2026-11-17T16:58:00Z",
+   "net": "2026-11-18T16:49:00Z",
    "precision": "Minute",
    "estado": "Go",
    "estado_txt": "Go for Launch",

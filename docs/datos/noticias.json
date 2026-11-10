@@ -1,5 +1,659 @@
 [
  {
+  "id": "f4bb2f3254",
+  "t": "2026-11-10T20:10:01+00:00",
+  "visto": "2026-11-10T20:26:52.715911+00:00",
+  "titulo": "Gravitational waves hint at black holes born from failed supernovae",
+  "url": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html"
+   }
+  ],
+  "desc": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron stars and, sometimes, black holes. However, theories suggest that some massive stars might die without a bang, instead directly collapsing inward to become neutron stars or black holes.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-star-on-the-left-see.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Las ondas gravitacionales insinúan agujeros negros nacidos de supernovas fallidas",
+  "resumen_es": "Cuando las estrellas más masivas del universo mueren, a menudo detonan en supernovas ardientes, lanzando dramáticamente la mayor parte de su materia al espacio. Los núcleos estelares restantes colapsan formando estrellas de neutrones y, a veces, agujeros negros. Sin embargo, las teorías sugieren que algunas estrellas masivas podrían morir sin una explosión, colapsando directamente hacia adentro para convertirse en estrellas de neutrones o agujeros negros.",
+  "tg": 344
+ },
+ {
+  "id": "614a1d331e",
+  "t": "2026-11-10T20:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.713492+00:00",
+  "titulo": "How to watch 'We Chose to Go to the Moon' online — stream space race stage show from anywhere",
+  "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere"
+   }
+  ],
+  "desc": "How to stream \"We Chose to Go to the Moon\", a live broadcast of the dazzling new stage retelling of the space race story.",
+  "img": "https://cdn.mos.cms.futurecdn.net/bjMtjykJX37Cgb3FkxFbu5-1920-80.jpg",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Cómo ver 'Elegimos ir a la Luna' en línea: transmite el espectáculo de la carrera espacial desde cualquier lugar",
+  "resumen_es": "Cómo transmitir \"Elegimos ir a la Luna\", una transmisión en vivo de la deslumbrante nueva etapa que cuenta la historia de la carrera espacial.",
+  "tg": 343
+ },
+ {
+  "id": "bedaf83d2b",
+  "t": "2026-11-10T19:52:32+00:00",
+  "visto": "2026-11-10T20:26:52.710899+00:00",
+  "titulo": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
+  "url": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way"
+   }
+  ],
+  "desc": "The ability to build large structures in space is maturing. The ISS, Mir, and Tiangong were built in space from pre-constructed modules, but a new program called NOM4D is taking space construction to the next level. It recently showed that a simple robot can create truss-like structures in space from premade components. Is the sky the limit for NOM4D?",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El ensamblaje automatizado en el espacio es el futuro y NOM4D está mostrando el camino",
+  "resumen_es": "La capacidad de construir grandes estructuras en el espacio está madurando. La ISS, Mir y Tiangong se construyeron en el espacio a partir de módulos preconstruidos, pero un nuevo programa llamado NOM4D está llevando la construcción espacial al siguiente nivel. Recientemente demostró que un robot simple puede crear estructuras similares a vigas en el espacio a partir de componentes prefabricados. ¿Es el cielo el límite para NOM4D?",
+  "tg": 342
+ },
+ {
+  "id": "698552482f",
+  "t": "2026-11-10T19:46:21+00:00",
+  "visto": "2026-11-10T20:26:52.708662+00:00",
+  "titulo": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+  "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt"
+   }
+  ],
+  "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
+  "img": "https://cdn.mos.cms.futurecdn.net/bdHKBGYDk9vQ58gCeTzvgW-1920-80.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "Actualizaciones en vivo del vuelo 15 de SpaceX Starship: el cohete súper pesado se trasladó a la plataforma de lanzamiento para la primera prueba de aterrizaje doble de Starship",
+  "resumen_es": "Siga las actualizaciones en vivo mientras SpaceX intenta su vuelo de prueba Starship Flight 15 con sus primeros aterrizajes dobles.",
+  "tg": 341
+ },
+ {
+  "id": "4689175953",
+  "t": "2026-11-10T19:39:42+00:00",
+  "visto": "2026-11-10T20:26:52.706239+00:00",
+  "titulo": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
+  "url": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar"
+   }
+  ],
+  "desc": "There's a strange gamma-ray emitter in the Large Magellanic Cloud that has astronomers stumped about its source. It lies within the ashes left behind by a supernova that created a compact object that's part of the system. The supernova remnant provides some evidence for the emissions, but not the whole story.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "ALMA revela un chorro de gas frío procedente de un microcuásar",
+  "resumen_es": "Hay un extraño emisor de rayos gamma en la Gran Nube de Magallanes que tiene a los astrónomos perplejos sobre su origen. Se encuentra dentro de las cenizas dejadas por una supernova que creó un objeto compacto que es parte del sistema. El remanente de supernova proporciona alguna evidencia de las emisiones, pero no toda la historia.",
+  "tg": 340
+ },
+ {
+  "id": "2b183bcb79",
+  "t": "2026-11-10T19:31:40+00:00",
+  "visto": "2026-11-10T20:26:52.703870+00:00",
+  "titulo": "Microbiology, Spacesuits, and Cargo Mission Preps Keep Crew Busy",
+  "url": "https://www.nasa.gov/blogs/spacestation/2026/11/10/microbiology-spacesuits-and-cargo-mission-preps-keep-crew-busy/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/blogs/spacestation/2026/11/10/microbiology-spacesuits-and-cargo-mission-preps-keep-crew-busy/"
+   }
+  ],
+  "desc": "Microbiology and spacesuit maintenance kept the Expedition 75 crew busy aboard the International Space Station on Tuesday. The orbital residents are also preparing for upcoming cargo missions at the orbital outpost. The post Microbiology, Spacesuits, and Cargo Mission Preps Keep Crew Busy appeared first on NASA Science .",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La microbiología, los trajes espaciales y la preparación para misiones de carga mantienen ocupada a la tripulación",
+  "resumen_es": "La microbiología y el mantenimiento de los trajes espaciales mantuvieron ocupada a la tripulación de la Expedición 75 a bordo de la Estación Espacial Internacional el martes. Los residentes orbitales también se están preparando para las próximas misiones de carga en el puesto orbital. La publicación Microbiología, trajes espaciales y preparación para misiones de carga mantienen ocupada a la tripulación apareció por primera vez en Ciencia de la NASA.",
+  "tg": 339
+ },
+ {
+  "id": "ed16b4ae83",
+  "t": "2026-11-10T19:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.699204+00:00",
+  "titulo": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why",
+  "url": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune"
+   }
+  ],
+  "desc": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
+  "img": "https://cdn.mos.cms.futurecdn.net/gCe3HgVGkFyfUnHAqednfk-1920-80.png",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Urano tiene un extraño campo magnético que ha dejado perplejos a los científicos durante 40 años; finalmente podremos saber por qué",
+  "resumen_es": "Los campos magnéticos desequilibrados de Urano y Neptuno podrían ser producto de condiciones extremas dentro de los planetas, aumentando la conductividad eléctrica que potencia el efecto dinamo.",
+  "tg": 338
+ },
+ {
+  "id": "131aacf24e",
+  "t": "2026-11-10T18:45:00+00:00",
+  "visto": "2026-11-10T20:26:52.696403+00:00",
+  "titulo": "Rep. Mike Haridopolos on NASA’s Future After the Blue Wave",
+  "url": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/rep-mike-haridopolos-on-nasas-future-after-the-blue-wave/"
+   }
+  ],
+  "desc": "Rep. Mike Haridopolos survived the Blue Wave—and he’s optimistic bipartisan support for NASA’s Artemis program means the program will survive the political upheaval on Capitol Hill as well. The post Rep. Mike Haridopolos on NASA’s Future After the Blue Wave appeared first on Payload .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "El representante Mike Haridopolos sobre el futuro de la NASA después de la Ola Azul",
+  "resumen_es": "El representante Mike Haridopolos sobrevivió a la Ola Azul y es optimista porque el apoyo bipartidista al programa Artemis de la NASA significa que el programa también sobrevivirá a la agitación política en el Capitolio. La publicación El representante Mike Haridopolos sobre el futuro de la NASA después de la Ola Azul apareció por primera vez en Payload.",
+  "tg": 337
+ },
+ {
+  "id": "b0a4ee5508",
+  "t": "2026-11-10T18:06:33+00:00",
+  "visto": "2026-11-10T20:26:52.694133+00:00",
+  "titulo": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+  "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/"
+   }
+  ],
+  "desc": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]",
+  "img": "",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "La NASA dará la bienvenida a los astronautas de la Expedición 74 a su hogar en el Centro Espacial de Houston",
+  "resumen_es": "La NASA dará la bienvenida a casa a la tripulación de la Expedición 74 durante un evento público en el Centro Espacial de Houston luego de su regreso de una misión de larga duración a bordo de la Estación Espacial Internacional. Los astronautas de la NASA Jessica Meir, Jack Hathaway y Chris Williams; la astronauta de la ESA (Agencia Espacial Europea), Sophie Adenot; y los cosmonautas de Roscosmos Sergey Kud‑Sverchkov y Sergei Mikaev compartirán misión […]",
+  "tg": 336
+ },
+ {
+  "id": "b675a9da97",
+  "t": "2026-11-10T18:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.691823+00:00",
+  "titulo": "Science Release: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
+  "url": "http://noirlab.edu/public/news/noirlab2627/",
+  "fuente": "NOIRLab / Rubin",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NOIRLab / Rubin",
+    "u": "http://noirlab.edu/public/news/noirlab2627/"
+   }
+  ],
+  "desc": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the Universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
+  "img": "https://storage.noirlab.edu/media/archives/images/screen/noirlab2627a.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Comunicado científico: Astrónomos descubren Nāpōwawāʻenakaulua, el par de cuásares compactos más antiguo del universo",
+  "resumen_es": "El par de quásares compactos más antiguo jamás observado se encontró sólo 900 millones de años después del Big Bang. Los científicos dicen que no existe una explicación teórica de cómo el par de agujeros negros que se alimentaban activamente se volvieron tan masivos en un momento tan temprano de la historia del Universo. Al par de cuásares se le ha dado el sobrenombre hawaiano de Nāpōwawāʻenakaulua.",
+  "tg": 335
+ },
+ {
+  "id": "b8236ebe93",
+  "t": "2026-11-10T17:22:37+00:00",
+  "visto": "2026-11-10T20:26:52.685901+00:00",
+  "titulo": "Why Aging Stars Suffer A Sudden Luminosity Dip",
+  "url": "https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip"
+   }
+  ],
+  "desc": "When low-mass stars like our Sun age, they leave the main sequence and follow the Red Giant Branch. As they ascend this branch, their luminosity steadily increases. But there's a sort of hiccup in the path called the RGB luminosity bump, where their luminosity suddenly dips. Astrophysicists have struggle to explain this, but one astrophysicist might have the answer.",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Por qué las estrellas envejecidas sufren una caída repentina de luminosidad",
+  "resumen_es": "Cuando las estrellas de baja masa como nuestro Sol envejecen, abandonan la secuencia principal y siguen la Rama de Gigante Roja. A medida que ascienden por esta rama, su luminosidad aumenta constantemente. Pero hay una especie de contratiempo en el camino llamado aumento de luminosidad RGB, donde su luminosidad cae repentinamente. Los astrofísicos tienen dificultades para explicar esto, pero un astrofísico podría tener la respuesta.",
+  "tg": 334
+ },
+ {
+  "id": "4a0840fb94",
+  "t": "2026-11-10T17:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.683642+00:00",
+  "titulo": "Were there 'lost cosmonauts' in the early Soviet space program?",
+  "url": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program"
+   }
+  ],
+  "desc": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
+  "img": "https://cdn.mos.cms.futurecdn.net/y7EFELxAmXdjgq2jwrnJBE-1920-80.jpg",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "¿Hubo \"cosmonautas perdidos\" en los inicios del programa espacial soviético?",
+  "resumen_es": "En el apogeo de la Guerra Fría, dos radioaficionados afirmaron que interceptaron señales de cosmonautas soviéticos que murieron durante misiones que permanecieron secretas.",
+  "tg": 333
+ },
+ {
+  "id": "979c983b18",
+  "t": "2026-11-10T16:20:01+00:00",
+  "visto": "2026-11-10T20:26:52.681499+00:00",
+  "titulo": "X-ray observations uncover possible jet warning signs in black hole systems",
+  "url": "https://phys.org/news/2026-11-ray-uncover-jet-black-hole.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-ray-uncover-jet-black-hole.html"
+   }
+  ],
+  "desc": "Black hole jet ejections are powerful outbursts of high-energy photons and particles that provide insights into extreme astrophysical processes. However, predicting when they will occur remains difficult. In a study, researchers from Japan analyzed observations of four black hole binary systems, identifying decreases in the accretion disk's inner radius and changes in emitted X-ray variability as possible predictors for jet ejection. Their findings could help astronomers forecast these phenomena more accurately and coordinate timely observations.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/forecasting-jet-ejecti.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Las observaciones de rayos X descubren posibles señales de advertencia de chorros en sistemas de agujeros negros",
+  "resumen_es": "Las eyecciones de chorros de agujeros negros son poderosas explosiones de fotones y partículas de alta energía que proporcionan información sobre procesos astrofísicos extremos. Sin embargo, sigue siendo difícil predecir cuándo ocurrirán. En un estudio, investigadores de Japón analizaron observaciones de cuatro sistemas binarios de agujeros negros, identificando disminuciones en el radio interno del disco de acreción y cambios en la variabilidad de los rayos X emitidos como posibles predictores de la eyección del chorro. Su hallazgo",
+  "tg": 332
+ },
+ {
+  "id": "4c4fe289b2",
+  "t": "2026-11-10T16:17:51+00:00",
+  "visto": "2026-11-10T20:26:52.679094+00:00",
+  "titulo": "One space station company sues another for copying its work",
+  "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
+   }
+  ],
+  "desc": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
+  "cat": "iss",
+  "cat_txt": "🧑‍🚀 Astronautas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Una empresa de estación espacial demanda a otra por copiar su trabajo",
+  "resumen_es": "\"La NASA informó que la presentación de Vast en algunas ubicaciones sustituyó a Axiom por 'el proveedor de PAM'\"",
+  "tg": 331
+ },
+ {
+  "id": "f1e81eb747",
+  "t": "2026-11-10T16:00:26+00:00",
+  "visto": "2026-11-10T20:26:52.677095+00:00",
+  "titulo": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/"
+   }
+  ],
+  "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. […]",
+  "img": "",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Los científicos de la NASA muestran cómo las ondas gravitacionales pueden revelar nuevos mundos",
+  "resumen_es": "El observatorio LISA (Antena Espacial de Interferómetro Láser), actualmente en desarrollo, detectará ondas gravitacionales, las pequeñas ondulaciones en el espacio-tiempo causadas por masas en órbita. Ahora, dos estudios dirigidos por astrofísicos de la NASA muestran con nuevo detalle cómo LISA podría revelar una población nueva y única de exoplanetas (mundos más allá de nuestro sistema solar) en toda nuestra galaxia. […]",
+  "tg": 330
+ },
+ {
+  "id": "31b2abab79",
+  "t": "2026-11-10T16:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.674739+00:00",
+  "titulo": "A robot just built a structure autonomously in space for the 1st time ever",
+  "url": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever"
+   }
+  ],
+  "desc": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
+  "img": "https://cdn.mos.cms.futurecdn.net/B4UQ62ei7LkPj3KWJ8TYTP-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Un robot acaba de construir una estructura de forma autónoma en el espacio por primera vez en la historia",
+  "resumen_es": "Un robot construyó recientemente parte de una antena en órbita, demostrando habilidades que podrían permitir el montaje de telescopios espaciales y otras estructuras grandes fuera de la Tierra.",
+  "tg": 329
+ },
+ {
+  "id": "63c804a162",
+  "t": "2026-11-10T15:44:40+00:00",
+  "visto": "2026-11-10T20:26:52.672396+00:00",
+  "titulo": "DLR to Purchase 80 Red Kite Sounding Rocket Motors",
+  "url": "https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/",
+  "fuente": "European Spaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/dlr-to-purchase-80-red-kite-sounding-rocket-motors/"
+   }
+  ],
+  "desc": "The German Aerospace Center (DLR) is preparing to purchase 80 Red Kite solid rocket motors from German defence company Bayern-Chemie to support future sounding rocket missions. According to a procurement notice published on 2 November, DLR plans to acquire 80 ITAR-free solid-fuel rocket motors for the agency’s Mobile Rocket Base (MORABA) team, which conducts sounding […] The post DLR to Purchase 80 Red Kite Sounding Rocket Motors appeared first on European Spaceflight .",
+  "img": "",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "DLR comprará 80 motores de cohetes con sonda Red Kite",
+  "resumen_es": "El Centro Aeroespacial Alemán (DLR) se está preparando para comprar 80 motores de cohetes sólidos Red Kite de la empresa de defensa alemana Bayern-Chemie para apoyar futuras misiones de cohetes de sondeo. Según un aviso de adquisición publicado el 2 de noviembre, DLR planea adquirir 80 motores de cohetes de combustible sólido sin ITAR para el equipo de la Base Móvil de Cohetes (MORABA) de la agencia, que realiza sondeos […] The post DLR comprará 80 motores de cohetes de sondeo Red Kite apareció primero o",
+  "tg": 328
+ },
+ {
+  "id": "d14135f638",
+  "t": "2026-11-10T15:15:01+00:00",
+  "visto": "2026-11-10T20:26:52.669722+00:00",
+  "titulo": "NASA’s Discovery Program: Competitive Planetary Exploration in the 21st Century",
+  "url": "https://www.nasa.gov/history/nasas-discovery-program-book-vol-2/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/history/nasas-discovery-program-book-vol-2/"
+   }
+  ],
+  "desc": "By David W. Brown Velocity and audacity defined the Discovery Program at its inception in the early 1990s, when it emerged in response to limited flagship mission opportunities and budget uncertainty. Designed for focused, low-cost planetary exploration, Discovery marked a shift from traditional directed missions. The early history of the program is covered in NASA’s […] The post NASA’s Discovery Program: Competitive Planetary Exploration in the 21st Century appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Programa Discovery de la NASA: exploración planetaria competitiva en el siglo XXI",
+  "resumen_es": "Por David W. Brown La velocidad y la audacia definieron el Programa Discovery desde sus inicios a principios de la década de 1990, cuando surgió en respuesta a las limitadas oportunidades de misiones emblemáticas y a la incertidumbre presupuestaria. Diseñado para una exploración planetaria enfocada y de bajo costo, Discovery marcó un cambio con respecto a las misiones dirigidas tradicionales. La historia temprana del programa se cubre en el artículo de la NASA […] El programa de descubrimiento posterior de la NASA: exploración planetaria competitiva en el",
+  "tg": 327
+ },
+ {
+  "id": "3e1164b86b",
+  "t": "2026-11-10T15:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.666553+00:00",
+  "titulo": "Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026",
+  "url": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026"
+   }
+  ],
+  "desc": "NASA's Curiosity Mars rover is sizing up its next dig site on the Red Planet. The Curiosity team will characterize the surface composition of \"Nazca\" as thoroughly as possible before drilling.",
+  "img": "https://cdn.mos.cms.futurecdn.net/wcsTkUpNtb47uRXiF26nLG-1920-80.png",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "El rover Curiosity en Marte evalúa el nuevo sitio de excavación 'Nazca' | Foto espacial del día del 10 de noviembre de 2026",
+  "resumen_es": "El rover Curiosity de la NASA en Marte está evaluando su próximo sitio de excavación en el Planeta Rojo. El equipo de Curiosity caracterizará la composición de la superficie de \"Nazca\" lo más detalladamente posible antes de perforar.",
+  "tg": 326
+ },
+ {
+  "id": "262906979a",
+  "t": "2026-11-10T14:57:55+00:00",
+  "visto": "2026-11-10T20:26:52.664107+00:00",
+  "titulo": "CHAPEA Crew Leaves a Mark",
+  "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/"
+   }
+  ],
+  "desc": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "La tripulación CHAPEA deja una huella",
+  "resumen_es": "La tripulación de la Misión 2 de Exploración Análoga de Salud y Rendimiento de la Tripulación (CHAPEA) organizó fotografías alrededor de una huella de bota en la arena marciana simulada fuera de su hábitat el 31 de agosto de 2026. La tripulación salió recientemente de su hábitat el sábado 31 de octubre, después de 378 días de aislamiento en una instalación en el Centro Espacial Johnson de la agencia en Houston. Salud […]",
+  "tg": 325
+ },
+ {
+  "id": "f10fb0ad0e",
+  "t": "2026-11-10T14:20:10+00:00",
+  "visto": "2026-11-10T20:26:52.661679+00:00",
+  "titulo": "Simulations cast doubt on unusual asteroid's 'dark comet' status",
+  "url": "https://phys.org/news/2026-11-simulations-unusual-asteroid-dark-comet.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-simulations-unusual-asteroid-dark-comet.html"
+   }
+  ],
+  "desc": "In 2031, Japan's Hayabusa2 spacecraft will arrive at the near-Earth asteroid 1998 KY26: a tiny body that is accelerating in a way that astronomers have struggled to explain. Some studies have suggested that the asteroid is pushed along by water escaping from it as gas, making it an as-yet theoretical \"dark comet.\"",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/simulations-suggest-un.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Las simulaciones ponen en duda el estatus de \"cometa oscuro\" de un asteroide inusual",
+  "resumen_es": "En 2031, la nave espacial japonesa Hayabusa2 llegará al asteroide cercano a la Tierra 1998 KY26: un cuerpo diminuto que se está acelerando de una manera que los astrónomos han luchado por explicar. Algunos estudios han sugerido que el asteroide es empujado por el agua que se escapa de él en forma de gas, lo que lo convierte en un \"cometa oscuro\" aún teórico.",
+  "tg": 324
+ },
+ {
+  "id": "42ff5f6957",
+  "t": "2026-11-10T14:07:10+00:00",
+  "visto": "2026-11-10T20:26:52.659348+00:00",
+  "titulo": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
+  "url": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
+  "fuente": "Universe Today",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona"
+   },
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-tiny-solar-whirlpools-secret-sun.html"
+   }
+  ],
+  "desc": "For the second time in a few weeks, we’re writing about research into the temperature gap between the Sun’s surface and its corona. More and more data from various missions continue to feed this wave of discovery. A new paper by Katariina Nykyri of Embry-Riddle, recently published in The Astrophysical Journal Letters, adds to this growing body of work. She argues that millions of tiny whirlpools scattered across the Sun’s surface could be the energetic engine driving that temperature difference.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 6,
+  "silencio": false,
+  "titulo_es": "Pequeños remolinos solares pueden guardar el secreto de la abrasadora corona del sol",
+  "resumen_es": "Por segunda vez en unas pocas semanas, escribimos sobre la investigación sobre la diferencia de temperatura entre la superficie del Sol y su corona. Cada vez más datos de diversas misiones continúan alimentando esta ola de descubrimientos. Un nuevo artículo de Katariina Nykyri de Embry-Riddle, publicado recientemente en The Astrophysical Journal Letters, se suma a este creciente cuerpo de trabajo. Ella sostiene que millones de pequeños remolinos esparcidos por la superficie del Sol podrían ser el final.",
+  "tg": 323
+ },
+ {
+  "id": "96c8f88a1c",
+  "t": "2026-11-10T14:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.656128+00:00",
+  "titulo": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
+  "url": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners"
+   }
+  ],
+  "desc": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
+  "img": "https://cdn.mos.cms.futurecdn.net/z2QmaT5onPi8VTz593SMfc-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Vea las primeras imágenes del nuevo ZWO Seestar S30 Plus: un telescopio inteligente dirigido a principiantes",
+  "resumen_es": "Mientras sus rivales anuncian telescopios inteligentes cada vez más caros, el nuevo Seestar S30 Plus de ZWO hace que la fotografía de galaxias y nebulosas sea sorprendentemente asequible.",
+  "tg": 322
+ },
+ {
+  "id": "d31e0eecb6",
+  "t": "2026-11-10T14:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.653518+00:00",
+  "titulo": "Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death",
+  "url": "https://payloadspace.com/exclusive-lyra-systems-emerges-from-stealth-to-solve-the-valley-of-death/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/exclusive-lyra-systems-emerges-from-stealth-to-solve-the-valley-of-death/"
+   }
+  ],
+  "desc": "Lyra Systems announced an agreement with the DoD aimed at helping early-stage technologies traverse unscathed across the Valley of Death. The post Exclusive: Lyra Systems Emerges from Stealth to Solve the Valley of Death appeared first on Payload .",
+  "img": "",
+  "cat": "defensa",
+  "cat_txt": "🛰️ Defensa",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Exclusivo: Lyra Systems emerge del sigilo para resolver el Valle de la Muerte",
+  "resumen_es": "Lyra Systems anunció un acuerdo con el Departamento de Defensa destinado a ayudar a las tecnologías en etapa inicial a atravesar ilesas el Valle de la Muerte. La publicación Exclusivo: Lyra Systems emerge del sigilo para resolver el Valle de la Muerte apareció por primera vez en Payload.",
+  "tg": 321
+ },
+ {
+  "id": "e46769eae0",
+  "t": "2026-11-10T14:00:00+00:00",
+  "visto": "2026-11-10T20:26:52.650883+00:00",
+  "titulo": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+  "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+  "fuente": "SpaceNews",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpaceNews",
+    "u": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/"
+   }
+  ],
+  "desc": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […] The post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions appeared first on SpaceNews .",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Kratos y Seagate Space se asocian para avanzar en las capacidades de lanzamiento móvil en alta mar para misiones de seguridad nacional",
+  "resumen_es": "SAN DIEGO, CA, 10 de noviembre de 2026 – Kratos Defense & Security Solutions, Inc., una empresa de tecnología en defensa, seguridad nacional y mercados globales, anunció hoy un acuerdo a largo plazo con Seagate […] La publicación Kratos y Seagate Space se asocian para avanzar en las capacidades de lanzamiento móvil en alta mar para misiones de seguridad nacional apareció por primera vez en SpaceNews.",
+  "tg": 320
+ },
+ {
+  "id": "1b6be45628",
+  "t": "2026-11-10T13:17:39+00:00",
+  "visto": "2026-11-10T20:26:52.646266+00:00",
+  "titulo": "Rocket Lab Ups Neutron Launch Price Ahead of ‘27 Debut",
+  "url": "https://payloadspace.com/rocket-lab-ups-neutron-launch-price-ahead-of-27-debut/",
+  "fuente": "Payload",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Payload",
+    "u": "https://payloadspace.com/rocket-lab-ups-neutron-launch-price-ahead-of-27-debut/"
+   }
+  ],
+  "desc": "The cost of launch is on the rise. The post Rocket Lab Ups Neutron Launch Price Ahead of ‘27 Debut appeared first on Payload .",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Rocket Lab aumenta el precio de lanzamiento de Neutron antes del debut del 27",
+  "resumen_es": "El coste del lanzamiento va en aumento. La publicación Rocket Lab aumenta el precio de lanzamiento de Neutron antes del debut del 27 apareció por primera vez en Carga útil.",
+  "tg": 319
+ },
+ {
   "id": "4eb83e0034",
   "t": "2026-11-10T13:00:00+00:00",
   "visto": "2026-11-10T13:03:50.988182+00:00",
@@ -4821,6 +5475,14 @@
    {
     "n": "Universe Today",
     "u": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark"
+   },
+   {
+    "n": "NASA JPL",
+    "u": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities"
+   },
+   {
+    "n": "NASA",
+    "u": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
    }
   ],
   "desc": "How to Participate Use our Automated “V-G-R” Flasher to send your signal to Voyager, or if you want to try Morse code yourself, see our “Shine Bright” Step-by-Step instructions below. To amplify this global celebration, we encourage you to capture photos or video of your light‑day signal and share it on social platforms, tagging @NASA. […] The post Shine Bright for Voyager’s Light‑Day appeared first on NASA Science .",
@@ -4828,7 +5490,7 @@
   "cat": "general",
   "cat_txt": "🌌 Espacio",
   "estado": "nuevo",
-  "imp": 4,
+  "imp": 6,
   "silencio": false,
   "titulo_es": "Brilla intensamente para el día de la luz de la Voyager",
   "resumen_es": "Cómo participar Utilice nuestro intermitente automático \"V-G-R\" para enviar su señal a la Voyager, o si desea probar el código Morse usted mismo, consulte nuestras instrucciones paso a paso \"Shine Bright\" a continuación. Para amplificar esta celebración global, lo alentamos a capturar fotografías o videos de su señal del día de luz y compartirlos en plataformas sociales, etiquetando a @NASA. […] La publicación Shine Bright for Voyager’s Light-Day apareció por primera vez en NASA Science.",
@@ -4975,6 +5637,10 @@
    {
     "n": "Phys.org",
     "u": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html"
+   },
+   {
+    "n": "Universe Today",
+    "u": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe"
    }
   ],
   "desc": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
@@ -4982,7 +5648,7 @@
   "cat": "ciencia",
   "cat_txt": "🔭 Ciencia",
   "estado": "nuevo",
-  "imp": 5,
+  "imp": 6,
   "silencio": false,
   "titulo_es": "La medición del hidrógeno cósmico marca un gran avance en el mapeo del universo",
   "resumen_es": "Un proyecto de investigación internacional está acercando a los científicos al mapeo del universo. La Colaboración MeerKLASS ha informado de su primera medición de la agrupación a gran escala de hidrógeno cósmico, avanzando en una técnica que podría transformar la forma en que los cosmólogos trazan el universo.",
