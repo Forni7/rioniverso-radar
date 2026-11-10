@@ -1,5 +1,155 @@
 [
  {
+  "id": "4eb83e0034",
+  "t": "2026-11-10T13:00:00+00:00",
+  "visto": "2026-11-10T13:03:50.988182+00:00",
+  "titulo": "Total solar eclipse 2027 vs 2028 — Which one should you choose, Egypt or Australia?",
+  "url": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia"
+   }
+  ],
+  "desc": "From six minutes of darkness in Egypt or totality over the Australian Outback, here are the pros and cons of the next two total solar eclipses.",
+  "img": "https://cdn.mos.cms.futurecdn.net/UsQyEevywKrjTf4XDLJmfQ-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Eclipse solar total 2027 vs 2028: ¿cuál debería elegir, Egipto o Australia?",
+  "resumen_es": "Desde seis minutos de oscuridad en Egipto o la totalidad del interior de Australia, aquí están los pros y los contras de los próximos dos eclipses solares totales.",
+  "tg": 317
+ },
+ {
+  "id": "29cf733173",
+  "t": "2026-11-10T11:00:00+00:00",
+  "visto": "2026-11-10T13:03:50.984519+00:00",
+  "titulo": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+  "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth"
+   }
+  ],
+  "desc": "NASA's twin ESCAPADE spacecraft are wrapping up a year-long voyage to Mars, and are now ready to make a beeline to the Red Planet.",
+  "img": "https://cdn.mos.cms.futurecdn.net/4YuqmLiXJ7u7ppndMEZUtX-1920-80.jpg",
+  "cat": "marte",
+  "cat_txt": "🔴 Planetas",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Las sondas gemelas ESCAPADE de la NASA a Marte giran alrededor de la Tierra en una doble 'asistencia gravitacional' sin precedentes",
+  "resumen_es": "Las naves espaciales gemelas ESCAPADE de la NASA están concluyendo un viaje de un año a Marte y ahora están listas para dirigirse directamente al Planeta Rojo.",
+  "tg": 316
+ },
+ {
+  "id": "eec18fd05c",
+  "t": "2026-11-10T07:33:06+00:00",
+  "visto": "2026-11-10T13:03:50.981065+00:00",
+  "titulo": "El Miura 5 entra en la cámara anecoica del INTA, ¿último gran examen antes de Kourou?",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzFMdW40dnhzenR5dl95RjJ0NllsbWtyMGJ0Q3pUdGVQLUxEYUhza1BpeUdGRDJZZ0NyUVZYNTA5eXpGUFlYQ0pDMXRONFFaUjZUWGJneHMtbi1MQzl5elhJTFY1eWVIdDg2Ykd3SHAzc3FkTkpTU085blMtLUZoVnpGVE5nLXY3dEl5eU53QQ?oc=5",
+  "fuente": "Aviación Digital",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Aviación Digital",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzFMdW40dnhzenR5dl95RjJ0NllsbWtyMGJ0Q3pUdGVQLUxEYUhza1BpeUdGRDJZZ0NyUVZYNTA5eXpGUFlYQ0pDMXRONFFaUjZUWGJneHMtbi1MQzl5elhJTFY1eWVIdDg2Ykd3SHAzc3FkTkpTU085blMtLUZoVnpGVE5nLXY3dEl5eU53QQ?oc=5"
+   }
+  ],
+  "desc": "El Miura 5 entra en la cámara anecoica del INTA, ¿último gran examen antes de Kourou? Aviación Digital",
+  "img": "",
+  "cat": "es",
+  "cat_txt": "🇪🇸 España",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "El Miura 5 entra en la cámara anecoica del INTA, ¿último gran examen antes de Kourou?",
+  "resumen_es": "El Miura 5 entra en la cámara anecoica del INTA, ¿último gran examen antes de Kourou? Aviación Digital",
+  "tg": 315
+ },
+ {
+  "id": "f025762294",
+  "t": "2026-11-10T07:04:22+00:00",
+  "visto": "2026-11-10T13:03:50.977704+00:00",
+  "titulo": "Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November",
+  "url": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/",
+  "fuente": "European Spaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/isar-aerospace-could-launch-third-spectrum-rocket-as-early-as-26-november/"
+   }
+  ],
+  "desc": "German launch company Isar Aerospace could attempt the third flight of its Spectrum rocket from Andøya Spaceport in Norway as early as 26 November, according to an aviation notice published on 28 October. The notice, published by Norwegian air navigation services provider Avinor, outlines a launch window for the flight opening on 26 November 2026 […] The post Isar Aerospace Could Launch Third Spectrum Rocket as Early as 26 November appeared first on European Spaceflight .",
+  "img": "",
+  "cat": "europa",
+  "cat_txt": "🇪🇺 Europa",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Isar Aerospace podría lanzar el tercer cohete Spectrum el 26 de noviembre",
+  "resumen_es": "La empresa de lanzamiento alemana Isar Aerospace podría intentar el tercer vuelo de su cohete Spectrum desde el puerto espacial de Andøya en Noruega a partir del 26 de noviembre, según un aviso de aviación publicado el 28 de octubre. El aviso, publicado por el proveedor noruego de servicios de navegación aérea Avinor, describe una ventana de lanzamiento para la apertura del vuelo el 26 de noviembre de 2026 […] The post Isar Aerospace podría lanzar el tercer cohete Spectrum ya el 26 de noviembre apareció por primera vez",
+  "tg": 314
+ },
+ {
+  "id": "270106a671",
+  "t": "2026-11-10T05:00:00+00:00",
+  "visto": "2026-11-10T13:03:50.972874+00:00",
+  "titulo": "Autumn Mornings Bring Valley Fog",
+  "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/"
+   }
+  ],
+  "desc": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Las mañanas de otoño traen niebla al valle",
+  "resumen_es": "Las nubes bajas trazan los valles ramificados de la meseta de los Apalaches y el río Cumberland, y luego desaparecen por la tarde.",
+  "tg": 313
+ },
+ {
+  "id": "d549fc076d",
+  "t": "2026-11-10T04:54:58+00:00",
+  "visto": "2026-11-10T13:03:50.962731+00:00",
+  "titulo": "NASA Shares Moon Base Progress, Contract Awards",
+  "url": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/",
+  "fuente": "SpacePolicyOnline",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "SpacePolicyOnline",
+    "u": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards/"
+   }
+  ],
+  "desc": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "La NASA comparte el progreso de la base lunar y la adjudicación de contratos",
+  "resumen_es": "La NASA proporcionó otra actualización sobre el proyecto de la Base Lunar este fin de semana junto con la exhibición aérea MAX POWER en el Centro Espacial Kennedy. Se otorgaron o pronto se otorgarán miles de millones de dólares […]",
+  "tg": 312
+ },
+ {
   "id": "34a022dfa1",
   "t": "2026-11-10T01:51:57+00:00",
   "visto": "2026-11-10T04:40:36.894149+00:00",
@@ -740,6 +890,10 @@
    {
     "n": "NASA",
     "u": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
+   },
+   {
+    "n": "SpaceNews",
+    "u": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
    }
   ],
   "desc": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]",
@@ -747,7 +901,7 @@
   "cat": "marte",
   "cat_txt": "🔴 Planetas",
   "estado": "nuevo",
-  "imp": 5,
+  "imp": 6,
   "silencio": false,
   "titulo_es": "ESCAPADE de la NASA completa sobrevuelos propulsados ​​por la Tierra, ahora en ruta a Marte",
   "resumen_es": "Las dos naves espaciales ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) de la NASA han completado con éxito un sobrevuelo propulsado por la Tierra, utilizando la gravedad de la Tierra en combinación con un encendido sostenido del motor para lanzarse hacia Marte. Una vez completadas estas maniobras exitosas, las naves espaciales gemelas están en camino de llegar al Planeta Rojo en septiembre de 2027. “Esto es […]",
