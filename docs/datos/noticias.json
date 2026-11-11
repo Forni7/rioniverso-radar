@@ -1,5 +1,105 @@
 [
  {
+  "id": "d96128d643",
+  "t": "2026-11-11T07:00:36+00:00",
+  "visto": "2026-11-11T07:17:32.233867+00:00",
+  "titulo": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
+  "url": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/",
+  "fuente": "European Spaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "European Spaceflight",
+    "u": "https://europeanspaceflight.com/fire-damage-delays-installation-of-simulated-lunar-greenhouse-in-germany/"
+   }
+  ],
+  "desc": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon. According to a response to a parliamentary inquiry published by the German Bundestag on 20 October, a fire occurred while the EDEN-LUNA greenhouse container was being refurbished. The incident has pushed back […] The post Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany appeared first on European Spaceflight .",
+  "img": "",
+  "cat": "luna",
+  "cat_txt": "🌙 Luna / Artemis",
+  "estado": "nuevo",
+  "imp": 4,
+  "silencio": false,
+  "titulo_es": "Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany",
+  "resumen_es": "A fire at an external contractor’s facility has delayed the installation of a containerised greenhouse designed to simulate growing crops on the Moon. According to a response to a parliamentary inquiry published by the German Bundestag on 20 October, a fire occurred while the EDEN-LUNA greenhouse container was being refurbished. The incident has pushed back […] The post Fire Damage Delays Installation of Simulated Lunar Greenhouse in Germany appe",
+  "tg": 358
+ },
+ {
+  "id": "1697e0e785",
+  "t": "2026-11-11T05:01:00+00:00",
+  "visto": "2026-11-11T07:17:32.230541+00:00",
+  "titulo": "Water Surges Into Navajo Reservoir",
+  "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+  "fuente": "NASA",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA",
+    "u": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/"
+   }
+  ],
+  "desc": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 7,
+  "silencio": false,
+  "titulo_es": "Water Surges Into Navajo Reservoir",
+  "resumen_es": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+  "tg": 357
+ },
+ {
+  "id": "993fa8d248",
+  "t": "2026-11-11T04:02:42+00:00",
+  "visto": "2026-11-11T07:17:32.228352+00:00",
+  "titulo": "Isaacman lays out SLS path to the 2030s",
+  "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+  "fuente": "NASASpaceflight",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "NASASpaceflight",
+    "u": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/"
+   }
+  ],
+  "desc": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+  "img": "",
+  "cat": "empresas",
+  "cat_txt": "🏢 Cohetes y empresas",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Isaacman lays out SLS path to the 2030s",
+  "resumen_es": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+  "tg": 356
+ },
+ {
+  "id": "ed741cb181",
+  "t": "2026-11-11T00:50:02+00:00",
+  "visto": "2026-11-11T07:17:32.222936+00:00",
+  "titulo": "Earliest known compact quasar pair poses a black hole growth puzzle",
+  "url": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html"
+   }
+  ],
+  "desc": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-n.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Earliest known compact quasar pair poses a black hole growth puzzle",
+  "resumen_es": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has been given the Hawaiian nickname Nāpōwawāʻenakaulua.",
+  "tg": 355
+ },
+ {
   "id": "3624595468",
   "t": "2026-11-11T00:40:01+00:00",
   "visto": "2026-11-11T00:49:04.554801+00:00",
