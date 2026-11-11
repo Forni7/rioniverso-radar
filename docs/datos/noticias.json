@@ -1,5 +1,255 @@
 [
  {
+  "id": "3624595468",
+  "t": "2026-11-11T00:40:01+00:00",
+  "visto": "2026-11-11T00:49:04.554801+00:00",
+  "titulo": "How ripples in space-time can reveal new exoplanets",
+  "url": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html"
+   }
+  ],
+  "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets—worlds beyond our solar system—throughout our galaxy.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-scientists-show-h.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Cómo las ondas en el espacio-tiempo pueden revelar nuevos exoplanetas",
+  "resumen_es": "El observatorio LISA (Antena Espacial de Interferómetro Láser), actualmente en desarrollo, detectará ondas gravitacionales, las pequeñas ondulaciones en el espacio-tiempo causadas por masas en órbita. Ahora, dos estudios dirigidos por astrofísicos de la NASA muestran con nuevo detalle cómo LISA podría revelar una población nueva y única de exoplanetas (mundos más allá de nuestro sistema solar) en toda nuestra galaxia.",
+  "tg": 354
+ },
+ {
+  "id": "9fc575ac48",
+  "t": "2026-11-10T23:04:47+00:00",
+  "visto": "2026-11-11T00:49:04.553075+00:00",
+  "titulo": "Episode 186: Supercomputing",
+  "url": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/episode-186-supercomputing/",
+  "fuente": "NASA Ciencia",
+  "oficial": true,
+  "fuentes": [
+   {
+    "n": "NASA Ciencia",
+    "u": "https://www.nasa.gov/podcasts/small-steps-giant-leaps/episode-186-supercomputing/"
+   }
+  ],
+  "desc": "Dr. Marian Nemec, chief of the Computational Physics Branch at NASA Ames Research Center in Silicon Valley, California, takes us inside the world of NASA Advanced Supercomputing. The post Episode 186: Supercomputing appeared first on NASA Science .",
+  "img": "",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "Episodio 186: Supercomputación",
+  "resumen_es": "La Dra. Marian Nemec, jefa de la División de Física Computacional del Centro de Investigación Ames de la NASA en Silicon Valley, California, nos lleva al mundo de la Supercomputación Avanzada de la NASA. La publicación Episodio 186: Supercomputación apareció por primera vez en NASA Science.",
+  "tg": 353
+ },
+ {
+  "id": "eae5970b07",
+  "t": "2026-11-10T23:02:39+00:00",
+  "visto": "2026-11-11T00:49:04.551468+00:00",
+  "titulo": "The US military seems to be getting nervous about the launch supply crunch",
+  "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+  "fuente": "Ars Technica",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Ars Technica",
+    "u": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
+   }
+  ],
+  "desc": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+  "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+  "cat": "defensa",
+  "cat_txt": "🛰️ Defensa",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "El ejército estadounidense parece estar nervioso por la escasez de suministros para el lanzamiento.",
+  "resumen_es": "\"El lanzamiento es extremadamente limitado y esa es exactamente la situación que predijimos\".",
+  "tg": 352
+ },
+ {
+  "id": "ff04821a81",
+  "t": "2026-11-10T22:20:01+00:00",
+  "visto": "2026-11-11T00:49:04.549685+00:00",
+  "titulo": "Germany's Isar Aerospace eyes overtaking Elon Musk's SpaceX",
+  "url": "https://phys.org/news/2026-11-germany-isar-aerospace-eyes-elon.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-germany-isar-aerospace-eyes-elon.html"
+   }
+  ],
+  "desc": "The head of Germany's Isar Aerospace voiced hope Tuesday that the company could one day overtake Elon Musk's SpaceX to become the world's premier space launch company.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/isar-launched-a-rocket.jpg",
+  "cat": "starship",
+  "cat_txt": "🚀 SpaceX",
+  "estado": "nuevo",
+  "imp": 2,
+  "silencio": false,
+  "titulo_es": "Isar Aerospace de Alemania apunta a superar a SpaceX de Elon Musk",
+  "resumen_es": "El director de Isar Aerospace de Alemania expresó el martes su esperanza de que algún día la compañía pueda superar a SpaceX de Elon Musk y convertirse en la principal compañía de lanzamiento espacial del mundo.",
+  "tg": 351
+ },
+ {
+  "id": "1d104ee46a",
+  "t": "2026-11-10T22:00:13+00:00",
+  "visto": "2026-11-11T00:49:04.547748+00:00",
+  "titulo": "How the cosmic environment depletes galaxies of their gas",
+  "url": "https://phys.org/news/2026-11-cosmic-environment-depletes-galaxies-gas.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-cosmic-environment-depletes-galaxies-gas.html"
+   }
+  ],
+  "desc": "An international team of researchers, led by Jonathan Freundlich (University of Strasbourg, Astronomical Observatory), has revealed how a dense cosmic environment depletes galaxies of their gas. By mapping the molecular gas in a galaxy group located 7 billion light-years away, they found that the galaxies in this group harbor, on average, gas reservoirs reduced by more than half compared to similar isolated galaxies. The results of this study are published in the journal Astronomy & Astrophysics.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-cosmic-environmen.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Cómo el entorno cósmico agota el gas de las galaxias",
+  "resumen_es": "Un equipo internacional de investigadores, dirigido por Jonathan Freundlich (Universidad de Estrasburgo, Observatorio Astronómico), ha revelado cómo un entorno cósmico denso agota el gas de las galaxias. Al mapear el gas molecular en un grupo de galaxias ubicado a 7 mil millones de años luz de distancia, descubrieron que las galaxias de este grupo albergan, en promedio, reservas de gas reducidas a más de la mitad en comparación con galaxias aisladas similares. Los resultados de este estudio son",
+  "tg": 350
+ },
+ {
+  "id": "f3636ff34d",
+  "t": "2026-11-10T22:00:00+00:00",
+  "visto": "2026-11-11T00:49:04.545921+00:00",
+  "titulo": "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-fi audio drama 'Exoplanet' (interview)",
+  "url": "https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview"
+   }
+  ],
+  "desc": "We hooked up with Mackie, DeBose, and Lequizamo to learn more about this renaissance of audio dramas and what attracted them to board Weir's sci-fi thriller.",
+  "img": "https://cdn.mos.cms.futurecdn.net/sdfwHTyp8kEtF2mCuj9p7f-1920-80.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "Anthony Mackie, Ariana DeBose y John Leguizamo revelan por qué se unieron al drama de audio de ciencia ficción de Andy Weir 'Exoplanet' (entrevista)",
+  "resumen_es": "Nos reunimos con Mackie, DeBose y Lequizamo para aprender más sobre este renacimiento de los dramas de audio y qué los atrajo a abordar el thriller de ciencia ficción de Weir.",
+  "tg": 349
+ },
+ {
+  "id": "4fbe1133ae",
+  "t": "2026-11-10T21:51:24+00:00",
+  "visto": "2026-11-11T00:49:04.543860+00:00",
+  "titulo": "On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field",
+  "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026"
+   }
+  ],
+  "desc": "On Nov. 10, 2013, Europe's GOCE satellite fell to Earth after four years in orbit mapping the planet's gravitational field. Here's why it mattered.",
+  "img": "https://cdn.mos.cms.futurecdn.net/hSWBbrEYK4cRmj24GUcBH9-1920-80.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 1,
+  "silencio": false,
+  "titulo_es": "¡En este día en el espacio! 10 de noviembre de 2013: El satélite europeo GOCE, el 'Ferrari del espacio', se sale de órbita después de mapear el campo gravitatorio de la Tierra.",
+  "resumen_es": "El 10 de noviembre de 2013, el satélite europeo GOCE cayó a la Tierra después de cuatro años en órbita mapeando el campo gravitacional del planeta. He aquí por qué importaba.",
+  "tg": 348
+ },
+ {
+  "id": "9694e98f65",
+  "t": "2026-11-10T21:20:01+00:00",
+  "visto": "2026-11-11T00:49:04.541339+00:00",
+  "titulo": "Earth's 'core carbon' may have come from the far reaches of the solar system",
+  "url": "https://phys.org/news/2026-11-earth-core-carbon-solar.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-earth-core-carbon-solar.html"
+   }
+  ],
+  "desc": "A new study suggests that most of Earth's carbon originated in the outer solar system and didn't arrive here until the late stages of planetary development. The study, led by researchers at Yale and Columbia, is based upon an analysis of magma droplets called \"melt inclusions\" from historic volcano eruptions in Hawaii, including the Keanakākoʻi eruptions from 1500 to 1840 and the Kīlauea Iki eruption in 1959.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/earths-core-carbon-may.jpg",
+  "cat": "general",
+  "cat_txt": "🌌 Espacio",
+  "estado": "nuevo",
+  "imp": 5,
+  "silencio": false,
+  "titulo_es": "El 'núcleo de carbono' de la Tierra puede haber venido de los confines del sistema solar",
+  "resumen_es": "Un nuevo estudio sugiere que la mayor parte del carbono de la Tierra se originó en el sistema solar exterior y no llegó aquí hasta las últimas etapas del desarrollo planetario. El estudio, dirigido por investigadores de Yale y Columbia, se basa en un análisis de gotas de magma llamadas \"inclusiones derretidas\" de erupciones volcánicas históricas en Hawái, incluidas las erupciones de Keanakākoʻi de 1500 a 1840 y la erupción de Kīlauea Iki en 1959.",
+  "tg": 347
+ },
+ {
+  "id": "0f9e862608",
+  "t": "2026-11-10T21:00:00+00:00",
+  "visto": "2026-11-11T00:49:04.537914+00:00",
+  "titulo": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
+  "url": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
+  "fuente": "Space.com",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Space.com",
+    "u": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why"
+   }
+  ],
+  "desc": "Astronomers have solved the mystery of an exoplanet that \"disappeared\" after seven years of observations.",
+  "img": "https://cdn.mos.cms.futurecdn.net/N9wVvBzaETFicjigyT6ckR-1920-80.png",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Un exoplaneta distante desapareció misteriosamente de la vista. Los astrónomos acaban de descubrir por qué",
+  "resumen_es": "Los astrónomos han resuelto el misterio de un exoplaneta que \"desapareció\" tras siete años de observaciones.",
+  "tg": 346
+ },
+ {
+  "id": "70c56a2a0a",
+  "t": "2026-11-10T20:40:05+00:00",
+  "visto": "2026-11-11T00:49:04.534928+00:00",
+  "titulo": "Webb's controversial 'little red dots' may finally have an explanation",
+  "url": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
+  "fuente": "Phys.org",
+  "oficial": false,
+  "fuentes": [
+   {
+    "n": "Phys.org",
+    "u": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html"
+   }
+  ],
+  "desc": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dots\" (LRDs) are likely the birthplaces of the first supermassive black holes.",
+  "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/little-red-dots-image.jpg",
+  "cat": "ciencia",
+  "cat_txt": "🔭 Ciencia",
+  "estado": "nuevo",
+  "imp": 3,
+  "silencio": false,
+  "titulo_es": "Los controvertidos 'pequeños puntos rojos' de Webb pueden finalmente tener una explicación",
+  "resumen_es": "Es posible que los astrónomos hayan resuelto uno de los mayores misterios descubiertos por el Telescopio Espacial James Webb (JWST) de la NASA, utilizando simulaciones sofisticadas para mostrar que objetos enigmáticos conocidos como \"pequeños puntos rojos\" (LRD) son probablemente los lugares de nacimiento de los primeros agujeros negros supermasivos.",
+  "tg": 345
+ },
+ {
   "id": "f4bb2f3254",
   "t": "2026-11-10T20:10:01+00:00",
   "visto": "2026-11-10T20:26:52.715911+00:00",
