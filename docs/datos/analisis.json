@@ -1176,5 +1176,117 @@
     "caducidad": "🟢 no caduca",
     "avisos": "No decir que la NASA ha confirmado rubíes: solo corindón con cromo, variedad sin determinar. El tamaño de 0,2 mm viene de LiveScience; no verificado en el paper. La causa por impactos es solo una hipótesis.",
     "analizado": "2026-11-11T08:00:00Z"
+  },
+  "d544226bf8": {
+    "titular": "Una estrella gigante tiene un acompañante oculto que le arranca materia",
+    "resumen": "El telescopio de rayos X Chandra de la NASA ha descubierto qué provoca los estallidos repetidos de AT 2016blu, una estrella gigante e inestable a unos 29 millones de años luz. Algo invisible, un agujero negro o una estrella de neutrones, orbita junto a ella y le arranca material cada 113 días. Chandra la cazó en pleno estallido en marzo de 2026. El estudio se ha publicado en The Astrophysical Journal.",
+    "por_que": "Es como oír un golpe cada 113 días y descubrir por fin que hay un ladrón invisible que se lleva trozos de la estrella. Un misterio resuelto sin ver nunca al culpable.",
+    "datos_clave": [
+      "Estrella a unos 29 millones de años luz, con al menos 33 veces la masa del Sol (estudio en ApJ, vía NASA/Chandra)",
+      "Al menos 27 estallidos de luz entre 2012 y 2026, uno cada 113 días (cobertura del estudio)",
+      "En marzo de 2026 brillaba al menos 100 veces más en rayos X que en 2001-2002 (Chandra)",
+      "El compañero es un agujero negro o una estrella de neutrones: aún no se sabe cuál"
+    ],
+    "verificacion": "confirmado",
+    "fuentes": [
+      {
+        "n": "NASA Chandra",
+        "u": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/"
+      },
+      {
+        "n": "Universe Today",
+        "u": "https://www.universetoday.com/articles/astronomers-unmask-a-supernova-impostor"
+      },
+      {
+        "n": "Newswise",
+        "u": "https://newswise.com/articles/nasa-s-chandra-finds-source-of-star-s-mysterious-outbursts"
+      }
+    ],
+    "potencial": 7,
+    "tono": "explicación",
+    "fotograma1": "Una estrella azul enorme que estalla mientras una sombra negra pasa rozándola",
+    "gancho": "Esta estrella explota cada 113 días y por fin sabemos quién se lo hace.",
+    "guion": "Hay una estrella gigante a unos veintinueve millones de años luz que estalla una y otra vez. Cada ciento trece días, como un reloj. Durante años nadie supo por qué. Ahora el telescopio Chandra de la NASA ha encontrado al sospechoso: un acompañante que no se ve. Puede ser un agujero negro o una estrella de neutrones. Orbita pegado a la estrella y, cada vez que pasa cerca, le arranca materia, como quien da un tirón a una manta. Chandra la pilló en pleno estallido, en marzo de 2026, y en rayos X brillaba al menos cien veces más que antes. Y lo mejor: aún no sabemos cuál de los dos es el culpable.",
+    "cierre": "¿Tú qué apuestas, agujero negro o estrella de neutrones?",
+    "grafismos": "1) Estrella azul enorme con pulsos de luz marcados en un calendario de 113 días. 2) Sombra oscura que orbita en elipse y se acerca a la estrella. 3) Hilo de materia que sale de la estrella hacia la sombra. 4) Dos cartas tapadas: agujero negro / estrella de neutrones. 5) Contador de rayos X que se multiplica por 100.",
+    "caducidad": "🟢 no caduca",
+    "avisos": "No decir que es un agujero negro: el estudio no distingue entre agujero negro y estrella de neutrones. La cifra de 27 estallidos y los 29 millones de años luz proceden de la cobertura secundaria del estudio.",
+    "analizado": "2026-11-14T07:45:50Z"
+  },
+  "4bcbf6775f": {
+    "titular": "Un planeta gigante 'desaparece' ante nuestros ojos y por fin sabemos por qué",
+    "resumen": "Astrónomos de la UCLA han descrito el primer caso conocido de un planeta que ha dejado de pasar por delante de su estrella: TOI-2535 b, un Júpiter caliente a unos 1.000 años luz que tarda 8,25 días en dar una vuelta. El satélite TESS lo vio cruzar el centro de su estrella en 2019, pero su trayectoria se fue desplazando hacia el borde hasta que los tránsitos cesaron. Los autores lo explican con un vecino aún no visto que tira de su órbita y la inclina. El estudio está en The Astrophysical Journal Letters.",
+    "por_que": "Parece que un planeta se ha esfumado, pero lo que ha pasado es que ha cambiado de ángulo por culpa de un vecino invisible. Un misterio de detectives a 1.000 años luz.",
+    "datos_clave": [
+      "Unos 1.000 años luz de distancia; órbita de 8,25 días frente a los 88 de Mercurio (UCLA)",
+      "TESS lo vio cruzar casi el centro de su estrella en 2019 y después se fue al borde (UCLA)",
+      "El vecino supuesto tendría una órbita inclinada al menos 5 grados (UCLA / Sci.News)",
+      "Volvería a transitar dentro de entre 30 y 50 años (UCLA / Sci.News)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "UCLA Newsroom",
+        "u": "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top"
+      },
+      {
+        "n": "Sci.News",
+        "u": "https://www.sci.news/astronomy/vanishing-transits-toi-2535b-15188.html"
+      },
+      {
+        "n": "Universe Today",
+        "u": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough"
+      }
+    ],
+    "potencial": 6,
+    "tono": "asombro",
+    "fotograma1": "Un planeta gigante que cruza una estrella y, cuadro a cuadro, se va quedando fuera del disco",
+    "gancho": "Este planeta ha desaparecido y los astrónomos creen saber quién tiene la culpa.",
+    "guion": "Un planeta del tamaño de Júpiter se ha esfumado. Bueno, no del todo. Se llama TOI-2535 b y está a unos mil años luz. Da una vuelta a su estrella en solo ocho días y cuarto; Mercurio tarda ochenta y ocho. En dos mil diecinueve pasaba justo por delante del centro de su estrella y el satélite TESS lo veía cada vez. Con los años, su camino se fue desplazando hacia el borde, hasta que dejó de taparla. ¿La explicación? Un vecino que no vemos tira de él y le inclina la órbita, como una peonza que se tambalea. Volverá a pasar dentro de treinta o cincuenta años.",
+    "cierre": "Si un planeta se esconde de nosotros, ¿cuántos más habrá que ni siquiera hemos visto?",
+    "grafismos": "1) Estrella con un planeta que cruza por el centro, repetido en tres tránsitos que se desplazan al borde. 2) Cuenta de días: 8,25 frente a 88 de Mercurio. 3) Peonza que se tambalea sobre una órbita. 4) Silueta de planeta oculto tirando de la órbita. 5) Cuenta atrás de 30-50 años.",
+    "caducidad": "🟢 no caduca",
+    "avisos": "El vecino NO está observado: es la explicación propuesta por los autores. No decir que el planeta ha 'desaparecido de verdad'.",
+    "analizado": "2026-11-14T07:45:50Z"
+  },
+  "0f9e862608": {
+    "duplicado_de": "4bcbf6775f",
+    "analizado": "2026-11-14T07:45:50Z"
+  },
+  "b675a9da97": {
+    "titular": "Dos agujeros negros gigantes ya se devoraban 900 millones de años tras el Big Bang",
+    "resumen": "Un equipo ha descubierto, en datos del telescopio James Webb dentro del programa Aether, un par de cuásares cuya luz salió cuando el universo tenía unos 900 millones de años. Los dos agujeros negros activos están separados por unos 18.100 años luz, una quinta parte del diámetro de la Vía Láctea. Los investigadores dicen que no hay una explicación teórica clara de cómo crecieron tanto tan pronto. El resultado, publicado en The Astrophysical Journal Letters, aún no está del todo cerrado.",
+    "por_que": "Es como encontrar a dos gigantes ya adultos en la guardería del universo: las cuentas de cuánto tarda un agujero negro en crecer no cuadran.",
+    "datos_clave": [
+      "Luz emitida unos 900 millones de años tras el Big Bang (NOIRLab, vía Sci.News)",
+      "Separación de unos 18.100 años luz entre los dos agujeros negros (Sci.News)",
+      "Encontrado en el programa Aether del telescopio Webb (Sci.News)",
+      "Imágenes de archivo de Hubble muestran una posible galaxia en primer plano cerca del cuásar débil, así que no es definitivo (Sci.News)"
+    ],
+    "verificacion": "anunciado",
+    "fuentes": [
+      {
+        "n": "NOIRLab",
+        "u": "http://noirlab.edu/public/news/noirlab2627/"
+      },
+      {
+        "n": "Sci.News",
+        "u": "https://sci.news/astronomy/record-breaking-quasar-pair-early-universe-15191.html"
+      },
+      {
+        "n": "Universe Magazine",
+        "u": "https://universemagazine.com/en/two-black-holes-turn-out-to-be-unexpectedly-massive-for-the-early-universe/"
+      }
+    ],
+    "potencial": 6,
+    "tono": "asombro",
+    "fotograma1": "Dos puntos de luz brillantes girando uno junto al otro sobre un fondo de universo recién nacido",
+    "gancho": "Dos agujeros negros enormes que, según las cuentas, no deberían existir todavía.",
+    "guion": "Mira esto: dos agujeros negros gigantes, devorando materia a la vez, cuando el universo tenía solo novecientos millones de años. Parece mucho, pero es poquísimo: si el universo fuera una persona de cuarenta y cinco años, tendría menos de tres. Están separados por unos dieciocho mil años luz, una quinta parte de nuestra galaxia. Los astrónomos dicen que no hay una teoría clara de cómo crecieron tan deprisa. Eso sí, hay cautela: podría haber una galaxia en primer plano que engañe. Si se confirma, hay que repensar cómo nacieron los primeros agujeros negros.",
+    "cierre": "¿Crees que nuestras teorías sobre el universo temprano están incompletas?",
+    "grafismos": "1) Línea del tiempo del universo con una marca en 900 millones de años. 2) Dos agujeros negros orbitando con discos brillantes. 3) Comparación con la Vía Láctea: 18.100 años luz = una quinta parte. 4) Persona de 45 años con una marca de 3 años. 5) Signo de interrogación sobre una galaxia en primer plano.",
+    "caducidad": "🟢 no caduca",
+    "avisos": "No decir que está 100% confirmado que sean dos cuásares: hay una posible galaxia en primer plano. No dar masas exactas: solo las cita una fuente secundaria. La comparación de la edad (45 años) es una analogía propia: 900 millones sobre unos 13.800 millones es de verdad menos del 7 %.",
+    "analizado": "2026-11-14T07:45:50Z"
   }
 }
